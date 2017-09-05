@@ -9707,6 +9707,22 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Terminology</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20170905T161319Z" creationid="Kos Ivantsov" creationdate="20170905T161319Z">
+        <seg>Тэрміналогія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terminology Issues</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20170905T161358Z" creationid="Kos Ivantsov" creationdate="20170905T161358Z">
+        <seg>Памылкі тэрміналогіі</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Terms with multiple targets</seg>
