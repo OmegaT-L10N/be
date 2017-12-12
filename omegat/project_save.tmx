@@ -12628,6 +12628,14 @@ project_save.tmx на самой справе ня быў запампаваны
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>English version translators</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20171212T123833Z" creationid="GABIN" creationdate="20171212T123833Z">
+        <seg>Перакладчыкі ангельскай вэрсіі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>English: the same check as above, but concerning consonants ("a", not "an")</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160712T142351Z" creationid="gabi" creationdate="20160615T175429Z">
@@ -30308,6 +30316,22 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="BE">
         <seg>Фільтрам Mozilla DTD выкінутае выключэньне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT project</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20171212T123847Z" creationid="GABIN" creationdate="20171212T123847Z">
+        <seg>Праект OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT project is maintained by an informal, international group of volunteers.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20171212T123920Z" creationid="GABIN" creationdate="20171212T123920Z">
+        <seg>Праект OmegaT падтрымліваецца нефармальнай міжнароднай групай валянтэраў.</seg>
       </tuv>
     </tu>
     <tu>
