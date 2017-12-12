@@ -2223,6 +2223,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;b0&gt;&lt;Ctr+N&gt;&lt;/b0&gt;, &lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20171212T122926Z" creationid="GABIN" creationdate="20171212T122926Z">
+        <seg>&lt;b0&gt;&lt;Ctr + N&gt;&lt;/b0&gt;, &lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;b0&gt;Formatting &lt;b1&gt;one&lt;/b0&gt; &lt;/b1&gt;is very messed up now.&lt;segment 0001&gt;</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160425T141536Z" creationid="GABIN" creationdate="20160330T123137Z">
@@ -8414,6 +8422,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140725T095846Z" creationid="GABIN" creationdate="20140725T095846Z">
         <seg>Брэтонская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Briac Pilpré</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20171212T123431Z" creationid="GABIN" creationdate="20171212T123431Z">
+        <seg>Брыяк Пільпрэ</seg>
       </tuv>
     </tu>
     <tu>
@@ -28363,6 +28379,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sorry</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20171212T123219Z" creationid="GABIN" creationdate="20171212T123219Z">
+        <seg>Выбачайце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort &amp;alphabetically</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20170206T083249Z" creationid="GABIN" creationdate="20170206T083249Z">
@@ -35983,6 +36007,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User Group&lt;/u3&gt;.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20171212T122827Z" creationid="GABIN" creationdate="20171212T122827Z">
+        <seg>на Yahoo!&lt;/u3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User Manual...</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140307T101516Z" creationid="GABIN" creationdate="20140307T101516Z">
@@ -36049,8 +36081,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>User support is provided on a volunteer basis at the &lt;u3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt; Yahoo!</seg>
       </tuv>
-      <tuv lang="BE" changeid="GABIN" changedate="20171212T122256Z" creationid="GABIN" creationdate="20171212T122256Z">
-        <seg>Падтрымка карыстальнікаў ажыцьцяўляецца сіламі добраахвотнікаў у &lt;u3&gt;групе карыстальнікаў&lt;a4&gt; OmegaT&lt;/a4&gt; на Yahoo!</seg>
+      <tuv lang="BE" changeid="GABIN" changedate="20171212T122822Z" creationid="GABIN" creationdate="20171212T122256Z">
+        <seg>Падтрымка карыстальнікаў ажыцьцяўляецца сіламі добраахвотнікаў у &lt;u3&gt;групе карыстальнікаў&lt;a4&gt; OmegaT&lt;/a4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36517,6 +36549,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We could not find the page you are looking for.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20171212T123232Z" creationid="GABIN" creationdate="20171212T123232Z">
+        <seg>Не атрымалася знайсьці старонку, якую вы шукаеце.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We recommend using OmegaT packages that include the JRE, to save you the
 trouble of selecting, obtaining and installing it.</seg>
       </tuv>
@@ -36531,6 +36571,22 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20170503T135111Z" creationid="GABIN" creationdate="20170503T135111Z">
         <seg>Субтытры WebVTT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website content authors</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20171212T123417Z" creationid="GABIN" creationdate="20171212T123417Z">
+        <seg>Аўтары зьмесьціва сайта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website design</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20171212T123424Z" creationid="GABIN" creationdate="20171212T123424Z">
+        <seg>Дызайн сайта</seg>
       </tuv>
     </tu>
     <tu>
@@ -37727,6 +37783,14 @@ from there.</seg>
       <tuv lang="BE" changeid="GABIN" changedate="20170831T142824Z" creationid="GABIN" creationdate="20170831T142824Z">
         <seg>Тэкст ліцэнзіі знаходзіцца ў файле
 /docs/OmegaT-license.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20171212T123345Z" creationid="GABIN" creationdate="20171212T123345Z">
+        <seg>Перайдзеце да &lt;a0&gt;пачатковай старонкі&lt;/a0&gt;, і магчыма зможаце знайсьці патрэбную інфармацыю адтуль.</seg>
       </tuv>
     </tu>
     <tu>
