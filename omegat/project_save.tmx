@@ -8026,6 +8026,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All DOCX files in the project</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T085206Z" creationid="GABIN" creationdate="20180606T085206Z">
+        <seg>Усе файлы DOCX у праекце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All HTML files will be translated - note that the period in the usual *.html has to be escaped (\.) as specified by the rules for regular expressions</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160421T140827Z" creationid="GABIN" creationdate="20160421T140827Z">
@@ -9383,6 +9391,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backup</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T085138Z" creationid="GABIN" creationdate="20180606T085138Z">
+        <seg>Рэзэрвовая копія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Backups of this file (with extension bak) are added progressively to this subfolder, first at the beginning of the translation session, at its end, and while the translation progresses.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160310T143930Z" creationid="GABIN" creationdate="20160310T143930Z">
@@ -9467,6 +9483,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20160615T130715Z" creationid="gabi" creationdate="20160615T130715Z">
         <seg>Памятайце, што зьмяненьне моваў можа паўплываць на вынікі ўжываньня файлаў памяці перакладаў, бо новая моўная пара можа не адпавядаць мовам памяці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beautify</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T085119Z" creationid="GABIN" creationdate="20180606T085119Z">
+        <seg>Палепшыць выгляд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beautify resulting DOCX</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T085155Z" creationid="GABIN" creationdate="20180606T085155Z">
+        <seg>Паляпшэнне выгляду выніковага файла DOCX</seg>
       </tuv>
     </tu>
     <tu>
@@ -10681,6 +10713,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cleaning entry '{0}'...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T085027Z" creationid="GABIN" creationdate="20180606T085027Z">
+        <seg>Ачышчаецца элемэнт '{0}'…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cleanup done!!</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20141029T141936Z" creationid="GABIN" creationdate="20141029T141936Z">
@@ -11541,10 +11581,34 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convert</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T085125Z" creationid="GABIN" creationdate="20180606T085125Z">
+        <seg>Пераўтварыць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160707T145106Z" creationid="GABIN" creationdate="20160707T145106Z">
         <seg>Пераўтварыць стары камандны праект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converting all .DOCX in the project...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T084915Z" creationid="GABIN" creationdate="20180606T084915Z">
+        <seg>Пераўтварэньне ўсіх файлаў .DOCX у праекце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converting current .DOCX...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T084930Z" creationid="GABIN" creationdate="20180606T084930Z">
+        <seg>Пераўтварэньне бягучага файла .DOCX у праекце…</seg>
       </tuv>
     </tu>
     <tu>
@@ -11929,6 +11993,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create backup files of original DOCX</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T085237Z" creationid="GABIN" creationdate="20180606T085237Z">
+        <seg>Ствараць рэзервовыя копіі зыходных файлаў DOCX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20130425T130425Z">
@@ -12045,6 +12117,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160623T140015Z" creationid="GABIN" creationdate="20160623T140015Z">
         <seg>Стварэньне памяці перакладаў для выбраных дакумэнтаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating output file '{0}'</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T085014Z" creationid="GABIN" creationdate="20180606T085014Z">
+        <seg>Ствараецца выніковы файл '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -12437,6 +12517,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160729T133606Z" creationid="GABIN" creationdate="20160729T133606Z">
         <seg>Ctrl + ↓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current DOCX file</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T085216Z" creationid="GABIN" creationdate="20180606T085216Z">
+        <seg>Бягучы файл DOCX</seg>
       </tuv>
     </tu>
     <tu>
@@ -21849,10 +21937,98 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Level</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T085110Z" creationid="GABIN" creationdate="20180606T085110Z">
+        <seg>Узровень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 0:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T085243Z" creationid="GABIN" creationdate="20180606T085243Z">
+        <seg>Узровень 0:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 1:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T085246Z" creationid="GABIN" creationdate="20180606T085246Z">
+        <seg>Узровень 1:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160623T131350Z" creationid="GABIN" creationdate="20160623T131350Z">
         <seg>Файлы TMX узроўню 2 імпартуюцца, а іхняе тэкставае зьмесьціва можна ўбачыць у OmegaT, але якасьць падбору недакладных супадзеньняў будзе некалькі ніжэйшай.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 2:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T085250Z" creationid="GABIN" creationdate="20180606T085250Z">
+        <seg>Узровень 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 3:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T085253Z" creationid="GABIN" creationdate="20180606T085253Z">
+        <seg>Узровень 3:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 4:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T085256Z" creationid="GABIN" creationdate="20180606T085256Z">
+        <seg>Узровень 4:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 5:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T085259Z" creationid="GABIN" creationdate="20180606T085259Z">
+        <seg>Узровень 5:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 6:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T085302Z" creationid="GABIN" creationdate="20180606T085302Z">
+        <seg>Узровень 6:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 7:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T085304Z" creationid="GABIN" creationdate="20180606T085304Z">
+        <seg>Узровень 7:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 8:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T085307Z" creationid="GABIN" creationdate="20180606T085307Z">
+        <seg>Узровень 8:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 9:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T085310Z" creationid="GABIN" creationdate="20180606T085310Z">
+        <seg>Узровень 9:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23573,6 +23749,22 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moving cleaned '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T085103Z" creationid="GABIN" creationdate="20180606T085103Z">
+        <seg>Ачышчаны файл '{0}' перасоўваецца ў '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moving original '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T085042Z" creationid="GABIN" creationdate="20180606T085042Z">
+        <seg>Арыгінал '{0}' перасоўваецца ў '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mozilla DTD</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20131218T085002Z" creationid="GABIN" creationdate="20131218T085002Z">
@@ -23917,6 +24109,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No .DOCX files to clean.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T084941Z" creationid="GABIN" creationdate="20180606T084941Z">
+        <seg>Няма файлаў .DOCX для ачысткі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20161129T074026Z" creationid="GABIN" creationdate="20161018T090241Z">
@@ -23993,6 +24193,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="BE">
         <seg>На сэрвэры няма новых слоўнікаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No project loaded.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T084814Z" creationid="GABIN" creationdate="20180606T084814Z">
+        <seg>Праект не загружаны.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26168,6 +26376,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opening input file '{0}'</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T085003Z" creationid="GABIN" creationdate="20180606T085003Z">
+        <seg>Адкрываецца ўваходны файл '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opening team project</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20180606T083059Z" creationid="GABIN" creationdate="20180606T083059Z">
@@ -27777,6 +27993,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project contains no files.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T084834Z" creationid="GABIN" creationdate="20180606T084824Z">
+        <seg>У праекце няма файлаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project creating end</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20101124T102020Z">
@@ -28769,6 +28993,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove tags from DOCX documents</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T084715Z" creationid="GABIN" creationdate="20180606T084715Z">
+        <seg>Выдаліць тэгі з дакумэнаў DOCX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove tags in the current target</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20150417T134109Z" creationid="GABIN" creationdate="20150417T134109Z">
@@ -29463,6 +29695,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160401T134602Z" creationid="GABIN" creationdate="20160401T134602Z">
         <seg>Запуск &lt;a0&gt;OmegaT&lt;i1/&gt;&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Running Tagwipe for file '{0}'</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T084843Z" creationid="GABIN" creationdate="20180606T084843Z">
+        <seg>Tagwipe працуе над файлам '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -31031,6 +31271,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selected options:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T084849Z" creationid="GABIN" creationdate="20180606T084849Z">
+        <seg>Выбраныя магчымасьці:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selecting one of them will insert it at the current cursor position into the target segment.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160705T122132Z" creationid="GABIN" creationdate="20160705T122132Z">
@@ -31771,6 +32019,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20160622T182915Z" creationid="gabi" creationdate="20160622T182915Z">
         <seg>Часам карысна адрозьніваць якасныя файлы перакладаў і меней надзейныя файлы (напрыклад з-за тэмы, кліента, стану разгляду і да г. п.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sorry</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T084541Z" creationid="GABIN" creationdate="20180606T084541Z">
+        <seg>Перапрашаем</seg>
       </tuv>
     </tu>
     <tu>
@@ -33214,6 +33470,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tagwipe finished, reloading project...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T084954Z" creationid="GABIN" creationdate="20180606T084954Z">
+        <seg>Праца Tagwipe скончаная, перазагружаем праект…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tahitian</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140725T134808Z" creationid="GABIN" creationdate="20140725T134808Z">
@@ -33929,6 +34193,14 @@ Okapi (http://okapi.sourceforge.net) (ліцэнзія LGPL)</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140721T092019Z" creationid="GABIN" creationdate="20140721T092019Z">
         <seg>Фільтрам Mozilla DTD выкінутае выключэньне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT project</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T084514Z" creationid="GABIN" creationdate="20180606T084514Z">
+        <seg>Праект OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -40723,6 +40995,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We could not find the page you are looking for.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T084553Z" creationid="GABIN" creationdate="20180606T084553Z">
+        <seg>Не атрымалася знайсьці патрэбную вам старонку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We recommend using OmegaT packages that include the JRE, to save you the
 trouble of selecting, obtaining and installing it.</seg>
       </tuv>
@@ -40750,6 +41030,22 @@ or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20170503T135111Z" creationid="GABIN" creationdate="20170503T135111Z">
         <seg>Субтытры WebVTT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website content authors</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T085332Z" creationid="GABIN" creationdate="20180606T085332Z">
+        <seg>Аўтары зьмесьціва вэб-старонкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website design</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T085337Z" creationid="GABIN" creationdate="20180606T085337Z">
+        <seg>Дызайн вэб-старонкі</seg>
       </tuv>
     </tu>
     <tu>
@@ -42024,6 +42320,14 @@ from there.</seg>
       <tuv lang="BE" changeid="GABIN" changedate="20170831T142824Z" creationid="GABIN" creationdate="20170831T142824Z">
         <seg>Тэкст ліцэнзіі знаходзіцца ў файле
 /docs/OmegaT-license.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T084636Z" creationid="GABIN" creationdate="20180606T084636Z">
+        <seg>Вы можаце перайсці на &lt;a0&gt;пачатковую старонку&lt;/a0&gt;, адкуль, будзем спадзявацца, зможаце знайсьці патрэбную вам інфармацыю.</seg>
       </tuv>
     </tu>
     <tu>
