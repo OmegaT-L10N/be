@@ -34213,6 +34213,14 @@ Okapi (http://okapi.sourceforge.net) (ліцэнзія LGPL)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The OmegaT project is maintained by an informal, international group of volunteers.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T090132Z" creationid="GABIN" creationdate="20180606T090132Z">
+        <seg>Праект OmegaT падтрымліваецца нефармальный міжнароднай групай самахотнікаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20130425T115312Z">
