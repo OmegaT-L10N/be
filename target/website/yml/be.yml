@@ -3,7 +3,7 @@ global:
   description: OmegaT is a free open-source translation memory application for professional translators written in Java.
 
 menu:
-  languages: Languages
+  languages: Мовы
   about: About
   documentation: Documentation
   contact: Contact
@@ -59,4 +59,3 @@ linux_jre64b: Linux with 64-bit JRE
 nojre: Cross-platform without JRE
 webstart: Web Start
 source: Source code
-
