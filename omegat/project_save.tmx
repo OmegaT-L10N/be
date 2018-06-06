@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_r10406" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10408M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -114,6 +114,16 @@
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160712T142351Z" creationid="GABIN" creationdate="20160621T093750Z">
         <seg>“\s” азначае які заўгодна прабельны сымбаль (прабел, табуляцыя, новая старонка і да г. п.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>#!/bin/bash java
+java -jar OmegaT.jar $*</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184202Z" creationid="Kos Ivantsov" creationdate="20180606T184202Z">
+        <seg>#!/bin/bash java
+java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
@@ -1999,6 +2009,22 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>,</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183450Z" creationid="Kos Ivantsov" creationdate="20180606T183450Z">
+        <seg>,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183658Z" creationid="Kos Ivantsov" creationdate="20180606T183658Z">
+        <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>, one can find:</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140912T094347Z" creationid="GABIN" creationdate="20140912T094347Z">
@@ -2327,6 +2353,22 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--/--</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183407Z" creationid="Kos Ivantsov" creationdate="20180606T183407Z">
+        <seg>--/--</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183409Z" creationid="Kos Ivantsov" creationdate="20180606T183409Z">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--ITokenizer=&lt;classname&gt;
 	--ITokenizerTarget=&lt;classname&gt;
 		Source- or target-language tokenizer to use (overrides project
@@ -2504,6 +2546,14 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183657Z" creationid="Kos Ivantsov" creationdate="20180606T183657Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>... matches the following</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20160615T144631Z" creationid="gabi" creationdate="20160615T144631Z">
@@ -2532,6 +2582,30 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20160615T123858Z" creationid="gabi" creationdate="20160615T123858Z">
         <seg>… сыстэма пакажа нешта падобнае на наступнае:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>/docs/</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184111Z" creationid="Kos Ivantsov" creationdate="20180606T184111Z">
+        <seg>/docs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>/images/</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184112Z" creationid="Kos Ivantsov" creationdate="20180606T184112Z">
+        <seg>/images/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>/lib/</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184113Z" creationid="Kos Ivantsov" creationdate="20180606T184113Z">
+        <seg>/lib/</seg>
       </tuv>
     </tu>
     <tu>
@@ -3112,6 +3186,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183457Z" creationid="Kos Ivantsov" creationdate="20180606T183457Z">
+        <seg>&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140912T093945Z" creationid="GABIN" creationdate="20140912T093945Z">
@@ -3124,6 +3206,14 @@ OmegaT запускаецца наступным чынам.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140912T093757Z" creationid="GABIN" creationdate="20140912T093757Z">
         <seg>&lt;c0&gt; &lt;клявіша-мадыфікатар&gt; &lt;/c0&gt; можа быць: &lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;Ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;c0&gt;projectOpenMenuItem=shift ctrl O&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183709Z" creationid="Kos Ivantsov" creationdate="20180606T183709Z">
+        <seg>&lt;c0&gt;projectOpenMenuItem=shift ctrl O&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4600,6 +4690,30 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt; docx</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184050Z" creationid="Kos Ivantsov" creationdate="20180606T184050Z">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt; docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt; xx.docx</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184051Z" creationid="Kos Ivantsov" creationdate="20180606T184051Z">
+        <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt; xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184052Z" creationid="Kos Ivantsov" creationdate="20180606T184052Z">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- the original file extension</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160303T093939Z" creationid="GABIN" creationdate="20160303T093939Z">
@@ -4620,6 +4734,30 @@ OmegaT запускаецца наступным чынам.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160304T120826Z" creationid="GABIN" creationdate="20160304T120826Z">
         <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt; — кадоўка файла перакладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt; Document</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184047Z" creationid="Kos Ivantsov" creationdate="20180606T184047Z">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt; Document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Document.xx</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184047Z" creationid="Kos Ivantsov" creationdate="20180606T184047Z">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Document.xx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184049Z" creationid="Kos Ivantsov" creationdate="20180606T184049Z">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
       </tuv>
     </tu>
     <tu>
@@ -8772,6 +8910,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apertium</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183429Z" creationid="Kos Ivantsov" creationdate="20180606T183429Z">
+        <seg>Apertium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apertium uses a shallow-transfer machine translation engine which processes the input text in stages, as in an assembly line: de-formatting, morphological analysis, part-of-speech disambiguation, shallow structural transfer, lexical transfer, morphological generation, and re-formatting.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160502T122937Z" creationid="GABIN" creationdate="20160502T122937Z">
@@ -9395,6 +9541,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20141029T145638Z" creationid="GABIN" creationdate="20141029T145638Z">
         <seg>Тло</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Backspace*</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183538Z" creationid="Kos Ivantsov" creationdate="20180606T183538Z">
+        <seg>Backspace*</seg>
       </tuv>
     </tu>
     <tu>
@@ -12241,10 +12395,34 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+A</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183544Z" creationid="Kos Ivantsov" creationdate="20180606T183544Z">
+        <seg>Ctrl+A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Backspace</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183540Z" creationid="Kos Ivantsov" creationdate="20180606T183540Z">
+        <seg>Ctrl+Backspace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+D</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160729T133321Z" creationid="GABIN" creationdate="20160729T133321Z">
         <seg>Ctrl + D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Delete</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183541Z" creationid="Kos Ivantsov" creationdate="20180606T183541Z">
+        <seg>Ctrl+Delete</seg>
       </tuv>
     </tu>
     <tu>
@@ -12257,10 +12435,34 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+End</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183534Z" creationid="Kos Ivantsov" creationdate="20180606T183534Z">
+        <seg>Ctrl+End</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Enter</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183543Z" creationid="Kos Ivantsov" creationdate="20180606T183543Z">
+        <seg>Ctrl+Enter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+F</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160729T133245Z" creationid="GABIN" creationdate="20150526T084107Z">
         <seg>Ctrl + F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Home</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183533Z" creationid="Kos Ivantsov" creationdate="20180606T183533Z">
+        <seg>Ctrl+Home</seg>
       </tuv>
     </tu>
     <tu>
@@ -12317,6 +12519,22 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160729T133302Z" creationid="GABIN" creationdate="20160729T133302Z">
         <seg>Ctrl + O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+PgDn</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183536Z" creationid="Kos Ivantsov" creationdate="20180606T183536Z">
+        <seg>Ctrl+PgDn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+PgUp</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183535Z" creationid="Kos Ivantsov" creationdate="20180606T183535Z">
+        <seg>Ctrl+PgUp</seg>
       </tuv>
     </tu>
     <tu>
@@ -12409,6 +12627,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+O</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183545Z" creationid="Kos Ivantsov" creationdate="20180606T183545Z">
+        <seg>Ctrl+Shift+O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+O toggles orientation between LTR, RTL and language dependent</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20150515T090724Z" creationid="GABIN" creationdate="20150515T090505Z">
@@ -12477,6 +12703,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160729T133312Z" creationid="GABIN" creationdate="20160729T133312Z">
         <seg>Ctrl + Shift + W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Space</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183547Z" creationid="Kos Ivantsov" creationdate="20180606T183547Z">
+        <seg>Ctrl+Space</seg>
       </tuv>
     </tu>
     <tu>
@@ -12755,6 +12989,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DeepL</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183435Z" creationid="Kos Ivantsov" creationdate="20180606T183435Z">
+        <seg>DeepL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DeepL Api key not available.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20180606T082923Z" creationid="GABIN" creationdate="20180606T082923Z">
@@ -12799,6 +13041,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20160515T140834Z" creationid="gabi" creationdate="20160515T140834Z">
         <seg>Пераклад вызначаецца як пусты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete*</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183539Z" creationid="Kos Ivantsov" creationdate="20180606T183539Z">
+        <seg>Delete*</seg>
       </tuv>
     </tu>
     <tu>
@@ -14503,6 +14753,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>End*</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183531Z" creationid="Kos Ivantsov" creationdate="20180606T183531Z">
+        <seg>End*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>English</seg>
       </tuv>
       <tuv lang="BE">
@@ -14887,6 +15145,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Escape</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183458Z" creationid="Kos Ivantsov" creationdate="20180606T183458Z">
+        <seg>Escape</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Escaped binary char contains malformed data ({0})!</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20130425T113219Z">
@@ -15036,6 +15302,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160328T143406Z" creationid="GABIN" creationdate="20160328T143406Z">
         <seg>Прыклад:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Excel</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183421Z" creationid="Kos Ivantsov" creationdate="20180606T183421Z">
+        <seg>Excel</seg>
       </tuv>
     </tu>
     <tu>
@@ -15356,6 +15630,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20121017T063612Z">
         <seg>&amp;Шрыфт…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>F5</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183720Z" creationid="Kos Ivantsov" creationdate="20180606T183720Z">
+        <seg>F5</seg>
       </tuv>
     </tu>
     <tu>
@@ -16687,6 +16969,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Git</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183411Z" creationid="Kos Ivantsov" creationdate="20180606T183411Z">
+        <seg>Git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Git '{0}' did nothing because there were no changes</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160708T135946Z" creationid="GABIN" creationdate="20160708T135946Z">
@@ -17015,6 +17305,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Google Translate v2</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183428Z" creationid="Kos Ivantsov" creationdate="20180606T183428Z">
+        <seg>Google Translate v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Goto &amp;Line...</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160707T144613Z" creationid="GABIN" creationdate="20160707T144613Z">
@@ -17131,6 +17429,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20130425T120036Z">
         <seg>HTMLParser 1.6, аўтары Сомік Рага, Дэрык Освальд і іншыя (ліцэнзія LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTTP(S)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183414Z" creationid="Kos Ivantsov" creationdate="20180606T183414Z">
+        <seg>HTTP(S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17463,6 +17769,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Home*</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183530Z" creationid="Kos Ivantsov" creationdate="20180606T183530Z">
+        <seg>Home*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How to create glossaries</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160401T125800Z" creationid="GABIN" creationdate="20160401T125800Z">
@@ -17563,6 +17877,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20121017T062920Z">
         <seg>У&amp;ставіць зыходны тэкст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IBM Watson</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183436Z" creationid="Kos Ivantsov" creationdate="20180606T183436Z">
+        <seg>IBM Watson</seg>
       </tuv>
     </tu>
     <tu>
@@ -21553,6 +21875,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183426Z" creationid="Kos Ivantsov" creationdate="20180606T183426Z">
+        <seg>LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool (LGPL License and others)</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160707T144055Z" creationid="GABIN" creationdate="20160707T144055Z">
@@ -22188,6 +22518,14 @@ experience bugs, display problems or missing features.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux/Solaris/FreeBSD</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184109Z" creationid="Kos Ivantsov" creationdate="20180606T184109Z">
+        <seg>Linux/Solaris/FreeBSD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Lion users will be prompted by the system when they first launch 
 an application that requires Java and the system will eventually 
 automatically download and install it.</seg>
@@ -22380,6 +22718,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20131218T073225Z" creationid="GABIN" creationdate="20131218T073225Z">
         <seg>Часопіс:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Longman Dictionary of Contemporary English</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184037Z" creationid="Kos Ivantsov" creationdate="20180606T184037Z">
+        <seg>Longman Dictionary of Contemporary English</seg>
       </tuv>
     </tu>
     <tu>
@@ -23355,6 +23701,22 @@ The Mac version comes bundled with a JRE.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Microsoft Open XML</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183420Z" creationid="Kos Ivantsov" creationdate="20180606T183420Z">
+        <seg>Microsoft Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Translator</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183431Z" creationid="Kos Ivantsov" creationdate="20180606T183431Z">
+        <seg>Microsoft Translator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Microsoft Translator Subscription Key not available.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20170206T083102Z" creationid="GABIN" creationdate="20170206T083102Z">
@@ -23583,6 +23945,14 @@ The Mac version comes bundled with a JRE.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160302T151531Z" creationid="GABIN" creationdate="20160302T151531Z">
         <seg>Дакладней, OmegaT спрабуе супаставіць шаблёны назваў зыходных файлаў кожнага фільтра з назвай файла.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moses</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183433Z" creationid="Kos Ivantsov" creationdate="20180606T183433Z">
+        <seg>Moses</seg>
       </tuv>
     </tu>
     <tu>
@@ -25225,6 +25595,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183357Z" creationid="Kos Ivantsov" creationdate="20180606T183357Z">
+        <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT 3.0, Read Me file</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20130504T114500Z">
@@ -25976,6 +26354,22 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="BE">
         <seg>OmegaT-{0}_{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT.bat</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184204Z" creationid="Kos Ivantsov" creationdate="20180606T184204Z">
+        <seg>OmegaT.bat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184208Z" creationid="Kos Ivantsov" creationdate="20180606T184208Z">
+        <seg>OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -27628,6 +28022,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Power Point</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183422Z" creationid="Kos Ivantsov" creationdate="20180606T183422Z">
+        <seg>Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pre-defined themes can be set through a script.</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20160521T172030Z" creationid="gabi" creationdate="20160521T172030Z">
@@ -28437,6 +28839,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20150305T083106Z" creationid="GABIN" creationdate="20150305T083106Z">
         <seg>&amp;Замяніць на супадзеньне або вылучэньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RELAX NG</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183416Z" creationid="Kos Ivantsov" creationdate="20180606T183416Z">
+        <seg>RELAX NG</seg>
       </tuv>
     </tu>
     <tu>
@@ -30243,6 +30653,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Schematron</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183415Z" creationid="Kos Ivantsov" creationdate="20180606T183415Z">
+        <seg>Schematron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
@@ -30257,6 +30675,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140725T131220Z" creationid="GABIN" creationdate="20140725T131220Z">
         <seg>Шатляндзкая гэльская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scribus</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183418Z" creationid="Kos Ivantsov" creationdate="20180606T183418Z">
+        <seg>Scribus</seg>
       </tuv>
     </tu>
     <tu>
@@ -32910,6 +33336,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subversion</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183412Z" creationid="Kos Ivantsov" creationdate="20180606T183412Z">
+        <seg>Subversion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Such file formats are designed to hold formatting information.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160317T063355Z" creationid="GABIN" creationdate="20160317T063355Z">
@@ -33202,6 +33636,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20130425T140809Z">
         <seg>Файлах памяці перакладаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TaaS</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183444Z" creationid="Kos Ivantsov" creationdate="20180606T183444Z">
+        <seg>TaaS</seg>
       </tuv>
     </tu>
     <tu>
@@ -34149,6 +34591,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160808T131945Z" creationid="GABIN" creationdate="20150622T140545Z">
         <seg>Зьявіцца акно “Даданьне завершанае!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Britannica Concise Encyclopedia</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184039Z" creationid="Kos Ivantsov" creationdate="20180606T184039Z">
+        <seg>The Britannica Concise Encyclopedia</seg>
       </tuv>
     </tu>
     <tu>
@@ -39533,6 +39983,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>URL</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183410Z" creationid="Kos Ivantsov" creationdate="20180606T183410Z">
+        <seg>URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>URL does not contain "{0}"</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20170206T125049Z" creationid="GABIN" creationdate="20170206T125049Z">
@@ -39569,6 +40027,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20130425T124535Z">
         <seg>Адрас слоўнікаў у Інтэрнэце:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183425Z" creationid="Kos Ivantsov" creationdate="20180606T183425Z">
+        <seg>URL:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40541,6 +41007,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User support is provided on a volunteer basis at the &lt;u3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt; Yahoo!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184014Z" creationid="Kos Ivantsov" creationdate="20180606T183808Z">
+        <seg>Падтрымка карыстальнікаў ажыцьцяўляецца сіламі добраахвотнікаў у &lt;u3&gt;групе карыстальнікаў&lt;a4&gt; OmegaT&lt;/a4&gt; на Yahoo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User support is provided on a volunteer basis at the &lt;u3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt; Yahoo! User Group&lt;/u3&gt;.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160729T135710Z" creationid="GABIN" creationdate="20150821T141209Z">
@@ -41174,6 +41648,14 @@ or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20180606T090819Z" creationid="GABIN" creationdate="20180606T090819Z">
         <seg>Кіраўнік вэб-сайта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184035Z" creationid="Kos Ivantsov" creationdate="20180606T184035Z">
+        <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
       </tuv>
     </tu>
     <tu>
@@ -41866,6 +42348,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Wordpress</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183417Z" creationid="Kos Ivantsov" creationdate="20180606T183417Z">
+        <seg>Wordpress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Words</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20130424T184537Z">
@@ -41978,6 +42468,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>XHTML</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183423Z" creationid="Kos Ivantsov" creationdate="20180606T183423Z">
+        <seg>XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>XHTML Files</seg>
       </tuv>
       <tuv lang="BE">
@@ -42062,6 +42560,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20160522T093501Z" creationid="gabi" creationdate="20160522T093310Z">
         <seg>YEAR = год (4 знакі), ММ = месяц, DD = дзень, HH = гадзіна, NN = хвіліны папярэдняга захаваньня праекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yandex Translate</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183432Z" creationid="Kos Ivantsov" creationdate="20180606T183432Z">
+        <seg>Yandex Translate</seg>
       </tuv>
     </tu>
     <tu>
@@ -43069,10 +43575,98 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>aa</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183556Z" creationid="Kos Ivantsov" creationdate="20180606T183556Z">
+        <seg>aa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>aar</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183557Z" creationid="Kos Ivantsov" creationdate="20180606T183557Z">
+        <seg>aar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ab</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183552Z" creationid="Kos Ivantsov" creationdate="20180606T183552Z">
+        <seg>ab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>abk</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183553Z" creationid="Kos Ivantsov" creationdate="20180606T183553Z">
+        <seg>abk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>af</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183558Z" creationid="Kos Ivantsov" creationdate="20180606T183558Z">
+        <seg>af</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>afr</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183559Z" creationid="Kos Ivantsov" creationdate="20180606T183559Z">
+        <seg>afr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ak</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183600Z" creationid="Kos Ivantsov" creationdate="20180606T183600Z">
+        <seg>ak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>aka</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183602Z" creationid="Kos Ivantsov" creationdate="20180606T183602Z">
+        <seg>aka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>all matching segments</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140721T091531Z" creationid="GABIN" creationdate="20140721T091531Z">
         <seg>усе адпаведныя сэгмэнты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>am</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183605Z" creationid="Kos Ivantsov" creationdate="20180606T183605Z">
+        <seg>am</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>amh</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183606Z" creationid="Kos Ivantsov" creationdate="20180606T183606Z">
+        <seg>amh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>an</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183610Z" creationid="Kos Ivantsov" creationdate="20180606T183610Z">
+        <seg>an</seg>
       </tuv>
     </tu>
     <tu>
@@ -43101,6 +43695,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ar</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183607Z" creationid="Kos Ivantsov" creationdate="20180606T183607Z">
+        <seg>ar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ara</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183609Z" creationid="Kos Ivantsov" creationdate="20180606T183609Z">
+        <seg>ara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>are created and used by the spell checker.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160310T144852Z" creationid="GABIN" creationdate="20160310T144852Z">
@@ -43109,10 +43719,50 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>arg</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183611Z" creationid="Kos Ivantsov" creationdate="20180606T183611Z">
+        <seg>arg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>as</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183614Z" creationid="Kos Ivantsov" creationdate="20180606T183614Z">
+        <seg>as</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>asm</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183615Z" creationid="Kos Ivantsov" creationdate="20180606T183615Z">
+        <seg>asm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>attributes.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20130425T113205Z">
         <seg>атрыбутаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>av</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183617Z" creationid="Kos Ivantsov" creationdate="20180606T183617Z">
+        <seg>av</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ava</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183618Z" creationid="Kos Ivantsov" creationdate="20180606T183618Z">
+        <seg>ava</seg>
       </tuv>
     </tu>
     <tu>
@@ -43149,6 +43799,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>changes.txt</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184116Z" creationid="Kos Ivantsov" creationdate="20180606T184116Z">
+        <seg>changes.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>close the project</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20160522T094120Z" creationid="gabi" creationdate="20160522T094120Z">
@@ -43173,6 +43831,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>console.println(source + " &gt;&gt;&gt;&gt; " + target);</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183648Z" creationid="Kos Ivantsov" creationdate="20180606T183648Z">
+        <seg>console.println(source + " &gt;&gt;&gt;&gt; " + target);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>contains the current statistics of the current project.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160310T144209Z" creationid="GABIN" creationdate="20160310T144209Z">
@@ -43185,6 +43851,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160801T081557Z" creationid="GABIN" creationdate="20160310T145345Z">
         <seg>утрымлівае статыстычныя данія супадзеньняў апошняга праекта, згенэраваныя праз мэню &lt;g0&gt;Сэрвіс → Статыстыка супадзеньняў&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>currSegment = files[i].entries[j];</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183644Z" creationid="Kos Ivantsov" creationdate="20180606T183644Z">
+        <seg>currSegment = files[i].entries[j];</seg>
       </tuv>
     </tu>
     <tu>
@@ -43237,6 +43911,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>doc-license.txt</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184122Z" creationid="Kos Ivantsov" creationdate="20180606T184122Z">
+        <seg>doc-license.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>done ({0} ms elapsed)</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160822T073004Z" creationid="GABIN" creationdate="20160707T144445Z">
@@ -43249,6 +43931,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20160615T175230Z" creationid="gabi" creationdate="20160615T175230Z">
         <seg>паўтор словаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editCreateGlossaryEntryMenuItem=ctrl shift G</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183707Z" creationid="Kos Ivantsov" creationdate="20180606T183707Z">
+        <seg>editCreateGlossaryEntryMenuItem=ctrl shift G</seg>
       </tuv>
     </tu>
     <tu>
@@ -43293,6 +43983,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>files = project.projectFiles;</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183640Z" creationid="Kos Ivantsov" creationdate="20180606T183640Z">
+        <seg>files = project.projectFiles;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>filters.xml</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184100Z" creationid="Kos Ivantsov" creationdate="20180606T184100Z">
+        <seg>filters.xml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>first join the &lt;u0&gt;user group&lt;/u0&gt; (via web or by sending an email to &lt;u1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;-subscribe@yahoogroups.com&lt;/u1&gt;).</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20150821T145240Z" creationid="GABIN" creationdate="20150821T145240Z">
@@ -43313,6 +44019,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160314T091004Z" creationid="GABIN" creationdate="20160314T091004Z">
         <seg>каталёг з файламі сцэнароў для плагіна сцэнароў, калі ён усталяваны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>for (i in 0 ..&lt; files.size())</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183641Z" creationid="Kos Ivantsov" creationdate="20180606T183641Z">
+        <seg>for (i in 0 ..&lt; files.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183643Z" creationid="Kos Ivantsov" creationdate="20180606T183643Z">
+        <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
       </tuv>
     </tu>
     <tu>
@@ -43365,10 +44087,82 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://code.google.com/p/tortoisegit/</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183756Z" creationid="Kos Ivantsov" creationdate="20180606T183756Z">
+        <seg>http://code.google.com/p/tortoisegit/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://docs.oracle.com/javase/1.4.2/docs/api/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184044Z" creationid="Kos Ivantsov" creationdate="20180606T184044Z">
+        <seg>http://docs.oracle.com/javase/1.4.2/docs/api/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://docs.oracle.com/javase/6/docs/api/java/awt/event/KeyEvent.html</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183700Z" creationid="Kos Ivantsov" creationdate="20180606T183700Z">
+        <seg>http://docs.oracle.com/javase/6/docs/api/java/awt/event/KeyEvent.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183655Z" creationid="Kos Ivantsov" creationdate="20180606T183655Z">
+        <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://git-scm.com/</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183753Z" creationid="Kos Ivantsov" creationdate="20180606T183753Z">
+        <seg>http://git-scm.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://lists.sourceforge.net/lists/listinfo/omegat-development</seg>
       </tuv>
       <tuv lang="BE">
         <seg>http://lists.sourceforge.net/lists/listinfo/omegat-development</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://projectlocker.com/</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183800Z" creationid="Kos Ivantsov" creationdate="20180606T183800Z">
+        <seg>http://projectlocker.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://subversion.apache.org</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183752Z" creationid="Kos Ivantsov" creationdate="20180606T183752Z">
+        <seg>http://subversion.apache.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184023Z" creationid="Kos Ivantsov" creationdate="20180606T184023Z">
+        <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://tech.groups.yahoo.com/group/OmegaT/database?method=reportRows&amp;tbl=1</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183804Z" creationid="Kos Ivantsov" creationdate="20180606T183804Z">
+        <seg>http://tech.groups.yahoo.com/group/OmegaT/database?method=reportRows&amp;tbl=1</seg>
       </tuv>
     </tu>
     <tu>
@@ -43389,10 +44183,170 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://tortoisesvn.net/</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183755Z" creationid="Kos Ivantsov" creationdate="20180606T183755Z">
+        <seg>http://tortoisesvn.net/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.joelonsoftware.com/articles/fog0000000029.html</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184022Z" creationid="Kos Ivantsov" creationdate="20180606T184022Z">
+        <seg>http://www.joelonsoftware.com/articles/fog0000000029.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.languagetool.org</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183630Z" creationid="Kos Ivantsov" creationdate="20180606T183630Z">
+        <seg>http://www.languagetool.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.languagetool.org/languages/</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183631Z" creationid="Kos Ivantsov" creationdate="20180606T183631Z">
+        <seg>http://www.languagetool.org/languages/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.omegat.org/</seg>
       </tuv>
       <tuv lang="BE">
         <seg>http://www.omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.omegat.org/en/howtos/localizing_omegat.php</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184027Z" creationid="Kos Ivantsov" creationdate="20180606T184027Z">
+        <seg>http://www.omegat.org/en/howtos/localizing_omegat.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.omegat.org/en/howtos/text_export.html</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184042Z" creationid="Kos Ivantsov" creationdate="20180606T184042Z">
+        <seg>http://www.omegat.org/en/howtos/text_export.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183549Z" creationid="Kos Ivantsov" creationdate="20180606T183549Z">
+        <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.yolinux.com/TUTORIALS/Subversion.html</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183759Z" creationid="Kos Ivantsov" creationdate="20180606T183759Z">
+        <seg>http://www.yolinux.com/TUTORIALS/Subversion.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183805Z" creationid="Kos Ivantsov" creationdate="20180606T183805Z">
+        <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/documentation/</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183500Z" creationid="Kos Ivantsov" creationdate="20180606T183500Z">
+        <seg>https://sourceforge.net/p/omegat/documentation/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183807Z" creationid="Kos Ivantsov" creationdate="20180606T183807Z">
+        <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183704Z" creationid="Kos Ivantsov" creationdate="20180606T183704Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183703Z" creationid="Kos Ivantsov" creationdate="20180606T183703Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184031Z" creationid="Kos Ivantsov" creationdate="20180606T184031Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/projects/macsvn/</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183757Z" creationid="Kos Ivantsov" creationdate="20180606T183757Z">
+        <seg>https://sourceforge.net/projects/macsvn/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183633Z" creationid="Kos Ivantsov" creationdate="20180606T183633Z">
+        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=9UB6Y2BBF99LL</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184030Z" creationid="Kos Ivantsov" creationdate="20180606T184030Z">
+        <seg>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=9UB6Y2BBF99LL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hy</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183612Z" creationid="Kos Ivantsov" creationdate="20180606T183612Z">
+        <seg>hy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hye</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183613Z" creationid="Kos Ivantsov" creationdate="20180606T183613Z">
+        <seg>hye</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if (project.getTranslationInfo(currSegment))</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183645Z" creationid="Kos Ivantsov" creationdate="20180606T183645Z">
+        <seg>if (project.getTranslationInfo(currSegment))</seg>
       </tuv>
     </tu>
     <tu>
@@ -43433,6 +44387,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160930T142123Z" creationid="GABIN" creationdate="20151112T075956Z">
         <seg>Калі гэтая опцыя ўключана, назва зыходнага файла ня будзе ўжывацца, і альтэрнатыўныя пераклады будуць ужывацца ў любым файле, калі дазваляе іншы кантэкст (папярэдні/наступны сэгмэнты, або нейкі ідэнтыфікатар, у залежнасьці ад фармату файла) адпавядае.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ignored_words.txt.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184056Z" creationid="Kos Ivantsov" creationdate="20180606T184056Z">
+        <seg>ignored_words.txt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43543,6 +44505,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>java -jar OmegaT.jar %*</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184205Z" creationid="Kos Ivantsov" creationdate="20180606T184205Z">
+        <seg>java -jar OmegaT.jar %*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>java -jar OmegaT.jar --mode=console-align /my-project-dir --alignDir=/translatedFiles/</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20160521T190948Z" creationid="gabi" creationdate="20160521T190948Z">
@@ -43555,6 +44525,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160627T141715Z" creationid="GABIN" creationdate="20160627T141651Z">
         <seg>java -jar omegat.jar --pseudotranslatetmx=&lt;назвафайла&gt; [pseudotranslatetype=[equal|empty]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>join.html</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184114Z" creationid="Kos Ivantsov" creationdate="20180606T184114Z">
+        <seg>join.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -43615,6 +44593,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>learned_words.txt</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184057Z" creationid="Kos Ivantsov" creationdate="20180606T184057Z">
+        <seg>learned_words.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>left</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140721T091040Z" creationid="GABIN" creationdate="20140721T091040Z">
@@ -43635,6 +44621,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20150821T135750Z" creationid="GABIN" creationdate="20150821T135750Z">
         <seg>lep, lepa, lepo — адзіночны лік: мужчынскі, жаночы, сярэдні род</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lepši, lepša, lepše .</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183802Z" creationid="Kos Ivantsov" creationdate="20180606T183802Z">
+        <seg>lepši, lepša, lepše .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>license.txt</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184117Z" creationid="Kos Ivantsov" creationdate="20180606T184117Z">
+        <seg>license.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -43663,6 +44665,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>logs/OmegaT.log</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184103Z" creationid="Kos Ivantsov" creationdate="20180606T184103Z">
+        <seg>logs/OmegaT.log</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>lucene-*.jar (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20130505T130511Z">
@@ -43683,6 +44693,30 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160707T144138Z" creationid="GABIN" creationdate="20160707T144138Z">
         <seg>mALIGNa (ліцэнзія MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mailto:OmegaT-subscribe@yahoogroups.com</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184024Z" creationid="Kos Ivantsov" creationdate="20180606T184024Z">
+        <seg>mailto:OmegaT-subscribe@yahoogroups.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mailto:omegat-development-request@list.sourceforge.net?subject=subscribe</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184025Z" creationid="Kos Ivantsov" creationdate="20180606T184025Z">
+        <seg>mailto:omegat-development-request@list.sourceforge.net?subject=subscribe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mailto:omegat-development-request@lists.sourceforge.net?subject=subscribe</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184028Z" creationid="Kos Ivantsov" creationdate="20180606T184028Z">
+        <seg>mailto:omegat-development-request@lists.sourceforge.net?subject=subscribe</seg>
       </tuv>
     </tu>
     <tu>
@@ -43871,6 +44905,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>omegat.prefs</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184108Z" creationid="Kos Ivantsov" creationdate="20180606T184108Z">
+        <seg>omegat.prefs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>one char left, but not further than the beginning of segment</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140724T125842Z" creationid="GABIN" creationdate="20140724T125714Z">
@@ -43993,10 +45035,146 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>projectAccessDictionaryMenuItem</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183732Z" creationid="Kos Ivantsov" creationdate="20180606T183732Z">
+        <seg>projectAccessDictionaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectAccessRootMenuItem</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183730Z" creationid="Kos Ivantsov" creationdate="20180606T183730Z">
+        <seg>projectAccessRootMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectCloseMenuItem</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183722Z" creationid="Kos Ivantsov" creationdate="20180606T183722Z">
+        <seg>projectCloseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectCompileMenuItem</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183725Z" creationid="Kos Ivantsov" creationdate="20180606T183725Z">
+        <seg>projectCompileMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectEditMenuItem</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183728Z" creationid="Kos Ivantsov" creationdate="20180606T183728Z">
+        <seg>projectEditMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectImportMenuItem</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183717Z" creationid="Kos Ivantsov" creationdate="20180606T183717Z">
+        <seg>projectImportMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectNewMenuItem</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183712Z" creationid="Kos Ivantsov" creationdate="20180606T183712Z">
+        <seg>projectNewMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectOpenMenuItem</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183714Z" creationid="Kos Ivantsov" creationdate="20180606T183714Z">
+        <seg>projectOpenMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectOpenMenuItem=ctrl O</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183706Z" creationid="Kos Ivantsov" creationdate="20180606T183706Z">
+        <seg>projectOpenMenuItem=ctrl O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectOpenRecentMenuItem</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183716Z" creationid="Kos Ivantsov" creationdate="20180606T183716Z">
+        <seg>projectOpenRecentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectReloadMenuItem</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183721Z" creationid="Kos Ivantsov" creationdate="20180606T183721Z">
+        <seg>projectReloadMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectSaveMenuItem</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183724Z" creationid="Kos Ivantsov" creationdate="20180606T183724Z">
+        <seg>projectSaveMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectSingleCompileMenuItem</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183726Z" creationid="Kos Ivantsov" creationdate="20180606T183726Z">
+        <seg>projectSingleCompileMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectTeamNewMenuItem</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183713Z" creationid="Kos Ivantsov" creationdate="20180606T183713Z">
+        <seg>projectTeamNewMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectWikiImportMenuItem</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183718Z" creationid="Kos Ivantsov" creationdate="20180606T183718Z">
+        <seg>projectWikiImportMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>project_stats_match.txt</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184058Z" creationid="Kos Ivantsov" creationdate="20180606T184058Z">
+        <seg>project_stats_match.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>puts the pane back within the main window</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160701T094340Z" creationid="GABIN" creationdate="20160701T094340Z">
         <seg>вярнуць панэль у межы галоўнага вакна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>readme.txt</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184157Z" creationid="Kos Ivantsov" creationdate="20180606T184124Z">
+        <seg>readme.txt (redme_be.txt)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44137,6 +45315,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>segmentation.conf</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184059Z" creationid="Kos Ivantsov" creationdate="20180606T184059Z">
+        <seg>segmentation.conf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>select complete segment (Mac: &lt;e0&gt;Cmd+A&lt;/e0&gt;)</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160712T150325Z" creationid="GABIN" creationdate="20140724T130318Z">
@@ -44169,6 +45355,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>source = currSegment.getSrcText();</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183646Z" creationid="Kos Ivantsov" creationdate="20180606T183646Z">
+        <seg>source = currSegment.getSrcText();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>specify what parts of text should NOT be separated.</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20160619T184501Z" creationid="gabi" creationdate="20160619T184501Z">
@@ -44177,10 +45371,42 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>sq</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183603Z" creationid="Kos Ivantsov" creationdate="20180606T183603Z">
+        <seg>sq</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sqi</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183604Z" creationid="Kos Ivantsov" creationdate="20180606T183604Z">
+        <seg>sqi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>src (URL of &amp;images)</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20130425T120446Z">
         <seg>src (адрасы &amp;выяваў)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>stats.txt</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184055Z" creationid="Kos Ivantsov" creationdate="20180606T184055Z">
+        <seg>stats.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183647Z" creationid="Kos Ivantsov" creationdate="20180606T183647Z">
+        <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44329,6 +45555,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183711Z" creationid="Kos Ivantsov" creationdate="20180606T183711Z">
+        <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>total number of segments (including repeats) in the project</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160701T095433Z" creationid="GABIN" creationdate="20160701T095433Z">
@@ -44393,6 +45627,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>uiLayout.xml</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184102Z" creationid="Kos Ivantsov" creationdate="20180606T184102Z">
+        <seg>uiLayout.xml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>undocks the pane from the main window</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160701T094320Z" creationid="GABIN" creationdate="20160701T094320Z">
@@ -44433,6 +45675,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>viewFileListMenuItem</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183729Z" creationid="Kos Ivantsov" creationdate="20180606T183729Z">
+        <seg>viewFileListMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>vs</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20160615T123122Z" creationid="gabi" creationdate="20160615T123122Z">
@@ -44465,10 +45715,34 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183642Z" creationid="Kos Ivantsov" creationdate="20180606T183642Z">
+        <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183406Z" creationid="Kos Ivantsov" creationdate="20180606T183406Z">
+        <seg>{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0} ({1} left) / {2} ({3} left), {4}</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20150515T090308Z" creationid="GABIN" creationdate="20150515T090308Z">
         <seg>{0} ({1} заст.) / {2} ({3} заст.), {4}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} ({1})</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183448Z" creationid="Kos Ivantsov" creationdate="20180606T183448Z">
+        <seg>{0} ({1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -44529,10 +45803,66 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0} {1}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183404Z" creationid="Kos Ivantsov" creationdate="20180606T183404Z">
+        <seg>{0} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183405Z" creationid="Kos Ivantsov" creationdate="20180606T183405Z">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183402Z" creationid="Kos Ivantsov" creationdate="20180606T183402Z">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183454Z" creationid="Kos Ivantsov" creationdate="20180606T183454Z">
+        <seg>{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}/{1}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183443Z" creationid="Kos Ivantsov" creationdate="20180606T183443Z">
+        <seg>{0}/{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0}:	cleanup done!!</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20171026T140409Z" creationid="GABIN" creationdate="20171026T140409Z">
         <seg>{0}:	ачыстка зробленая!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}_{1}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183401Z" creationid="Kos Ivantsov" creationdate="20180606T183401Z">
+        <seg>{0}_{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}_{1}_{2}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183359Z" creationid="Kos Ivantsov" creationdate="20180606T183359Z">
+        <seg>{0}_{1}_{2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -44545,10 +45875,58 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183455Z" creationid="Kos Ivantsov" creationdate="20180606T183455Z">
+        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183650Z" creationid="Kos Ivantsov" creationdate="20180606T183650Z">
+        <seg>}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“{0}”</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183451Z" creationid="Kos Ivantsov" creationdate="20180606T183451Z">
+        <seg>“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“{0}” ({1})</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183452Z" creationid="Kos Ivantsov" creationdate="20180606T183452Z">
+        <seg>“{0}” ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>← Back</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140721T111302Z" creationid="GABIN" creationdate="20140721T111302Z">
         <seg>← Назад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>▲</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183446Z" creationid="Kos Ivantsov" creationdate="20180606T183446Z">
+        <seg>▲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>▼</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183447Z" creationid="Kos Ivantsov" creationdate="20180606T183447Z">
+        <seg>▼</seg>
       </tuv>
     </tu>
     <tu>
@@ -44568,6 +45946,17 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">doc_src/App_Website.xml</prop>
+      <prop type="prev">User support is provided on a volunteer basis at the &lt;u3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt; Yahoo!</prop>
+      <prop type="next">The &lt;u5&gt;FAQ &lt;/u5&gt; is a good starting point for finding answers to questions you may have.</prop>
+      <tuv lang="EN">
+        <seg>User Group&lt;/u3&gt;.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T184020Z" creationid="Kos Ivantsov" creationdate="20180606T184003Z">
+        <seg>&lt;/u3&gt;.</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">doc_src/be/Glossaries.xml</prop>
       <prop type="prev">&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Glossary pane&lt;/s1&gt;</prop>
