@@ -14487,6 +14487,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>English version translators</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T085511Z" creationid="GABIN" creationdate="20180606T085511Z">
+        <seg>Перакладчыкі ангельскай вэрсіі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>English: the same check as above, but concerning consonants ("a", not "an")</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160712T142351Z" creationid="gabi" creationdate="20160615T175429Z">
