@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10408M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10636" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18,6 +18,14 @@
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160802T142222Z" creationid="GABIN" creationdate="20160502T130228Z">
         <seg>“Google Translate returned HTTP response code: 403 …”: праверце, ці сапраўдны 38-значны ключ, пазначаны ў файле pinfo.list.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"How to" documents on this site, containing information on certain procedures and features of OmegaT for advanced users which are not covered by the manual.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T134156Z" creationid="GABIN" creationdate="20180613T134156Z">
+        <seg>У артыкулах “How to” на гэтым сайце ёсьць зьвесткі пра пэўныя працэдуры і функцыі OmegaT для дасьведчаных карыстальнікаў, якіх няма ў дапаможніку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1968,6 +1976,30 @@ but you don't see your name on the lists, feel free to contact us.)</seg>
       <tuv lang="BE" changeid="GABIN" changedate="20170831T144427Z" creationid="GABIN" creationdate="20170831T144427Z">
         <seg>(Калі вы мяркуеце, што зрабілі значны ўнёсак у праект OmegaT,
 але вашага імя няма ў сьпісах, зьвяртайцеся да нас.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(In English)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T132527Z" creationid="GABIN" creationdate="20180613T132527Z">
+        <seg>(на ангельскай)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(In Italian)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T140613Z" creationid="GABIN" creationdate="20180613T140613Z">
+        <seg>(на італьянскай)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(In Russian)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T132534Z" creationid="GABIN" creationdate="20180613T132534Z">
+        <seg>(на расейскай).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7746,6 +7778,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180615T130823Z" creationid="GABIN" creationdate="20180615T130823Z">
+        <seg>Паэтапнае кіраўніцтва пра ўжываньне ўтылітаў Text Extraction і Text Merging з пакета Rainbow для папярэдняй і наступнай апрацоўкі файлаў да перакладу ў OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A text file containing two lines:</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160316T131441Z" creationid="GABIN" creationdate="20160316T131441Z">
@@ -8266,6 +8306,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adds recognition of inflected forms to OmegaT glossary and fuzzy match functions.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T141512Z" creationid="GABIN" creationdate="20180613T141512Z">
+        <seg>Даданьне распазнаваньня словаформаў да функцый глясару і падбору супадзеньняў у OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adiel Mittmann</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20141001T094653Z" creationid="GABIN" creationdate="20141001T094653Z">
@@ -8274,10 +8322,34 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Administration</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T123348Z" creationid="GABIN" creationdate="20180606T123348Z">
+        <seg>Адміністрацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Administrative and technical procedure for localizating OmegaT.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T141805Z" creationid="GABIN" creationdate="20180613T141805Z">
+        <seg>Адміністрацыйная і тэхнічная працэдура лякалізацыі OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advanced &amp;Options</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140721T121200Z">
         <seg>Адмысловыя &amp;парамэтры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Advanced feature HowTos</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T141230Z" creationid="GABIN" creationdate="20180613T141230Z">
+        <seg>Артыкулы “HOWTO” пра дадатковыя функцыі</seg>
       </tuv>
     </tu>
     <tu>
@@ -8868,6 +8940,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180612T145242Z" creationid="GABIN" creationdate="20180612T145242Z">
+        <seg>Па змаўчаньні пры запуску OmegaT непасрэдна ў інтэрфэйсе паказваецца дапаможнік для хуткага старту, які ўтрымлівае апісаньне базавых функцыяў і працэдураў праграмы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An attempt is made to match the capitalization of the source word.</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20160517T055732Z" creationid="gabi" creationdate="20160517T055732Z">
@@ -9088,6 +9168,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160805T143239Z" creationid="gabi" creationdate="20160615T143935Z">
         <seg>Ігнараваны файл або каталёг:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An introductory video to OmegaT in English by John Moran.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180615T131039Z" creationid="GABIN" creationdate="20180615T131039Z">
+        <seg>Уводнае відэа пра OmegaT на ангельскай. Аўтар — Джон Моран.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10129,10 +10217,34 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Blog pages on OmegaT.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T132520Z" creationid="GABIN" creationdate="20180613T132520Z">
+        <seg>Старонкі блоку пра OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Blogs</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T132445Z" creationid="GABIN" creationdate="20180613T132445Z">
+        <seg>Блогі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bookmark &amp;references</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20130425T115536Z">
         <seg>Спасылкі на з&amp;акладкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Books</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T140547Z" creationid="GABIN" creationdate="20180613T140547Z">
+        <seg>Кнігі</seg>
       </tuv>
     </tu>
     <tu>
@@ -10257,6 +10369,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T123220Z" creationid="GABIN" creationdate="20180606T123220Z">
+        <seg>Памылкі, запыты функцый, пытанні дакумэнтацыі — для ўсяго гэтага прызначаныя наступныя трэкеры на Sourceforge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Building &lt;a0&gt;OmegaT&lt;/a0&gt; From Source</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160425T122045Z" creationid="GABIN" creationdate="20160425T122045Z">
@@ -10293,6 +10413,46 @@ documentation.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160224T143935Z" creationid="GABIN" creationdate="20160224T143935Z">
         <seg>Але вы таксама зьмянілі гэтыя данія на "{2}".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Marco Cevoli and Sergio Alasia.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T140604Z" creationid="GABIN" creationdate="20180613T140604Z">
+        <seg>Аўтары Марка Чэволі і Сэрджа Алязія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Sheila Gomes (in Brasilian Portuguese).</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T125733Z" creationid="GABIN" creationdate="20180613T125733Z">
+        <seg>Аўтар Шэйла Гомэс (на бразыльскай партугальскай).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Susan Welsh (Open Document Format).</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T125629Z" creationid="GABIN" creationdate="20180613T125629Z">
+        <seg>Аўтар Сьюзэн Уэлш (у фармаце OpenDocument).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Susan Welsh (PDF format).</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T125657Z" creationid="GABIN" creationdate="20180613T125657Z">
+        <seg>Аўтар Сьюзэн Уэлш (у фармаце PDF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Vladimir Zhdanov (in Russian).</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T125711Z" creationid="GABIN" creationdate="20180613T125711Z">
+        <seg>Аўтар Уладзімір Жданаў (на расейскай).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11847,6 +12007,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compatibility HowTos</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T134213Z" creationid="GABIN" creationdate="20180613T134213Z">
+        <seg>Артыкулы “HOWTO” пра сумяшчальнасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Compiling OmegaT from source</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T141610Z" creationid="GABIN" creationdate="20180613T141610Z">
+        <seg>Compiling OmegaT from source (на ангельскай)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20130425T120540Z">
@@ -12613,6 +12789,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160621T134849Z" creationid="GABIN" creationdate="20160621T134849Z">
         <seg>Стварэньне ключа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a new file filter</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T141642Z" creationid="GABIN" creationdate="20180613T141636Z">
+        <seg>Creating a new file filter (на ангельскай)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13483,6 +13667,54 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Describes OmegaT's compatibility with Déjà Vu.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T134405Z" creationid="GABIN" creationdate="20180613T134405Z">
+        <seg>Апісваецца сумяшчальнасьць OmegaT з Déjà Vu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes OmegaT's compatibility with Microsoft Office 2007 files, especially Word 2007.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T134346Z" creationid="GABIN" creationdate="20180613T134346Z">
+        <seg>Апісваецца сумяшчальнасьць OmegaT з файламі Microsoft Office 2007, у прыватнасьці Word 2007.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes OmegaT's compatibility with selected other software products.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T134251Z" creationid="GABIN" creationdate="20180613T134251Z">
+        <seg>Апісваецца сумяшчальнасьць OmegaT зь некаторымі іншымі праграмнымі прадуктамі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes OmegaT's spellchecking feature.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T135752Z" creationid="GABIN" creationdate="20180613T135752Z">
+        <seg>Апісваецца функцыя праверкі правапісу ў OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes how to use OmegaT in conjunction with Iceni Infix in order to translate files in PDF format.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T135721Z" creationid="GABIN" creationdate="20180613T135721Z">
+        <seg>Апісваецца карыстаньне OmegaT у сувязі з Iceni Infix у мэтах перакладу файлаў у фармаце PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes how to use OmegaT in conjunction with the Trados bilingual RTF format ("uncleaned" files).</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T135654Z" creationid="GABIN" creationdate="20180613T135654Z">
+        <seg>Апісваецца карыстаньне OmegaT у сувязі з двухмоўным фарматам RTF ад праграмы Trados (“неачышчаныя” файлы).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Description</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140721T113758Z" creationid="GABIN" creationdate="20140721T113758Z">
@@ -14203,6 +14435,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Documentation tracking system</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T123342Z" creationid="GABIN" creationdate="20180606T123342Z">
+        <seg>Трэкер дакумэнтацыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Documents and Settings\&lt;User Name&gt;\Application Data\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160314T091304Z" creationid="GABIN" creationdate="20160314T091304Z">
@@ -14603,6 +14843,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140725T103309Z" creationid="GABIN" creationdate="20140725T103309Z">
         <seg>Дзонг-кэ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Déjà Vu compatibility</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T134353Z" creationid="GABIN" creationdate="20180613T134353Z">
+        <seg>Déjà Vu compatibility (на ангельскай)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15800,6 +16048,22 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Explains how to compile OmegaT from the source code.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T141627Z" creationid="GABIN" creationdate="20180613T141627Z">
+        <seg>Тлумачыцца зборка OmegaT з зыходных тэкстаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Explains how to create a filter for a new file format to be translated by OmegaT.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T141736Z" creationid="GABIN" creationdate="20180613T141736Z">
+        <seg>Тлумачыцца, як стварыць фільтар для новага фармату файлаў да перакладу ў OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Explanation:</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160421T135148Z" creationid="GABIN" creationdate="20160421T135148Z">
@@ -15948,6 +16212,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20130425T112545Z">
         <seg>Выкананьне зьнешняй каманды было перарванае.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External documentation</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T141900Z" creationid="GABIN" creationdate="20180613T141900Z">
+        <seg>Зьнешняя дакумэнтацыя</seg>
       </tuv>
     </tu>
     <tu>
@@ -16108,6 +16380,22 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20130425T113321Z">
         <seg>Фатальная памылка ў радку {0}, слупку {1} падчас сынтаксычнага аналізу:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Feature HowTos</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T135727Z" creationid="GABIN" creationdate="20180613T135727Z">
+        <seg>Артыкулы “HOWTO” пра функцыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Feature requests tracking system</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T123335Z" creationid="GABIN" creationdate="20180606T123335Z">
+        <seg>Трэкер запытаў новых функцыяў</seg>
       </tuv>
     </tu>
     <tu>
@@ -17167,6 +17455,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180615T131112Z" creationid="GABIN" creationdate="20180615T131112Z">
+        <seg>З серыі пра OmegaT на YouTube. Аўтар — Мігель Навара (на іспанскай).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fula, Fulah, Pulaar, Pular</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140725T103412Z" creationid="GABIN" creationdate="20140725T103412Z">
@@ -17631,14 +17927,6 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Google Translate</seg>
-      </tuv>
-      <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T213902Z" creationid="Kos Ivantsov" creationdate="20180606T213902Z">
-        <seg>Google Translate</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Google Translate - example</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20161010T124534Z" creationid="GABIN" creationdate="20160425T142607Z">
@@ -17767,6 +18055,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HOWTOs</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T134043Z" creationid="GABIN" creationdate="20180613T134043Z">
+        <seg>Артыкулы “HOWTO”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTML Help Compiler</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20131218T073307Z" creationid="GABIN" creationdate="20131218T073307Z">
@@ -17795,6 +18091,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="BE">
         <seg>Файлы HTML і XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML user manual online</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180612T145615Z" creationid="GABIN" creationdate="20180612T145615Z">
+        <seg>Дапаможнік карыстальніка ў фармаце HTML у Інтэрнэце</seg>
       </tuv>
     </tu>
     <tu>
@@ -18175,6 +18479,22 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How to translate Magento</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180614T133321Z" creationid="GABIN" creationdate="20180614T133321Z">
+        <seg>How to translate Magento (на ангельскай)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to translate Wordpress XLIFF files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180614T133333Z" creationid="GABIN" creationdate="20180614T133333Z">
+        <seg>How to translate Wordpress XLIFF files (на ангельскай)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, OmegaT does not fully support imported level 2 tmx files (these store not only the translation, but also the formatting).</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160623T131247Z" creationid="GABIN" creationdate="20160623T131247Z">
@@ -18371,6 +18691,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140503T111924Z" creationid="GABIN" creationdate="20140503T111924Z">
         <seg>Ісляндзкая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Iceni Infix</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T135700Z" creationid="GABIN" creationdate="20180613T135700Z">
+        <seg>Iceni Infix (на ангельскай)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18671,6 +18999,14 @@ need not be entered.)</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160316T131205Z" creationid="GABIN" creationdate="20160316T131205Z">
         <seg>У выпадку сумневу зьвяртайцеся да ўдзельнікаў праекта непасрэдна, праз электронную пошту са старонкі SourceForge, або праз групу карыстальнікаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If in doubt, select this version.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180622T130454Z" creationid="GABIN" creationdate="20180622T130454Z">
+        <seg>У выпадку сумневу выбірайце гэтую вэрсію.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19181,6 +19517,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160310T145237Z" creationid="GABIN" creationdate="20160310T145237Z">
         <seg>Калі вы ўжо назьбіралі словы, якія трэба прымаць або ігнараваць падчас праверкі правапісу, сьлед проста скапіяваць адпаведныя два файлы ў падкаталёг &lt;f0&gt;omegat&lt;/f0&gt; бягучага праекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180621T131939Z" creationid="GABIN" creationdate="20180621T131939Z">
+        <seg>Калі ёсьць сумнеў наконт таго, што спампаваць, гл. &lt;a0&gt;выбар спампоўкі&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20614,6 +20958,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Information on procedures and features of OmegaT for advanced users which can be found on other sites.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180614T133246Z" creationid="GABIN" creationdate="20180614T133246Z">
+        <seg>Зьвесткі пра працэдуры і функцыі OmegaT для дасьведчаных карыстальнікаў, якія можна знайсьці на іншых сайтах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Initialized en-ja team project.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160708T145053Z" creationid="GABIN" creationdate="20160708T145053Z">
@@ -20870,6 +21222,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installation Type</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180621T132049Z" creationid="GABIN" creationdate="20180621T132049Z">
+        <seg>Тып усталяваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installation and Use</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140307T100156Z" creationid="GABIN" creationdate="20140307T100156Z">
@@ -20986,6 +21346,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20180606T090808Z" creationid="GABIN" creationdate="20180606T090808Z">
         <seg>Кіраўнік інтэграцыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Intended in particular for users who are new to Linux.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T141852Z" creationid="GABIN" creationdate="20180613T141852Z">
+        <seg>Прызначана ў першую чаргу для навічкоў у Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21174,6 +21542,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Issues/bugs tracking system</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T123324Z" creationid="GABIN" creationdate="20180606T123324Z">
+        <seg>Трэкер праблемаў/памылак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It allows accessing both public and private data, where private glossaries (called "collections") can be extracted from existing documents, and the target terms partly populated automatically from various sources.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160712T142351Z" creationid="GABIN" creationdate="20160621T134843Z">
@@ -21242,6 +21618,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140725T140715Z" creationid="GABIN" creationdate="20140725T140715Z">
         <seg>Ён можа таксама выявіць некаторыя граматычныя памылкі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It can be found in the "docs" folder in your OmegaT program folder.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180612T145534Z" creationid="GABIN" creationdate="20180612T145534Z">
+        <seg>Ён знаходзіцца ў каталёгу “docs” у праграмным каталёгу OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22859,6 +23243,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Links are provided below to the various versions of OmegaT.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180615T131206Z" creationid="GABIN" creationdate="20180615T131206Z">
+        <seg>Ніжэй падаюцца спасылкі на розныя вэрсіі OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linux (Intel) Users</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160406T134112Z" creationid="GABIN" creationdate="20160406T134112Z">
@@ -23072,6 +23464,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Localizing OmegaT</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T141740Z" creationid="GABIN" creationdate="20180613T141740Z">
+        <seg>Localizing OmegaT (на ангельскай)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Location</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20130424T185953Z">
@@ -23190,6 +23590,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20130425T120039Z">
         <seg>MRJ Adapter 1.0.8, аўтар Стыў Рой (ліцэнзія LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MS Translator</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T141003Z" creationid="GABIN" creationdate="20180613T141003Z">
+        <seg>MS Translator (на ангельскай)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23351,6 +23759,14 @@ The Mac version comes bundled with a JRE.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160316T132721Z" creationid="GABIN" creationdate="20160316T132721Z">
         <seg>Файлы CSV Magento CE Locale (*.csv)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mailing lists</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T122659Z" creationid="GABIN" creationdate="20180606T122659Z">
+        <seg>Сьпісы рассылкі</seg>
       </tuv>
     </tu>
     <tu>
@@ -26033,6 +26449,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT Download Selector</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180621T131949Z" creationid="GABIN" creationdate="20180621T131949Z">
+        <seg>Выбар спампоўкі OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Javadoc...</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20170503T135243Z" creationid="GABIN" creationdate="20170503T135243Z">
@@ -26097,6 +26521,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T122744Z" creationid="GABIN" creationdate="20180606T122744Z">
+        <seg>OmegaT таксама мае наступныя сьпісы рассылкі і трэкеры на Sourceforge:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT automatically saves translations every 10 minutes as well as when you close the project or quit OmegaT.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160503T132154Z" creationid="GABIN" creationdate="20160503T132154Z">
@@ -26149,6 +26581,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20170206T124134Z" creationid="GABIN" creationdate="20170206T124134Z">
         <seg>OmegaT можа сгенэраваць і захаваць галоўны пароль, каб ня трэба было яго ўводзіць кожны раз, але гэта менш бясьпечна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT compatibility</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T134222Z" creationid="GABIN" creationdate="20180613T134222Z">
+        <seg>OmegaT compatibility (на ангельскай)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26209,10 +26649,26 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT for Beginners tutorial</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T125648Z" creationid="GABIN" creationdate="20180613T125648Z">
+        <seg>OmegaT for Beginners (на ангельскай)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160621T094202Z" creationid="GABIN" creationdate="20160621T094202Z">
         <seg>OmegaT мае ўбудаваную праверку правапісу на аснове модуля, які ўжываецца ў такіх праграмах як Apache OpenOffice, LibreOffice, Firefox і Thunderbird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has a very active, supportive and multilingual user group &lt;a0&gt;here&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T122608Z" creationid="GABIN" creationdate="20180606T122608Z">
+        <seg>OmegaT мае вельмі актыўную шматмоўную &lt;a0&gt;групу карыстальнікаў&lt;/a0&gt;, да якой карыстальнікам вельмі пажадана далучыцца.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26371,6 +26827,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160314T093815Z" creationid="GABIN" creationdate="20160314T093815Z">
         <seg>OmegaT пастаўляецца як пакет, які можна спампаваць з сайта SourceForge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is supplied with a comprehensive user manual.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180607T114939Z" creationid="GABIN" creationdate="20180607T114939Z">
+        <seg>OmegaT уключае ўсеабдымны дапаможнік карыстальніка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26534,10 +26998,26 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT text export function</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T141518Z" creationid="GABIN" creationdate="20180613T141518Z">
+        <seg>OmegaT text export function (на ангельскай)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT thus takes the TUV segments corresponding to the project's source and target language codes and uses them as the source and target segments respectively.</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20160622T190928Z" creationid="gabi" creationdate="20160622T190928Z">
         <seg>Такім чынам, OmegaT бярэ сэгмэнты ПА, адпаведныя кодам мовы арыгінала і перакладу, і выкарыстоўвае іх у якасьці зыходнага тэксту і тэксту перакладу адпаведна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT tokenizer plugin</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T141235Z" creationid="GABIN" creationdate="20180613T141235Z">
+        <seg>OmegaT tokenizer plugin (на ангельскай)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26628,6 +27108,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20151123T130507Z" creationid="GABIN" creationdate="20151123T130507Z">
         <seg>Вэрсія OmegaT {0}, абнаўленьне {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT videos on the Qabiria YouTube channel.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180615T131006Z" creationid="GABIN" creationdate="20180615T130952Z">
+        <seg>Відэа пра OmegaT на YouTube-канале Qabiria (на ангельскай).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27336,6 +27824,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Operating System</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180621T132059Z" creationid="GABIN" creationdate="20180621T132059Z">
+        <seg>Апэрацыйная сыстэма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Optionally, you can let &lt;a0&gt;OmegaT&lt;/a0&gt; have an additional tmx file (&lt;a1&gt;OmegaT&lt;/a1&gt;-style) anywhere you specify, containing all translatable segments of the project.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160808T093729Z" creationid="gabi" creationdate="20160622T183822Z">
@@ -27492,6 +27988,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160314T092115Z" creationid="GABIN" creationdate="20160314T092115Z">
         <seg>Іншыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other HowTos</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T141554Z" creationid="GABIN" creationdate="20180613T141554Z">
+        <seg>Іншыя артыкулы “HOWTO”</seg>
       </tuv>
     </tu>
     <tu>
@@ -28071,6 +28575,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Playlist of OmegaT videos</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180615T130936Z" creationid="GABIN" creationdate="20180615T130936Z">
+        <seg>Сьпіс прайграваньня відэа пра OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please check the &lt;u0&gt;ISO 639 Code Tables&lt;/u0&gt; for further and up-to-date information about language codes.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20150526T083411Z" creationid="GABIN" creationdate="20150526T083411Z">
@@ -28127,6 +28639,22 @@ to determine the source of the error and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T123428Z" creationid="GABIN" creationdate="20180606T123428Z">
+        <seg>Наконт пытанняў, не ахопленых вышэй, зьвяртайцеся да &lt;a0&gt;кіраўніка праекта OmegaT&lt;/a0&gt;.&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please contact the &lt;a2&gt;webmaster&lt;/a2&gt; for any point regarding specifically the website.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T123504Z" creationid="GABIN" creationdate="20180606T123504Z">
+        <seg>Наконт пытанняў, датычных канкрэтна вэб-сайта зьвяртайцеся да &lt;a2&gt;вэб-майстра&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please contact your project administrator to find out if any
 additional steps need to be taken.</seg>
       </tuv>
@@ -28141,6 +28669,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140721T120414Z">
         <seg>Сьпярша трэба выправіць праблемы з тэгамі, затым зноў адкампіляваць пераклады.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please do not use these tracking systems before first raising the issue on the user group and/or mailing lists.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T123313Z" creationid="GABIN" creationdate="20180606T123313Z">
+        <seg>Просьба не карыстацца трэкерамі, сьпярша не абмеркаваўшы праблему ў групе карыстальн або ў адной з рассылак.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28624,6 +29160,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preview</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T141153Z" creationid="GABIN" creationdate="20180613T141153Z">
+        <seg>Preview (на ангельскай)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Previous</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140721T113708Z" creationid="GABIN" creationdate="20140721T113708Z">
@@ -28741,6 +29285,38 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20150901T132312Z" creationid="GABIN" creationdate="20150901T132312Z">
         <seg>Праблемы са слоўнікамі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for configuring Microsoft Translator.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T141119Z" creationid="GABIN" creationdate="20180613T141119Z">
+        <seg>Працэдура канфігураваньня Microsoft Translator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize Magento.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180614T133328Z" creationid="GABIN" creationdate="20180614T133328Z">
+        <seg>Працэдура ўжываньня OmegaT для лякалізацыі Magento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize XLIFF files exported from Wordpress.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180614T133353Z" creationid="GABIN" creationdate="20180614T133353Z">
+        <seg>Працэдура ўжываньня OmegaT для лякалізацыі файлаў XLIFF, экспартаваных з Wordpress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize the NetBeans IDE.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180614T133313Z" creationid="GABIN" creationdate="20180614T133313Z">
+        <seg>Працэдура ўжываньня OmegaT для лякалізацыі NetBeans IDE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29069,6 +29645,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20150526T125325Z" creationid="GABIN" creationdate="20150526T125325Z">
         <seg>Праектамі можна кіраваць згодна з вашым стылем і патрэбамі распрацоўкі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Propagation and one-to-many matching</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T140935Z" creationid="GABIN" creationdate="20180613T140935Z">
+        <seg>Propagation and one-to-many matching (на ангельскай)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32207,6 +32791,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Self-paced online training course in English (for purchase)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T140642Z" creationid="GABIN" creationdate="20180613T140642Z">
+        <seg>Інтэрнэт-курс для навучаньня ў адвольным тэмпе (платны)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sentence level segmentation</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20160619T183401Z" creationid="gabi" creationdate="20160619T183401Z">
@@ -32379,6 +32971,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20160515T155437Z" creationid="gabi" creationdate="20160515T155212Z">
         <seg>Пасьля ўключэньня опцыі паказу інфармацыі пра зьмены для &lt;e0&gt;бягучага сэгмэнта&lt;/e0&gt; будуць бачнымі час і аўтар апошняй зьмены бягучага сэгмэнта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting up a preview function for use with OmegaT.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T141220Z" creationid="GABIN" creationdate="20180613T141220Z">
+        <seg>Наладка функцыі папярэдняга прагляду для выкарыстаньня ў OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32683,6 +33283,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160330T131432Z" creationid="GABIN" creationdate="20160330T131432Z">
         <seg>Паколькі тэгі ўключаюцца ў тэкст, можна выкарыстоўваць правілы сэгмэнтаваньня, каб атрымліваць сэгмэнты зь меншай колькасьцю тэгаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T122345Z" creationid="GABIN" creationdate="20180606T122345Z">
+        <seg>Ад самога пачатку праект атрымаў падтрымку вялікага мноства іншых удзельнікаў, ўсіх якіх на жаль пералічыць тут немагчыма, але мы ўдзячнымі ім за дапамогу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33395,6 +34003,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160621T123553Z" creationid="GABIN" creationdate="20160621T123553Z">
         <seg>Наладка праверкі правапісу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellchecking</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T135734Z" creationid="GABIN" creationdate="20180613T135734Z">
+        <seg>Spellchecking (на ангельскай)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35077,6 +35693,14 @@ Okapi (http://okapi.sourceforge.net) (ліцэнзія LGPL)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The HTML user manual for OmegaT standard version.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180612T145643Z" creationid="GABIN" creationdate="20180612T145643Z">
+        <seg>Дапаможнік карыстальніка ў фармаце HTML для стандартнай вэрсіі OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140721T092217Z" creationid="GABIN" creationdate="20140721T092217Z">
@@ -35145,6 +35769,14 @@ Okapi (http://okapi.sourceforge.net) (ліцэнзія LGPL)</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140721T092019Z" creationid="GABIN" creationdate="20140721T092019Z">
         <seg>Фільтрам Mozilla DTD выкінутае выключэньне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT developers' list.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T122805Z" creationid="GABIN" creationdate="20180606T122805Z">
+        <seg>Сьпіс рассылкі распрацоўнікаў OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36119,6 +36751,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following tutorials are available online/for download:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T125559Z" creationid="GABIN" creationdate="20180613T125559Z">
+        <seg>Наступныя падручнікі можна прачытаць у Інтэрнэце або спампаваць:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following two steps will bring the server version up to date:</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20150622T140228Z" creationid="GABIN" creationdate="20150622T140228Z">
@@ -36752,6 +37392,14 @@ an access to the hard drive of the computer.</seg>
 ”неабмежаваны доступ да кампутара”), зьяўляюцца такімі ж самымі, што і дазволы,
 якія даюцца лякальнай вэрсіі, усталяванай паводле працэдуры, апісанай далей:
 яны дазваляюць доступ да жорсткага дыска кампутара.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The philosophy of the project is described &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T122142Z" creationid="GABIN" creationdate="20180606T122142Z">
+        <seg>Філязофія праекта апісаная &lt;a0&gt;тут&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37652,10 +38300,26 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The user group also serves as the main point of contact between users and the project team.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T122649Z" creationid="GABIN" creationdate="20180606T122649Z">
+        <seg>Група карыстальнікаў таксама служыць галоўным пунктам кантакту паміж карыстальнікамі і камандай праекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The user interface</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160627T143058Z" creationid="GABIN" creationdate="20160627T143058Z">
         <seg>Інтэрфэйс карыстальніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The user manual for OmegaT in PDF format ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180612T145558Z" creationid="GABIN" creationdate="20180612T145558Z">
+        <seg>Дапаможнік карыстальніка OmegaT у фармаце PDF ({{ site.data.versions.standard.name }}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37698,6 +38362,14 @@ the [Help] menu after starting OmegaT.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160330T125334Z" creationid="GABIN" creationdate="20160330T125334Z">
         <seg>Пры праверцы тэгаў выяўляюцца зьмены ў пасьлядоўнасьцях тэгаў (выпадковыя або наўмысныя) і паказваюцца сэгмэнты зь імі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The version for installation by the user, familiar to existing OmegaT users.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180622T130438Z" creationid="GABIN" creationdate="20180622T130438Z">
+        <seg>Вэрсія да ўсталяваньня, знаёмая існым карыстальнікам OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38028,6 +38700,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20151125T125442Z">
         <seg>Гэтыя адзінкі прамінутыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These utilities enable OmegaT to be used to translate file formats for which XLIFF conversion filters are available.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180615T130911Z" creationid="GABIN" creationdate="20180615T130911Z">
+        <seg>Гэтыя ўтыліты дазваляюць перакладаць у OmegaT файлы ў фарматах, для якіх ёсьць фільтры для пераўтварэньня ў XLIFF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38737,6 +39417,22 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This list is for more technical discussion of features and development, and is intended for OmegaT developers and other interested parties.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T123105Z" creationid="GABIN" creationdate="20180606T123105Z">
+        <seg>Гэтая рассылка прызначана для болей тэхнічнага абмеркаваньня функцыяналу і распрацоўкі, у ёй удзельнічаюць распрацоўнікі OmegaT ды іншыя зацікаўленыя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This mailing list is for localizers of OmegaT.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T123126Z" creationid="GABIN" creationdate="20180606T123126Z">
+        <seg>Гэта — рассылка для ўдзельнікаў лякалізацыі OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This manual, however, would not be possible without the help and support from a number of people.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160712T145954Z" creationid="GABIN" creationdate="20140723T145714Z">
@@ -39193,6 +39889,14 @@ file type is associated with Java on your system.</seg>
       <tuv lang="BE" changeid="GABIN" changedate="20161018T084651Z">
         <seg>Праглядзець старонку паведамленьняў пра памылкі і падаць новае,
 калі неабходна, можна тут:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180611T145544Z" creationid="GABIN" creationdate="20180611T145544Z">
+        <seg>Каб выклікаць дапаможнік з OmegaT, трэба проста выбраць мэню Даведка → Дапаможнік карыстальніка або націснуць F1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39937,6 +40641,38 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tracking system</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T123137Z" creationid="GABIN" creationdate="20180606T123137Z">
+        <seg>Трэкер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Traditional</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180621T132104Z" creationid="GABIN" creationdate="20180621T132104Z">
+        <seg>Традыцыйная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Training</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T140619Z" creationid="GABIN" creationdate="20180613T140619Z">
+        <seg>Навучаньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Training videos</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180615T130918Z" creationid="GABIN" creationdate="20180615T130918Z">
+        <seg>Навучальныя відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Trans&amp;lated or untranslated</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140721T091457Z" creationid="GABIN" creationdate="20140721T091457Z">
@@ -40123,10 +40859,26 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translating NetBeans IDE</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180614T133256Z" creationid="GABIN" creationdate="20180614T133256Z">
+        <seg>Translating NetBeans IDE (на ангельскай)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translating Project</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20130425T130400Z">
         <seg>Пераклад праекта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translating with Rainbow and OmegaT</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180614T133359Z" creationid="GABIN" creationdate="20180614T133359Z">
+        <seg>Translating with Rainbow and OmegaT (на ангельскай)</seg>
       </tuv>
     </tu>
     <tu>
@@ -40303,6 +41055,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140725T131649Z" creationid="GABIN" creationdate="20140725T131645Z">
         <seg>Туркмэнская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tutorials</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T125520Z" creationid="GABIN" creationdate="20180613T125520Z">
+        <seg>Падручнікі</seg>
       </tuv>
     </tu>
     <tu>
@@ -40577,6 +41337,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20160618T032413Z" creationid="GABIN" creationdate="20150917T140700Z">
         <seg>Здымеце гэты сьцяжок, каб пазьбегнуць пашкоджаньня тэгаў (гэта значыць, частковага выдаленьня) падчас рэдагаваньня.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uncleaned RTF</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T134416Z" creationid="GABIN" creationdate="20180613T134416Z">
+        <seg>Uncleaned RTF (на ангельскай)</seg>
       </tuv>
     </tu>
     <tu>
@@ -41381,6 +42149,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User group</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T122401Z" creationid="GABIN" creationdate="20180606T122401Z">
+        <seg>Група карыстальнікаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User interface language</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160413T083659Z" creationid="GABIN" creationdate="20160413T083659Z">
@@ -41393,6 +42169,22 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20130425T132820Z">
         <seg>Мова інтэрфэйса карыстальніка для OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User manual online</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180612T145544Z" creationid="GABIN" creationdate="20180612T145544Z">
+        <seg>Дапаможнік карыстальніка ў Інтэрнэце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User manuals</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180606T123511Z" creationid="GABIN" creationdate="20180606T123511Z">
+        <seg>Дапаможнікі карыстальніка</seg>
       </tuv>
     </tu>
     <tu>
@@ -41521,6 +42313,22 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using OmegaT in conjunction with Google Translate.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T140958Z" creationid="GABIN" creationdate="20180613T140954Z">
+        <seg>Карыстаньне OmegaT у зьвязку з Google Translate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using OmegaT on Linux</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T141809Z" creationid="GABIN" creationdate="20180613T141809Z">
+        <seg>Using OmegaT on Linux (на ангельскай)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using TMX with alternative language pairs</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160627T135752Z" creationid="GABIN" creationdate="20160627T135752Z">
@@ -41565,6 +42373,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160621T132316Z" creationid="GABIN" creationdate="20160621T132316Z">
         <seg>Ужываньне слоўнікаў для праверкі правапісу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the OmegaT text export function (scripting interface).</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T141543Z" creationid="GABIN" creationdate="20180613T141543Z">
+        <seg>Ужываньне функцыі экспарту тэксту ў OmegaT (інтэрфэйс сцэнароў).</seg>
       </tuv>
     </tu>
     <tu>
@@ -41753,10 +42569,26 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Velior's corporate blog &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T132455Z" creationid="GABIN" creationdate="20180613T132455Z">
+        <seg>Карпаратыўны блог Velior&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Venda</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140725T135048Z" creationid="GABIN" creationdate="20140725T135048Z">
         <seg>Вэнда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180621T132053Z" creationid="GABIN" creationdate="20180621T132053Z">
+        <seg>Вэрсія</seg>
       </tuv>
     </tu>
     <tu>
@@ -41789,6 +42621,30 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20141030T131842Z" creationid="GABIN" creationdate="20141030T131842Z">
         <seg>Вельмі папулярныя кліенты для Windows — &lt;u1&gt;TortoiseSVN&lt;/u1&gt; і &lt;u2&gt;TortoiseGit&lt;/u2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video 1</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T140535Z" creationid="GABIN" creationdate="20180613T140535Z">
+        <seg>Відэа 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video 2</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T140539Z" creationid="GABIN" creationdate="20180613T140539Z">
+        <seg>Відэа 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video 3</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T140544Z" creationid="GABIN" creationdate="20180613T140544Z">
+        <seg>Відэа 3</seg>
       </tuv>
     </tu>
     <tu>
@@ -42674,6 +43530,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With links to more detailed HOWTOs.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T134317Z" creationid="GABIN" creationdate="20180613T134317Z">
+        <seg>Са спасылкамі на больш падрабязныя артыкулы “howto”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With that option, no locking occurs.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160425T121603Z" creationid="GABIN" creationdate="20160425T121603Z">
@@ -43130,6 +43994,14 @@ Spotlight search field.</seg>
       <tuv lang="BE" changeid="gabi" changedate="20130505T125841Z">
         <seg>Праграму таксама можна будзе выклікаць
 праз пошукавае поле Spotlight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180612T145458Z" creationid="GABIN" creationdate="20180612T145458Z">
+        <seg>Дапаможнік карыстальніка, які ўваходзіць у склад OmegaT, можна праглядаць, не запускаючы саму праграму.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44365,6 +45237,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>docx compatibility</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T134329Z" creationid="GABIN" creationdate="20180613T134329Z">
+        <seg>docx compatibility (на ангельскай)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>done ({0} ms elapsed)</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160822T073004Z" creationid="GABIN" creationdate="20160707T144445Z">
@@ -45575,6 +46455,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>on translation and the &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T132501Z" creationid="GABIN" creationdate="20180613T132501Z">
+        <seg>пра пераклад&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>one char left, but not further than the beginning of segment</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140724T125842Z" creationid="GABIN" creationdate="20140724T125714Z">
@@ -46253,6 +47141,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160627T141534Z" creationid="GABIN" creationdate="20160627T141534Z">
         <seg>або тоесным зыходнаму тэксту (па змаўчаньні)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>translation industry</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20180613T132509Z" creationid="GABIN" creationdate="20180613T132509Z">
+        <seg>і перакладчыцкую галіну</seg>
       </tuv>
     </tu>
     <tu>
