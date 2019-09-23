@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10636" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.0_0_e0e1b4cc" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -498,6 +498,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20170206T124406Z" creationid="GABIN" creationdate="20170206T124406Z">
         <seg>&amp;Аўтаматычна накіроўваць пераклады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190418T092422Z" creationid="GABIN" creationdate="20190418T092422Z">
+        <seg>&amp;Аўтаматычны пошук тэксту сэгмэнта ў слоўніку</seg>
       </tuv>
     </tu>
     <tu>
@@ -2010,6 +2018,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="BE" changeid="GABIN" changedate="20160808T131945Z">
         <seg>(Сьпіс падтрыманых фарматаў файлаў знаходзіцца ў дапаможніку карыстальніка, гл. “Файлы да перакладу” → “Фарматы файлаў”).
 Каб дадаць файлы ў праект, трэба націснуць кнопку “Імпарт зыходных файлаў…” у вакне файлаў праекта, або вызваць гэта дзеяньне праз мэню Праект і абраць зыходныя файлы, якія трэба імпартаваць.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Leave the Password empty if you are using an API Key.)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190418T092642Z" creationid="GABIN" creationdate="20190418T092642Z">
+        <seg>(Пакіньце пароль пустым, калі ўжываеце ключ API.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9284,6 +9300,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Anthony Baldwin (localisation manager)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190418T092317Z" creationid="GABIN" creationdate="20190418T092317Z">
+        <seg>Энтані Болдвін (кіраўнік лякалізацыі)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Antonio Vilei</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20130505T130131Z">
@@ -10051,6 +10075,18 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140725T095502Z" creationid="GABIN" creationdate="20140725T095502Z">
         <seg>Бамбара</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bartender yells loud:
+Your page cannot be found, boy
+Buy another drink</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T125918Z" creationid="GABIN" creationdate="20190923T125918Z">
+        <seg>Бармэн вымавіў ціха:
+«Яе не знайсьці.
+Лепш выпі яшчэ.»</seg>
       </tuv>
     </tu>
     <tu>
@@ -12473,6 +12509,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190418T092522Z" creationid="GABIN" creationdate="20190418T092522Z">
+        <seg>Аўтарскія правы © 2000-2019 гг. Кіт Годфры, Максім Міхальчук і іншыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cornish</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140725T102932Z" creationid="GABIN" creationdate="20140725T102932Z">
@@ -13359,6 +13403,22 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160224T143020Z" creationid="GABIN" creationdate="20160224T143020Z">
         <seg>Блякаваньне курсора ўкл.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cursor locked</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T125715Z" creationid="GABIN" creationdate="20190923T125715Z">
+        <seg>Блякаваньне курсора ўкл.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cursor unlocked</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T125720Z" creationid="GABIN" creationdate="20190923T125720Z">
+        <seg>Блякаваньне курсора выкл.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15191,6 +15251,18 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Emptiness of soul
+Forever aching blackness
+Your help page not found</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T125955Z" creationid="GABIN" creationdate="20190923T125955Z">
+        <seg>Пустэча ў душы.
+Вечна ныючая цемра.
+Няма старонкі, няма.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20130424T184232Z">
@@ -15515,6 +15587,18 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20121017T065907Z">
         <seg>Сэгмэнтаў са зьмененымі тэгамі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ephemeral page
+I am the Blue Screen of Death
+No one hears your screams</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T130007Z" creationid="GABIN" creationdate="20190923T130007Z">
+        <seg>Эфэмэрная
+сіняя старонка сьмерці.
+Твае крыкі ніхто ня чуе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15976,6 +16060,18 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exciting help page
+Gossamer threads hold you back
+404 not found</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T125832Z" creationid="GABIN" creationdate="20190923T125832Z">
+        <seg>Гэтая старонка
+мусіць вельмі патрэбная.
+Але няма яе няма.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exciting help page&lt;p&gt;Gossamer threads hold you back&lt;p&gt;404 not found</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20130424T184214Z">
@@ -16028,6 +16124,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20130425T112430Z">
         <seg>Выкананьне зьнешняй каманды…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Executing script {0} (event {1})</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190418T092659Z" creationid="GABIN" creationdate="20190418T092659Z">
+        <seg>Выконваецца сцэнар {0} (падзея {1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -16332,6 +16436,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20130424T184414Z">
         <seg>Не атрымалася стварыць праект!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to fetch latest version info: {0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190418T092843Z" creationid="GABIN" creationdate="20190418T092843Z">
+        <seg>Не атрымалася атрымаць зьвесткі аб апошняй вэрсіі: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -18247,6 +18359,18 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Help you are seeking
+From your path it is fleeing
+Its winter has come</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T130032Z" creationid="GABIN" creationdate="20190923T130032Z">
+        <seg>Ты просіш дапамогі.
+Але растварылася ў ночы
+гэтая старонка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Help you are seeking&lt;p&gt;From your path it is fleeing&lt;p&gt;Its winter has come</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20130424T184240Z">
@@ -18635,6 +18759,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160316T132642Z" creationid="GABIN" creationdate="20160316T132642Z">
         <seg>Файлы INI (ключ=значэньне, .ini)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>INS</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T125808Z" creationid="GABIN" creationdate="20190923T125808Z">
+        <seg>УСТ</seg>
       </tuv>
     </tu>
     <tu>
@@ -21070,6 +21202,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Mode</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T125744Z" creationid="GABIN" creationdate="20190923T125744Z">
+        <seg>Рэжым устаўкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20130514T150446Z">
@@ -22185,6 +22325,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jean-Christophe Helary (support group owner, localisation manager)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190418T092325Z" creationid="GABIN" creationdate="20190418T092325Z">
+        <seg>Жан-Крыстоф Эляры (уладальнік групы падтрымкі, кіраўнік лякалізацыі)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jean-Christophe Helary (support group owner, localization manager)</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20180606T082235Z" creationid="GABIN" creationdate="20180606T082235Z">
@@ -22573,6 +22721,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20131218T072240Z" creationid="GABIN" creationdate="20131218T072240Z">
         <seg>&amp;Часопіс…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LCK</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T125759Z" creationid="GABIN" creationdate="20190923T125759Z">
+        <seg>БЛК</seg>
       </tuv>
     </tu>
     <tu>
@@ -24019,6 +24175,14 @@ The Mac version comes bundled with a JRE.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Marco Cevoli (Telegram community manager)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190418T092255Z" creationid="GABIN" creationdate="20190418T092255Z">
+        <seg>Марка Чэволі (кіраўнік супольнасьці ў Telegram)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark &amp;Auto-Populated Segments</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20170206T082854Z" creationid="GABIN" creationdate="20170206T082854Z">
@@ -24039,6 +24203,14 @@ The Mac version comes bundled with a JRE.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20130425T124739Z">
         <seg>Пазначаць &amp;неразрыўныя прабелы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T125706Z" creationid="GABIN" creationdate="20190923T125706Z">
+        <seg>Пазначаць граніцы &amp;абзацаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -24603,6 +24775,14 @@ The Mac version comes bundled with a JRE.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Model Id:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190418T092615Z" creationid="GABIN" creationdate="20190418T092615Z">
+        <seg>Ідэнтыфікатар мадэлі:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modification Info</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20160515T155125Z" creationid="gabi" creationdate="20160515T155125Z">
@@ -24715,6 +24895,14 @@ The Mac version comes bundled with a JRE.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moodle PHP Filter Options</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190418T092454Z" creationid="GABIN" creationdate="20190418T092454Z">
+        <seg>Налады фільтра Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20150515T090250Z" creationid="GABIN" creationdate="20150515T090250Z">
@@ -24791,6 +24979,18 @@ The Mac version comes bundled with a JRE.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140307T101949Z" creationid="GABIN" creationdate="20140307T101949Z">
         <seg>Для большасьці карыстальнікаў налады файлавых фільтраў па змаўчаньні будуць дастатковымі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mourning and sorrow
+404 not with us now
+Lost to paradise</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T130024Z" creationid="GABIN" creationdate="20190923T130024Z">
+        <seg>Сусьветны смутак.
+Старонкі няма з намі,
+але яна ў раю.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26349,6 +26549,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20180606T083033Z" creationid="GABIN" creationdate="20180606T083033Z">
         <seg>ОК</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OVR</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T125806Z" creationid="GABIN" creationdate="20190923T125806Z">
+        <seg>ПРЗ</seg>
       </tuv>
     </tu>
     <tu>
@@ -28138,6 +28346,14 @@ install the Oracle JRE on your own.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Overwrite Mode</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T125734Z" creationid="GABIN" creationdate="20190923T125734Z">
+        <seg>Рэжым перазапісу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Overwriting is operating until the TMX is removed from /tm/enforce.</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20160622T181428Z" creationid="gabi" creationdate="20160622T181428Z">
@@ -28226,6 +28442,18 @@ install the Oracle JRE on your own.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page slips through fingers
+Pulse pounding hard and frantic
+Vanishing like mist</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T125926Z" creationid="GABIN" creationdate="20190923T125926Z">
+        <seg>Ціха скрозь пальцы
+сьлізганула старонка.
+І зьнікла нібы туман.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20130424T184227Z">
@@ -28262,6 +28490,22 @@ install the Oracle JRE on your own.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140725T130557Z" creationid="GABIN" creationdate="20140725T130557Z">
         <seg>Панджабі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paragraph delimitation</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190418T092736Z" creationid="GABIN" creationdate="20190418T092736Z">
+        <seg>Граніцы абзацаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paragraph delimitation format:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190418T092541Z" creationid="GABIN" creationdate="20190418T092541Z">
+        <seg>Фармат граніц абзацаў:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29857,6 +30101,18 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rather than beep
+Or a rude error message
+These words: 'Page not found'</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T130015Z" creationid="GABIN" creationdate="20190923T130015Z">
+        <seg>Гукавы сыгнал?
+Паведамленьне пра памылку?
+Ды не, проста “старонка не знойдзеная”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rather than beep&lt;p&gt;Or a rude error message&lt;p&gt;These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160712T142351Z">
@@ -30309,6 +30565,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160707T143604Z" creationid="GABIN" creationdate="20160707T143604Z">
         <seg>Аддаленыя рэпазыторыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remote repository network communication error: {0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190418T092726Z" creationid="GABIN" creationdate="20190418T092726Z">
+        <seg>Памылка сеткавай сувязі з аддаленым рэпазыторыем: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -31793,6 +32057,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20170503T135439Z" creationid="GABIN" creationdate="20170503T135439Z">
         <seg>Пошук ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search Dictionaries</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190418T092430Z" creationid="GABIN" creationdate="20190418T092430Z">
+        <seg>Пошук у слоўніках</seg>
       </tuv>
     </tu>
     <tu>
@@ -33355,6 +33627,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20130425T120427Z">
         <seg>Абмінаць тэкст, які супадае з рэгулярным выразам:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skipping previously loaded plugin from class '{0}'</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T130106Z" creationid="GABIN" creationdate="20190923T130106Z">
+        <seg>Прамінаем папярэдне загружаны плагін з клясу '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -35757,6 +36037,14 @@ Okapi (http://okapi.sourceforge.net) (ліцэнзія LGPL)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Moodle PHP filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190418T092508Z" creationid="GABIN" creationdate="20190418T092508Z">
+        <seg>Фільтар Moodle PHP выкінуў выключэньне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Moses server URL is not set</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20180606T083024Z" creationid="GABIN" creationdate="20180606T083024Z">
@@ -36859,6 +37147,18 @@ instead.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160707T142330Z" creationid="GABIN" creationdate="20160707T142330Z">
         <seg>Браўзэр даведкі (у якім паказваецца гэты дапаможнік) можна адкрыць клявішай &lt;k0&gt;&lt;i1/&gt;F1&lt;/k0&gt; або праз мэню &lt;g2&gt;&lt;i3/&gt;Даведка → Дапаможнік карыстальніка&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The help page you seek
+Lies beyond our perception
+But others await</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T125947Z" creationid="GABIN" creationdate="20190923T125947Z">
+        <seg>Разьдзел, што шукаеш,
+знайсьці немагчыма.
+Але шмат яшчэ іншых.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38676,6 +38976,18 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160622T095649Z" creationid="GABIN" creationdate="20160622T095649Z">
         <seg>Гэтыя файлы зьяўляюцца копіямі файла &lt;f0&gt;project_save.tmx&lt;/f0&gt;, асноўнай памяці перакладаў праекта, за выключэньнем састарэлых сэгмэнтаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These three are certain:
+Death, taxes, and page not found
+You, victim of one</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T125937Z" creationid="GABIN" creationdate="20190923T125937Z">
+        <seg>Тры рэчы вечныя:
+сьмерць, падаткі і “старонка ня знойдзеная”.
+Здагадайцеся, што здарылася.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41149,6 +41461,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>UNL</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T125801Z" creationid="GABIN" creationdate="20190923T125801Z">
+        <seg>НБЛ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>URL</seg>
       </tuv>
       <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T183410Z" creationid="Kos Ivantsov" creationdate="20180606T183410Z">
@@ -42251,6 +42571,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20130425T121611Z">
         <seg>Карыстальнік:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username or API Key:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190418T092604Z" creationid="GABIN" creationdate="20190418T092604Z">
+        <seg>Імя карыстальніка або ключ API:</seg>
       </tuv>
     </tu>
     <tu>
@@ -43458,6 +43786,18 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20160515T160341Z" creationid="gabi" creationdate="20160515T160341Z">
         <seg>Паказ пераліку сэгмэнтаў з памылкамі тэгаў і магчымымі неадпаведнасьцямі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wind catches lily
+Scatt'ring petals to the wind:
+Your page is not found</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T125845Z" creationid="GABIN" creationdate="20190923T125845Z">
+        <seg>Лілея на ветравею.
+404 —
+злая памылка.</seg>
       </tuv>
     </tu>
     <tu>
