@@ -3440,6 +3440,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T130538Z" creationid="GABIN" creationdate="20190923T130538Z">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; аўтаматычна знаходзіць файлы глясароў у гэтым каталёгу пры адкрыцьці праекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; can detect and upgrade such tmx files on the fly to increase fuzzy matching quality and leverage your existing translation better, saving you the work of doing this manually.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160627T142823Z" creationid="GABIN" creationdate="20160627T142823Z">
@@ -7472,6 +7480,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; can be downloaded in nearly 100 languages and can serve as a cornerstone IT glossary.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T130713Z" creationid="GABIN" creationdate="20190923T130713Z">
+        <seg>&lt;u0&gt;Збор Microsoft Terminology&lt;/u0&gt;  можна спампаваць прыкладна на 100 мовах, і ён можа служыць у якасьці грунтоўнага глясара ў галіне інфармацыйных тэхналёгіяў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>===============</seg>
       </tuv>
       <tuv lang="BE" changeid="Kos Ivantsov" changedate="20180606T214050Z" creationid="Kos Ivantsov" creationdate="20180606T214050Z">
@@ -7942,6 +7958,14 @@ OmegaT запускаецца наступным чынам.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20150915T092325Z" creationid="GABIN" creationdate="20150915T092325Z">
         <seg>Арон Мадлан-Кэй (кіраўнік інтэграцыі)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T130123Z" creationid="GABIN" creationdate="20190923T130123Z">
+        <seg>Арон Мадлан-Кэй — кіраўнік праекта OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11181,6 +11205,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T130505Z" creationid="GABIN" creationdate="20190923T130505Z">
+        <seg>Праверце ва &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;ўласьцівасьцях&lt;/g5&gt; &lt;g6&gt;праекта&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check in Options &gt; Machine Translate, that Google Translate V2 is checked.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160502T130421Z" creationid="GABIN" creationdate="20160502T130421Z">
@@ -14263,6 +14295,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T130315Z" creationid="GABIN" creationdate="20190923T130315Z">
+        <seg>Элемэнты паказваюцца як “&lt;зыходны&gt; → &lt;пераклад&gt;”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160808T131945Z" creationid="GABIN" creationdate="20131218T075621Z">
@@ -15795,6 +15835,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error updating repository.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T130247Z" creationid="GABIN" creationdate="20190923T130247Z">
+        <seg>Памылка пры абнаўленьні рэпазыторыя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error while reading MT results</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20170503T135226Z" creationid="GABIN" creationdate="20170503T135222Z">
@@ -15823,6 +15871,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20130425T124832Z">
         <seg>Памылка {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error: {0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T130257Z" creationid="GABIN" creationdate="20190923T130257Z">
+        <seg>Памылка: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -17559,6 +17615,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From enforced memory</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T130332Z" creationid="GABIN" creationdate="20190923T130332Z">
+        <seg>З прымусовай памяці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From memory</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20141030T095615Z" creationid="GABIN" creationdate="20141030T095615Z">
@@ -17691,6 +17755,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20170206T124423Z" creationid="GABIN" creationdate="20170206T124423Z">
         <seg>Агульныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General Preferences</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T131056Z" creationid="GABIN" creationdate="20190923T131056Z">
+        <seg>Агульныя налады</seg>
       </tuv>
     </tu>
     <tu>
@@ -20386,6 +20458,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In OmegaT, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T131013Z" creationid="GABIN" creationdate="20190923T131013Z">
+        <seg>У OmegaT выберыце &lt;g0&gt;“Налады → Праверка правапісу”&lt;/g0&gt;, затым націсьнеце кнопку &lt;g1&gt;“Выбраць”&lt;/g1&gt; побач з полем каталёгу слоўнікаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In a file manager a translation project looks and acts just like any other folder.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160309T091924Z" creationid="GABIN" creationdate="20160309T091924Z">
@@ -20406,6 +20486,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160401T094324Z" creationid="GABIN" creationdate="20160401T094324Z">
         <seg>У дадатак да нефарматаванага тэксту падтрымліваюцца таксама глясары ў фармаце TBX &lt;i0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition to the plain text format, TBX format is also supported as a read-only glossary format.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T130556Z" creationid="GABIN" creationdate="20190923T130556Z">
+        <seg>У дадатак да нефарматаванага тэксту падтрымліваюцца таксама глясары ў фармаце TBX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20998,6 +21086,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160808T141113Z" creationid="GABIN" creationdate="20160808T141113Z">
         <seg>Шаблён уключэньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Include matches from &amp;other languages</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T130156Z" creationid="GABIN" creationdate="20190923T130156Z">
+        <seg>Уключаюць супадзеньні зь ін&amp;шых моваў</seg>
       </tuv>
     </tu>
     <tu>
@@ -28670,6 +28766,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Penalty for matches in other languages:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T130235Z" creationid="GABIN" creationdate="20190923T130235Z">
+        <seg>&amp;Пэнальты для супадзеньняў зь іншых моваў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Percentage adjusted</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160704T094418Z" creationid="GABIN" creationdate="20160704T094418Z">
@@ -32069,6 +32173,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search Found Mark</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T130350Z" creationid="GABIN" creationdate="20190923T130350Z">
+        <seg>Пазнака знойдзенага пры пошуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search Project</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20150916T145707Z" creationid="GABIN" creationdate="20150916T145707Z">
@@ -32081,6 +32193,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20140926T114357Z" creationid="GABIN" creationdate="20140926T114357Z">
         <seg>Пошук у праекце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search Replaced Mark</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T130358Z" creationid="GABIN" creationdate="20190923T130358Z">
+        <seg>Пазнака замененага пры пошуку</seg>
       </tuv>
     </tu>
     <tu>
@@ -32129,6 +32249,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160930T130828Z" creationid="GABIN" creationdate="20160930T130828Z">
         <seg>Пашукайце патрэбную камбінацыю моў — напрыклад, праз &lt;u0&gt;&lt;i1/&gt;спасылкі на слоўнікі ў Вікі OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T130415Z" creationid="GABIN" creationdate="20190923T130415Z">
+        <seg>Пашукайце патрэбную камбінацыю моваў — напрыклад, праз &lt;u0&gt;спасылкі на слоўнікі ў Вікі OmegaT&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33635,6 +33763,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20190923T130106Z" creationid="GABIN" creationdate="20190923T130106Z">
         <seg>Прамінаем папярэдне загружаны плагін з клясу '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skipping.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T130253Z" creationid="GABIN" creationdate="20190923T130253Z">
+        <seg>Прамінаем.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35558,6 +35694,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T130549Z" creationid="GABIN" creationdate="20190923T130549Z">
+        <seg>*Тэрміны ў бягучым сэгмэньце, якія &lt;a2&gt;OmegaT&lt;/a2&gt; знаходзіць у файлах глясароў, паказваюцца на панэлі глясароў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Terms in the current segment which &lt;a3&gt;OmegaT&lt;/a3&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160401T091138Z" creationid="GABIN" creationdate="20160401T091138Z">
@@ -37308,6 +37452,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="BE" changeid="gabi" changedate="20160521T182709Z" creationid="gabi" creationdate="20160521T182709Z">
         <seg>Месцазнаходжаньне ня мае значэньня, бо яго ўсё адно трэба задаваць яўна ў каманьдзе запуску.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The location of the &lt;f0&gt;.tbx&lt;/f0&gt; file must be within the &lt;f1&gt;/glossary&lt;/f1&gt; folder, but it can be in a deeper folder (e.g., &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T130647Z" creationid="GABIN" creationdate="20190923T130647Z">
+        <seg>Файл &lt;f0&gt;.tbx&lt;/f0&gt; мусіць быць у каталёгу &lt;f1&gt;/glossary&lt;/f1&gt; або ў падкаталёгу гэтага каталёга (напрыклад, &lt;f2&gt;/glossary/sub/glossary.tbt&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39356,6 +39508,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T131147Z" creationid="GABIN" creationdate="20190923T131147Z">
+        <seg>Гэты дыялёг выклікаецца праз &lt;m0&gt; &lt;g1&gt;Налады&lt;/g1&gt; → &lt;g2&gt;Налады…&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This dialog lists available file filters, where the filters used by the current project are displayed in bold.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160801T074416Z" creationid="GABIN" creationdate="20160801T074416Z">
@@ -40739,6 +40899,14 @@ script with ./linux-install.sh.</seg>
 гэтага сцэнара, адчынеце вакно тэрмінала (кансолі), перайдзеце ў каталёг,
 дзе знаходзяцца файлы OmegaT.jar і linux-install.sh (сцэнар усталёўкі),
 і выканайце сцэнар камандай ./linux-install.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use an existing glossary, simply place it in the &lt;f0&gt;/glossary&lt;/f0&gt; folder after creating the project.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T130529Z" creationid="GABIN" creationdate="20190923T130529Z">
+        <seg>Каб выкарыстоўваць існы глясар, проста зьмясьцеце яго ў каталёгу &lt;f0&gt;/glossary&lt;/f0&gt; пасьля стварэньня праекта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44456,6 +44624,14 @@ from there.</seg>
       </tuv>
       <tuv lang="BE" changeid="GABIN" changedate="20160304T095701Z" creationid="GABIN" creationdate="20160304T095701Z">
         <seg>Для кожнага файлавага фільтра можна дадаць або выдаліць шаблёны назваў файлаў, якія ён будзе апрацоўваць.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
+      </tuv>
+      <tuv lang="BE" changeid="GABIN" changedate="20190923T130921Z" creationid="GABIN" creationdate="20190923T130921Z">
+        <seg>Каб зьмяніць ужо прызначаныя спалучэньні або дадаваць новыя, трэба іх запісаць у файл вызначэньня спалучэньняў клявішаў у каталёгу наладаў &lt;a0&gt;OmegaT&lt;/a0&gt; (праз мэню &lt;m1&gt; &lt;g2&gt;Налады&lt;/g2&gt; &lt;g3&gt;Доступ да каталёга канфігурацыі&lt;/g3&gt; &lt;/m1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
