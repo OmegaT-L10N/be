@@ -8898,6 +8898,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow translation to be equal to source</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T131053Z" creationid="GABIN" creationdate="20191001T131053Z">
+        <seg>Дазволіць супадзеньне крыніцы і перакладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allows the user create an entry in the default glossary file.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160515T124646Z" creationid="gabi" creationdate="20160515T124646Z">
@@ -17404,6 +17412,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, if you enter &lt;u0&gt;\d+&lt;/u0&gt; into the &lt;g1&gt;Regular expression for custom tags&lt;/g1&gt; field, all numbers will be considered as tags, enabling you to check that numbers have not been changed by mistake during translation.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T133056Z" creationid="GABIN" creationdate="20191001T133056Z">
+        <seg>Напрыклад, калі ўвесьці &lt;u0&gt;\d+&lt;/u0&gt; у поле &lt;g1&gt;“Рэгулярныя выразы для карыстальніцкіх тэгаў”&lt;/g1&gt;, усе лікі будуць рахавацца да тэгаў, што дазваляе правяраць, ці зьмяніліся лікі ў перакладзе праз памылку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, if you have an outdated Microsoft Word version, that does not handle the ODT format, here's a round trip for Word files with the DOC extension:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160317T072726Z" creationid="GABIN" creationdate="20160317T072726Z">
@@ -21726,6 +21742,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150910T132519Z" creationid="GABIN" creationdate="20150910T132519Z">
         <seg>Уставіць найлепшае супадзеньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert the source text</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T131040Z" creationid="GABIN" creationdate="20191001T131040Z">
+        <seg>Зыходны тэкст</seg>
       </tuv>
     </tu>
     <tu>
@@ -41391,6 +41415,14 @@ as a Source Forge user.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To make this possible, select this option.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T131128Z" creationid="GABIN" creationdate="20191001T131122Z">
+        <seg>Каб гэта стала магчымым, выбірайце гэтую вопцыю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit.&lt;/e0&gt; To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160302T150921Z" creationid="GABIN" creationdate="20160302T150921Z">
@@ -43817,6 +43849,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Values around 100 display commands at the top, and values around 900 display them at the bottom.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T131005Z" creationid="GABIN" creationdate="20191001T131005Z">
+        <seg>Каманды са значэньнямі каля 100 паказваюцца ўверсе, са значэньнямі каля 900 — унізе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Variant skipped.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20151125T125453Z">
@@ -44464,6 +44504,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160317T083738Z" creationid="GABIN" creationdate="20160317T083738Z">
         <seg>Пры перакладзе паміж мовамі з рознымі напрамкамі пісьмовасьці можа патрабавацца пераключацца паміж рэжымамі зьлева-направа і справа-налева некалькі разоў, каб правільна чытаць тэгі крыніцы і правільна ўводзіць іх у тэкст перакладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T131153Z" creationid="GABIN" creationdate="20191001T131153Z">
+        <seg>Пры перакладзе файлаў, датычных праграмнага забесьпячэньня: можна наладзіць парамэтры праверкі тэгаў так, каб таксама правяраць праграмныя зьменныя (%…).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45306,6 +45354,14 @@ Spotlight search field.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also define various options relating to tag validation and define custom tags.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T131201Z" creationid="GABIN" creationdate="20191001T131201Z">
+        <seg>Тут таксама можна вызначыць розныя парамэтры праверкі тэгаў і карыстальніцкія тэгі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also enable project-specific file filters, which will only be used on the current project, by selecting the &lt;e1&gt;File Filters...&lt;/e1&gt; option in Project Properties.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160712T142336Z" creationid="GABIN" creationdate="20150924T134448Z">
@@ -46019,6 +46075,14 @@ them.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20170206T083720Z" creationid="GABIN" creationdate="20170206T083720Z">
         <seg>Гэты пароль будзе трэба ўводзіць пры кожным запуску OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You will need to restart OmegaT for this change to take effect.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T131027Z" creationid="GABIN" creationdate="20191001T131027Z">
+        <seg>Каб зьмены запрацавалі, спатрэбіцца перазапуск OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
