@@ -7770,6 +7770,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A script bundled with OmegaT called Switch Colour Themes provides a default "Dark" theme.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124615Z" creationid="GABIN" creationdate="20191001T124615Z">
+        <seg>Сцэнар, які ўваходзіць у склад OmegaT і называецца Switch Colour Themes, па змаўчаньні вызначае тэму “Dark”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A search may be limited to 1000 items, so if you search on a common phrase, the editor then shows only those 1000 matching entries, and not all entries that match the search criteria.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160618T095352Z" creationid="GABIN" creationdate="20160618T095352Z">
@@ -9911,6 +9919,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124057Z" creationid="GABIN" creationdate="20191001T124057Z">
+        <seg>Аўтаматычны пошук тэксту сэгмэнта ў слоўніку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automating modifications of the translated document file names by replacing translatable contents with its translation.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140307T101844Z" creationid="GABIN" creationdate="20140307T101844Z">
@@ -11529,6 +11545,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150527T145326Z" creationid="GABIN" creationdate="20150527T145307Z">
         <seg>Выдаліць данія праверкі сапраўднасьці для SVN-рэпазыторыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124200Z" creationid="GABIN" creationdate="20191001T124200Z">
+        <seg>Адключэце гэтую опцыю, каб адключыць аўтаматычны пошук. Гэта карысна, напрыклад, калі слоўнікі завялікія.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19333,6 +19357,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If necessary, you can select a specific domain to limit the volume of data sent and received.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124052Z" creationid="GABIN" creationdate="20191001T124052Z">
+        <seg>Пры неабходнасьці можна выбраць канкрэтную вобласьць, каб абмежаваць аб’ём адпраўкі і атрыманьня даніх.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If neither the language code not the country code match, the segments will be ignored.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160622T191209Z" creationid="gabi" creationdate="20160622T191209Z">
@@ -20194,6 +20226,14 @@ OmegaT.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160712T142351Z">
         <seg>Калі памясьціць такія файлы памяці перакладаў у падкаталёг &lt;f6&gt;/tm/&lt;/f6&gt; праекта, OmegaT будзе аўтаматычна шукаць у іх падобныя сэгмэнты, г. зв. “недакладныя супадзеньні”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124712Z" creationid="GABIN" creationdate="20191001T124712Z">
+        <seg>Калі ня трэба перакладаць файлы пэўнага тыпу, можна проста зьняць пазнаку насупраць назвы адпаведнага фільтра.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27580,6 +27620,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the target folder when creating target documents.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124724Z" creationid="GABIN" creationdate="20191001T124724Z">
+        <seg>OmegaT прапусьціць адпаведныя файлы пры загрузцы праектаў і будзе капіяваць іх бязь зьменаў пры стварэньні перакладаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will then report these segments as not translated.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150911T122433Z" creationid="GABIN" creationdate="20150911T122433Z">
@@ -29416,6 +29464,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pre-defined themes can be set using scripts.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124549Z" creationid="GABIN" creationdate="20191001T124549Z">
+        <seg>З дапамогай сцэнара можна задаваць вызначаныя тэмы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Predefined credentials was not passed.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160708T134606Z" creationid="GABIN" creationdate="20160708T134606Z">
@@ -30900,6 +30956,14 @@ These words: 'Page not found'</seg>
         <seg>Remove leading and trailing tags: uncheck this option to display all the tags including the leading and trailing ones.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20151112T073053Z" creationid="GABIN" creationdate="20151112T073053Z">
+        <seg>Выдаліць пачатковыя і канчатковыя тэгі: трэба зьняць гэтую пазнаку, каб паказваліся ўсе тэгі, і пачатковыя, і канечныя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove leading and trailing tags: uncheck this option to display all the tags, including tags at the beginning and end of the segment.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124808Z" creationid="GABIN" creationdate="20191001T124808Z">
         <seg>Выдаліць пачатковыя і канчатковыя тэгі: трэба зьняць гэтую пазнаку, каб паказваліся ўсе тэгі, і пачатковыя, і канечныя.</seg>
       </tuv>
     </tu>
@@ -32703,6 +32767,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See font settings in Miscellanea</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124525Z" creationid="GABIN" creationdate="20191001T124525Z">
+        <seg>Пра наладку шрыфту гл. “Рознае”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See more about them in the chapter on &lt;l0&gt;Dictionaries&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160808T131630Z" creationid="GABIN" creationdate="20160705T122428Z">
@@ -33159,6 +33231,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select TaaS Terminology Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124008Z" creationid="GABIN" creationdate="20191001T124008Z">
+        <seg>Выбраць вобласьць пошуку тэрмінаў у TaaS…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select TaaS domain</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140724T120228Z" creationid="GABIN" creationdate="20140721T113856Z">
@@ -33267,6 +33347,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160515T135205Z" creationid="gabi" creationdate="20160515T135205Z">
         <seg>Вылучыць гэты пункт мэню, калі бягучы пераклад не пасуе, і стварыць альтэрнатыўны пераклад.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select this option if you want dictionaries to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124223Z" creationid="GABIN" creationdate="20191001T124223Z">
+        <seg>Уключэце гэтую опцыю, калі хочаце, каб у вакне слоўнікаў паказваліся аднакарэнныя словы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36723,6 +36811,14 @@ shown below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The collections are downloaded as TBX glossaries and stored in the current glossary folder.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124003Z" creationid="GABIN" creationdate="20191001T124003Z">
+        <seg>Калекцыі загружаюцца як глясары ў фармаце TBX і захоўваюцца ў бягучым каталёгу глясароў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The collections are downloaded as TBX glossaries in the current glossary folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160621T135310Z" creationid="GABIN" creationdate="20160621T135310Z">
@@ -36938,6 +37034,14 @@ instead.</seg>
         <seg>The dialog allows to enable or disable the following options:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20151112T072955Z" creationid="GABIN" creationdate="20151112T072955Z">
+        <seg>Дыялёг дазваляе ўключыць або адключыць наступныя парамэтры:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The dialog allows you to enable or disable the following options:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124759Z" creationid="GABIN" creationdate="20191001T124759Z">
         <seg>Дыялёг дазваляе ўключыць або адключыць наступныя парамэтры:</seg>
       </tuv>
     </tu>
@@ -37179,6 +37283,14 @@ instead.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150911T132242Z" creationid="GABIN" creationdate="20150911T132242Z">
         <seg>Фармат файлаў — нефарматаваны тэкст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The filters used by the current project are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124700Z" creationid="GABIN" creationdate="20191001T124700Z">
+        <seg>Тыя, якія ўжываюцца ў бягучым праекце, вылучаюцца паўтлустым шрыфтам.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39692,6 +39804,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This dialog lists the file filters available.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124625Z" creationid="GABIN" creationdate="20191001T124625Z">
+        <seg>У гэтым дыялёгу паказваюцца наяўныя файлавыя фільтры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This document is the official user's guide to OmegaT, the free Computer Aided Translation tool.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160615T123202Z" creationid="gabi" creationdate="20160615T123202Z">
@@ -40201,6 +40321,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This page allows you to choose different colours for each part of the user interface.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124541Z" creationid="GABIN" creationdate="20191001T124541Z">
+        <seg>На гэтай старонцы можна выбіраць розныя колеры для кожнай часткі карыстальніцкага інтэрфэйса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140721T121917Z">
@@ -40705,6 +40833,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160328T143310Z" creationid="GABIN" creationdate="20160328T143310Z">
         <seg>Каб прадубляваць групы тэгаў, проста скапіюйце іх у патрэбную пазыцыю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;e1&gt;Edit.&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124751Z" creationid="GABIN" creationdate="20191001T124751Z">
+        <seg>Для праўкі таго, якія файлы і ў якіх кадоўках будзе апрацоўваць фільтар, трэба выбраць яго са сьпісу і націснуць &lt;e1&gt;“Зьмяніць”&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42611,6 +42747,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124204Z" creationid="GABIN" creationdate="20191001T124204Z">
+        <seg>Ужываць падбор недакладных супадзеньняў для пошуку ў слоўніках</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use glossary</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20141029T141509Z" creationid="GABIN" creationdate="20141029T141509Z">
@@ -42711,6 +42855,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160805T135025Z" creationid="gabi" creationdate="20160515T144425Z">
         <seg>Гэтая каманда ўжываецца ў мэтах рэгістрацыі тэксту перакладу тоесным зыходнаму тэксту, нават калі не пазначана “Дазволіць супадзеньне крыніцы і перакладу” (гл. Налады → Акно рэдагаваньня).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this feature when you have undocked, moved or hidden one or more components and you are unable to restore the desired arrangement.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124504Z" creationid="GABIN" creationdate="20191001T124504Z">
+        <seg>Ужывайце гэтую функцыю ў выпадку немагчымасьці аднаўленьня пажаданай кампаноўкі элемэнтаў акна пасьля іх адмацаваньня, перасоўваньня або хаваньня.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43535,6 +43687,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160819T123953Z">
         <seg>Увага: зьмяненьне парадку тэгаў можа пашкодзіць перакладзены дакумэнт!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT place any text before the first tag – it is a technical tag that must always begin the segment.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124823Z" creationid="GABIN" creationdate="20191001T124823Z">
+        <seg>Увага: у фарматах Microsoft Open XML (DOCX, XLSX, і да г. п.), калі тэгі паказваюцца, НЕЛЬГА нешта ўпісваць перад першым тэгам (гэта — тэхнічны тэг, зь якога заўсёды павінен пачынацца сэгмэнт).</seg>
       </tuv>
     </tu>
     <tu>
