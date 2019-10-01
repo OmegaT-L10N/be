@@ -10413,6 +10413,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Browse TaaS Collections...</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T123743Z" creationid="GABIN" creationdate="20191001T123743Z">
+        <seg>Прагляд калекцый TaaS…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Browse...</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20161018T085932Z" creationid="GABIN" creationdate="20161018T085932Z">
@@ -11657,6 +11665,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160712T142351Z" creationid="gabi" creationdate="20160618T055510Z">
         <seg>Клікнеце па стрэлцы ў полі &lt;e0&gt;“Знайсьці”&lt;/e0&gt;, каб пабачыць апошнія 10 словаў/фразаў, якія шукаліся.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T123542Z" creationid="GABIN" creationdate="20191001T123542Z">
+        <seg>Націсьнеце на гэтую кнопку, каб атрымаць доступ да сайта праекта &lt;u0&gt;Таас&lt;/u0&gt; і стварыць уліковы запіс карыстальніка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19721,6 +19737,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150911T121508Z" creationid="GABIN" creationdate="20150911T121508Z">
         <seg>Калі гэтая опцыя пазначаная, пры ўстаўцы недакладнага супадзеньня ўручную або аўтаматычна OmegaT паспрабуе пераўтварыць лікі ў недакладных супадзеньнях у адпаведнасьці са зьместам зыходнага тэксту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If this option is selected, OmegaT will not remember the access key between sessions.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T123737Z" creationid="GABIN" creationdate="20191001T123737Z">
+        <seg>Калі гэтая опцыя ўключаная, OmegaT ня будзе захоўваць ключ для доступу паміж сэансамі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34729,6 +34753,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Store for this session only</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T123636Z" creationid="GABIN" creationdate="20191001T123636Z">
+        <seg>Захаваць толькі для гэтай сэсіі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text you are translating has been updated.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160704T094212Z" creationid="GABIN" creationdate="20160704T094212Z">
@@ -39520,6 +39552,14 @@ the server.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160808T133112Z" creationid="GABIN" creationdate="20160705T124724Z">
         <seg>Гэтая панэль забясьпечвае зваротную сувязь з карыстальнікам па канкрэтных апэрацыях, якія выконваюцца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This button enables you to browse and download the collections that exist for the project's source and target languages.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T123923Z" creationid="GABIN" creationdate="20191001T123923Z">
+        <seg>Гэтая кнопка дазваляе праглядаць і загружаць калекцыі, існыя для моваў арыгіналу і перакладу праекта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45082,6 +45122,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160521T171037Z" creationid="gabi" creationdate="20160521T171037Z">
         <seg>Затым можна клікнуць па пажаданым варыяньце перакладу, каб яго ўставіць у пераклад у бягучую пазыцыю курсора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can then create an access key on the page &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T123632Z" creationid="GABIN" creationdate="20191001T123632Z">
+        <seg>Стварыць ключ для доступу можна на наступнай старонцы: &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
