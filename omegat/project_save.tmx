@@ -10661,6 +10661,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;finder.xml&lt;/f0&gt; file in the &lt;f1&gt;omegat&lt;/f1&gt; folder), because they may have a critical impact on the machine's security.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T130713Z" creationid="GABIN" creationdate="20191001T130713Z">
+        <seg>Па змаўчаньні　OmegaT не выконвае каманды, зададзеныя ў парамэтрах праекта (файл &lt;f0&gt;finder.xml&lt;/f0&gt; у каталёгу &lt;f1&gt;omegat&lt;/f1&gt;), таму што яны могуць сур'ёзна паўплываць на бясьпеку сыстэмы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160808T131346Z" creationid="GABIN" creationdate="20160808T131346Z">
@@ -10977,6 +10985,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20161013T083619Z" creationid="GABIN" creationdate="20160621T093125Z">
         <seg>Зьмянеце назву набору правілаў і шаблён мовы для адпаведнай мовы і ейны код (гл. &lt;x1/&gt;сьпіс моўных кодаў).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Change the name of the rule set and the language pattern to the language concerned and its code.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125857Z" creationid="GABIN" creationdate="20191001T125857Z">
+        <seg>Зьмянеце назву набору правілаў і шаблён мовы для адпаведнай мовы і ейны код.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11345,6 +11361,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20141029T141114Z" creationid="GABIN" creationdate="20141029T141114Z">
         <seg>Праверка колькасьці тэгаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check or uncheck the rules depending on whether they are relevant to the type of text you are translating.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T130242Z" creationid="GABIN" creationdate="20191001T130242Z">
+        <seg>Уключайце і адключайце правілы ў залежнасьці ад іхняй рэлевантнасьці для тыпу перакладанага тэксту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15563,6 +15587,14 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160805T143542Z" creationid="gabi" creationdate="20160615T144722Z">
         <seg>Ня ўлічваць рэгістар пры падборы адпаведнікаў (па змаўчаньні шаблён улічвае рэгістар).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enables you to change the order of the commands in the context menu (the right-click menu).</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T130912Z" creationid="GABIN" creationdate="20191001T130912Z">
+        <seg>Дазваляе зьмяняць парадак камандаў у кантэкстным мэню (правая кнопка мышкі).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20528,6 +20560,14 @@ installation program can create shortcuts to launch OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e1&gt;Move Up&lt;/e1&gt; button.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125911Z" creationid="GABIN" creationdate="20191001T125911Z">
+        <seg>Калі вы задаяце набор правілаў для камбінацыі мова-краіна, раім пасунуць яго ўгару кнопкай &lt;e1&gt;“Уверх”&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e2&gt;Move Up&lt;/e2&gt; button.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160712T142351Z" creationid="GABIN" creationdate="20160621T093339Z">
@@ -23265,6 +23305,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20161018T085836Z" creationid="GABIN" creationdate="20161018T085836Z">
         <seg>LanguageTool ня мае падтрымкі вашай мовы перакладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool plug-in</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125940Z" creationid="GABIN" creationdate="20191001T125940Z">
+        <seg>Плагін LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -27281,6 +27329,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT has a built-in spell checker based on the &lt;l0&gt;spelling checker&lt;/l0&gt; used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125932Z" creationid="GABIN" creationdate="20191001T125932Z">
+        <seg>OmegaT мае ўбудаваную праверку правапісу на аснове &lt;l0&gt;модуля&lt;/l0&gt;, які ўжываецца ў такіх праграмах як Apache OpenOffice, LibreOffice, Firefox і Thunderbird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160621T094202Z" creationid="GABIN" creationdate="20160621T094202Z">
@@ -28104,6 +28160,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160303T084717Z" creationid="GABIN" creationdate="20160303T084703Z">
         <seg>Толькі для абмежаванай колькасьці фарматаў файлаў пэўная кадоўка зьяўляецца вызначанай.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only activate this option if you know what you are doing, and only for projects from trusted sources.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T130817Z" creationid="GABIN" creationdate="20191001T130817Z">
+        <seg>Уключайце гэтую вопцыю толькі калі разумееце, што робіце, і толькі для праектаў з надзейных крыніцаў.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32845,6 +32909,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l2&gt;Regular expressions&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125916Z" creationid="GABIN" creationdate="20191001T125916Z">
+        <seg>Гл. болей у разьдзеле &lt;l2&gt;“Рэгулярныя выразы”&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20170831T142057Z" creationid="GABIN" creationdate="20170831T142057Z">
@@ -33539,6 +33611,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160622T190240Z" creationid="gabi" creationdate="20160622T190240Z">
         <seg>вылучыць рэзэрвовую копію памяці перакладаў, якая, верагодна, утрымлівае патрэбныя данія — напрыклад, самую апошнюю або апошнюю за папярэдні дзень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the location of the language checker.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T130041Z" creationid="GABIN" creationdate="20191001T130041Z">
+        <seg>Выберыце месцазнаходжаньне сродка праверкі граматыкі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43525,6 +43605,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160401T131924Z" creationid="GABIN" creationdate="20160401T131924Z">
         <seg>Ужываньне Trados MultiTerm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using a different language checker on your local machine than the one supplied with OmegaT gives you the option of personalising the verification rules.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T130158Z" creationid="GABIN" creationdate="20191001T130158Z">
+        <seg>Калі на вашым кампутары ёсьць іншы сродак праверкі граматыкі акрамя таго, што ёсьць у OmegaT, вы можаце на свой выбар наладзіць правілы праверкі.</seg>
       </tuv>
     </tu>
     <tu>
