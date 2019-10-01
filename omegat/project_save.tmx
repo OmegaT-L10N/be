@@ -3472,6 +3472,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;auto&gt; leaves the choice of encoding to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125533Z" creationid="GABIN" creationdate="20191001T125533Z">
+        <seg>Калі пазначыць &lt;auto&gt;, &lt;a1&gt;OmegaT&lt;/a1&gt; самастойна вызначыць кадоўку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;auto&gt; leaves the encoding choice to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160303T092228Z" creationid="GABIN" creationdate="20160303T092228Z">
@@ -3744,6 +3752,22 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied).</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125244Z" creationid="GABIN" creationdate="20191001T125244Z">
+        <seg>&lt;e0&gt;Дадаваць ці перапісваць дэклярацыю кадоўкі файлаў HTML і XHTML&lt;/e0&gt;: часта файлы перакладаў павінны мець кадоўку, адрозную ад кадоўкі зыходнага файла (яўна вызначанай або падразумяванай).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125212Z" creationid="GABIN" creationdate="20191001T125212Z">
+        <seg>&lt;e0&gt;Агрэгаваньне тэгаў&lt;/e0&gt;: калі пазначана, тэгі, паміж якімі няма тэксту, які падлягае перакладу, будуць зьбірацца ў адзіныя тэгі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags without translatable text between them will be aggregated into single tags.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160930T142346Z" creationid="GABIN" creationdate="20151118T145905Z">
@@ -3800,6 +3824,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125304Z" creationid="GABIN" creationdate="20191001T125304Z">
+        <seg>&lt;e0&gt;Сьціскаць прабельныя сымбалі ў дакумэнтах перакладаў&lt;/e0&gt;: ланцужкі зь некалькіх прабельных сымбаляў у перакладах будуць пераўтварацца ў адзіночныя прабелы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespaces will be converted into one single whitespace in translated document.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20151123T132451Z" creationid="GABIN" creationdate="20151123T132451Z">
@@ -3848,9 +3880,25 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ...:&lt;/e0&gt; The meta-tags in the box will not be translated.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125105Z" creationid="GABIN" creationdate="20191001T125105Z">
+        <seg>&lt;e0&gt;Не перакладаць атрыбут зьмесьціва мэта-тэгаў…:&lt;/e0&gt; Наступныя мэта-тэгі ня будуць перакладацца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: a match in the list of key-value pairs will cause the content of tags to be ignored</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160712T142351Z" creationid="GABIN" creationdate="20151118T145028Z">
+        <seg>&lt;e0&gt;Не перакладаць зьмесьціва атрыбуту мэта-тэгаў з наступным атрыбутам тыпу пара “ключ-значэньне” (падзяляць коскамі):&lt;/e0&gt;: пры наяўнасьці супадзеньня ў сьпісе пар “ключ-значэньне” зьмесьціва тэгаў будзе ігнаравацца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: if a tag matches the list of key-value pairs, its content will be ignored.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125116Z" creationid="GABIN" creationdate="20191001T125116Z">
         <seg>&lt;e0&gt;Не перакладаць зьмесьціва атрыбуту мэта-тэгаў з наступным атрыбутам тыпу пара “ключ-значэньне” (падзяляць коскамі):&lt;/e0&gt;: пры наяўнасьці супадзеньня ў сьпісе пар “ключ-значэньне” зьмесьціва тэгаў будзе ігнаравацца.</seg>
       </tuv>
     </tu>
@@ -4104,6 +4152,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Preserve spaces for all tags&lt;/e0&gt;: if checked, "white space" (i.e. spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125229Z" creationid="GABIN" creationdate="20191001T125229Z">
+        <seg>&lt;e0&gt;Захоўваць прабелы для ўсіх тэгаў&lt;/e0&gt;: калі пазначана, прабелы і пераводы радкоў будуць захоўвацца, нават калі гэта не зададзена ў дакумэньце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Preserve spaces for all tags&lt;/e0&gt;: if checked, "white space" (i.e., spaces and newlines) will be preserved, even if not set technically in the document</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20151123T132321Z" creationid="GABIN" creationdate="20151123T132312Z">
@@ -4131,6 +4187,14 @@ OmegaT запускаецца наступным чынам.</seg>
         <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: all commented parts (between &lt;!-- and --&gt;) won't be copied in the translated document.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20151123T132543Z" creationid="GABIN" creationdate="20151123T132543Z">
+        <seg>&lt;e0&gt;Выдаляць камэнтары HTML у дакумэнтах перакладаў&lt;/e0&gt;: усе закамэнтаваныя часткі (паміж &lt;!-- і --&gt;) ня будуць капіявацца ў перакладзены дакумэнт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: commented parts (between &lt;!-- and --&gt;) will not be copied into the translated document.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125308Z" creationid="GABIN" creationdate="20191001T125308Z">
         <seg>&lt;e0&gt;Выдаляць камэнтары HTML у дакумэнтах перакладаў&lt;/e0&gt;: усе закамэнтаваныя часткі (паміж &lt;!-- і --&gt;) ня будуць капіявацца ў перакладзены дакумэнт.</seg>
       </tuv>
     </tu>
@@ -4208,6 +4272,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: any text matching the regular expression is skipped.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125042Z" creationid="GABIN" creationdate="20191001T125042Z">
+        <seg>&lt;e0&gt;Абмінаць тэкст, які супадае з рэгулярным выразам&lt;/e0&gt;: тэкст, адпаведны рэгулярнаму выразу, будзе прамінуты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: the text matching the regular expression gets skipped.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20151118T144525Z" creationid="GABIN" creationdate="20151118T144525Z">
@@ -4228,6 +4300,14 @@ OmegaT запускаецца наступным чынам.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20151118T142519Z" creationid="GABIN" creationdate="20151118T142519Z">
         <seg>&lt;e0&gt;Пачынаць новы абзац з: &lt;br&gt;&lt;/e0&gt; HTML-тэг будзе зьяўляцца як абзац для мэтаў сэгмэнтаваньня.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Start a new paragraph on&lt;/e0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125033Z" creationid="GABIN" creationdate="20191001T125033Z">
+        <seg>&lt;e0&gt;Пачынаць новы абзац з&lt;/e0&gt;: HTML-тэг &lt;br&gt; будзе зьяўляцца як абзац для мэтаў сэгмэнтаваньня.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9626,6 +9706,14 @@ may experience unexpected, but correct behaviour.</seg>
         <seg>As this is the standard behavior for PO files, it is on by default.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20151112T080915Z" creationid="GABIN" creationdate="20151112T080915Z">
+        <seg>Паколькі гэта стандартна для PO-файлаў, опцыя ўключана па змаўчаньні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As this is the standard behaviour for PO files, it is selected by default.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124950Z" creationid="GABIN" creationdate="20191001T124950Z">
         <seg>Паколькі гэта стандартна для PO-файлаў, опцыя ўключана па змаўчаньні.</seg>
       </tuv>
     </tu>
@@ -17252,6 +17340,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125135Z" creationid="GABIN" creationdate="20191001T125135Z">
+        <seg>Напрыклад, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, by default &lt;l0&gt;.txt&lt;/l0&gt; files will be loaded using the default encoding of your operating system.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160303T091832Z" creationid="GABIN" creationdate="20160303T091832Z">
@@ -17263,6 +17359,14 @@ Tutorial.</seg>
         <seg>For example, by default, XHTML filters are used for processing files with the .xhtml extension.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160302T151634Z" creationid="GABIN" creationdate="20160302T151634Z">
+        <seg>Напрыклад, па змаўчаньні фільтар XHTML будзе выкарыстаны для апрацоўкі файлаў з пашырэньнем .xhtml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, by default, the XHTML filter is used to process files with the .xhtml extension.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125414Z" creationid="GABIN" creationdate="20191001T125414Z">
         <seg>Напрыклад, па змаўчаньні фільтар XHTML будзе выкарыстаны для апрацоўкі файлаў з пашырэньнем .xhtml.</seg>
       </tuv>
     </tu>
@@ -17404,6 +17508,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will ensure that this information is included in the translated files.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125256Z" creationid="GABIN" creationdate="20191001T125256Z">
+        <seg>Напрыклад, калі ў наладах файлавага фільтра UTF-8 вызначана ў якасьці схемы кадаваньня для файлаў перакладаў, выбар варыянта “Заўсёды” будзе гарантаваць уключэньне гэтай інфармацыі ў файлы перакладаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance, if the language pair of the project is DE-FR, it can be still be of some help to see hits in the DE-EN translation, if there's none in the DE-FR pair.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160622T191657Z" creationid="gabi" creationdate="20160622T191657Z">
@@ -17498,6 +17610,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
         <seg>For the example above, the field would contain: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20151118T145214Z" creationid="GABIN" creationdate="20151118T145214Z">
+        <seg>Для прыклада вышэй поле мусіць утрымліваць: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For the example above, the field would contain: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125145Z" creationid="GABIN" creationdate="20191001T125145Z">
         <seg>Для прыклада вышэй поле мусіць утрымліваць: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;</seg>
       </tuv>
     </tu>
@@ -19453,6 +19573,22 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If selected, when a segment in a PO file (which may be a whole paragraph) is not translated, the translation will be empty in the target file.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124940Z" creationid="GABIN" creationdate="20191001T124940Z">
+        <seg>Калі ўключана, то калі сэгмэнт PO (якім можа быць увесь абзац) не перакладзены, пераклад будзе пустым у файле перакладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Segmentation...&lt;/g6&gt; &lt;/m4&gt;from the main menu.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125818Z" creationid="GABIN" creationdate="20191001T125818Z">
+        <seg>У выпадку абраньня сэгмэнтаваньня па сказах можна наладзіць правілы праз мэню &lt;m4&gt; &lt;g5&gt;“Налады&lt;/g5&gt; &lt;g6&gt;Сэгмэнтаваньне…”&lt;/g6&gt;&lt;/m4&gt; з галоўнага мэню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m5&gt; &lt;g6&gt;&lt;i7/&gt;Options&lt;/g6&gt; &lt;g8&gt;Segmentation...&lt;/g8&gt; &lt;/m5&gt;from the main menu.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160618T172621Z" creationid="gabi" creationdate="20160618T172621Z">
@@ -19577,6 +19713,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160517T054633Z" creationid="gabi" creationdate="20160517T054633Z">
         <seg>Калі опцыя адключаная, запіс глясара, паказаны вышэй, знойдзены ня будзе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments or some sort of segment identifier, depending on the file format) matches.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124911Z" creationid="GABIN" creationdate="20191001T124911Z">
+        <seg>Калі гэтая опцыя ўключана, назва зыходнага файла ня будзе ўжывацца, і альтэрнатыўныя пераклады будуць ужывацца ў любым файле, калі дазваляе іншы кантэкст (папярэдні/наступны сэгмэнты, або нейкі ідэнтыфікатар, у залежнасьці ад фармату файла) адпавядае.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20310,6 +20454,14 @@ OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you want to revert to the filter's default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125632Z" creationid="GABIN" creationdate="20191001T125632Z">
+        <seg>Каб вярнуць фільтар да зыходнай канфігурацыі, націсьнеце &lt;e1&gt;“Аднавіць змаўчаньні”&lt;/e1&gt;. Назву таксама можна зьмяніць непасрэдна ў полі шаблёна назваў файлаў перакладаў у дыялёгавым акне файлавых фільтраў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140926T112913Z" creationid="GABIN" creationdate="20140926T112913Z">
@@ -20445,6 +20597,14 @@ click on that shortcut.</seg>
         <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternate translation.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20151112T073944Z" creationid="GABIN" creationdate="20151112T073944Z">
+        <seg>Ігнараваць кантэкст файла пры вызначэньні сэгмэнтаў з альтэрнатыўнымі перакладамі: па змаўчаньні OmegaT ужывае назву зыходнага файла дзеля ідэнтыфікацыі альтэрнатыўнага перакладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124903Z" creationid="GABIN" creationdate="20191001T124903Z">
         <seg>Ігнараваць кантэкст файла пры вызначэньні сэгмэнтаў з альтэрнатыўнымі перакладамі: па змаўчаньні OmegaT ужывае назву зыходнага файла дзеля ідэнтыфікацыі альтэрнатыўнага перакладу.</seg>
       </tuv>
     </tu>
@@ -20846,6 +21006,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160618T171330Z" creationid="gabi" creationdate="20160618T171330Z">
         <seg>Каб пераключыць тып сэгмэнтаваньня, выберыце &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Праект&lt;/g2&gt; &lt;g4&gt;Уласьцівасьці…&lt;/g4&gt; &lt;/m1&gt; з галоўнага мэню і пазначце адпаведны пункт або здымеце пазнаку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In order to select the type of segmentation, select &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;Properties...&lt;/g3&gt; &lt;/m1&gt; from the main menu and tick or untick the check box provided.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125717Z" creationid="GABIN" creationdate="20191001T125708Z">
+        <seg>Каб пераключыць тып сэгмэнтаваньня, выберыце &lt;m1&gt; &lt;g2&gt;“Праект&lt;/g2&gt; &lt;g3&gt;Уласьцівасьці…“&lt;/g3&gt; &lt;/m1&gt; з галоўнага мэню і пазначце адпаведны пункт або скасуйце пазнаку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22191,6 +22359,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is shown in red in the tag validator.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125045Z" creationid="GABIN" creationdate="20191001T125045Z">
+        <seg>Ён будзе вылучацца чырвоным пры праверцы тэгаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is shown rendered red in the tag validator.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20151118T144559Z" creationid="GABIN" creationdate="20151118T144559Z">
@@ -22203,6 +22379,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160712T142351Z" creationid="GABIN" creationdate="20160621T123528Z">
         <seg>Прасьцей, аднак, спампаваць слоўнікі з Інтэрнэта, скарыстаўшыся з поля &lt;e0&gt;“Адрас слоўнікаў у Інтэрнэце”&lt;/e0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is sometimes useful to be able make certain tags untranslatable based on the values of their attributes.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125123Z" creationid="GABIN" creationdate="20191001T125123Z">
+        <seg>Гэта часам карысна, каб мець магчымасьць зрабіць пэўныя тэгі неперакладальнымі на аснове значэньня атрыбутаў.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27153,6 +27337,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT identifies the source file encoding by using its encoding declaration, if present (HTML files, XML based files).</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125537Z" creationid="GABIN" creationdate="20191001T125537Z">
+        <seg>OmegaT вызначае кадоўку зыходнага файла на падставе дэклярацыі кадоўкі, калі яна наяўная (файлы HTML, файлы на аснове XML).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT in the command line mode</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160418T092152Z" creationid="GABIN" creationdate="20160418T092152Z">
@@ -27238,6 +27430,14 @@ published by the Free Software Foundation, either version 3 of the License, or
         <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc)</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160303T092447Z" creationid="GABIN" creationdate="20160303T092447Z">
+        <seg>Для шэрагу фарматаў файлаў OmegaT заўсёды ўжывае пэўную кадоўку (уласьцівасьці Java і да г. п.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc).</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125541Z" creationid="GABIN" creationdate="20191001T125541Z">
         <seg>Для шэрагу фарматаў файлаў OmegaT заўсёды ўжывае пэўную кадоўку (уласьцівасьці Java і да г. п.).</seg>
       </tuv>
     </tu>
@@ -29549,6 +29749,14 @@ language you would like to translate to.</seg>
         <seg>Preserve spaces for all tags: check this option if the source documents contain significant spaces (for layout matters) that must not be ignored.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160930T142117Z" creationid="GABIN" creationdate="20151112T073830Z">
+        <seg>Захоўваць прабелы для ўсіх тэгаў: пазначце гэтую вопцыю, калі зыходныя дакумэнты ўтрымліваюць значную колькасьць прабелаў (з прычыны асаблівасьцяў макету), якія нельга ігнараваць.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preserve spaces for all tags: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124858Z" creationid="GABIN" creationdate="20191001T124858Z">
         <seg>Захоўваць прабелы для ўсіх тэгаў: пазначце гэтую вопцыю, калі зыходныя дакумэнты ўтрымліваюць значную колькасьць прабелаў (з прычыны асаблівасьцяў макету), якія нельга ігнараваць.</seg>
       </tuv>
     </tu>
@@ -33615,6 +33823,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Several filters (text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124918Z" creationid="GABIN" creationdate="20191001T124918Z">
+        <seg>Некалькі фільтраў (тэкставыя файлы, файлы XHTML, файлы HTML і XHTML, файлы OpenDocument і Microsoft Open XML) маюць пэўныя спэцыфічныя налады.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Several team members can work on the translation project simultaneously without interfering with each other</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20141001T091429Z" creationid="GABIN" creationdate="20141001T091429Z">
@@ -34338,6 +34554,14 @@ The scope of a search is by default the project and can be set to be any files l
         <seg>Source and Target file encoding</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160303T083253Z" creationid="GABIN" creationdate="20160303T083253Z">
+        <seg>Кадоўка зыходных файлаў і файлаў перакладаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source and Translated file encoding</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125419Z" creationid="GABIN" creationdate="20191001T125419Z">
         <seg>Кадоўка зыходных файлаў і файлаў перакладаў</seg>
       </tuv>
     </tu>
@@ -35734,6 +35958,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Target files can also be written in any encoding.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125513Z" creationid="GABIN" creationdate="20191001T125513Z">
+        <seg>Файлы перакладаў таксама могуць запісвацца ў адвольнай кадоўцы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Target files committed</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20171026T140747Z" creationid="GABIN" creationdate="20171026T140747Z">
@@ -36019,6 +36251,14 @@ The scope of a text replacement is the target segments of the project, whether t
         <seg>Text in source segment that matches is shown in italic.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20151118T144657Z" creationid="GABIN" creationdate="20151118T144657Z">
+        <seg>Адпаведны тэкст у зыходным сэгмэньце будзе вылучаны курсівам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text in source segments that matches is shown in italics.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125052Z" creationid="GABIN" creationdate="20191001T125052Z">
         <seg>Адпаведны тэкст у зыходным сэгмэньце будзе вылучаны курсівам.</seg>
       </tuv>
     </tu>
@@ -36457,6 +36697,14 @@ Okapi (http://okapi.sourceforge.net) (ліцэнзія LGPL)</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T115312Z">
         <seg>Фільтрам PO выкінутае выключэньне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The PO header will be skipped and left unchanged if this option is checked.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124954Z" creationid="GABIN" creationdate="20191001T124954Z">
+        <seg>Калі гэтая опцыя ўключана, загаловак PO будзе прамінуты і пакінуты нязьменным.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37075,6 +37323,14 @@ instead.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150901T135416Z" creationid="GABIN" creationdate="20150901T135416Z">
         <seg>Дыялёг у &lt;m0&gt; &lt;g1&gt;Налады&lt;/g1&gt; &lt;g2&gt;Налады рэдагаваньня&lt;/g2&gt; &lt;/m0&gt; дазваляе карыстальніку абраць, як ініцыялізаваць і апрацоўваць бягучы сэгмэнт у полі рэдагаваньня:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The dialog includes a special target filename pattern editor, which you can use to customize the names of output files.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125406Z" creationid="GABIN" creationdate="20191001T125406Z">
+        <seg>Дыялёг уключае асобны рэдактар шаблёнаў назваў файлаў, праз які можна задаць назвы выніковых файлаў.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38648,6 +38904,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source and target encoding fields use drop-down menus containing all the supported encodings.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125528Z" creationid="GABIN" creationdate="20191001T125528Z">
+        <seg>У палёх кадоўкі зыходнага тэксту і перакладу выкарыстоўваюцца выпадныя сьпісы з усімі падтрыманымі кадоўкамі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20130424T185500Z">
@@ -38828,6 +39092,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20131218T082516Z">
         <seg>Тэгі ў OmegaT выдзяляюцца шэрым колерам, таму іх лёгка пазнаць.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The target filename pattern uses a special syntax, so if you want to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the Edit Pattern Dialog.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125618Z" creationid="GABIN" creationdate="20191001T125618Z">
+        <seg>Шаблён назваў файлаў перакладаў выкарыстоўвае адмысловы сынтаксыс, і каб адрэдагаваць гэтае поле, трэба націснуць &lt;e0&gt;“Зьмяніць…”&lt;/e0&gt;, каб перайсьці ў акно рэдагаваньня фільтра.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39780,6 +40052,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This dialog enables you to specify the source filename patterns for files to be processed by the filter, customize the filenames of translated files and select which encodings should be used for loading the source file and saving the translation.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125318Z" creationid="GABIN" creationdate="20191001T125318Z">
+        <seg>Праз гэты дыялёг можна задаць шаблёны імёнаў зыходных файлаў, якія будзе апрацоўваць фільтар, наладзіць імёны файлаў зь перакладамі і выбраць кадоўкі для загрузкі файла і захаваньня ягонага перакладзенага варыянта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20190923T131147Z" creationid="GABIN" creationdate="20190923T131147Z">
@@ -40273,6 +40553,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125000Z" creationid="GABIN" creationdate="20191001T125000Z">
+        <seg>Опцыя дазваляе OmegaT перавызначаць спэцыфікацыю ў загалоўку файла PO і ўжываць значэньне па змаўчаньні для абранай мовы перакладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option allows the tag validation in a batch mode.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160421T141057Z" creationid="GABIN" creationdate="20160421T141057Z">
@@ -40582,6 +40870,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160425T140346Z" creationid="GABIN" creationdate="20160425T140346Z">
         <seg>Для ўключэньня аднаго з сэрвісаў машыннага перакладу перайдзеце ў &lt;g0&gt;Налады → Машынны пераклад…&lt;/g0&gt; і ўключэце патрэбны сэрвіс.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125341Z" creationid="GABIN" creationdate="20191001T125341Z">
+        <seg> Каб дадаць новы шаблён файлавага фільтра, націсьнеце &lt;e1&gt;“Дадаць”&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41023,10 +41319,26 @@ as a Source Forge user.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125334Z" creationid="GABIN" creationdate="20191001T125334Z">
+        <seg>Каб зьмяніць шаблён файлавага фільтра, зьмянеце палі наўпрост або націсьнеце &lt;e0&gt;“Зьмяніць”&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To modify the options select the filter from the list and click on &lt;e0&gt;Options&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20151112T080216Z" creationid="GABIN" creationdate="20151112T080216Z">
         <seg>Каб зьмяніць налады, абярэце фільтр са сьпісу і націсьнеце &lt;e0&gt;Налады&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify the options, select the filter in the list and click &lt;e0&gt;Options&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124929Z" creationid="GABIN" creationdate="20191001T124929Z">
+        <seg>Каб зьмяніць налады, абярэце фільтр са сьпісу і націсьнеце &lt;e0&gt;“Налады”&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41583,6 +41895,14 @@ install.sh.</seg>
       <tuv lang="be" changeid="GABIN" changedate="20160224T143308Z" creationid="GABIN" creationdate="20160224T143308Z">
         <seg>Шлях да файла перакладу не можа быць ідэнтычны шляху да зыходнага файла:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated filename</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125554Z" creationid="GABIN" creationdate="20191001T125554Z">
+        <seg>Назвы файлаў перакладаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -43268,6 +43588,14 @@ searchable without subscription:</seg>
         <seg>Using this option the translator can specify, whether the target files are to have the encoding declaration included.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160930T142401Z" creationid="GABIN" creationdate="20151118T141716Z">
+        <seg>Выкарыстоўваючы гэтую вопцыю, перакладчык можа вызначыць, ці мусяць файлы перакладаў уключаць дэклярацыю кадоўкі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using this option, the translator can specify whether the target files should have the encoding declaration included.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125249Z" creationid="GABIN" creationdate="20191001T125249Z">
         <seg>Выкарыстоўваючы гэтую вопцыю, перакладчык можа вызначыць, ці мусяць файлы перакладаў уключаць дэклярацыю кадоўкі.</seg>
       </tuv>
     </tu>
@@ -45028,6 +45356,14 @@ from there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can change the source encoding for each different source filename pattern.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125457Z" creationid="GABIN" creationdate="20191001T125457Z">
+        <seg>Зыходную кадоўку можна задаваць для кожнага шаблёна назваў файлаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can check that yourself by selecting the item &lt;e0&gt;File Filters&lt;/e0&gt; in the menu &lt;e1&gt;Options&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160615T125722Z" creationid="gabi" creationdate="20160615T125722Z">
@@ -45072,6 +45408,14 @@ from there.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150911T122414Z" creationid="GABIN" creationdate="20150911T122414Z">
         <seg>Можна прыняць рашэньне ўвогуле не перакладаць падобныя сэгмэнты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can define key-value pairs for tags to be left untranslated.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T125140Z" creationid="GABIN" creationdate="20191001T125140Z">
+        <seg>Можна вызначыць пары ключ-значэньне, каб вызначыць тэгі, якія ня трэба перакладаць.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46773,6 +47117,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160930T142928Z" creationid="GABIN" creationdate="20160310T145523Z">
         <seg>Ён (калі наяўны) утрымлівае спэцыфічныя для праекта правілы сэгмэнтаваньня, калі гэта пазначана праз &lt;g0&gt;Праект → Уласьцівасьці…&lt;/g0&gt; Гл. разьдзел &lt;l1&gt;“Уласьцівасьці праекта”&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if sentence segmentation rules are active, the text will be segmented further according to the option selected here.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191001T124933Z" creationid="GABIN" creationdate="20191001T124933Z">
+        <seg>Калі ўключана сэгмэнтаваньне па сказах, тэкст далей будзе разьбівацца ў адпаведнасьці з абраным тут варыянтам.</seg>
       </tuv>
     </tu>
     <tu>
