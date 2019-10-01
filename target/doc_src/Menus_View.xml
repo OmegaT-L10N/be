@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<section id="menus.view">
+  <title>Выгляд</title>
+
+  <variablelist>
+    <varlistentry>
+      <term>Пазначаць перакладзеныя сэгмэнты</term>
+
+      <listitem>
+        <para>Калі пазначана, перакладзеныя сэгмэнты будуць вылучацца жоўтым колерам.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Пазначаць неперакладзеныя сэгмэнты</term>
+
+      <listitem>
+        <para>Калі пазначана, неперакладзеныя сэгмэнты будуць вылучацца фіялетавым колерам.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Mark Paragraph delimitations</term>
+
+      <listitem>
+        <para>If checked, the separations between paragraphs in the source document are indicated visually.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Паказваць зыходныя сэгмэнты</term>
+
+      <listitem>
+        <para>Калі пазначана, зыходныя сэгмэнты будуць бачнымі і будуць вылучацца зялёным колерам. Калі не пазначана, зыходныя сэгмэнты ня будуць бачнымі.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Пазначаць неўнікальныя сэгмэнты</term>
+
+      <listitem>
+        <para>Калі пазначана, неўнікальныя сэгмэнты будуць вылучацца бледна-шэрым колерам.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Пазначаць сэгмэнты з зацемкамі</term>
+
+      <listitem>
+        <para>Калі пазначана, сэгмэнты з зацемкамі будуць вылучацца блакітным колерам. This marking has priority over <guimenuitem>Mark Translated Segments</guimenuitem> and <guimenuitem>Mark Untranslated Segments</guimenuitem>.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Пазначаць неразрыўныя прабелы</term>
+
+      <listitem>
+        <para>Калі пазначана, неразрыўныя прабелы будуць паказвацца з шэрым тлом.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Пазначаць прабельныя сымбалі</term>
+
+      <listitem>
+        <para>Калі пазначана, прабельныя сымбалі будуць паказвацца з кропачкай.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Паказваць сымбалі кіраваньня напрамкам тэксту</term>
+
+      <listitem>
+        <para>Гэтая опцыя дазваляе бачыць <ulink url="http://www.w3.org/International/questions/qa-bidi-controls">сымбалі кіраваньня напрамкам тэксту</ulink></para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Пазначаць аўтаматычна запоўненыя сэгмэнты</term>
+
+      <listitem>
+        <para>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in <filename>/tm/auto</filename> for example) are displayed in colour. The colours are displayed as long as the <link linkend="dialogs.preferences.editor.saveautopopulatedstatus"><guimenuitem>Save auto-populated status</guimenuitem></link> option is checked. Звычайныя пераклады, устаўленыя з каталёга auto, вылучаюцца памаранчавым колерам. Іншыя пераклады, асабліва ідэнтыфікаваныя ў TMX, могуць вылучацца іншымі колерамі. For technical details, see the <ulink url="http://sourceforge.net/p/omegat/feature-requests/963/">Request For Enhancement</ulink>.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Агрэсыўная замена шрыфтоў на альтэрнатыўныя</term>
+
+      <listitem>
+        <para>Check this option in case <application>OmegaT</application> does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine). Заўвага: выглядае, што ў Windows падобная ручная падстаноўка шрыфтоў можа ўмешвацца ў стандартную падстаноўку шрыфтоў, і ў выніку адбываецца непажаданая падстаноўка. З гэтай прычыны гэтая опцыя адключаная па змаўчаньні.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Інфармацыя пра зьмены</term>
+
+      <listitem>
+        <para>Setting the Display Modification option to <guimenuitem>Current
+        segment</guimenuitem> will display the time and the author of the last
+        change in the current segment. Setting it to <guimenuitem>All
+        segments</guimenuitem> shows this information for all segments and
+        <guimenuitem>None</guimenuitem> turns this option off.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+</section>

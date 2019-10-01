@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<section id="windows.projectfiles">
+  <title>Project Files</title>
+
+  <para>This window is displayed automatically when OmegaT loads a project,
+  and at any time by pressing <menuchoice>
+      <guimenuitem>Project</guimenuitem>
+
+      <guimenuitem>Project Files...</guimenuitem>
+    </menuchoice>.</para>
+
+  <para><remark>Note:</remark> it is possible to inhibit the window displaying
+  at opening, by setting <emphasis>project_files_show_on_load</emphasis> to
+  <emphasis>false</emphasis> in <filename>omegat.prefs</filename> file
+  (accessible by <menuchoice>
+      <guimenuitem>Options</guimenuitem>
+
+      <guimenuitem>Access Configuration Folder</guimenuitem>
+    </menuchoice> menu).</para>
+
+  <para>Use <guimenuitem>Ctrl+L</guimenuitem> to open and <keycap>Esc</keycap>
+  to close it. The <guilabel>Project Files</guilabel> Window displays the
+  following information:</para>
+
+  <itemizedlist>
+    <listitem>
+      <para>агульная колькасьць файлаў да перакладу ў праекце. Рахуюцца файлы ў каталёгу /source у фармаце, які OmegaT здольная прачытаць. Іхні агульны лік паказваецца ў дужках, побач з загалоўкам “Файлы праекта”.</para>
+    </listitem>
+
+    <listitem>
+      <para>сьпіс усіх файлаў да перакладу ў праекце. Пры націску на любы файл ён адчыніцца для перакладу.</para>
+
+      <para>Typing any text will open a <guilabel>Filter</guilabel> field
+      where parts of filenames can be entered. You can select a file with
+      <keycap>Up</keycap> and <keycap>Down</keycap> keys, and open it for
+      translation by pressing <keycap>Enter</keycap></para>
+
+      <para>Заўвага: назвы файлаў (у першым слупку) можна адсартаваць у альфабэтным парадку, клікнуўшы па загалоўку. Акрамя таго, можна зьмяніць пазыцыю назвы файла, клікнуўшы па ёй і націснуўшы кнопкі <emphasis>”На першую пазыцыю”, “Уверх”, “Уніз”, “На апошнюю пазыцыю”</emphasis>.</para>
+
+      <para>Клік правай кнопкай мышы па назьве файла адкрывае выплыўнае вакно, якое дазваляе адчыніць зыходны файл і (калі існуе) файл перакладу.</para>
+    </listitem>
+
+    <listitem>
+      <para>Запісы файлаў уключаюць іхнія назвы, тыпы файлавых фільтраў, іхняю кадоўку і колькасьць сэгмэнтаў у кожным файле.</para>
+    </listitem>
+
+    <listitem>
+      <para>агульная колькасьць сэгмэнтаў, колькасьць унікальных сэгмэнтаў ва ўсім праекце, а таксама колькасьць ужо перакладзеных унікальных сэгмэнтаў паказваюцца ў ніжняй частцы</para>
+    </listitem>
+  </itemizedlist>
+
+  <para>Мноства <emphasis role="bold">унікальных</emphasis> сэгмэнтаў вылічаецца так: бяруцца ўсе сэгмэнты і выдаляюцца паўторныя сэгмэнты. (Вызначэньне тэрміна “унікальны” улічвае рэгістар: “Бегчы” і “бегчы” уважаюцца за розныя сэгмэнты).</para>
+
+  <para>Розьніца паміж колькасьцю сэгмэнтаў і колькасьцю ўнікальных сэгмэнтаў дае прыблізнае ўяўленьне пра колькасьць паўтораў у тэксьце. Аднак варта адзначыць, што лікі не паказваюць значэньня паўтораў: яны могуць азначаць паўторы адносна доўгіх сказаў (у гэтым выпадку вам пашанцавала) або проста табліцу ключавых словаў (ня так ужо і пашанцавала). У файле <filename> project_stats.txt </filename>, разьмешчаным у каталёгу omegat праекта, ёсьць больш падрабязныя зьвесткі пра сэгмэнты з разьбіўкай па файлах.</para>
+
+  <para>Зьмяненьне правілаў сэгмэнтаваньня можа спрычыніцца да зьмяненьня ліку сэгмэнтаў / унікальных сэгмэнтаў. Гэтага, як правіла, варта пазьбягаць, калі праект ужо пачаты. Болей зьвестак гл. у разьдзеле “<emphasis>Правілы сэгмэнтаваньня</emphasis>”.</para>
+
+  <para><emphasis role="bold">Adding files to the project: </emphasis>You can
+  add source files to the project by clicking on the &quot;<guimenuitem>Import
+  Source Files...&quot;</guimenuitem> button. This copies the selected files to the
+  <filename>source</filename> folder and reloads the project to import the new
+  files. You can also add source files from Internet pages, written in
+  MediaWiki, by clicking on<guimenuitem> &quot;Import from MediaWiki&quot;</guimenuitem>
+  button and providing the corresponding URL.</para>
+</section>

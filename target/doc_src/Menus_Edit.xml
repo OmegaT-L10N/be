@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<section id="menus.edit">
+  <title>Праўка</title>
+
+  <para>This menu displays entries only when a project is open.</para>
+
+  <variablelist>
+    <varlistentry>
+      <term><guimenuitem>Адмяніць</guimenuitem></term>
+
+      <listitem>
+        <para>Аднаўляецца стан перад апошнім выкананым дзеяньнем. Каманда не працуе, калі зьменены сэгмэнт быў пацьверджаны.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Вярнуць</term>
+
+      <listitem>
+        <para>Аднаўляецца стан перад касаваньнем апошняга дзеяньня праўкі. Каманда не працуе, калі зьменены сэгмэнт быў пацьверджаны.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Замяніць пераклад на супадзеньне або вылучэньне</term>
+
+      <listitem>
+        <para>Увесь сэгмэнт перакладу замяняецца на выбранае недакладнае супадзеньне (па змаўчаньні выбіраецца першае супадзеньне).</para>
+
+        <para>Калі ў недакладным супадзеньні вылучана пэўная частка тэксту, толькі гэтае вылучэньне замяняе ўвесь сэгмэнт перакладу.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Уставіць супадзеньне або вылучэньне</term>
+
+      <listitem>
+        <para>Вылучанае недакладнае супадзеньне ўстаўляецца ў пазыцыю курсора. Калі ў сэгмэньце перакладу вылучаная частка, пры гэтым замяняецца вылучэньне.</para>
+
+        <para>Калі пэўная частка тэксту вылучаная ў недакладным супадзеньні, толькі гэтае вылучэньне ўстаўляецца ў пазыцыю курсора.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Замяніць на машынны пераклад</term>
+
+      <listitem>
+        <para>Зьмесьціва сэгмэнта перакладу замяняецца перакладам ад сэрвісу машыннага перакладу. No action is taken, if no Machine Translation service has been activated (in <menuchoice> <guimenu>Options</guimenu> <guimenuitem>Machine Translate</guimenuitem> </menuchoice>).</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Replace with Source</term>
+
+      <listitem>
+        <para>Увесь сэгмэнт перакладу замяняецца на зыходны тэкст.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Уставіць зыходны тэкст</term>
+
+      <listitem>
+        <para>Зыходны тэкст устаўляецца ў пазыцыю курсор.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Уставіць адсутныя тэгі зыходнага тэксту</term>
+
+      <listitem>
+        <para>Тэгі з зыходнага тэксту (калі іх няма ў перакладзе) устаўляюцца ў пазыцыю курсора.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Уставіць наступны адсутны тэг</term>
+
+      <listitem>
+        <para>У пазыцыю курсора ўстаўляецца толькі адзін тэг (з адсутных).</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Экспартаваць вылучанае</term>
+
+      <listitem>
+        <para>Бягучае вылучэньне экспартуецца ў тэкставы файл для апрацоўкі. Калі частка тэксту ня вылучаная, у файл выгружаецца ўвесь бягучы сэгмэнт. Калі карыстальнік выходзіць з <application>OmegaT</application>, гэты файл не спусташаецца, каб імітаваць звычайныя паводзіны буфэра абмену. The exported contents are copied to the file <filename>selection.txt</filename> located in the User's preference files folder.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Стварыць запіс глясара</term>
+
+      <listitem>
+        <para>Дазваляе карыстальніку стварыць запіс у файле глясара, ужываным па змаўчаньні.</para>
+
+        <para>Калі вылучыць радок тэксту (у якой заўгодна панэлі) перад націсканьнем <keycombo> <keycap>Ctrl</keycap> <keycap>Shift</keycap> <keycap>G</keycap> </keycombo>, тэкст будзе ўстаўлены па змаўчаньні ў поле <guilabel>Зыходны тэрмін</guilabel>.</para>
+
+        <para>This can apply also to <guimenuitem>Target term</guimenuitem>
+        and <guimenuitem>Comment </guimenuitem>fields if new selections are
+        made and <keycombo>
+            <keycap>Ctrl</keycap>
+
+            <keycap>Shift</keycap>
+
+            <keycap>G</keycap>
+          </keycombo> pressed again.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Пошук у праекце…</term>
+
+      <listitem>
+        <para>Адчыняецца новае <link linkend="windows.textsearch">вакно пошуку</link>.</para>
+
+        <para>Калі вылучыць радок тэксту (у якой заўгодна панэлі) перад націсканьнем <keycombo> <keycap>Ctrl</keycap> <keycap>F</keycap> </keycombo>, тэкст будзе ўстаўлены па змаўчаньні ў поле <guilabel>Знайсьці</guilabel>.</para>
+
+        <para>Пры націсканьні <keycombo> <keycap>Ctrl</keycap> <keycap>Shift</keycap> <keycap>F</keycap> </keycombo> зьяўляецца апошняе раней адчыненае вакно пошуку (а ня новае).</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Пошук і замена…</term>
+
+      <listitem>
+        <para>Адчыняецца новае <link linkend="windows.textreplace">вакно пошуку і замены</link>.</para>
+
+        <para>Калі вылучыць радок тэксту (у якой заўгодна панэлі) перад націсканьнем <keycombo> <keycap>Ctrl</keycap> <keycap>K</keycap> </keycombo>, тэкст будзе ўстаўлены па змаўчаньні ў поле <guilabel>Знайсьці</guilabel>.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Пошук у слоўніках</term>
+
+      <listitem>
+        <para>If <link linkend="dialogs.preferences.dictionary">automatic searching in dictionaries</link> is disabled, this function allows you to search for the selected word in the dictionaries.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Зьмяніць рэгістар на</term>
+
+      <listitem>
+        <para>Рэгістар вылучанага тэксту ў сэгмэньце перакладу зьмяняецца на выбраны варыянт (“Усе малыя”, “Усе вялікія”, “Як у загалоўках”, “Як у сказах”). Use <keycombo> <keycap>Shift</keycap> <keycap>F3</keycap> </keycombo> to cycle through the four alternatives. If no text is selected, <application>OmegaT</application> selects the word that contains the letter immediately to the right of the cursor.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Выбраць супадзеньне</term>
+
+      <listitem>
+        <para>Selects the previous, the next or the Nth fuzzy match displayed
+        in the fuzzy match pane to replace or insert it to the segment.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Выкарыстоўваць як пераклад па змаўчаньні</term>
+
+      <listitem>
+        <para>Калі для актыўнага сэгмэнта ёсьць альтэрнатыўныя пераклады, можна пазначыць вылучаны варыянт як пераклад па змаўчаньні. Калі ёсьць толькі адзін пераклад, гэты пункт мэню будзе шэрым.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Стварыць альтэрнатыўны пераклад</term>
+
+      <listitem>
+        <para>Аднолькавыя сэгмэнты ў залежнасьці ад кантэксту могуць мець розныя пераклады. Вылучыць гэты пункт мэню, калі бягучы пераклад не пасуе, і стварыць альтэрнатыўны пераклад.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Выдаліць пераклад</term>
+
+      <listitem>
+        <para>Пераклад выдаляецца, а сэгмэнт становіцца неперакладзеным.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Задаць пусты пераклад</term>
+
+      <listitem>
+        <para>Пераклад вызначаецца як пусты. У дакумэньце перакладу на месцы гэтага сэгмэнта не зьявіцца нічога. У вакне рэдагаваньня пераклад паказваецца як &lt;ПУСТЫ&gt;</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Зарэгістраваць ідэнтычны пераклад</term>
+
+      <listitem>
+        <para>Use this command to register the translation to be identical to
+        the source, even if <link linkend="dialogs.preferences.editor.allowtranslationtobeequaltosource"><guilabel>Allow
+        translation to be equal to source</guilabel></link> is not
+        checked.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+</section>
