@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.1.0_0_4f03baff4" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.0.0_0_2d0943ad" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8002,6 +8002,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>API Key (optional)</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191031T141436Z" creationid="GABIN" creationdate="20191031T141436Z">
+        <seg>Ключ API (калі патрэбны)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>API Key:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20170206T083004Z" creationid="GABIN" creationdate="20170206T083004Z">
@@ -12419,6 +12427,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Connect to custom server instead of apertium.org</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191031T141410Z" creationid="GABIN" creationdate="20191031T141410Z">
+        <seg>Злучыцца з сэрвэрам карыстальніка замест apertium.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Connection available, the project is in team project mode.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T131512Z">
@@ -13715,6 +13731,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160521T171945Z" creationid="gabi" creationdate="20160521T171945Z">
         <seg>Колеры…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom server URL</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191031T141423Z" creationid="GABIN" creationdate="20191031T141423Z">
+        <seg>URL-адрас сэрвэра карыстальніка</seg>
       </tuv>
     </tu>
     <tu>
@@ -15787,6 +15811,22 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20141001T094639Z" creationid="GABIN" creationdate="20141001T094639Z">
         <seg>Энрыке Эстэвэс Фэрнандэс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ensure the URL is correct.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191031T141525Z" creationid="GABIN" creationdate="20191031T141525Z">
+        <seg>Спраўдзеце URL-адрас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ensure the server URL is correct.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191031T141502Z" creationid="GABIN" creationdate="20191031T141502Z">
+        <seg>Спраўдзеце URL-адрас сэрвэра.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39193,6 +39233,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The server is not a valid Apertium server.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191031T141519Z" creationid="GABIN" creationdate="20191031T141519Z">
+        <seg>Гэты сэрвэр — не сапраўдны сэрвэр Apertium.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The server keeps the information on checkouts, so that later commits (see below) can be performed in an orderly fashion.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20141121T144132Z" creationid="GABIN" creationdate="20141121T144132Z">
@@ -42746,6 +42794,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140724T085501Z">
         <seg>Не магу стварыць новы файл назапашвальніка перакладаў (TMX)!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to connect to server.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20191031T141446Z" creationid="GABIN" creationdate="20191031T141446Z">
+        <seg>Немагчыма злучыцца з сэрвэрам.</seg>
       </tuv>
     </tu>
     <tu>
