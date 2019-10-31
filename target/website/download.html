@@ -14,12 +14,10 @@ href="#download-wizard" data-toggle="collapse">выбар спампоўкі</a>
           <ul class="nav nav-pills">
             <li>
               <a href="#tab-install-type" data-toggle="tab">Тып усталяваньня</a>
-            </li><!--
-            <li>
-              <a href="#tab-version" data-toggle="tab">Version</a>
             </li>
-            -->
-            
+            <li>
+              <a href="#tab-version" data-toggle="tab">Вэрсія</a>
+            </li>
             <li>
               <a href="#tab-operating-system" data-toggle="tab">Апэрацыйная сыстэма</a>
             </li>
@@ -103,15 +101,15 @@ href="#download-wizard" data-toggle="collapse">выбар спампоўкі</a>
           installed on your computer at system level, you can select the option
           without JRE included.</p>
         </div>
-      </div><!--
+      </div>
       <div class="tab-pane fade" id="tab-version">
         <div class="radio">
-          <label><input type="radio" class="radio-primary" value="standard" name="optVersion"/>Standard</label>
+          <label><input type="radio" class="radio-primary" value="standard" name="optVersion"/>Стандартны</label>
           <p>The "Standard" version of OmegaT includes a full user manual (at
           least in English) and will usually have been tested for some time to
           eliminate any bugs. It is the recommended version for first-time users.</p>
           <div class="radio">
-            <label><input type="radio" class="radio-primary" value="latest" name="optVersion"/>Latest</label>
+            <label><input type="radio" class="radio-primary" value="latest" name="optVersion"/>Апошняя</label>
             <p>As its name suggests, the "Latest" version of Omegat is more up to
           date. However, the user manual may no longer be up to date (and
           therefore possibly confusing), and some minor bugs are possible.
@@ -121,8 +119,6 @@ href="#download-wizard" data-toggle="collapse">выбар спампоўкі</a>
           </div>
         </div>
       </div>
-      -->
-      
       <div class="panel-footer collapse text-center" style="display:none;" id="wizard-result">
         <p>Based on your choices, we recommand you use:</p>
         <h3><a id="wizard-result-version" href="#">some version</a></h3>
@@ -230,7 +226,8 @@ date.<!--It will however lack some of the features of the "Latest" version.--></
   
   </tbody>
 
-</table><!--
+</table>
+
 <h3 id="latest">Latest Version - {{site.data.versions.latest.name}}</h3>
 
 <p>The Latest version requires Java {{site.data.versions.latest.java_version}}. It is a more recent version than the Standard version and
@@ -249,32 +246,40 @@ prefer the Latest version.</p>
     </tr>
   </thead>
   <tbody>
+
 {% for platform in site.data.downloads.latest.platforms %}
+ 
  <tr id="{{ platform.id }}">
       <td class="version-name">{% translate platform.name %}</td>
       <td>
+      
       {% if platform.noInfo != true %}
           <span rel="popover" data-platform="{{ platform.name }}" data-title="{% translate platform.name %}" data-content="" class="glyphicon glyphicon-info-sign"> </span>
       {% endif %}
+      
       </td>
       <td>
+      
       {% if platform.link != null %}
         <a class="btn btn-primary version-download" href="{{ platform.link }}" role="button">Download</a></td>
+      
       {% else %}
         <a class="btn btn-primary version-download" href="{{ site.data.downloads.baseUrl }}/{{ site.data.downloads.latest.folder }}/{{ site.data.versions.latest.name }}/OmegaT_{{ site.data.versions.latest.version }}_{{ platform.fileName}}/download" role="button">Download</a></td>
+      
       {% endif %}
+      
       </td>
   </tr>
+
 {% endfor %}
+  
   </tbody>
 
 </table>
--->
-
 
 <h3 id="downloadTrunk">Developer Version</h3>
 
-<p>The "/trunk" version is a cutting-edge, "alpha" version, still in
+<p>The "master" version is a cutting-edge, "alpha" version, still in
 development. Pre-built binaries, are available as Nightly Builds.</p>
 
 <table class="table table-striped downloads">
@@ -287,10 +292,10 @@ development. Pre-built binaries, are available as Nightly Builds.</p>
   </thead>
   <tbody>
   <tr>
-      <td>Trunk</td>
-      <td><!----><span rel="popover" data-platform="trunk" data-content="" class="glyphicon glyphicon-info-sign"></span>
+      <td>Master</td>
+      <td><!----><span rel="popover" data-platform="master" data-content="" class="glyphicon glyphicon-info-sign"></span>
       </td>
-      <td><a class="btn btn-primary" href="{{ site.data.downloads.trunk }}" role="button">Download</a></td>
+      <td><a class="btn btn-primary" href="{{ site.data.downloads.master }}" role="button">Download</a></td>
   </tr>
   <tr>
       <td>Nightly Builds</td>
@@ -317,8 +322,6 @@ preference for an older version.</p>
 space on your hard drive. In this case, do not select the Default version; select a different version (e.g. Standard or Latest), then select a version marked "Java not included".</p>
 
 <p>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it. It is therefore always safe to install the version of OmegaT with JRE. If you are unsure whether or not you have a suitable version of the JRE, select a version with JRE (or the Default version).  </p>
-
-<p><strong>Mac OS X users</strong>: the JRE is installed on Mac OS X by default; there is therefore no version for Mac OS X with the JRE.</p>
 
 <p><strong>Linux users</strong>: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent). If you are relatively new to Linux, we advise you to select an OmegaT version with the JRE included. More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.
 
@@ -361,11 +364,11 @@ space on your hard drive. In this case, do not select the Default version; selec
 </div>
 
 
-<div id="popover_content_trunk" style="display:none">
-    <p>The /trunk (alpha) version reflects the very latest state of development. It
+<div id="popover_content_master" style="display:none">
+    <p>The "master" (alpha) version reflects the very latest state of development. It
     is recommended for serious developers and testers only. It can also be obtained
-    using the subversion command:</p>
-    <p><kbd>svn checkout svn://svn.code.sf.net/p/omegat/svn/trunk omegat-svn</kbd></p>
+    using the git command:</p>
+    <p><kbd>git clone https://git.code.sf.net/p/omegat/code omegat-code</kbd></p>
 </div>
 
 <div id="popover_content_nightly" style="display:none">
