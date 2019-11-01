@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.0.0_0_2d0943ad" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.1.0_0_8bfbaf9be" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25559,6 +25559,14 @@ The Mac version comes bundled with a JRE.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Moodle PHP</seg>
+      </tuv>
+      <tuv lang="be" changeid="Kos Ivantsov" changedate="20191101T164023Z" creationid="Kos Ivantsov" creationdate="20191101T164023Z">
+        <seg>Файлы Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Moodle PHP Filter Options</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20190418T092454Z" creationid="GABIN" creationdate="20190418T092454Z">
@@ -33510,7 +33518,7 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
-      <note>у цьому сегменті мусить бути {0,number,#}, інакше меню у неунікальних сегментах не з’являється</note>
+      <note>у цьому сегменті мусить бути {0,number,#}, інакше меню в неунікальних сегментах не з’являється</note>
       <tuv lang="en">
         <seg>Segment {0,number,#}</seg>
       </tuv>
