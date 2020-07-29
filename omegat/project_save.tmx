@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.1.0_0_8bfbaf9be" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_6b3832026" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25901,6 +25901,22 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+      <tuv lang="be" changeid="Kos Ivantsov" changedate="20200729T153355Z" creationid="Kos Ivantsov" creationdate="20200729T153355Z">
+        <seg>Файлы Mozilla FTL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla FTL Filter Options</seg>
+      </tuv>
+      <tuv lang="be" changeid="Kos Ivantsov" changedate="20200729T153359Z" creationid="Kos Ivantsov" creationdate="20200729T153359Z">
+        <seg>Налады фільтра Mozilla FTL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mozilla Lang</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140821T125842Z" creationid="GABIN" creationdate="20140821T125842Z">
@@ -37086,6 +37102,14 @@ Okapi (http://okapi.sourceforge.net) (ліцэнзія LGPL)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Mozilla FTL filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="be" changeid="Kos Ivantsov" changedate="20200729T153409Z" creationid="Kos Ivantsov" creationdate="20200729T153409Z">
+        <seg>Фільтрам Mozilla FTL выкінутае выключэньне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OmegaT developers' list.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20180606T122805Z" creationid="GABIN" creationdate="20180606T122805Z">
@@ -45579,6 +45603,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150305T083744Z" creationid="GABIN" creationdate="20150305T083744Z">
         <seg>Yandex Translate — няма ключа для API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yandex.Cloud</seg>
+      </tuv>
+      <tuv lang="be" changeid="Kos Ivantsov" changedate="20200729T153449Z" creationid="Kos Ivantsov" creationdate="20200729T153449Z">
+        <seg>Yandex.Cloud</seg>
       </tuv>
     </tu>
     <tu>
