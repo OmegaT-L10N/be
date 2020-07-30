@@ -28692,6 +28692,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can click on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly or you can launch it directly from the command line.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T124841Z" creationid="GABIN" creationdate="20200730T124841Z">
+        <seg>Пасьля ўсталяваньня &lt;a0&gt;OmegaT&lt;/a0&gt;, запускаць праграму можна, клікнуўшы непасрэдна па файле &lt;f1&gt;OmegaT.jar &lt;/f1&gt;, або з каманднага радка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.jar&lt;/e1&gt; to launch it directly.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160407T132007Z" creationid="GABIN" creationdate="20160407T132007Z">
@@ -39941,6 +39949,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160729T131252Z" creationid="GABIN" creationdate="20150526T082629Z">
         <seg>У панэлях працуюць скароты &lt;k2&gt;Ctrl+A&lt;/k2&gt; і &lt;k3&gt;Ctrl+C&lt;/k3&gt;, якія дазваляюць капіяваць зьвесткі (цалкам або часткова) у буфэр абмену.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The simplest way to launch OmegaT, however, is to execute the &lt;f0&gt;OmegaT.exe&lt;/f0&gt; program.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T124854Z" creationid="GABIN" creationdate="20200730T124854Z">
+        <seg>Найпрасьцейшым спосабам запуску OmegaT, аднак, зьяўляецца выкананьне праграмнага файла &lt;f0&gt;OmegaT.exe&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
