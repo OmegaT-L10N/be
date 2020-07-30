@@ -8842,6 +8842,22 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; are mapped to the local OmegaT project.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T123255Z" creationid="GABIN" creationdate="20200730T123255Z">
+        <seg>Усё зьмесьціва з &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; супастаўляецца з лякальным праектам OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; are mapped to the local OmegaT project</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T123224Z" creationid="GABIN" creationdate="20200730T123224Z">
+        <seg>Усё зьмесьціва з &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; супастаўляецца з лякальным праектам OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the languages have access to the OmegaT object model, with the project as the top object.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140801T145545Z" creationid="GABIN" creationdate="20140801T145541Z">
@@ -39425,6 +39441,22 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T123334Z" creationid="GABIN" creationdate="20200730T123334Z">
+        <seg>Аддалены файл &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; супастаўляецца з лякальным файлам &lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T123312Z" creationid="GABIN" creationdate="20200730T123312Z">
+        <seg>Аддалены файл &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; супастаўляецца з лякальным файлам &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The repository is empty at this moment.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150526T131840Z" creationid="GABIN" creationdate="20150526T131836Z">
@@ -41350,6 +41382,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20180606T123126Z" creationid="GABIN" creationdate="20180606T123126Z">
         <seg>Гэта — рассылка для ўдзельнікаў лякалізацыі OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This makes it possible to rename the file to be translated.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T123357Z" creationid="GABIN" creationdate="20200730T123357Z">
+        <seg>Гэта забясьпечвае магчымасьць перайменаваньня файла да перакладу.</seg>
       </tuv>
     </tu>
     <tu>
