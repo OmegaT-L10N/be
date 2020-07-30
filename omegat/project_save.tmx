@@ -11637,6 +11637,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Checking statistics</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T120834Z" creationid="GABIN" creationdate="20200730T120834Z">
+        <seg>Праверка статыстычных даніх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Chichewa, Chewa, Nyanja</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140725T100147Z" creationid="GABIN" creationdate="20140725T100147Z">
@@ -20117,6 +20125,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there are any differences, check that the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files are under version control.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T121115Z" creationid="GABIN" creationdate="20200730T121115Z">
+        <seg>У выпадку разыходжаньняў трэба праверыць, ці ўключаныя ў сыстэму кіраваньня вэрсіямі файлы &lt;f0&gt;filters.xml&lt;/f0&gt; і &lt;f1&gt;segmentation.conf&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there are other files named test.html in other folders, they will be ignored.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160421T140927Z" creationid="GABIN" creationdate="20160421T140927Z">
@@ -21118,6 +21134,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160521T185637Z" creationid="gabi" creationdate="20160521T185637Z">
         <seg>Ва ўсіх іншых выпадках праверка тэгаў ня робіцца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In both cases, the project manager must send the translator their ID and password to access the repository.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T120818Z" creationid="GABIN" creationdate="20200730T120818Z">
+        <seg>У абодвух выпадках кіраўнік праекта павінен адправіць перакладчыку ідэнтыфікатар і пароль для доступу да рэпазыторыя.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28484,6 +28508,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once the project is set up on the server, the project manager can invite the translator to work on it in either of two different ways:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T120430Z" creationid="GABIN" creationdate="20200730T120430Z">
+        <seg>Калі праект створаны на сэрвэры, кіраўнік праекта можа запрасіць перакладчыка да працы над ім адным з наступных спосабаў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once the team project is setup, team members only need &lt;a0&gt;OmegaT&lt;/a0&gt; to access the team project.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150626T134409Z" creationid="GABIN" creationdate="20150626T134409Z">
@@ -35698,6 +35730,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Step 3: Send an invitation to the translator</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T120036Z" creationid="GABIN" creationdate="20200730T120036Z">
+        <seg>Этап 3. Адправіць запрашэньне перакладчыку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Steps to reproduce</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150821T141732Z" creationid="GABIN" creationdate="20150821T141641Z">
@@ -37378,6 +37418,14 @@ Okapi (http://okapi.sourceforge.net) (ліцэнзія LGPL)</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160705T124827Z" creationid="GABIN" creationdate="20160705T124827Z">
         <seg>Акно файлаў праекта ўтрымлівае пералік файлаў праекта і іншую інфармацыю пра праект.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Project Manager should check with the translator that the statistics are identical on both sides (server side and translator side).</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T120931Z" creationid="GABIN" creationdate="20200730T120931Z">
+        <seg>Кіраўнік праекта павінен разам з перакладчыкам праверыць ідэнтычнасьць статыстычных даніх на абодвух баках (на сэрвэры і ў перакладчыка).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39221,6 +39269,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160401T130636Z" creationid="GABIN" creationdate="20160401T130636Z">
         <seg>Пазнаюцца файлы з пашырэньнямі назваў &lt;f1&gt;TXT&lt;/f1&gt; і &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The reference to the URL is specified as below (here to a Git repository):</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T120726Z" creationid="GABIN" creationdate="20200730T120726Z">
+        <seg>URL-спасылка пазначаецца наступным чынам (у гэтым прыкладзе — для рэпазыторыя Git):</seg>
       </tuv>
     </tu>
     <tu>
@@ -49034,6 +49090,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160522T094223Z" creationid="gabi" creationdate="20160522T094223Z">
         <seg>вылучыць рэзэрвовую копію памяці перакладаў, якая, верагодна, утрымлівае патрэбныя данія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sending an &lt;f0&gt;omegat.project&lt;/f0&gt; file containing a reference to the URL and asking the translator to copy it into a dedicated folder and open it with OmegaT.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T120649Z" creationid="GABIN" creationdate="20200730T120649Z">
+        <seg>адправіць файл &lt;f0&gt;omegat.project&lt;/f0&gt;, які зьмяшчае URL-адрас праекта, каб перакладчык скапіяваў яго ў адпаведную дырэкторыю і адчыніў у OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sending the URL of the project and asking the translator to create a local copy with &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Download Team Project&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T120557Z" creationid="GABIN" creationdate="20200730T120557Z">
+        <seg>адправіць URL-адрас праекта, каб перакладчык стварыў лякальную копію праз мэню &lt;m0&gt; &lt;g1&gt;Праект&lt;/g1&gt; &lt;g2&gt;Спампаваць камандны праект&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
