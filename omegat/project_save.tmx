@@ -4008,6 +4008,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Install over the existing installation.&lt;/e0&gt; To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T125023Z" creationid="GABIN" creationdate="20200730T125023Z">
+        <seg>&lt;e0&gt;Усталяваць паўзьверх існай усталёўкі.&lt;/e0&gt;Для гэтага проста вызначце для ўсталяваньня новай вэрсіі той самы каталёг, у якім знаходзіцца існая.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Install to a new folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160406T132226Z" creationid="GABIN" creationdate="20160406T132226Z">
@@ -38608,6 +38616,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The following example for the INI file reserves 1 GB of memory, requests French as the user language and Canada as the country:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T124938Z" creationid="GABIN" creationdate="20200730T124938Z">
+        <seg>У наступным прыкладзе файла INI рэзэрвуецца 1 Гб памяці, мовай інтэрфэйса карыстальніка вызначаецца француская, а краінай — Канада:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following example for the INI file reserves 1GB of memory, requests French as the user language and Canada as the country:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160406T131348Z" creationid="GABIN" creationdate="20160406T131348Z">
@@ -39311,6 +39327,14 @@ sure this has not already been reported.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20151118T141345Z" creationid="GABIN" creationdate="20151118T141345Z">
         <seg>Опцыя дазваляе OmegaT перавызначаць спэцыфікацыю ў загалоўку файла PO і ўжываць значэньне па змаўчаньні для абранай мовы перакладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The options for the program start-up in this case will be read from the &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T124933Z" creationid="GABIN" creationdate="20200730T124933Z">
+        <seg>Парамэтры запуску праграмы ў гэтым выпадку будуць чытацца з файла &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt;, які знаходзіцца ў тым жа каталёгу, што і выканальны файл EXE, і які можна рэдагаваць у адпаведнасьці са сваімі патрэбамі.</seg>
       </tuv>
     </tu>
     <tu>
