@@ -9711,6 +9711,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As plenty of information about SVN and Git is easily available, we won't describe how they work here, but only how OmegaT works with them.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T114730Z" creationid="GABIN" creationdate="20200730T114730Z">
+        <seg>Паколькі зьвесткі аб SVN і Git можна лёгка знайсьці, тут мы не будзем апісваць, як яны працуюць, але толькі тое, як зь імі працуе OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As stated above, OmegaT tags are LTR strings.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160317T083540Z" creationid="GABIN" creationdate="20160317T083540Z">
@@ -12997,6 +13005,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a local copy of the repository (&lt;c0&gt;check out&lt;/c0&gt; with SVN, &lt;c1&gt;clone&lt;/c1&gt; with Git).</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T114847Z" creationid="GABIN" creationdate="20200730T114847Z">
+        <seg>Стварыць лякальную копію рэпазыторыя (каманда &lt;c0&gt;check out&lt;/c0&gt; у SVN, &lt;c1&gt;clone&lt;/c1&gt; у Git).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create a new project on ProjectLocker</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150526T124554Z" creationid="GABIN" creationdate="20150526T124554Z">
@@ -13005,10 +13021,26 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a new, empty OmegaT project in the local repository.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T114911Z" creationid="GABIN" creationdate="20200730T114911Z">
+        <seg>Стварыць новы пусты праект OmegaT у лякальным рэпазыторыі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create a project, separate for other projects, in the desired language pair, with an appropriate name - note that the TMXs created will include this name.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160623T140245Z" creationid="GABIN" creationdate="20160623T140245Z">
         <seg>Стварыць праект, асобна для іншых праектаў, у патрэбнай моўнай пары, з адпаведнай назвай — памятайце, што створаныя файлы TMX будуць мець назву праекта ў сваіх назвах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create an SVN or Git repository on a server that will be accessible by the translators.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T114815Z" creationid="GABIN" creationdate="20200730T114815Z">
+        <seg>Стварыць рэпазыторый SVN або Git на сэрвэры, які будзе даступным перакладчыкам.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13153,6 +13185,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160623T140015Z" creationid="GABIN" creationdate="20160623T140015Z">
         <seg>Стварэньне памяці перакладаў для выбраных дакумэнтаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating an empty project on a server</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T114751Z" creationid="GABIN" creationdate="20200730T114751Z">
+        <seg>Стварэньне пустога праекта на сэрвэры</seg>
       </tuv>
     </tu>
     <tu>
@@ -22719,6 +22759,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It should thus be carried out by a project manager, a project leader or a localisation engineer.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T114603Z" creationid="GABIN" creationdate="20200730T114603Z">
+        <seg>Такім чынам, гэта павінна ажыцьцяўляцца мэнэджарам праекта, кіраўніком праекта або інжынерам у лякалізацыі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It shows translation of terms found in the current segment.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160705T121621Z" creationid="GABIN" creationdate="20160705T121621Z">
@@ -31233,6 +31281,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regex Tester</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T114304Z" creationid="GABIN" creationdate="20200730T114304Z">
+        <seg>Сродак тэставаньня рэгулярных выразаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regex tools and examples of use</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160615T174400Z" creationid="gabi" creationdate="20160615T174400Z">
@@ -34280,6 +34336,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Setting up a team project requires some knowledge of servers and the SVN or Git versioning systems.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T114536Z" creationid="GABIN" creationdate="20200730T114536Z">
+        <seg>Арганізацыя каманднага праекта патрабуе пэўнага досьведу працы з сэрвэрамі і сыстэмамі кіраваньня вэрсіямі SVN або Git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Settings dialogs</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20161013T142412Z" creationid="GABIN" creationdate="20160630T095456Z">
@@ -35534,6 +35598,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160708T140457Z" creationid="GABIN" creationdate="20160708T140429Z">
         <seg>Этап 1: Наладзіць парамэтры выраўноўваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Step 1: Create an empty project on a server</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T114745Z" creationid="GABIN" creationdate="20200730T114745Z">
+        <seg>Этап 1. Стварэньне пустога праекта на сэрвэры</seg>
       </tuv>
     </tu>
     <tu>
@@ -40488,6 +40560,14 @@ the server.</seg>
         <seg>This can be achieved in two ways:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160421T134357Z" creationid="GABIN" creationdate="20160421T134357Z">
+        <seg>Гэта можна зрабіць адным з двух спосабаў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be done in two ways:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T114915Z" creationid="GABIN" creationdate="20200730T114915Z">
         <seg>Гэта можна зрабіць адным з двух спосабаў:</seg>
       </tuv>
     </tu>
