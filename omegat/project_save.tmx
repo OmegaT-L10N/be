@@ -21250,6 +21250,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In KMenuEditor select &lt;e3&gt;File &gt; New Item.&lt;/e3&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T125329Z" creationid="GABIN" creationdate="20200730T125329Z">
+        <seg>У KMenuEditor выберыце &lt;e3&gt;File → New Item.&lt;/e3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In OmegaT, segments can be based on paragraphs or on segmentation rules.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140722T135847Z" creationid="GABIN" creationdate="20140722T135847Z">
