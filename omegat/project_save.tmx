@@ -21642,6 +21642,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this case, the procedure is the same, but the project manager does not add files to the /source folder.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T121531Z" creationid="GABIN" creationdate="20200730T121531Z">
+        <seg>У такім выпадку працэдура тая самая, але кіраўнік праекта не дадае файлы ў каталёг /source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this dialog one can define the font used by &lt;a0&gt;OmegaT&lt;/a0&gt; in the following windows:</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160522T091759Z" creationid="gabi" creationdate="20160522T091619Z">
@@ -24927,6 +24935,14 @@ The Mac version comes bundled with a JRE.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mapping parameters</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T121546Z" creationid="GABIN" creationdate="20200730T121546Z">
+        <seg>Парамэтры вызначэньня адпаведнасьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mar&amp;k Whitespace</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T124750Z">
@@ -26177,6 +26193,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160704T094424Z" creationid="GABIN" creationdate="20160704T094424Z">
         <seg>Назва файла TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Name of the local folder or file, relative to the root of the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T121724Z" creationid="GABIN" creationdate="20200730T121724Z">
+        <seg>Назва лякальнага каталёга або файла адносна кораня праекта OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28114,6 +28138,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20141001T091333Z" creationid="GABIN" creationdate="20141001T091333Z">
         <seg>OmegaT падтрымлівае дзьве папулярныя сыстэмы кіраваньня вэрсіямі (СКВ для сьцісласьці): &lt;u0&gt;Apache Subversion&lt;/u0&gt; (часта скарочана SVN, паводле назвы каманды svn) і &lt;u1&gt; Git&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT team projects can also be set up in a different way, where several translators share the project_save.tmx file but not the source files.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T121451Z" creationid="GABIN" creationdate="20200730T121451Z">
+        <seg>Камандныя праекты OmegaT могуць быць арганізаваныя і іншым спосабам, калі некалькі перакладчыкаў маюць сумесны доступ да файла project_save.tmx, але не да зыходных файлаў.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31589,6 +31621,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160707T143604Z" creationid="GABIN" creationdate="20160707T143604Z">
         <seg>Аддаленыя рэпазыторыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote location of the files to translate.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T121636Z" creationid="GABIN" creationdate="20200730T121636Z">
+        <seg>Аддаленае месцазнаходжаньне файлаў да перакладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35408,6 +35448,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Special case: minimal sharing</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T121202Z" creationid="GABIN" creationdate="20200730T121202Z">
+        <seg>Асаблівы выпадак: мінімальнае абагульваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specific behavior can be set up in the file filters.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160317T063758Z" creationid="GABIN" creationdate="20160317T063758Z">
@@ -39153,6 +39201,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The process above describes the usual case, where the project manager wants to have full control of the project and where the files (and the statistics) are identical on both sides (server side and translator side).</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T121358Z" creationid="GABIN" creationdate="20200730T121358Z">
+        <seg>Пазначаны працэс — для звычайных выпадкаў, калі кіраўнік праекта хоча мець поўны кантроль над праектам, а файлы (і статыстычныя данія) ідэнтычныя на абодвух баках (на сэрвэры і ў перакладчыка).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The process of segmenting can be pictured as follows: the cursor moves along the text, one character at a time.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160619T183553Z" creationid="gabi" creationdate="20160619T183553Z">
@@ -40721,6 +40777,14 @@ the server.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20200730T114915Z" creationid="GABIN" creationdate="20200730T114915Z">
         <seg>Гэта можна зрабіць адным з двух спосабаў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be either http (which includes https), svn or git.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T121610Z" creationid="GABIN" creationdate="20200730T121610Z">
+        <seg>Гэта можа быць http (у тым ліку https), svn або git.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48452,6 +48516,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>mapping local</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T121650Z" creationid="GABIN" creationdate="20200730T121650Z">
+        <seg>лякальнае вызначэньне адпаведнасьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>mapping repository</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T122442Z" creationid="GABIN" creationdate="20200730T122442Z">
+        <seg>вызначэньне адпаведнасьці ў рэпазыторыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>match percentage (taking into account tokenizers)</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160704T093503Z" creationid="GABIN" creationdate="20160704T093503Z">
@@ -48986,6 +49066,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160522T094153Z" creationid="gabi" creationdate="20160522T094153Z">
         <seg>перайменаваць бягучы файл &lt;f0&gt;project_save.tmx&lt;/f0&gt; (напрыклад у &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>repository type</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T121554Z" creationid="GABIN" creationdate="20200730T121554Z">
+        <seg>тып рэпазыторыя:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>repository url</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T121619Z" creationid="GABIN" creationdate="20200730T121619Z">
+        <seg>url-адрас рэпазыторыя:</seg>
       </tuv>
     </tu>
     <tu>
