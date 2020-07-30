@@ -8378,6 +8378,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add patterns using wildcards (Apache Ant style): *, ?, **.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T122623Z" creationid="GABIN" creationdate="20200730T122623Z">
+        <seg>Дадаць шаблёны са знакамі падстаноўкі (у стылі Apache Ant): *, ?, **.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add the &lt;e0&gt;Before&lt;/e0&gt; and&lt;e1&gt; After&lt;/e1&gt; patterns.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160712T142351Z" creationid="GABIN" creationdate="20160621T093357Z">
@@ -9711,6 +9719,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As above.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T122737Z" creationid="GABIN" creationdate="20200730T122737Z">
+        <seg>Гл. вышэй.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160401T131916Z" creationid="GABIN" creationdate="20160401T131916Z">
@@ -10737,6 +10753,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20191001T134635Z" creationid="GABIN" creationdate="20191001T134635Z">
         <seg>Па змаўчаньні OmegaT не выконвае каманды, зададзеныя ў парамэтрах праекта (каталёг &lt;f0&gt;omegat&lt;/f0&gt;), таму што яны могуць сур'ёзна паўплываць на бясьпеку сыстэмы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, all files that are not excluded are included.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T122847Z" creationid="GABIN" creationdate="20200730T122847Z">
+        <seg>Па змаўчаньні ўключаюцца ўсе файлы, якія не выключаныя.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16444,10 +16468,34 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Example mappings</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T123010Z" creationid="GABIN" creationdate="20200730T123010Z">
+        <seg>Прыклады вызначэньняў адпаведнасьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Example:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160328T143406Z" creationid="GABIN" creationdate="20160328T143406Z">
         <seg>Прыклад:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files, wherever they are located in the project, even in excluded folders</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T122825Z" creationid="GABIN" creationdate="20200730T122825Z">
+        <seg>Прыклад: &lt;u0&gt;**/*.docx&lt;/u0&gt;, каб дадаць усе файлы .docx у межах праекта, нават з каталёгаў, якія выключаныя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; excludes files that have /excludedfolder/ in the path, and files with .txt extension.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T122724Z" creationid="GABIN" creationdate="20200730T122724Z">
+        <seg>Прыклад: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; выключае файлы з /excludedfolder/ у шляху і файлы з пашырэньнем назвы .txt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26205,6 +26253,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Name of the remote folder or file, relative to the repository url.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T122504Z" creationid="GABIN" creationdate="20200730T122504Z">
+        <seg>Назва аддаленага каталёга або файла адносна URL-адраса рэпазыторыя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Name:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20170206T125424Z" creationid="GABIN" creationdate="20170206T125424Z">
@@ -34276,6 +34332,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160619T183401Z" creationid="gabi" creationdate="20160619T183401Z">
         <seg>Сэгмэнтаваньне на ўзроўні сказаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Separate different patterns with a semicolon.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T122654Z" creationid="GABIN" creationdate="20200730T122654Z">
+        <seg>Калі трэба некалькі шаблёнаў, адасобліваць іх кропкай з коскай.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46863,6 +46927,14 @@ Finder window to be able to launch it from any location.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You only need to specify this to override some exclusions.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T122929Z" creationid="GABIN" creationdate="20200730T122929Z">
+        <seg>Гэты парамэтар ужываецца толькі ў выпадку, калі трэба перавызначыць выключэньні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You should add copies of files, portions of the log, screen shots, and anything else that you think will help the developers to find and fix your bug.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150821T142155Z" creationid="GABIN" creationdate="20150821T141859Z">
@@ -47530,6 +47602,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>excludes</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T122544Z" creationid="GABIN" creationdate="20200730T122509Z">
+        <seg>excludes (выключае)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>extensions:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140724T114441Z" creationid="GABIN" creationdate="20140721T093555Z">
@@ -48178,6 +48258,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>includes</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T122733Z" creationid="GABIN" creationdate="20200730T122733Z">
+        <seg>includes (уключае)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>index entries, bookmarks, bookmark references, notes, comments, presentation notes, links (URL), sheet names</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20151123T132713Z" creationid="GABIN" creationdate="20151123T132713Z">
@@ -48518,16 +48606,16 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>mapping local</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20200730T121650Z" creationid="GABIN" creationdate="20200730T121650Z">
-        <seg>лякальнае вызначэньне адпаведнасьці</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T122532Z" creationid="GABIN" creationdate="20200730T121650Z">
+        <seg>mapping local (лякальнае вызначэньне адпаведнасьці)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>mapping repository</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20200730T122442Z" creationid="GABIN" creationdate="20200730T122442Z">
-        <seg>вызначэньне адпаведнасьці ў рэпазыторыі</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T122538Z" creationid="GABIN" creationdate="20200730T122442Z">
+        <seg>mapping repository (вызначэньне адпаведнасьці ў рэпазыторыі)</seg>
       </tuv>
     </tu>
     <tu>
@@ -49072,16 +49160,16 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>repository type</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20200730T121554Z" creationid="GABIN" creationdate="20200730T121554Z">
-        <seg>тып рэпазыторыя:</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T122523Z" creationid="GABIN" creationdate="20200730T121554Z">
+        <seg>repository type (тып рэпазыторыя)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>repository url</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20200730T121619Z" creationid="GABIN" creationdate="20200730T121619Z">
-        <seg>url-адрас рэпазыторыя:</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T122528Z" creationid="GABIN" creationdate="20200730T121619Z">
+        <seg>repository url (url-адрас рэпазыторыя:)</seg>
       </tuv>
     </tu>
     <tu>
