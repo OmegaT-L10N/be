@@ -9879,6 +9879,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Author</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T113216Z" creationid="GABIN" creationdate="20200730T113216Z">
+        <seg>Аўтар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Author of the match when the match was created</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160704T094459Z" creationid="GABIN" creationdate="20160704T094459Z">
@@ -11673,6 +11681,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140725T102902Z" creationid="GABIN" creationdate="20140725T102902Z">
         <seg>Чуваская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Class</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T113210Z" creationid="GABIN" creationdate="20200730T113210Z">
+        <seg>Кляс</seg>
       </tuv>
     </tu>
     <tu>
@@ -17256,6 +17272,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Folder ID</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T112935Z" creationid="GABIN" creationdate="20200730T112935Z">
+        <seg>Ідэнтыфікатар дырэкторыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Folder already exists and is not empty.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140724T090042Z">
@@ -21994,6 +22018,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installed plugins:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T113203Z" creationid="GABIN" creationdate="20200730T113203Z">
+        <seg>Усталяваныя плагіны:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing OmegaT</seg>
       </tuv>
       <tuv lang="be">
@@ -26285,6 +26317,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No OAuth token specified</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T113003Z" creationid="GABIN" creationdate="20200730T113003Z">
+        <seg>Токен OAuth не пазначаны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Suggestions</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160819T124238Z">
@@ -26313,6 +26353,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T131455Z">
         <seg>Няма злучэньня, праект у аўтаномным рэжыме.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No folder ID specified</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T113008Z" creationid="GABIN" creationdate="20200730T113008Z">
+        <seg>Ідэнтыфікатар дырэкторыі не пазначаны</seg>
       </tuv>
     </tu>
     <tu>
@@ -27237,6 +27285,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T120322Z">
         <seg>&amp;Налады…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OAuth token</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T112947Z" creationid="GABIN" creationdate="20200730T112947Z">
+        <seg>Токен OAuth</seg>
       </tuv>
     </tu>
     <tu>
@@ -42870,10 +42926,34 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to parse IAM service response</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T113029Z" creationid="GABIN" creationdate="20200730T113029Z">
+        <seg>Немагчыма зрабіць сынтаксычны аналіз адказу сэрвісу IAM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160819T121600Z">
         <seg>Немагчыма зрабіць сынтаксычны аналіз файла канфігурацыі фільтраў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse service error report</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T113056Z" creationid="GABIN" creationdate="20200730T113056Z">
+        <seg>Немагчыма зрабіць сынтаксычны аналіз паведамленьня аб памылцы ад сэрвісу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse translate service response</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T113036Z" creationid="GABIN" creationdate="20200730T113036Z">
+        <seg>Немагчыма зрабіць сынтаксычны аналіз адказу сэрвісу перакладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -43584,6 +43664,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20141029T141509Z" creationid="GABIN" creationdate="20141029T141509Z">
         <seg>Выкарыстоўваць глясар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use glossary terms</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T112956Z" creationid="GABIN" creationdate="20200730T112956Z">
+        <seg>Выкарыстоўваць тэрміны з глясара</seg>
       </tuv>
     </tu>
     <tu>
