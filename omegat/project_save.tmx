@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_6b3832026" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.1.0_0_54fc30ee" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25371,6 +25371,14 @@ The Mac version comes bundled with a JRE.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140721T095352Z" creationid="GABIN" creationdate="20140721T095352Z">
         <seg>Маё</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Minimal threshold to show a fuzzy match:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20200730T112907Z" creationid="GABIN" creationdate="20200730T112907Z">
+        <seg>Парогавае значэньне для паказу недакладных супадзеньняў:</seg>
       </tuv>
     </tu>
     <tu>
