@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.1.0_0_54fc30ee" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -29424,6 +29424,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other Icons - Browse, and navigate to the &lt;f0&gt;/images&lt;/f0&gt; subfolder in the &lt;a1&gt;OmegaT&lt;/a1&gt; application folder.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201202T150004Z" creationid="GABIN" creationdate="20201202T150004Z">
+        <seg>Іншыя абразкі — націсьнеце на «Агляд», і перайдзеце ў падкаталёг &lt;f0&gt;/images&lt;/f0&gt; у каталёгу праграмы &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other Options:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T115636Z">
@@ -34436,6 +34444,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160407T073007Z" creationid="GABIN" creationdate="20160407T073007Z">
         <seg>Выберыце абразок &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.png&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the &lt;f2&gt;OmegaT.png&lt;/f2&gt; icon.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201202T150018Z" creationid="GABIN" creationdate="20201202T150018Z">
+        <seg>Выберыце абразок &lt;f2&gt;OmegaT.png&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
