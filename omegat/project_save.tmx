@@ -12013,6 +12013,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on the icon button, then hit &lt;g0&gt;Browse...&lt;/g0&gt; and navigate to the &lt;f1&gt;/images&lt;/f1&gt; subfolder in the &lt;a2&gt;OmegaT&lt;/a2&gt; application folder.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201202T150155Z" creationid="GABIN" creationdate="20201202T150141Z">
+        <seg>Клікнеце па кнопцы абразка, затым націсьнеце &lt;g0&gt;Browse…&lt;/g0&gt; і перайдзеце ў падкаталёг &lt;f1&gt;/images&lt;/f1&gt; у каталёгу праграмы &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on the link to activate the segment in the Editor.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160801T083931Z" creationid="GABIN" creationdate="20160330T125848Z">
@@ -29426,8 +29434,8 @@ happen should you file a bug report.</seg>
       <tuv lang="en">
         <seg>Other Icons - Browse, and navigate to the &lt;f0&gt;/images&lt;/f0&gt; subfolder in the &lt;a1&gt;OmegaT&lt;/a1&gt; application folder.</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20201202T150004Z" creationid="GABIN" creationdate="20201202T150004Z">
-        <seg>Іншыя абразкі — націсьнеце на «Агляд», і перайдзеце ў падкаталёг &lt;f0&gt;/images&lt;/f0&gt; у каталёгу праграмы &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20201202T150206Z" creationid="GABIN" creationdate="20201202T150004Z">
+        <seg>Іншыя абразкі — націсьнеце на «Browse», і перайдзеце ў падкаталёг &lt;f0&gt;/images&lt;/f0&gt; у каталёгу праграмы &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32667,6 +32675,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-click on the panel - &lt;e0&gt;Add New Launcher&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201202T150048Z" creationid="GABIN" creationdate="20201202T150048Z">
+        <seg>Клікнеце правай кнопкай па панэлі — &lt;e0&gt;Add New Launcher&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it exists) the target file.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160808T133836Z" creationid="GABIN" creationdate="20160705T130216Z">
@@ -34451,6 +34467,14 @@ The scope of a search is by default the project and can be set to be any files l
         <seg>Select the &lt;f2&gt;OmegaT.png&lt;/f2&gt; icon.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20201202T150018Z" creationid="GABIN" creationdate="20201202T150018Z">
+        <seg>Выберыце абразок &lt;f2&gt;OmegaT.png&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the &lt;f3&gt;OmegaT.png&lt;/f3&gt; icon.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201202T150146Z" creationid="GABIN" creationdate="20201202T150146Z">
         <seg>Выберыце абразок &lt;f2&gt;OmegaT.png&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
