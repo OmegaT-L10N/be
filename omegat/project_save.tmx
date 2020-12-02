@@ -18391,6 +18391,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GNOME may fail to display the icon files in the available formats and initially appear to expect an SVG file, but if the folder is selected, the files should appear and &lt;f4&gt;OmegaT.png&lt;/f4&gt; can be selected.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201202T150318Z" creationid="GABIN" creationdate="20201202T150318Z">
+        <seg>GNOME можа не паказваць файлы абразкоў у даступных фарматах і на першы погляд чакаць файл SVG, але калі абраны каталёг, павінны зьявіцца файлы і можна будзе выбраць &lt;f4&gt;OmegaT.png&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Galician</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140725T103451Z" creationid="GABIN" creationdate="20140725T103451Z">
@@ -34474,8 +34482,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Select the &lt;f3&gt;OmegaT.png&lt;/f3&gt; icon.</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20201202T150146Z" creationid="GABIN" creationdate="20201202T150146Z">
-        <seg>Выберыце абразок &lt;f2&gt;OmegaT.png&lt;/f2&gt;.</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20201202T150230Z" creationid="GABIN" creationdate="20201202T150146Z">
+        <seg>Выберыце абразок &lt;f3&gt;OmegaT.png&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
