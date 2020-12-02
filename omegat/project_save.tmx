@@ -25071,6 +25071,14 @@ The Mac version comes bundled with a JRE.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure that your &lt;v1&gt;PATH&lt;/v1&gt; settings are correct and that &lt;f2&gt;.jar&lt;/f2&gt; files are properly associated with a Java launcher.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201202T150523Z" creationid="GABIN" creationdate="20201202T150523Z">
+        <seg>Пераканайцеся ў правільнасьці парамэтра &lt;v1&gt;PATH&lt;/v1&gt; і ў тым, што файлы &lt;f2&gt;.jar&lt;/f2&gt; належным чынам асацыяваныя з запускальнікам Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure the field &lt;e1&gt;Checkout directory&lt;/e1&gt; is correct, i.e. specifies the empty folder you have created, and press &lt;e2&gt;OK&lt;/e2&gt;.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160712T142336Z" creationid="GABIN" creationdate="20150622T125841Z">
@@ -48936,6 +48944,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160707T144138Z" creationid="GABIN" creationdate="20160707T144138Z">
         <seg>mALIGNa (ліцэнзія MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS Users</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201202T150531Z" creationid="GABIN" creationdate="20201202T150531Z">
+        <seg>Карыстальнікі macOS</seg>
       </tuv>
     </tu>
     <tu>
