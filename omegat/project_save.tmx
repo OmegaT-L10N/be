@@ -15199,6 +15199,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201202T150619Z" creationid="GABIN" creationdate="20201202T150619Z">
+        <seg>Спампаваць &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download Media&amp;Wiki Page...</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T140407Z">
@@ -22350,6 +22358,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20200730T113203Z" creationid="GABIN" creationdate="20200730T113203Z">
         <seg>Усталяваныя плагіны:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201202T150630Z" creationid="GABIN" creationdate="20201202T150630Z">
+        <seg>Усталяваньне &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
