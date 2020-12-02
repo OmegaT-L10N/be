@@ -46935,6 +46935,14 @@ the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can launch OmegaT from the command line with a script that includes start-up options or you can click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201202T150357Z" creationid="GABIN" creationdate="20201202T150357Z">
+        <seg>OmegaT можна запускаць з каманднага радка з дапамогай сцэнара, які ўключае парамэтры запуску, або клікаючы непасрэдна па файле &lt;f0&gt;OmegaT.jar&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;e1&gt;Configuration.properties&lt;/e1&gt; file in the package.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160802T135859Z" creationid="GABIN" creationdate="20160802T135859Z">
