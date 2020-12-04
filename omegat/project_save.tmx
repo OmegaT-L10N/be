@@ -7560,6 +7560,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;p3&gt;XX&lt;/p3&gt; in the command stands for the two-digit code of the desired language.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T144656Z" creationid="GABIN" creationdate="20201204T144656Z">
+        <seg>“&lt;p3&gt;XX&lt;/p3&gt;” у каманьдзе — гэта двузначны код жаданай мовы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt; key instead of the &lt;k2&gt;Control&lt;/k2&gt; key.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20130514T144907Z">
@@ -19871,6 +19879,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a user interface in this language is available, &lt;a4&gt;OmegaT&lt;/a4&gt; uses it.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T144509Z" creationid="GABIN" creationdate="20201204T144509Z">
+        <seg>Калі ёсьць пераклад на мову інтэрфэйса карыстальніка, &lt;a4&gt;OmegaT&lt;/a4&gt; ужывае яе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160801T084145Z" creationid="GABIN" creationdate="20160401T090133Z">
@@ -20337,6 +20353,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160418T083027Z" creationid="GABIN" creationdate="20160418T083027Z">
         <seg>Калі лякалізацыі на мову сыстэмы карыстальніка няма, &lt;a6&gt;OmegaT&lt;/a6&gt; паказваецца на англійскай.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the language of the user's system is not available, &lt;a7&gt;OmegaT&lt;/a7&gt; defaults to English.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T144623Z" creationid="GABIN" creationdate="20201204T144623Z">
+        <seg>Калі лякалізацыі на мову сыстэмы карыстальніка няма, &lt;a7&gt;OmegaT&lt;/a7&gt; паказваецца на англійскай.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35512,6 +35536,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>So, if the user's operating system is Russian and &lt;a5&gt;OmegaT&lt;/a5&gt; has been localized in Russian, &lt;a6&gt;OmegaT&lt;/a6&gt; is displayed with a Russian user interface, Russian menus, etc.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T144616Z" creationid="GABIN" creationdate="20201204T144616Z">
+        <seg>Г. зн., калі апэрацыйная сыстэма на расейскай і &lt;a5&gt;OmegaT&lt;/a5&gt; лякалізаваная на расейскую, &lt;a6&gt;OmegaT&lt;/a6&gt; будзе паказвацца на расейскай (інтэрфэйс, мэню і да г. п.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Somali</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140725T131245Z" creationid="GABIN" creationdate="20140725T131245Z">
@@ -37774,6 +37806,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160317T080807Z" creationid="GABIN" creationdate="20160317T080807Z">
         <seg>Пераключэньне па &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; адбываецца паміж трыма рэжымамі:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; argument causes &lt;a2&gt;OmegaT&lt;/a2&gt; to use the language specified rather than the language of the user's operating system.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T144647Z" creationid="GABIN" creationdate="20201204T144647Z">
+        <seg>Ужываньне аргумэнта “&lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt;” дазваляе задаваць пэўную мову для &lt;a2&gt;OmegaT&lt;/a2&gt;, а не аўтаматычна выбіраць мову апэрацыйнай сыстэмы карыстальніка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42812,6 +42852,14 @@ as a Source Forge user.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160418T083907Z" creationid="GABIN" creationdate="20160418T083907Z">
         <seg>Для запуску &lt;a2&gt;OmegaT&lt;/a2&gt; з францускім інтэрфэйсам (напрыклад, на расейскай апэрацыйнай сыстэмы) каманда павінна быць наступнай:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To launch &lt;a4&gt;OmegaT&lt;/a4&gt; with a French interface (for example on a Russian operating system), the command would therefore be:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T144704Z" creationid="GABIN" creationdate="20201204T144704Z">
+        <seg>Для запуску &lt;a4&gt;OmegaT&lt;/a4&gt; з францускім інтэрфэйсам (напрыклад, на расейскай апэрацыйнай сыстэмы) каманда павінна быць наступнай:</seg>
       </tuv>
     </tu>
     <tu>
