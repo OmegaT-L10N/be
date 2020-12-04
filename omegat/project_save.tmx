@@ -3984,6 +3984,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;I don't know:&lt;/e0&gt; open a terminal and type &lt;c1&gt;java -version&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143406Z" creationid="GABIN" creationdate="20201204T143406Z">
+        <seg>&lt;e0&gt;Ня ведаю:&lt;/e0&gt; адчынеце тэрмінал і ўвядзеце “&lt;c1&gt;java -version&lt;/c1&gt;”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Important: &lt;/e0&gt;Google Translate API v2 requires billing information for all accounts before you can start using the service (see &lt;u1&gt;Pricing and Terms of Service&lt;/u1&gt; for more).</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160425T140957Z" creationid="GABIN" creationdate="20160425T140957Z">
@@ -4116,6 +4124,14 @@ OmegaT запускаецца наступным чынам.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160407T125851Z" creationid="GABIN" creationdate="20160407T125851Z">
         <seg>&lt;e0&gt;Не:&lt;/e0&gt; атрымайце Java JRE для сыстэмы (гл. ніжэй) і спампуйце &lt;e1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;No:&lt;/e0&gt; obtain a Java JRE for your system (see below) and download &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143423Z" creationid="GABIN" creationdate="20201204T143423Z">
+        <seg>&lt;e0&gt;Не:&lt;/e0&gt; атрымайце Java JRE для сыстэмы (гл. ніжэй) і спампуйце &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4504,6 +4520,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Yes:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143351Z" creationid="GABIN" creationdate="20201204T143351Z">
+        <seg>&lt;e0&gt;Так: &lt;/e0&gt;спампаваць &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.exe&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;add the copied files to the local version of the repository:&lt;/e0&gt; right-click on the local checkout folder and select &lt;g1&gt;TortoiseSVN &gt; Add.&lt;/g1&gt; In the dialog that opens, leave all options as per default and click&lt;g2&gt; OK&lt;/g2&gt;.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20171026T135039Z" creationid="GABIN" creationdate="20150622T140534Z">
@@ -4628,6 +4652,14 @@ OmegaT запускаецца наступным чынам.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160622T095807Z" creationid="GABIN" creationdate="20160622T095807Z">
         <seg>каталёг &lt;f0&gt;&lt;i1/&gt;tm&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143249Z" creationid="GABIN" creationdate="20201204T143249Z">
+        <seg>Для &lt;f0&gt;OmegaT.app&lt;/f0&gt; можна скарыстацца з сэрвісаў macOS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8646,6 +8678,14 @@ OmegaT запускаецца наступным чынам.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160407T133449Z" creationid="GABIN" creationdate="20160407T133449Z">
         <seg>Пасьля першапачатковай усталёўкі можна, вядома, выкарыстоўваць &lt;e5&gt;&lt;a6&gt;OmegaT&lt;/a6&gt;.jnlp&lt;/e5&gt; таксама і без злучэньня з Інтэрнэтам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After the initial installation you can, of course, also use &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; also when you are offline.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143823Z" creationid="GABIN" creationdate="20201204T143823Z">
+        <seg>Пасьля першапачатковага ўсталяваньня можна, вядома, выкарыстоўваць &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; таксама і без злучэньня з Інтэрнэтам.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15295,6 +15335,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download the file &lt;f0&gt;OmegaT.jnlp&lt;/f0&gt; and then click on it.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143725Z" creationid="GABIN" creationdate="20201204T143725Z">
+        <seg>Спампуйце файл &lt;f0&gt;OmegaT.jnlp&lt;/f0&gt;, затым клікнеце па ім.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download the file&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.jnlp&lt;/e0&gt; and then click on it.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160407T133038Z" creationid="GABIN" creationdate="20160407T133038Z">
@@ -17626,8 +17674,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Follow the installation instructions of the package you need.</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20160407T125939Z" creationid="GABIN" creationdate="20160407T125939Z">
-        <seg>Выконвайце інструкцыі па ўсталёўцы патрэбнага пакета.</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143531Z" creationid="GABIN" creationdate="20160407T125939Z">
+        <seg>Выконвайце інструкцыі па ўсталяваньні патрэбнага пакета.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18163,6 +18211,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160802T140520Z" creationid="GABIN" creationdate="20160407T141159Z">
         <seg>З гэтай прычыны дзьве каманды, апісаныя вышэй, аб’яднаныя ў адным файле (“сцэнар” або, у Windows, “пакетны файл .bat”).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For this reason, the two commands described above are contained in a file (a "script", also called a "&lt;f0&gt;.bat&lt;/f0&gt; file" on Windows systems).</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T144037Z" creationid="GABIN" creationdate="20201204T144037Z">
+        <seg>З гэтай прычыны дзьве каманды, апісаныя вышэй, аб’яднаныя ў адным файле (“сцэнар” або, у Windows, “пакетны файл &lt;f0&gt;.bat&lt;/f0&gt;”).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19523,6 +19579,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>IBM provides JREs for Linux PowerPC at &lt;u0/&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143521Z" creationid="GABIN" creationdate="20201204T143521Z">
+        <seg>IBM прадстаўляе JRE для Linux PowerPC з &lt;u0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>IBM provides JREs for Linux PowerPC at &lt;u0&gt;http://www.ibm.com/developerworks/java/jdk/linux/download.htm&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160407T125926Z" creationid="GABIN" creationdate="20160407T125926Z">
@@ -19738,6 +19802,14 @@ need not be entered.)</seg>
         <seg>If a "command not found" or similar message is returned, it is likely that Java is not installed on your system</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160808T131945Z" creationid="GABIN" creationdate="20160407T125817Z">
+        <seg>Калі ў адказ атрымаеце нешта кшталту “каманда ня знойдзена” або аналягічнае паведамленьне, цалкам верагодна, што ў вашай сыстэме няма ўсталяванага асяродка выкананьня Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a "command not found" or similar message is returned, it is likely that Java is not installed on your system.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143410Z" creationid="GABIN" creationdate="20201204T143410Z">
         <seg>Калі ў адказ атрымаеце нешта кшталту “каманда ня знойдзена” або аналягічнае паведамленьне, цалкам верагодна, што ў вашай сыстэме няма ўсталяванага асяродка выкананьня Java.</seg>
       </tuv>
     </tu>
@@ -22484,8 +22556,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>Installing convenient shortcuts</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20160407T130453Z" creationid="GABIN" creationdate="20160407T130453Z">
-        <seg>Усталёўка зручных цэтлікаў</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143610Z" creationid="GABIN" creationdate="20160407T130453Z">
+        <seg>Усталяваньне зручных цэтлікаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -23337,6 +23409,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160802T140354Z" creationid="GABIN" creationdate="20160407T132801Z">
         <seg>Тэхналёгія Java Web Start (частка Java пачынаючы ад вэрсіі 1.6) можа ўжывацца для разгортваньня аўтаномных праграмаў Java праз адзін клік па сетцы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Java Web Start technology (part of Java 8 and above) can be used to deploy standalone Java software applications with a single click over the network.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143709Z" creationid="GABIN" creationdate="20201204T143709Z">
+        <seg>Тэхналёгія Java Web Start (частка Java ад вэрсіі 8) можа ўжывацца для разгортваньня аўтаномных праграмаў Java праз адзін клік па сетцы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25139,6 +25219,14 @@ The Mac version comes bundled with a JRE.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20201202T150523Z" creationid="GABIN" creationdate="20201202T150523Z">
         <seg>Пераканайцеся ў правільнасьці парамэтра &lt;v1&gt;PATH&lt;/v1&gt; і ў тым, што файлы &lt;f2&gt;.jar&lt;/f2&gt; належным чынам асацыяваныя з запускальнікам Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure that your &lt;v2&gt;PATH&lt;/v2&gt; settings are correct and that &lt;f3&gt;.jar&lt;/f3&gt; files are properly associated with a Java launcher.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143651Z" creationid="GABIN" creationdate="20201204T143651Z">
+        <seg>Пераканайцеся ў правільнасьці парамэтра &lt;v2&gt;PATH&lt;/v2&gt; і ў тым, што файлы &lt;f3&gt;.jar&lt;/f3&gt; належным чынам асацыяваныя з запускальнікам Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28764,6 +28852,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On macOS</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143932Z" creationid="GABIN" creationdate="20201204T143932Z">
+        <seg>У macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150526T095826Z" creationid="GABIN" creationdate="20140912T093851Z">
@@ -28808,6 +28904,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160407T132007Z" creationid="GABIN" creationdate="20160407T132007Z">
         <seg>Пасьля ўсталяваньня &lt;a0&gt;OmegaT&lt;/a0&gt; праграму можна запускаць з каманднага радка з дапамогай сцэнара, які ўключае парамэтры запуску, або клікаючы непасрэдна па файле &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.jar&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143633Z" creationid="GABIN" creationdate="20201204T143633Z">
+        <seg>Пасьля ўсталяваньня &lt;a0&gt;OmegaT&lt;/a0&gt; праграму можна запускаць з каманднага радка з дапамогай сцэнара, які ўключае парамэтры запуску, або клікаючы непасрэдна па файле &lt;f1&gt;OmegaT.jar&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29448,6 +29552,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Oracle provides JREs for Solaris SPARC/x86 (Java 8) and for Linux x64, Solaris x64, Windows x64 (Java 8) at &lt;u0/&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143509Z" creationid="GABIN" creationdate="20201204T143509Z">
+        <seg>Oracle прадстаўляе асяродкі выкананьня Java для Solaris SPARC/x86 (Java 8) і для Linux x64, Solaris x64, Windows x64 (Java 8) з &lt;u0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Original author of the OmegaT application</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20180606T090742Z" creationid="GABIN" creationdate="20180606T090742Z">
@@ -29978,6 +30090,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160407T140738Z" creationid="GABIN" creationdate="20160407T140738Z">
         <seg>Зважайце на рэгістар літараў — за выключэньнем Windows праграма не запусьціцца, калі ўвесьці &lt;e0&gt;omegat&lt;/e0&gt; замест &lt;e1&gt;OmegaT &lt;/e1&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pay attention to the capitalization - in OS other than Windows, the program will not start, if you enter &lt;l0&gt;omegat&lt;/l0&gt; instead of &lt;l1&gt;OmegaT&lt;/l1&gt;!</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T144021Z" creationid="GABIN" creationdate="20201204T144021Z">
+        <seg>Зважайце на рэгістар літараў — за выключэньнем Windows праграма не запусьціцца, калі ўвесьці &lt;l0&gt;omegat&lt;/l0&gt; замест &lt;l1&gt;OmegaT&lt;/l1&gt;!</seg>
       </tuv>
     </tu>
     <tu>
@@ -36343,6 +36463,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Subsequent clicks on &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; will check for any upgrades, install them, if there are any, and then start &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143803Z" creationid="GABIN" creationdate="20201204T143803Z">
+        <seg>Калі зноў націснуць па &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt;, будуць правераныя абнаўленьні OmegaT, пры наяўнасьці яны будуць усталяваныя, а пасьля гэтага запусьціцца &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Subversion</seg>
       </tuv>
       <tuv lang="be" changeid="Kos Ivantsov" changedate="20180606T183412Z" creationid="Kos Ivantsov" creationdate="20180606T183412Z">
@@ -39201,6 +39329,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The macOS equivalent is the application Terminal located in &lt;f0&gt;Applications/Utilities&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143847Z" creationid="GABIN" creationdate="20201204T143847Z">
+        <seg>У Mac OS X эквівалентам зьяўляецца праграма Terminal, якая знаходзіцца ў &lt;f0&gt;Applications / Utilities&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The machine translation pane, when opened, contains the suggestions by machine translation tools for the current segment.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160705T123838Z" creationid="GABIN" creationdate="20160705T123838Z">
@@ -41333,6 +41469,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This creates an &lt;f2&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f2&gt; folder in the working folder with all the files necessary to run &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143603Z" creationid="GABIN" creationdate="20201204T143603Z">
+        <seg>У выніку будзе створаны каталёг &lt;f2&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f2&gt; у працоўным каталёгу з усімі файламі, патрэбнымі для працы &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This dialog enables you to set up the source filename patterns of files to be processed by the filter, customize the filenames of translated files, and select which encodings should be used for loading the file and saving its translated counterpart.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20151123T132801Z" creationid="GABIN" creationdate="20140307T102329Z">
@@ -41497,6 +41641,14 @@ the server.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160407T123049Z" creationid="GABIN" creationdate="20160407T123049Z">
         <seg>Гэтая інфармацыя датычная такіх сыстэмаў як Solaris SPARC/x86/x64, Linux x64/PowerPC, Windows x64</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This information applies to systems such as Solaris SPARC/x86/x64, Linux x64/PowerPC, Windows x64.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143322Z" creationid="GABIN" creationdate="20201204T143319Z">
+        <seg>Гэтая інфармацыя датычная такіх сыстэмаў як Solaris SPARC/x86/x64, Linux x64/PowerPC, Windows x64.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41906,6 +42058,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This package can be used on any platform where a Java 8 compatible JRE is installed.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143356Z" creationid="GABIN" creationdate="20201204T143356Z">
+        <seg>Гэты пакет можа быць выкарыстаны на любой плятформе, дзе ўсталяваны асяродак выкананьня, сумяшчальны з Java 1.6 JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This package is bundled with Oracle's Java Runtime Environment.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160401T133111Z" creationid="GABIN" creationdate="20160401T133111Z">
@@ -42044,8 +42204,8 @@ this version will not interfere with it.</seg>
       <tuv lang="en">
         <seg>This will launch OmegaT with 6 GB of memory; change the &lt;l4&gt;6g&lt;/l4&gt; to the desired amount.</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20201204T142833Z" creationid="GABIN" creationdate="20201204T142833Z">
-        <seg>Пасля гэтага пры запуску OmegaT будзе выдзяляцца 6 Гб памяць. Можна зьмяніць &lt;l4&gt;6g&lt;/l4&gt; на патрэбны аб’ём.</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143056Z" creationid="GABIN" creationdate="20201204T142833Z">
+        <seg>Пасьля гэтага пры запуску OmegaT будзе выдзяляцца 6 Гб памяць. Можна зьмяніць &lt;l4&gt;6g&lt;/l4&gt; на патрэбны аб’ём.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42574,6 +42734,14 @@ file type is associated with Java on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, simply unpack the &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt; file.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143545Z" creationid="GABIN" creationdate="20201204T143545Z">
+        <seg>Каб усталяваць &lt;a0&gt;OmegaT&lt;/a0&gt;, проста распакуйце файл &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To install spelling dictionaries, follow this procedure:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160621T114331Z" creationid="GABIN" creationdate="20160621T114331Z">
@@ -42636,6 +42804,14 @@ as a Source Forge user.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160407T122636Z" creationid="GABIN" creationdate="20160407T122636Z">
         <seg>Для запуску некалькіх асобнікаў &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; клікнеце двойчы па файле &lt;e2&gt;OmegaT.sh&lt;/e2&gt; у &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/ Contents/MacOS/&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To launch multiple instances of &lt;f0&gt;OmegaT.app&lt;/f0&gt;, double-click the file &lt;e1&gt;OmegaT&lt;/e1&gt; located in &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143134Z" creationid="GABIN" creationdate="20201204T143134Z">
+        <seg>Для запуску некалькіх асобнікаў &lt;f0&gt;OmegaT.app&lt;/f0&gt; клікнеце двойчы па файле &lt;e1&gt;OmegaT&lt;/e1&gt; у &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44576,6 +44752,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160407T122658Z" creationid="GABIN" creationdate="20160407T122658Z">
         <seg>Ужывайце файл &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; у &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/MacOS/Java/&lt;/e2&gt; для запуску &lt;a4&gt;OmegaT&lt;/a4&gt; з каманднага радка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; file located in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; to launch &lt;a2&gt;OmegaT&lt;/a2&gt; from the command line.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143204Z" creationid="GABIN" creationdate="20201204T143204Z">
+        <seg>Ужывайце файл &lt;f0&gt;OmegaT.jar&lt;/f0&gt; у &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; для запуску &lt;a2&gt;OmegaT&lt;/a2&gt; з каманднага радка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46837,6 +47021,14 @@ from there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also use AppleScript or Automator to create Services or scripts that will automate frequent actions.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143313Z" creationid="GABIN" creationdate="20201204T143313Z">
+        <seg>Можна таксама скарыстацца з AppleScript або Automator для стварэньня сэрвісаў або сцэнароў у мэтах аўтаматызацыі частых задачаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can ask the user group for advice if you have problems.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160623T135705Z" creationid="GABIN" creationdate="20160623T135705Z">
@@ -47223,6 +47415,14 @@ omegat.kaptn</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150526T083448Z" creationid="GABIN" creationdate="20140725T140643Z">
         <seg>Можна сказаць, што LanguageTool — гэта праграмнае забесьпячэньне для выяўленьня памылак, якія ня могуць выявіць звычайныя сродкі праверкі правапісу, напрыклад, зьмешваньне there/their, no/now у ангельскай і да г. п.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can thus select a word anywhere in &lt;a1&gt;OmegaT&lt;/a1&gt; and use Services to check this word, for instance in Spotlight or in Google.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143309Z" creationid="GABIN" creationdate="20201204T143254Z">
+        <seg>Можна вылучыць слова дзесьці ў &lt;a1&gt;OmegaT&lt;/a1&gt; і праз Services пашукаць гэтае слова, напрыклад, у Spotlight або Google.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47910,6 +48110,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140721T121013Z">
         <seg>cd &lt;каталёг, дзе знаходзіцца файл OmegaT.jar&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>cd &lt;p0&gt;&lt;OmegaT.app location&gt;&lt;/p0&gt;/OmegaT.app/Contents/Resources/Java/</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143942Z" creationid="GABIN" creationdate="20201204T143942Z">
+        <seg>cd &lt;p0&gt;&lt;месцазнаходжаньне OmegaT.app&gt;&lt;/p0&gt;/OmegaT.app/Contents/Resources/Java/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>cd &lt;p0&gt;folder&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143856Z" creationid="GABIN" creationdate="20201204T143856Z">
+        <seg>cd &lt;p0&gt;каталёг&lt;/p0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -49092,6 +49308,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>macOS goodies</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143234Z" creationid="GABIN" creationdate="20201204T143234Z">
+        <seg>Дадатковыя магчымасьці macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>mailto:OmegaT-subscribe@yahoogroups.com</seg>
       </tuv>
       <tuv lang="be" changeid="Kos Ivantsov" changedate="20180606T184024Z" creationid="Kos Ivantsov" creationdate="20180606T184024Z">
@@ -50210,6 +50434,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160615T123122Z" creationid="gabi" creationdate="20160615T123122Z">
         <seg>аўтар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;p0&gt;folder&lt;/p0&gt; is the name of the folder, with complete path, in which your &lt;a1&gt;OmegaT&lt;/a1&gt; program - specifically, the file &lt;f2&gt;OmegaT.jar&lt;/f2&gt; - is located.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T143923Z" creationid="GABIN" creationdate="20201204T143923Z">
+        <seg>дзе &lt;p0&gt;{каталёг}&lt;/p0&gt; — назва каталёга, з поўным шляхам да яго, у які знаходзяцца праграма &lt;a1&gt;OmegaT&lt;/a1&gt; — канкрэтна файл &lt;f2&gt;OmegaT.jar&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
