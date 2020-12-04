@@ -27305,6 +27305,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that in Windows you can change the &lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt; file to reflect your preferences.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T144354Z" creationid="GABIN" creationdate="20201204T144354Z">
+        <seg>Заўважце, што ў Windows парамэтры запуску можна зьмяніць шляхам рэдагаваньня файла &lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that in Windows you can change the &lt;f3&gt;OmegaT.l4J.ini&lt;/f3&gt; file to reflect your preferences.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160408T080611Z" creationid="GABIN" creationdate="20160408T080611Z">
