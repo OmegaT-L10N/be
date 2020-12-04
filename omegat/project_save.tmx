@@ -12877,6 +12877,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the folder to a suitable folder (e.g. Applications).</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T142317Z" creationid="GABIN" creationdate="20201204T142317Z">
+        <seg>Скапіюйце каталёг у прыдатны каталёг (напрыклад, Application).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the translation memories, containing the translations of the documents above, into &lt;f0&gt;tm/auto&lt;/f0&gt; subfolder of the new project.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160623T140349Z" creationid="GABIN" creationdate="20160623T140349Z">
@@ -15135,10 +15143,26 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double click on &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt; to unpack it.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T142234Z" creationid="GABIN" creationdate="20201204T142234Z">
+        <seg>Двойчы націсьнеце &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt; для распакаваньня.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double clicking the item with the OmegaT icon is sufficient to open the project.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160309T092105Z" creationid="GABIN" creationdate="20160309T092105Z">
         <seg>Каб адкрыць праект, дастаткова двойчы клікнуць элемэнт з абразком OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-click on &lt;f0&gt;OmegaT.app&lt;/f0&gt; or click on its location in the Dock.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T142402Z" creationid="GABIN" creationdate="20201204T142402Z">
+        <seg>Двойчы клікнеце па &lt;f0&gt;OmegaT.app&lt;/f0&gt; або клікнеце па ягоным месцы ў Dock.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15331,6 +15355,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160407T081242Z" creationid="GABIN" creationdate="20160407T081242Z">
         <seg>Перацягнеце і пакіньце &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; на Dock.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Drag and drop &lt;f0&gt;OmegaT.app&lt;/f0&gt; onto the Dock.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T142346Z" creationid="GABIN" creationdate="20201204T142346Z">
+        <seg>Перацягнеце і пакіньце &lt;f0&gt;OmegaT.app&lt;/f0&gt; на Dock.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17804,6 +17836,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l2&gt;user.language=ja&lt;/l2&gt; (without the &lt;l3&gt;#&lt;/l3&gt;) will launch &lt;a4&gt;OmegaT&lt;/a4&gt; with the user interface in Japanese.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T142639Z" creationid="GABIN" creationdate="20201204T142639Z">
+        <seg>Напрыклад, пры &lt;l2&gt;user.language=ja&lt;/l2&gt; (без &lt;l3&gt;#&lt;/l3&gt;) &lt;a4&gt;OmegaT&lt;/a4&gt; запускаецца з інтэрфэйсам на японскай мове.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, by default &lt;l0&gt;.txt&lt;/l0&gt; files will be loaded using the default encoding of your operating system.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160303T091832Z" creationid="GABIN" creationdate="20160303T091832Z">
@@ -18019,6 +18059,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160407T122429Z" creationid="GABIN" creationdate="20160407T122429Z">
         <seg>Калі пэўны парамэтар папярэдне вызначаны, дастаткова проста выдаліць сымбаль # перад ім.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For pre-defined options, remove the &lt;l1&gt;#&lt;/l1&gt; before a parameter to enable it.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T142601Z" creationid="GABIN" creationdate="20201204T142601Z">
+        <seg>Калі пэўны парамэтар папярэдне вызначаны, дастаткова проста выдаліць сымбаль &lt;l1&gt;#&lt;/l1&gt; перад ім.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28852,6 +28900,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once you have done this, you can delete the &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt; file, it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T142329Z" creationid="GABIN" creationdate="20201204T142329Z">
+        <seg>Зрабіўшы гэта, можна выдаліць файл &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt;, бо ён больш не патрэбны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20141001T094126Z">
@@ -29324,6 +29380,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160407T121951Z" creationid="GABIN" creationdate="20160407T121951Z">
         <seg>Парамэтры зьмяняюцца шляхам рэдагаваньня &lt;e0&gt;OmegaT.sh&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Options are changed by modifying &lt;f0&gt;Configuration.properties&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T142554Z" creationid="GABIN" creationdate="20201204T142554Z">
+        <seg>Парамэтры зьмяняюцца шляхам рэдагаваньня &lt;f0&gt;Configuration.properties&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38680,6 +38744,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder contains 2 files: &lt;f2&gt;index.html&lt;/f2&gt; and &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T142302Z" creationid="GABIN" creationdate="20201204T142302Z">
+        <seg>У каталёгу будуць 2 файлы: &lt;f2&gt;index.html&lt;/f2&gt; і &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder contains 2 files: index.html and &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app.&lt;/e3&gt; Copy the folder to a suitable folder (e.g. Applications).</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160407T080622Z" creationid="GABIN" creationdate="20160407T080622Z">
@@ -41245,6 +41317,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This creates a folder called &lt;f1&gt;OmegaT&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T142243Z" creationid="GABIN" creationdate="20201204T142243Z">
+        <seg>Пры гэтым створыцца каталёг з назвай &lt;f1&gt;OmegaT&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This creates an &lt;e2&gt;./OmegaT_3.n.n_Without_JRE/&lt;/e2&gt; folder in the working folder with all the files necessary to run &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160407T130042Z" creationid="GABIN" creationdate="20160407T130042Z">
@@ -41962,6 +42042,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will launch OmegaT with 6 GB of memory; change the &lt;l4&gt;6g&lt;/l4&gt; to the desired amount.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T142833Z" creationid="GABIN" creationdate="20201204T142833Z">
+        <seg>Пасля гэтага пры запуску OmegaT будзе выдзяляцца 6 Гб памяць. Можна зьмяніць &lt;l4&gt;6g&lt;/l4&gt; на патрэбны аб’ём.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will work only if the .jar
 file type is associated with Java on your system.</seg>
       </tuv>
@@ -42079,6 +42167,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160407T121823Z" creationid="GABIN" creationdate="20160407T121823Z">
         <seg>Каб атрымаць доступ да &lt;a0&gt;&lt;e1&gt;OmegaT.sh&lt;/e1&gt;&lt;/a0&gt;, клікнеце правай кнопкай мышкі па &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; і выберыце “Show Package Contents”, затым адчынеце файл у Contents/MacOS, клікнуўшы правай кнопкай па ім і выбраўшы патрэбны тэкставы рэдактар.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To access &lt;f0&gt;Configuration.properties&lt;/f0&gt;, right-click on &lt;f1&gt;OmegaT.app&lt;/f1&gt; and select "Show Package Contents", then open the file in &lt;f2&gt;Contents/Resources&lt;/f2&gt; by right-clicking on it and selecting your text editor of choice.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T142514Z" creationid="GABIN" creationdate="20201204T142514Z">
+        <seg>Каб атрымаць доступ да файла &lt;f0&gt;Configuration.properties&lt;/f0&gt;, клікнеце правай кнопкай мышкі па &lt;f1&gt;OmegaT.app&lt;/f1&gt; і выберыце “Show Package Contents”, затым адчынеце файл у &lt;f2&gt;Contents/Resources&lt;/f2&gt;, клікнуўшы правай кнопкай па ім і выбраўшы патрэбны тэкставы рэдактар.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42218,6 +42314,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20170206T081410Z" creationid="GABIN" creationdate="20170206T081410Z">
         <seg>Для зьмяненьня даступнага аб’ёму памяці сьлед адрэдагаваць файл &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; і зьмяніць зьмесьціва &lt;string&gt;-Xmx1024M&lt;/string&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and un-comment the line &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; by removing the &lt;l2&gt;&lt;!--&lt;/l2&gt; and &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T142757Z" creationid="GABIN" creationdate="20201204T142757Z">
+        <seg>Для зьмяненьня даступнага аб’ёму памяці сьлед адрэдагаваць файл &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; і раскамэнтаваць радок &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; (г. зн. выдаліць &lt;l2&gt;&lt;!--&lt;/l2&gt; і &lt;l3&gt;--&gt;&lt;/l3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -46609,6 +46713,14 @@ you think will help the developers with finding and fixing your bug.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also &lt;c3&gt;cd&lt;/c3&gt; there directly from the command line and open &lt;f4&gt;Configuration.properties&lt;/f4&gt; in a command line editor like emacs or vi.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T142536Z" creationid="GABIN" creationdate="20201204T142536Z">
+        <seg>Можна таксама ўвесьці “&lt;c3&gt;cd&lt;/c3&gt;” проста там з каманднага радку і адчыніць &lt;f4&gt;Configuration.properties&lt;/f4&gt; у кансольным тэкставым рэдактары тыпу emacs ці vi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g4&gt; "Import from MediaWiki"&lt;/g4&gt; button and providing the corresponding URL.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160808T131945Z" creationid="GABIN" creationdate="20160705T135636Z">
@@ -46979,6 +47091,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160407T121649Z" creationid="GABIN" creationdate="20160407T121649Z">
         <seg>Парамэтры запуску OmegaT можна зьмяніць шляхам рэдагаваньня &lt;e0&gt;Properties&lt;/e0&gt; або файла &lt;e1&gt;OmegaT.sh&lt;/e1&gt; у пакеце.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;f1&gt;Configuration.properties&lt;/f1&gt; file in the package.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T142424Z" creationid="GABIN" creationdate="20201204T142424Z">
+        <seg>Парамэтры запуску OmegaT можна зьмяніць шляхам рэдагаваньня &lt;e0&gt;Properties&lt;/e0&gt; або файла &lt;f1&gt;Configuration.properties&lt;/f1&gt; у пакеце.</seg>
       </tuv>
     </tu>
     <tu>
