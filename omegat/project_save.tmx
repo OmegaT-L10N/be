@@ -2635,10 +2635,26 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt; \</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T145302Z" creationid="GABIN" creationdate="20201204T145302Z">
+        <seg>--config-dir=&lt;p1&gt;/шлях/да/канфігурацыйных-файлаў/&lt;/p1&gt; \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-file=/path/to/config-file/ \</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160421T135048Z" creationid="GABIN" creationdate="20160421T135039Z">
         <seg>--config-file=/шлях/да/канфігурацыйнага-файла/ \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--config-file=&lt;p2&gt;/path/to/config-file/&lt;/p2&gt; \</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T145310Z" creationid="GABIN" creationdate="20201204T145310Z">
+        <seg>--config-file=&lt;p2&gt;/шлях/да/канфігурацыйнага-файла/&lt;/p2&gt; \</seg>
       </tuv>
     </tu>
     <tu>
@@ -5532,6 +5548,14 @@ OmegaT запускаецца наступным чынам.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160615T125648Z" creationid="gabi" creationdate="20160615T125648Z">
         <seg>&lt;l0&gt;.utf-8&lt;/l0&gt;: файлы апрацоўваюцца &lt;a1&gt;OmegaT&lt;/a1&gt; як кадаваныя ў UTF-8 (кадоўка, прыдатная амаль для ўсіх моваў сьвету).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; where to find the project to translate.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T145353Z" creationid="GABIN" creationdate="20201204T145353Z">
+        <seg>&lt;l0&gt;/шлях/да/каталёга/праекта&lt;/l0&gt; паказвае &lt;a1&gt;OmegaT&lt;/a1&gt;, дзе знаходзіцца праект перакладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27349,6 +27373,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160421T135141Z" creationid="GABIN" creationdate="20160421T135141Z">
         <seg>Заўважце, што перад усімі парамэтрамі ставіцца падвойны дэфіс --.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that all parameters start with a double &lt;l0&gt;-&lt;/l0&gt; character.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T145331Z" creationid="GABIN" creationdate="20201204T145331Z">
+        <seg>Заўважце, што перад усімі парамэтрамі ставіцца падвойны дэфіс &lt;l0&gt;--&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
