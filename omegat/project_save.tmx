@@ -3744,6 +3744,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normally, i.e. when &lt;a3&gt;OmegaT&lt;/a3&gt; is launched without any arguments, the program first detects the language of the user's operating system.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T144447Z" creationid="GABIN" creationdate="20201204T144447Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Звычайна, г. зн. пры запуску &lt;a3&gt;OmegaT&lt;/a3&gt; без аргумэнтаў, праграма сьпярша вызначае мову апэрацыйнай сыстэмы карыстальніка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: frequently the target files must have the encoding character set different from the one in the source file (wether it is explicitly defined or implied).</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20151118T141549Z" creationid="GABIN" creationdate="20151118T141549Z">
@@ -21702,6 +21710,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20191001T125717Z" creationid="GABIN" creationdate="20191001T125708Z">
         <seg>Каб пераключыць тып сэгмэнтаваньня, выберыце &lt;m1&gt; &lt;g2&gt;“Праект&lt;/g2&gt; &lt;g3&gt;Уласьцівасьці…“&lt;/g3&gt; &lt;/m1&gt; з галоўнага мэню і пазначце адпаведны пункт або скасуйце пазнаку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In other platforms, you can modify &lt;f3&gt;Configuration.properties&lt;/f3&gt; file on the Mac, or &lt;f4&gt;OmegaT&lt;/f4&gt; launcher under Linux to do the same.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T144421Z" creationid="GABIN" creationdate="20201204T144421Z">
+        <seg>На іншых плятформах для гэтага можна зьмяніць сцэнар запуску (напрыклад, &lt;f3&gt;Configuration.properties&lt;/f3&gt; у Mac, &lt;f4&gt;OmegaT&lt;/f4&gt; у Linux).</seg>
       </tuv>
     </tu>
     <tu>
