@@ -9772,6 +9772,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Arguments are added after the initial &lt;c0&gt;java&lt;/c0&gt;, and before the &lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T144242Z" creationid="GABIN" creationdate="20201204T144242Z">
+        <seg>Аргумэнты дадаюцца пасьля пачатковага “&lt;c0&gt;java&lt;/c0&gt;” і перад “&lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Arguments are added after the initial &lt;e0&gt;"java"&lt;/e0&gt;, and before the &lt;e1&gt;"-jar &lt;a2&gt;OmegaT&lt;/a2&gt;.jar"&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160802T140535Z" creationid="GABIN" creationdate="20160408T080107Z">
