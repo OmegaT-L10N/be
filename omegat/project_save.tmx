@@ -11341,6 +11341,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change to "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T150654Z" creationid="GABIN" creationdate="20201204T150654Z">
+        <seg>Мяняць на “needs-review-translation” замест “translated”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20130424T185922Z">
@@ -11744,6 +11752,14 @@ documentation.</seg>
         <seg>Check simple &amp;java MessageFormat patterns (e.g. {0})</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T121643Z">
+        <seg>Правяраць простыя шаблёны &amp;java MessageFormat (напр. {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check simple &amp;java MessageFormat patterns (e.g. {0}).</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T150755Z" creationid="GABIN" creationdate="20201204T150755Z">
         <seg>Правяраць простыя шаблёны &amp;java MessageFormat (напр. {0})</seg>
       </tuv>
     </tu>
@@ -13161,6 +13177,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150713T121420Z" creationid="GABIN" creationdate="20150713T121420Z">
         <seg>Не атрымалася стварыць пазначаны каталёг.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Could not delete {0}</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T150825Z" creationid="GABIN" creationdate="20201204T150825Z">
+        <seg>Не атрымалася выдаліць {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -18507,6 +18531,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140725T103412Z" creationid="GABIN" creationdate="20140725T103412Z">
         <seg>Фула, пулар-фульфульдэ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full checking can lead to false positives in normal texts and the PO filter already detects them.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T150746Z" creationid="GABIN" creationdate="20201204T150746Z">
+        <seg>Поўная праверка можа прывесьці да памылковых станоўчых вынікаў у нармальных тэкстах, а фільтар PO ўжо іх выяўляе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26693,6 +26725,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>NB: the Java™ Resource Bundles filter already detects them.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T150816Z" creationid="GABIN" creationdate="20201204T150816Z">
+        <seg>Заўвага: фільтар файлаў рэсурсаў Java ужо выяўляе іх.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Name</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140721T113756Z" creationid="GABIN" creationdate="20140721T113756Z">
@@ -28902,8 +28942,8 @@ with exactly the same structure, including copies of any non-supported files.</s
       <tuv lang="en">
         <seg>OmegaT {0} is now available.</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20180606T083154Z" creationid="GABIN" creationdate="20180606T083154Z">
-        <seg>OmegaT {0} недаступная.</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T150849Z" creationid="GABIN" creationdate="20180606T083154Z">
+        <seg>Цяпер даступная OmegaT {0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36156,6 +36196,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20191001T134445Z" creationid="GABIN" creationdate="20191001T134445Z">
         <seg>Вызначэньне камандаў, што выконваюцца пасьля каманды &lt;g0&gt;кампіляцыі перакладу&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify state attribute handling behavior</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T150630Z" creationid="GABIN" creationdate="20201204T150630Z">
+        <seg>Вызначыць правілы апрацоўкі атрыбутаў стану</seg>
       </tuv>
     </tu>
     <tu>
@@ -47703,8 +47751,8 @@ SourceForge too.</seg>
       <tuv lang="en">
         <seg>You currently have {1}.</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20180606T083201Z" creationid="GABIN" creationdate="20180606T083201Z">
-        <seg>Вы цяпер маеце {1}.</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T150900Z" creationid="GABIN" creationdate="20180606T083201Z">
+        <seg>Зараз вы маеце {1}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50762,6 +50810,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20170503T135418Z" creationid="GABIN" creationdate="20170503T135418Z">
         <seg>Пры націсканьні {0} арыентацыя зьмяняецца паміж зьлева-направа, справа-налева і ў залежнасьці ад мовы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} version {1} ({2})</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T150708Z" creationid="GABIN" creationdate="20201204T150708Z">
+        <seg>{0} вэрсія {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} version {1}, update {2} ({3})</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T150716Z" creationid="GABIN" creationdate="20201204T150716Z">
+        <seg>{0} вэрсія {1}, абнаўленьне {2} ({3})</seg>
       </tuv>
     </tu>
     <tu>
