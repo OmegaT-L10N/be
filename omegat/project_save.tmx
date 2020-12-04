@@ -2015,9 +2015,9 @@ but you don't see your name on the lists, feel free to contact us.)</seg>
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20160808T131945Z">
+      <tuv lang="be" changeid="GABIN" changedate="20201204T145944Z">
         <seg>(Сьпіс падтрыманых фарматаў файлаў знаходзіцца ў дапаможніку карыстальніка, гл. “Файлы да перакладу” → “Фарматы файлаў”).
-Каб дадаць файлы ў праект, трэба націснуць кнопку “Імпарт зыходных файлаў…” у вакне файлаў праекта, або вызваць гэта дзеяньне праз мэню Праект і абраць зыходныя файлы, якія трэба імпартаваць.</seg>
+Каб дадаць файлы ў праект, трэба націснуць кнопку “Імпарт зыходных файлаў…” у вакне файлаў праекта, або выклікаць гэтае дзеяньне праз мэню Праект і абраць зыходныя файлы, якія трэба імпартаваць.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22676,8 +22676,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
-      <tuv lang="be" changeid="gabi" changedate="20121016T091920Z">
-        <seg>Усталёўка і запуск Omegat” у дапаможніку карыстальніка.</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T145928Z">
+        <seg>Усталяваньне і запуск Omegat” у дапаможніку карыстальніка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25545,8 +25545,8 @@ The Mac version comes bundled with a JRE.</seg>
       <tuv lang="en">
         <seg>Mark &amp;Paragraph Delimitations</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20190923T125706Z" creationid="GABIN" creationdate="20190923T125706Z">
-        <seg>Пазначаць граніцы &amp;абзацаў</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T150058Z" creationid="GABIN" creationdate="20190923T125706Z">
+        <seg>Пазначаць межы &amp;абзацаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -37471,6 +37471,14 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Team Mode Repository Mapping</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T150427Z" creationid="GABIN" creationdate="20201204T150427Z">
+        <seg>Вызначэньне адпаведнасьці рэпазыторыяў у камандным рэжыме</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Team Options</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T120859Z">
@@ -47866,8 +47874,8 @@ them.</seg>
       <tuv lang="en">
         <seg>You should specify their new location or recreate them.</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20161018T084916Z" creationid="GABIN" creationdate="20161018T084916Z">
-        <seg>Трэба падаць іх новае месцазнаходжаньне або стварыць іх зноў.</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20201204T150413Z" creationid="GABIN" creationdate="20161018T084916Z">
+        <seg>Трэба пазначыць іхняе новае месцазнаходжаньне або стварыць іх зноў.</seg>
       </tuv>
     </tu>
     <tu>
