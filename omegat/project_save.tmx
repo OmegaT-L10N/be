@@ -7656,6 +7656,38 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T092107Z" creationid="GABIN" creationdate="20201207T092107Z">
+        <seg>&lt;repository type="git" url="https://рэпазыторый_праекта_OmegaT.git"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_project_sources"&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T092814Z" creationid="GABIN" creationdate="20201207T092814Z">
+        <seg>&lt;repository type="svn" url="https://рэпазыторый_усіх_зыходных_файлаў_камандных_праектаў_OmegaT"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T092703Z" creationid="GABIN" creationdate="20201207T092703Z">
+        <seg>&lt;repository type="svn" url="https://рэпазыторый_усіх_камандных_праектаў_OmegaT"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T092601Z" creationid="GABIN" creationdate="20201207T092601Z">
+        <seg>&lt;repository type="svn" url="https://рэпазыторый_каманднага_праекта_OmegaT"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160822T084459Z" creationid="GABIN" creationdate="20140912T093713Z">
@@ -9002,6 +9034,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All other local changes to the project are reverted.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T095811Z" creationid="GABIN" creationdate="20201207T095811Z">
+        <seg>Усе іншыя лякальныя зьмены ў праекце адрынаюцца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All preferences protected by the master password will be reset.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20170206T124657Z" creationid="GABIN" creationdate="20170206T124657Z">
@@ -9026,18 +9066,26 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; are mapped to the local OmegaT project source folder, except all *.bak files but readme.bak.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T092927Z" creationid="GABIN" creationdate="20201207T092845Z">
+        <seg>Усё зьмесьціва з &lt;f0&gt;https://рэпазыторый_усіх_зыходных_файлаў_камандных_праектаў_OmegaT&lt;/f0&gt; супастаўляецца з лякальным каталёгам зыходных файлаў праекта OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; are mapped to the local OmegaT project.</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20200730T123255Z" creationid="GABIN" creationdate="20200730T123255Z">
-        <seg>Усё зьмесьціва з &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; супастаўляецца з лякальным праектам OmegaT.</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T092726Z" creationid="GABIN" creationdate="20200730T123255Z">
+        <seg>Усё зьмесьціва з &lt;f0&gt;https://рэпазыторый_усіх_камандных_праектаў_OmegaT/En-US_DE_project&lt;/f0&gt; супастаўляецца з лякальным праектам OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>All the contents of &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; are mapped to the local OmegaT project</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20200730T123224Z" creationid="GABIN" creationdate="20200730T123224Z">
-        <seg>Усё зьмесьціва з &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; супастаўляецца з лякальным праектам OmegaT.</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T092624Z" creationid="GABIN" creationdate="20200730T123224Z">
+        <seg>Усё зьмесьціва з &lt;f0&gt;https://рэпазыторый_каманднага_праекта_OmegaT&lt;/f0&gt; супастаўляецца з лякальным праектам OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14299,6 +14347,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160303T093907Z" creationid="GABIN" creationdate="20160303T093907Z">
         <seg>Па змаўчаньні ўжываецца &lt;l0&gt;${filename}&lt;/l0&gt; — поўная назва зыходнага файла з пашырэньнем, так каб назвы зыходнага і перакладзенага файлаў былі аднолькавымі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default project mapping:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T092532Z" creationid="GABIN" creationdate="20201207T092532Z">
+        <seg>Вызначэньне адпаведнасьцяў для праекта па змаўчаньні:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20423,8 +20479,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If the document allows, the translator is strongly encouraged to remove style information from the original document so that as few tags as possible appear in the OmegaT interface.</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20160317T084047Z" creationid="GABIN" creationdate="20160317T084047Z">
-        <seg>Калі дакумэнт дазваляе, перакладчыку вельмі пажадана выдаліць інфармацыю пра стылі з арыгінала, каб па магчымасьці паменшыць колькасьць тэгаў, якія будуць паказавацца ў OmegaT.</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T092027Z" creationid="GABIN" creationdate="20160317T084047Z">
+        <seg>Калі дакумэнт дазваляе, перакладчыку вельмі пажадана выдаліць інфармацыю пра стылі з арыгінала, каб па магчымасьці паменшыць колькасьць тэгаў, якія будуць паказвацца ў OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20441,6 +20497,22 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160401T090743Z" creationid="GABIN" creationdate="20160401T090743Z">
         <seg>Для існуючага файла фармат або кадоўка не правяраюцца: новыя запісы заўсёды дадаюцца з разьдзяленьнем сымбалямі табуляцыі і ў кадоўцы UTF-8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the file does contain mappings, then local changes to mappings are lost.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T095833Z" creationid="GABIN" creationdate="20201207T095833Z">
+        <seg>Калі ж файл утрымлівае вызначэньні, лякальныя зьмены ў вызначэньнях губляюцца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the file doesn't contain mappings, the existing local mappings are re-applied, and only those.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T095744Z" creationid="GABIN" creationdate="20201207T095744Z">
+        <seg>Калі файл ня ўтрымлівае вызначэньняў адпаведнасьцяў, зноў ужываюцца існыя лякальныя вызначэньні, і толькі яны.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22146,6 +22218,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this case, the procedure is the same, but the project manager does not add (all) files to version-controlled project.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T092243Z" creationid="GABIN" creationdate="20201207T092243Z">
+        <seg>У такім выпадку працэдура тая самая, але кіраўнік праекта не дадае (усе) файлы ў праект з кіраваньнем вэрсіямі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this case, the procedure is the same, but the project manager does not add files to the /source folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20200730T121531Z" creationid="GABIN" creationdate="20200730T121531Z">
@@ -22628,8 +22708,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>Installation and Use</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20140307T100156Z" creationid="GABIN" creationdate="20140307T100156Z">
-        <seg>Усталёўка і выкарыстаньне</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T091520Z" creationid="GABIN" creationdate="20140307T100156Z">
+        <seg>Усталяваньне і выкарыстаньне</seg>
       </tuv>
     </tu>
     <tu>
@@ -22742,6 +22822,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="be">
         <seg>Хуткі старт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Instead, the translators copy the files themselves, or add mappings to synchronize files from other locations.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T092332Z" creationid="GABIN" creationdate="20201207T092332Z">
+        <seg>Замест гэтага перакладчыкі самастойна капіююць файлы або вызначаюць адпаведнасьці для сынхранізацыі файлаў з іншымі сховішчамі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24924,6 +25012,14 @@ automatically download and install it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local file mapping:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T093134Z" creationid="GABIN" creationdate="20201207T093134Z">
+        <seg>Вызначэньне адпаведнасьцяў для лякальных файлаў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local installation path:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20161018T085659Z" creationid="GABIN" creationdate="20161018T085659Z">
@@ -25471,6 +25567,30 @@ The Mac version comes bundled with a JRE.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mapping for additional sources from remote repository, with filters:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T092754Z" creationid="GABIN" creationdate="20201207T092754Z">
+        <seg>Вызначэньне адпаведнасьцяў для дадатковых зыходных файлаў з аддаленага рэпазыторыя з фільтрамі:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for extra source files from the web: &lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T092953Z" creationid="GABIN" creationdate="20201207T092953Z">
+        <seg>Вызначэньне адпаведнасьцяў для дадатковых зыходных файлаў з Інтэрнэта: &lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for projects in a subdirectory of the repository:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T092646Z" creationid="GABIN" creationdate="20201207T092646Z">
+        <seg>Вызначэньне адпаведнасьцяў для праектаў у падкаталёгу рэпазыторыя:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160707T143631Z" creationid="GABIN" creationdate="20160707T143631Z">
@@ -25483,6 +25603,14 @@ The Mac version comes bundled with a JRE.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20200730T121546Z" creationid="GABIN" creationdate="20200730T121546Z">
         <seg>Парамэтры вызначэньня адпаведнасьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping with renaming:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T093108Z" creationid="GABIN" creationdate="20201207T093012Z">
+        <seg>Вызначэньне адпаведнасьцяў зь перайменаваньнем:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27353,6 +27481,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note about omegat.project and mappings</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T093706Z" creationid="GABIN" creationdate="20201207T093706Z">
+        <seg>Заўвага аб файле omegat.project і вызначэньнях адпаведнасьцяў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note also that some fonts behave better for some language pairs than for others.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160522T092548Z" creationid="gabi" creationdate="20160522T092548Z">
@@ -27581,6 +27717,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160418T090451Z" creationid="GABIN" creationdate="20160418T090451Z">
         <seg>Даўжыня ключа павінна быць 38 сымбаляў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that the omegat.project file in the repository is not changed automatically and still doesn't contain the mappings.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T095615Z" creationid="GABIN" creationdate="20201207T095615Z">
+        <seg>Заўважце, што аўтаматычныя зьмены не адбываюцца ў файле omegat.project у рэпазыторыі, ён і надалей ня ўтрымлівае вызначэньняў адпаведнасьцяў.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28714,6 +28858,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20141001T091333Z" creationid="GABIN" creationdate="20141001T091333Z">
         <seg>OmegaT падтрымлівае дзьве папулярныя сыстэмы кіраваньня вэрсіямі (СКВ для сьцісласьці): &lt;u0&gt;Apache Subversion&lt;/u0&gt; (часта скарочана SVN, паводле назвы каманды svn) і &lt;u1&gt; Git&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT team projects can also be set up in a different way, where several translators share the project_save.tmx file but not (all of) the (source) files.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T092213Z" creationid="GABIN" creationdate="20201207T092213Z">
+        <seg>Камандныя праекты OmegaT могуць быць арганізаваныя і іншым спосабам, калі некалькі перакладчыкаў маюць сумесны доступ да файла project_save.tmx, але не да (усіх) (зыходных) файлаў.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30816,6 +30968,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plugins are installed in the &lt;f0&gt;/plugins&lt;/f0&gt; folder under the OmegaT installation folder or the platform-specific OmegaT user preferences folder.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T092008Z" creationid="GABIN" creationdate="20201207T092008Z">
+        <seg>Плагіны знаходзяцца ў каталёгу &lt;f0&gt;/plugins&lt;/f0&gt; у каталёгу ўсталёўкі OmegaT або ў каталёгу наладаў карыстальніка OmegaT (залежыць ад канкрэтнай плятформы).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plugins are installed in the &lt;f0&gt;/plugins&lt;/f0&gt; folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20191001T144320Z" creationid="GABIN" creationdate="20191001T144320Z">
@@ -32293,6 +32453,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20200730T121636Z" creationid="GABIN" creationdate="20200730T121636Z">
         <seg>Аддаленае месцазнаходжаньне файлаў да перакладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote location or directory of the files to translate.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T092509Z" creationid="GABIN" creationdate="20201207T092509Z">
+        <seg>Аддаленае месцазнаходжаньне або каталёг файлаў да перакладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38190,6 +38358,14 @@ Okapi (http://okapi.sourceforge.net) (ліцэнзія LGPL)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The PO filter already handles %..</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T091830Z" creationid="GABIN" creationdate="20201207T091830Z">
+        <seg>У фільтры PO ужо ёсьць апрацоўка %..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T115312Z">
@@ -39473,6 +39649,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The local file &lt;f0&gt;/home/me/myfiles/my/file.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/file.txt&lt;/f1&gt; and &lt;f2&gt;/home/me/myfiles/some/file.txt&lt;/f2&gt; is mapped to the local file &lt;f3&gt;source/file2.txt&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T093330Z" creationid="GABIN" creationdate="20201207T093330Z">
+        <seg>Лякальны файл &lt;f0&gt;/home/me/myfiles/my/file.txt&lt;/f0&gt; супастаўляецца зь лякальным файлам &lt;f1&gt;source/file.txt&lt;/f1&gt;, а &lt;f2&gt;/home/me/myfiles/some/file.txt&lt;/f2&gt; супастаўляецца з &lt;f3&gt;source/file2.txt&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The location does not matter, since you can add it to the command line at launch (see below).</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160521T182911Z" creationid="gabi" creationdate="20160521T182911Z">
@@ -39597,6 +39781,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160701T093851Z" creationid="GABIN" creationdate="20160701T093851Z">
         <seg>Галоўнае вакно складаецца з некалькіх панэляў, галоўнага мэню і панэлі стану.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The mappings can be added by editing &lt;f0&gt;omegat.project&lt;/f0&gt; or via the UI: &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;Properties&lt;/g3&gt; &lt;g4&gt;Repository Mapping&lt;/g4&gt; &lt;/m1&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T092441Z" creationid="GABIN" creationdate="20201207T092423Z">
+        <seg>Вызначэньне адпаведнасьцяў робіцца шляхам рэдагаваньня файла &lt;f0&gt;omegat.project&lt;/f0&gt; або праз графічны інтэрфэйс: &lt;m1&gt; &lt;g2&gt;Праект&lt;/g2&gt; → &lt;g3&gt;Уласьцівасьці&lt;/g3&gt; → &lt;g4&gt;Вызначэньне адпаведнасьці рэпазыторыяў&lt;/g4&gt; &lt;/m1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41629,6 +41821,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can be either http (which includes https), svn, git or file.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T092457Z" creationid="GABIN" creationdate="20201207T092457Z">
+        <seg>Гэта можа быць http (у тым ліку https), svn, git або file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This can sometimes cause a little trouble when you are in the middle of a translation.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160304T124918Z" creationid="GABIN" creationdate="20160304T124918Z">
@@ -41801,6 +42001,14 @@ the server.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160712T142351Z" creationid="gabi" creationdate="20160615T143645Z">
         <seg>Гэтая зьнешняя каманда ня можа ўтрымліваць “канвэеры” і да г. п., і таму пажадана выклікаць сцэнар.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This feature is intended for gathering source files, but you're not restricted to source files.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T093649Z" creationid="GABIN" creationdate="20201207T093649Z">
+        <seg>Гэтая функцыя прызначаная для збору зыходных файлаў у адзін праект, але не абмежаваная толькі зыходнымі файламі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44654,8 +44862,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Updates</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20180606T083227Z" creationid="GABIN" creationdate="20180606T083227Z">
-        <seg>Абнаўленні</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T091414Z" creationid="GABIN" creationdate="20180606T083227Z">
+        <seg>Абнаўленьні</seg>
       </tuv>
     </tu>
     <tu>
@@ -45932,6 +46140,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Warning: if a file does not exist, the project won't load.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T093357Z" creationid="GABIN" creationdate="20201207T093357Z">
+        <seg>Папярэджаньне: калі файл не існуе, праект не загрузіцца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT place any text before the first tag – it is a technical tag that must always begin the segment.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20191001T124823Z" creationid="GABIN" creationdate="20191001T124823Z">
@@ -46301,6 +46517,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables or placeholders ({0}), if the file filter doesn't do it out of the box already.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T091802Z" creationid="GABIN" creationdate="20201207T091802Z">
+        <seg>Пры перакладзе файлаў, датычных праграмнага забесьпячэньня: можна наладзіць парамэтры праверкі тэгаў так, каб таксама правяраць праграмныя зьменныя (%…) і сымбалі запаўненьня ({0}), калі гэта ўжо не рэалізаванае ў адпаведным файлавым фільтры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20191001T131153Z" creationid="GABIN" creationdate="20191001T131153Z">
@@ -46381,6 +46605,14 @@ you have just discovered.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you create a new project and commit that to a repository, the &lt;f0&gt;omegat.project&lt;/f0&gt; file doesn't contain any mapping.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T095435Z" creationid="GABIN" creationdate="20201207T095435Z">
+        <seg>Пры стварэньні новага праекта і фіксацыі ў рэпазыторыі файл &lt;f0&gt;omegat.project&lt;/f0&gt; не ўтрымлівае вызначэньняў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you create a translation project, OmegaT automatically creates a folder with the specified name, and a list of folders:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160304T125212Z" creationid="GABIN" creationdate="20160304T125212Z">
@@ -46393,6 +46625,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160623T071341Z" creationid="GABIN" creationdate="20160623T071341Z">
         <seg>Пры стварэньні дакумэнтаў перакладаў у праекце &lt;a0&gt;OmegaT&lt;/a0&gt; памяць праекта праекта выводзіцца ў выглядзе трох файлаў у каранёвым каталёгу праекта &lt;a1&gt;OmegaT&lt;/a1&gt; праекта (гл. апісаньне вышэй).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you download the project, the project is converted to a team project locally and a default mapping is added.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T095509Z" creationid="GABIN" creationdate="20201207T095509Z">
+        <seg>Пры спампаваньні праекта ён лякальна пераўтвараецца ў камандны праект з даданьнем вызначэньняў па змаўчаньні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46417,6 +46657,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160712T141919Z" creationid="GABIN" creationdate="20140503T111059Z">
         <seg>Калі даць OmegaT гэтыя файлы для перакладу, праграма зробіць прагляд файлаў, якія падтрымліваюцца, паводле наладаў файлавых фільтраў, пазнае часткі тэксту ў іх, разьдзеліць буйныя фрагмэнты паводле правілаў сэгмэнтаваньня і пакажа сэгмэнты адзін за адным, каб можна было рабіць пераклад.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you load a project, all changes in the repository are copied to the local project, including the &lt;f0&gt;omegat.project&lt;/f0&gt; file with project settings.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T095701Z" creationid="GABIN" creationdate="20201207T095701Z">
+        <seg>Пры загрузцы праекта ўсе зьмены ў рэпазыторыі капіююцца ў лякальны праект, уключна з файлам &lt;f0&gt;omegat.project&lt;/f0&gt; з парамэтрамі праекта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47107,6 +47355,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160802T141727Z">
         <seg>Можна дадаваць новыя тэрміны ў глясар, націскаючы &lt;k0&gt;Ctrl + Shift + G&lt;/k0&gt;, або капіяваць існуючыя глясары ў падкаталёг &lt;f1&gt;/glossary/&lt;/f1&gt; дырэкторыі праекта, і OmegaT аўтаматычна пачне шукаць словы ў іх.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add as many mappings as you want, but only in the context of a team project, i.e. one of the mappings includes omegat.project.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T093615Z" creationid="GABIN" creationdate="20201207T093615Z">
+        <seg>Можна дадаць колькі заўгодна вызначэньняў адпаведнасьцяў, але толькі ў кантэксьце каманднага праекта, г. з., праекта з вызначэньнямі адпаведнасьцяў, уключанымі ў файл omegat.project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48246,6 +48502,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160822T084648Z" creationid="GABIN" creationdate="20140912T094010Z">
         <seg>а &lt;c0&gt;&lt;клявіша&gt;&lt;/c0&gt; можа быць якой заўгодна клявішай на клявіятуры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>and Java™ Resource Bundle filter already handles {#} tags, so you only need this for other file types.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T091917Z" creationid="GABIN" creationdate="20201207T091917Z">
+        <seg>а ў фільтры файлаў рэсурсаў Java™ ужо ёсьць апрацоўка тэгаў {#}, таму гэтая опцыя патрэбная для іншых тыпаў файлаў.</seg>
       </tuv>
     </tu>
     <tu>
