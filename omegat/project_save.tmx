@@ -42674,6 +42674,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will create an &lt;f0&gt;omegat/&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T125020Z" creationid="GABIN" creationdate="20201207T125020Z">
+        <seg>Пры гэтым у працоўным каталёгу створыцца каталёг &lt;f0&gt;omegat/&lt;/f0&gt;, у якім будуць знаходзіцца ўсе файлы, неабходныя для запуску &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will create an omegat/ folder in the working folder in which you will find all the files needed to run &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160801T091314Z" creationid="GABIN" creationdate="20160406T134315Z">
@@ -43542,6 +43550,14 @@ read:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160406T134331Z" creationid="GABIN" creationdate="20160406T134331Z">
         <seg>Распакаваньне файла &lt;e1&gt;.tar.gz&lt;/e1&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To untar the &lt;f2&gt;.tar.gz&lt;/f2&gt; file:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201207T125033Z" creationid="GABIN" creationdate="20201207T125033Z">
+        <seg>Распакаваньне файла &lt;f2&gt;.tar.gz&lt;/f2&gt;:</seg>
       </tuv>
     </tu>
     <tu>
