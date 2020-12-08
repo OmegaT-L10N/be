@@ -3768,6 +3768,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; starts in console mode to perform one of the following services automatically</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T131850Z" creationid="GABIN" creationdate="20201208T131850Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; запускаецца ў кансольным рэжыме для аўтаматычнага выкананьня адной з наступных задачаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; If you have signed up for the Google Translate services, enter your private Google API key here.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20201204T145008Z" creationid="GABIN" creationdate="20201204T145008Z">
@@ -5488,10 +5496,26 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; in which folder the configuration files are stored.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T131654Z" creationid="GABIN" creationdate="20201208T131654Z">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/шлях/да/файлаў-канфігурацыі/&lt;/p1&gt;&lt;/l0&gt; паказвае &lt;a2&gt;OmegaT&lt;/a2&gt;, у якім каталёгу захаваныя канфігурацыйныя файлы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;--config-file=&lt;config-file&gt;&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; what configuration file to use.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160421T135622Z" creationid="GABIN" creationdate="20160421T135622Z">
         <seg>&lt;l0&gt;--config-file=&lt;канфігурацыйны-файл&gt;&lt;/l0&gt; паказвае &lt;a1&gt;OmegaT&lt;/a1&gt;, які канфігурацыйны файл трэба ўжываць.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; what configuration file to use.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T131820Z" creationid="GABIN" creationdate="20201208T131820Z">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/шлях/да/файла-канфігурацыі/&lt;/p1&gt;&lt;/l0&gt; паказвае &lt;a2&gt;OmegaT&lt;/a2&gt;, які канфігурацыйны файл трэба ўжываць.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20381,6 +20405,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If not given, &lt;a3&gt;OmegaT&lt;/a3&gt; reverts to default values (&lt;a4&gt;OmegaT&lt;/a4&gt; folder under user home or, if unavailable, the current working folder).</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T131728Z" creationid="GABIN" creationdate="20201208T131728Z">
+        <seg>Калі гэты парамэтар ня вызначаны, &lt;a4&gt;OmegaT&lt;/a4&gt; зьвяртаецца да значэньняў па змаўчаньні (каталёг &lt;a3&gt;OmegaT&lt;/a3&gt; у каталёгу карыстальніка або, калі недаступны, бягучы працоўны каталёг).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If not specified, OmegaT reverts to default values (the OmegaT folder in the user home folder, or if not available: the current working folder).</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20161010T143513Z" creationid="gabi" creationdate="20160521T185336Z">
@@ -22306,6 +22338,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this mode, OmegaT will align files found in the &lt;f0&gt;/source/&lt;/f0&gt; folder of the project with the contents found at the specified location.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T131935Z" creationid="GABIN" creationdate="20201208T131935Z">
+        <seg>У гэтым рэжыме OmegaT зробіць выраўноўваньне файлаў уласьцівасьцяў Java у каталёгу &lt;f0&gt;/source/&lt;/f0&gt; праекта са зьмесьцівам вызначанага каталёга.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this mode, OmegaT will align the Java properties files found in the&lt;l0&gt; /source/ &lt;/l0&gt;folder of the project to the contents found at the specified location.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20161010T123335Z" creationid="GABIN" creationdate="20160421T140224Z">
@@ -22318,6 +22358,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160421T135744Z" creationid="GABIN" creationdate="20160421T135744Z">
         <seg>У гэтым рэжыме OmegaT спрабуе зрабіць пераклад файлаў у /source/ з дапамогай даступных файлаў памяці перакладаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this mode, OmegaT will attempt to translate the files in &lt;f0&gt;/source/&lt;/f0&gt; with the available translation memories.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T131907Z" creationid="GABIN" creationdate="20201208T131907Z">
+        <seg>У гэтым рэжыме OmegaT спрабуе зрабіць пераклад файлаў у &lt;f0&gt;/source/&lt;/f0&gt; з дапамогай даступных файлаў памяці перакладаў.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27853,6 +27901,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160425T122116Z" creationid="GABIN" creationdate="20160425T122116Z">
         <seg>Для зборкі сваёй вэрсіі OmegaT спатрэбіцца праграма ant (&lt;e0&gt;http://ant.apache.org/bindownload.cgi&lt;/e0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note the double &lt;l5&gt;-&lt;/l5&gt; character.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T131745Z" creationid="GABIN" creationdate="20201208T131745Z">
+        <seg>Памятайце, што трэба ўжываць падвойны дэфіс &lt;l5&gt;--&lt;/l5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46809,6 +46865,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160801T082419Z" creationid="GABIN" creationdate="20160317T063708Z">
         <seg>Па магчымасьці сьлед уніфікаваць выкарыстаныя ў зыходным дакумэньце гарнітуры, кегелі, колеры і да г.п., каб спрасьціць перакладаньне і скараціць колькасьць магчымых памылак тэгаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Which files are used for alignment depends on if the file filter supports it.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T132034Z" creationid="GABIN" creationdate="20201208T132034Z">
+        <seg>Якія канкрэтна файлы будуць узятыя для выраўноўваньня, залежыць ад таго, ці падтрымліваюцца яны файлавым фільтрам.</seg>
       </tuv>
     </tu>
     <tu>
