@@ -20993,8 +20993,8 @@ extensions are displayed.</seg>
       <tuv lang="en">
         <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20160802T141148Z" creationid="GABIN" creationdate="20160421T134639Z">
-        <seg>Калі запусьціць &lt;a0&gt;OmegaT&lt;/a0&gt; звычайным шляхам немагчыма (няма графічнага асяродзьдзя): скапіяваць файлы наладаў ад іншай усталёўкі &lt;a1&gt;OmegaT&lt;/a1&gt; на іншым кампутары ў зададзены каталёг.</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T130941Z" creationid="GABIN" creationdate="20160421T134639Z">
+        <seg>Калі запусьціць &lt;a0&gt;OmegaT&lt;/a0&gt; звычайным шляхам немагчыма (няма графічнага асяродзьдзя): скапіяваць файлы наладаў ад іншай усталёўкі &lt;a1&gt;OmegaT&lt;/a1&gt; на іншым кампутары ў вызначаны каталёг.</seg>
       </tuv>
     </tu>
     <tu>
