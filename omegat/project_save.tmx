@@ -39368,6 +39368,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User's preference files folder.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T133017Z" creationid="GABIN" creationdate="20201208T133017Z">
+        <seg>Экспартаванае зьмесьціва капіюецца ў файл &lt;f1&gt;selection.txt&lt;/f1&gt; у каталёгу наладаў карыстальніка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added).</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160401T090334Z" creationid="GABIN" creationdate="20160401T090334Z">
