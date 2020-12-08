@@ -11717,6 +11717,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check for Updates...</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T134620Z" creationid="GABIN" creationdate="20201208T134620Z">
+        <seg>Праверка абнаўленьняў…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check for doubled blanks</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20141029T141003Z" creationid="GABIN" creationdate="20141029T141003Z">
@@ -11933,6 +11941,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check the &lt;g0&gt;Use Fuzzy Matching for Dictionary Entries&lt;/g0&gt; option if you want dictionaries to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T134941Z" creationid="GABIN" creationdate="20201208T134941Z">
+        <seg>Уключэце опцыю &lt;g0&gt;Ужываць падбор недакладных супадзеньняў для пошуку ў слоўніках&lt;/g0&gt;, калі хочаце, каб у вакне слоўнікаў паказваліся аднакарэнныя словы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check the &lt;u0&gt;OmegaT home page&lt;/u0&gt; for an up-to-date listing of auxiliary translation tools.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160317T073604Z" creationid="GABIN" creationdate="20160317T073604Z">
@@ -12041,6 +12057,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20200730T120834Z" creationid="GABIN" creationdate="20200730T120834Z">
         <seg>Праверка статыстычных даніх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Checks to see whether a more recent version of &lt;a0&gt;OmegaT&lt;/a0&gt; has been released.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T134645Z" creationid="GABIN" creationdate="20201208T134645Z">
+        <seg>Выконваецца праверка наяўнасьці навейшай вэрсіі &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20557,6 +20581,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If several translation engines are selected, then &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; is also used to switch between them and insert the last one selected.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T134831Z" creationid="GABIN" creationdate="20201208T134831Z">
+        <seg>Калі выбраныя некалькі сэрвісаў машыннага перакладу, спалучэньне клявішаў &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; таксама ўжываецца для пераключэньня паміж імі і ўстаўкі выніку ад апошняга выбранага сэрвісу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If some texts are selected within the fuzzy match, only this selection will be inserted at the cursor position.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160503T134527Z" creationid="GABIN" creationdate="20160503T134527Z">
@@ -28001,6 +28033,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt; is an alternate shortcut if &lt;l3&gt;Use TAB to Advance&lt;/l3&gt; option is not selected.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T134533Z" creationid="GABIN" creationdate="20201208T134533Z">
+        <seg>Заўвага: спалучэньне клявішаў &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k0&gt;&lt;/k2&gt; зьяўляецца альтэрнатыўным варыянтам, калі ня выбраны варыянт &lt;l3&gt;Выкарыстоўваць TAB для пераходу далей&lt;/l3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: &lt;k0&gt;Enter&lt;/k0&gt; is an alternate shortcut if &lt;l1&gt;Use TAB to Advance&lt;/l1&gt; option is not selected.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20201208T133516Z" creationid="GABIN" creationdate="20201208T133516Z">
@@ -29968,6 +30008,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Preferences&lt;/l0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T134710Z" creationid="GABIN" creationdate="20201208T134710Z">
+        <seg>Адчыняецца дыялёг &lt;l0&gt;наладаў&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;Source segmentation&lt;/l0&gt; dialog to configure text segmentation.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160521T172414Z" creationid="gabi" creationdate="20160521T172414Z">
@@ -29980,6 +30028,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150916T145809Z" creationid="GABIN" creationdate="20150916T145754Z">
         <seg>Адчыніць акно праверкі тэгаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens this manual in the default browser.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T134614Z" creationid="GABIN" creationdate="20201208T134614Z">
+        <seg>Адчыняецца гэты дапаможнік у браўзэры па змаўчаньні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31284,6 +31340,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T113225Z">
         <seg>Не атрымалася захаваць налады!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preferences...</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T134652Z" creationid="GABIN" creationdate="20201208T134652Z">
+        <seg>Налады…</seg>
       </tuv>
     </tu>
     <tu>
@@ -34972,6 +35036,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T140506Z">
         <seg>Выбраць &amp;папярэдняе супадзеньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;g0&gt;Taas Terminology Lookup&lt;/g0&gt; to activate this lookup.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T134907Z" creationid="GABIN" creationdate="20201208T134907Z">
+        <seg>Выберыце &lt;g0&gt;Пошук тэрмінаў у Taas&lt;/g0&gt;, каб уключыць гэты пошук.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45848,6 +45920,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User's Manual...</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T134608Z" creationid="GABIN" creationdate="20201208T134608Z">
+        <seg>Дапаможнік карыстальніка…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T121611Z">
@@ -47299,6 +47379,22 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160515T153421Z" creationid="gabi" creationdate="20160515T153421Z">
         <seg>Гэтая каманда дазваляе адступіць назад на адзін сэгмэнт назад за раз, каб затым вярнуцца да бягучага сэгмэнта з дапамогай каманды &lt;g0&gt;Наперад у гісторыі…&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With this command you can move backward one segment at a time, to return later to the current segment using &lt;g0&gt;Forward in history...&lt;/g0&gt;command below.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T134601Z" creationid="GABIN" creationdate="20201208T134601Z">
+        <seg>Гэтая каманда дазваляе адступіць назад на адзін сэгмэнт назад за раз, каб затым вярнуцца да бягучага сэгмэнта з дапамогай каманды &lt;g0&gt;Наперад у гісторыі…&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With this command you can step forward to the segment, you have previously left by the &lt;g1&gt;Back in history&lt;/g1&gt;... command.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T134554Z" creationid="GABIN" creationdate="20201208T134554Z">
+        <seg>Гэтая каманда дазваляе вярнуцца да сэгмэнта, як папярэдне быў пакінуты камандай &lt;g1&gt;Назад у гісторыі…&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
