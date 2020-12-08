@@ -11685,6 +11685,22 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check &lt;g0&gt;History Completion&lt;/g0&gt; to display suggested words as soon as their first letters are entered.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T135156Z" creationid="GABIN" creationdate="20201208T135156Z">
+        <seg>Пазначце &lt;g0&gt;Запамінаць прапановы завяршэньня&lt;/g0&gt;, каб пры ўводзе першых некалькіх літараў паказваліся прапановы завяршэньня словаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check &lt;g0&gt;History Prediction&lt;/g0&gt; to display suggested words that commonly follow the word that has just been entered.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T135244Z" creationid="GABIN" creationdate="20201208T135244Z">
+        <seg>Пазначце &lt;g0&gt;Запамінаць прадказаньні словаў&lt;/g0&gt;, каб пасьля ўводу нейкага слова паказваліся словы, якія часта сустракаюцца пасьля яго.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20161018T084850Z" creationid="GABIN" creationdate="20161018T084850Z">
@@ -16163,6 +16179,14 @@ several security warnings.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Editor...</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T135408Z" creationid="GABIN" creationdate="20201208T135408Z">
+        <seg>Акно рэдагаваньня…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Either X or Y</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160615T172758Z" creationid="gabi" creationdate="20160615T172758Z">
@@ -20055,6 +20079,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160808T131945Z" creationid="gabi" creationdate="20160521T171715Z">
         <seg>Калі пазначана &lt;e0&gt;Аўтаматычна паказваць адпаведныя прапановы&lt;/e0&gt;, мэню аўтазавяршэньня зьяўляецца аўтаматычна пасьля набору першай літары запіса глясара або сымбаля “&lt;” у выпадку тэгаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;g0&gt;Show Relevant Suggestions Automatically&lt;/g0&gt; option is checked, Auto-completer is launched automatically by typing the first letters of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T135113Z" creationid="GABIN" creationdate="20201208T135113Z">
+        <seg>Калі пазначана &lt;g0&gt;Аўтаматычна паказваць адпаведныя прапановы&lt;/g0&gt;, мэню аўтазавяршэньня зьяўляецца аўтаматычна пасьля набору першай літары запіса глясара або сымбаля “&lt;” у выпадку тэгаў.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30008,10 +30040,34 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Editor&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T135420Z" creationid="GABIN" creationdate="20201208T135420Z">
+        <seg>Адчыняецца дыялёг &lt;l0&gt;наладкі акна рэдагаваньня&lt;/l0&gt; ў дыялёгу наладаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;File Filters&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T135401Z" creationid="GABIN" creationdate="20201208T135314Z">
+        <seg>Адчыняецца дыялёг наладкі &lt;l0&gt;файлавых фільтраў&lt;/l0&gt; у дыялёгу наладаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;Preferences&lt;/l0&gt; dialog.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20201208T134710Z" creationid="GABIN" creationdate="20201208T134710Z">
         <seg>Адчыняецца дыялёг &lt;l0&gt;наладаў&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Segmentation Setup&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T135355Z" creationid="GABIN" creationdate="20201208T135355Z">
+        <seg>Адчыняецца дыялёг &lt;l0&gt;наладкі сэгмэнтаваньня&lt;/l0&gt; ў дыялёгу наладаў.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30028,6 +30084,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150916T145809Z" creationid="GABIN" creationdate="20150916T145754Z">
         <seg>Адчыніць акно праверкі тэгаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the local directory where OmegaT configuration files are stored (depends on the Operating system).</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T135451Z" creationid="GABIN" creationdate="20201208T135451Z">
+        <seg>Адчыняецца лякальны каталёг, дзе захоўваюцца канфігурацыйныя файлы OmegaT (залежыць ад апэрацыйнай сыстэмы).</seg>
       </tuv>
     </tu>
     <tu>
@@ -41825,6 +41889,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20200730T115749Z" creationid="GABIN" creationdate="20200730T115749Z">
         <seg>Гэтыя файлы ня будуць выдаленыя аўтаматычна на баку перакладчыка: трэба папрасіць яго выдаліць іх уручную.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These settings apply to OmegaT level, to all projects.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T135331Z" creationid="GABIN" creationdate="20201208T135331Z">
+        <seg>Гэтыя налады ўжываюцца на ўзроўні OmegaT да ўсіх праектаў.</seg>
       </tuv>
     </tu>
     <tu>
