@@ -27277,6 +27277,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New translation memories placed in the &lt;f0&gt;/tm&lt;/f0&gt; folder while translating are loaded automatically as soon as the cursor moves from one segment to another.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T140559Z" creationid="GABIN" creationdate="20201208T140559Z">
+        <seg>Новыя файлы памяці перакладаў, якія зьяўляюцца ў каталёгу &lt;f0&gt;/tm&lt;/f0&gt;, падчас перакладаньня падгружаюцца аўтаматычна пры пераходзе курсора з сэгмэнта ў сэгмэнт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>New...</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160502T132756Z" creationid="GABIN" creationdate="20160502T132756Z">
@@ -28669,6 +28677,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160503T132154Z" creationid="GABIN" creationdate="20160503T132154Z">
         <seg>OmegaT аўтаматычна захоўвае пераклады кожныя 10 хвілін, а таксама пры закрыцьці праекта або выхадзе за праграмы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT automatically saves translations every 3 minutes as well as when you close the project or quit OmegaT.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T140617Z" creationid="GABIN" creationdate="20201208T140617Z">
+        <seg>OmegaT аўтаматычна захоўвае пераклады кожныя 3 хвіліны, а таксама пры закрыцьці праекта або выхадзе за праграмы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32701,6 +32717,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160708T140046Z" creationid="GABIN" creationdate="20140926T113510Z">
         <seg>Перазагрузіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reloads the project to take external changes in source files and project settings into account.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T140449Z" creationid="GABIN" creationdate="20201208T140449Z">
+        <seg>Праект перагружаецца, каб улічыць зьмены, зробленыя ў зыходных файлах і парамэтрах праекта.</seg>
       </tuv>
     </tu>
     <tu>
