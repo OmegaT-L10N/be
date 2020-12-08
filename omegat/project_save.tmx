@@ -12365,6 +12365,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click the &lt;g0&gt;Edit&lt;/g0&gt; tab on the Wikipedia page.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T135805Z" creationid="GABIN" creationdate="20201208T135649Z">
+        <seg>Націсьнеце на ўкладцы &lt;g0&gt;Рэдагаваць&lt;/g0&gt; на старонцы Вікіпэдыі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click the dropdown arrow of the &lt;e0&gt;Search for&lt;/e0&gt; box to access the last 10 searches.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160712T142351Z" creationid="gabi" creationdate="20160618T055510Z">
@@ -13197,6 +13205,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the URL of the page (ending with &lt;g0&gt;action=edit&lt;/g0&gt;) and paste it into &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T135831Z" creationid="GABIN" creationdate="20201208T135831Z">
+        <seg>Скапіюйце URL-адрас старонкі (з канчаткам &lt;g0&gt;action=edit&lt;/g0&gt;) і ўстаўце яго ў &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the documents, you need the translation memory for, into the source folder of the project.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160623T140316Z" creationid="GABIN" creationdate="20160623T140316Z">
@@ -13209,6 +13225,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20201204T142317Z" creationid="GABIN" creationdate="20201204T142317Z">
         <seg>Скапіюйце каталёг у прыдатны каталёг (напрыклад, Application).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy the text and paste it into the translated version of the Wikipedia page.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T140002Z" creationid="GABIN" creationdate="20201208T140002Z">
+        <seg>Скапіюйце тэкст і ўстаўце яго ў перакладзеную вэрсію старонкі Вікіпэдыі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18971,6 +18995,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160503T132049Z" creationid="GABIN" creationdate="20160502T133005Z">
         <seg>Адкрываецца доступ да пяці апошніх праектаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Give access to the ten last edited projects.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T135539Z" creationid="GABIN" creationdate="20201208T135539Z">
+        <seg>Адкрываецца доступ да дзесяці апошніх праектаў.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29856,6 +29888,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the &lt;f0&gt;.UTF8&lt;/f0&gt; file generated in the &lt;f1&gt;/target&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T135937Z" creationid="GABIN" creationdate="20201208T135937Z">
+        <seg>Адчынеце файл &lt;f0&gt;.UTF8&lt;/f0&gt;, які створаны ў каталёгу &lt;f1&gt;/target&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160618T031949Z" creationid="gabi" creationdate="20160618T031949Z">
@@ -34617,6 +34657,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160808T131945Z" creationid="GABIN" creationdate="20140725T094541Z">
         <seg>Гл. &lt;l0&gt;дадатак “Дапасаваньне спалучэньняў клявішаў”&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0&gt;How to use a team project&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T135531Z" creationid="GABIN" creationdate="20201208T135531Z">
+        <seg>Падрабязнасьці гл. у разьдзеле &lt;l0&gt;“Ужываньне камандных праектаў”&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43938,6 +43986,14 @@ read:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To translate the contents of a Wikipedia page (for example):</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T135625Z" creationid="GABIN" creationdate="20201208T135625Z">
+        <seg>Каб перакласьці, напрыклад, зьмесьціва старонкі ў Вікіпэдыі:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To untar the &lt;e1&gt;.tar.gz&lt;/e1&gt; file:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160406T134331Z" creationid="GABIN" creationdate="20160406T134331Z">
@@ -47129,6 +47185,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160623T140914Z" creationid="GABIN" creationdate="20160623T140517Z">
         <seg>Пры выхадзе з праекта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you have finished your translation, to import it into Wikipedia:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T135912Z" creationid="GABIN" creationdate="20201208T135912Z">
+        <seg>Пасьля завяршэньня перакладу, зрабеце наступнае, каб унесьці яго ў Вікіпэдыю:</seg>
       </tuv>
     </tu>
     <tu>
