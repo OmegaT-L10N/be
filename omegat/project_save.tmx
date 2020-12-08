@@ -11709,6 +11709,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check Issues...</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T140929Z" creationid="GABIN" creationdate="20201208T140929Z">
+        <seg>Праверка на наяўнасьць праблемаў…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check LanguageTools rules</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150527T145208Z" creationid="GABIN" creationdate="20150527T145208Z">
@@ -13129,6 +13137,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Converts the current project into a MED package.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T140900Z" creationid="GABIN" creationdate="20201208T140900Z">
+        <seg>Бягучы праект пераўтвараецца ў пакет MED.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T140343Z">
@@ -13493,6 +13509,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create MED Projects...</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T140847Z" creationid="GABIN" creationdate="20201208T140847Z">
+        <seg>Стварыць праект MED…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create New Project</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20130424T184950Z">
@@ -13656,6 +13680,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
         <seg>Creates the target documents based on your translation of the documents' text.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160503T132224Z" creationid="GABIN" creationdate="20160503T132224Z">
+        <seg>На аснове зробленага перакладу ствараюцца дакумэнты зь перакладамі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creates the target documents based on your translation.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T140758Z" creationid="GABIN" creationdate="20201208T140758Z">
         <seg>На аснове зробленага перакладу ствараюцца дакумэнты зь перакладамі.</seg>
       </tuv>
     </tu>
@@ -30096,6 +30128,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens a project package in the MED format defined by the EU Directorate-General for Translation.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T140842Z" creationid="GABIN" creationdate="20201208T140842Z">
+        <seg>Адчыняецца пакет праекта ў фармаце MED, вызначаным генэральным дырэктаратам ЕС у перакладзе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;Editor&lt;/l0&gt; options in the Preferences dialog.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20201208T135420Z" creationid="GABIN" creationdate="20201208T135420Z">
@@ -30116,6 +30156,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20201208T134710Z" creationid="GABIN" creationdate="20201208T134710Z">
         <seg>Адчыняецца дыялёг &lt;l0&gt;наладаў&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Project files window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T140920Z" creationid="GABIN" creationdate="20201208T140920Z">
+        <seg>Адчыняецца &lt;l0&gt;вакно з файламі праекта&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42557,6 +42605,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This function is specific to team projects.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T140724Z" creationid="GABIN" creationdate="20201208T140724Z">
+        <seg>Гэтыя функцыя — толькі для камандных праектаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This includes preferences set from within OmegaT, any changes you have made to your &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (&lt;f2&gt;.bat&lt;/f2&gt; file), if you are using one.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20201207T124839Z" creationid="GABIN" creationdate="20201207T124839Z">
@@ -45440,6 +45496,22 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160808T131945Z">
         <seg>Запампоўка на сэрвэр адключаная, бо рэпазыторый у рэжыме “толькі чытаньне”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uploads to the repository the files that have been added or modified locally in the &lt;f0&gt;source&lt;/f0&gt; directory.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T140709Z" creationid="GABIN" creationdate="20201208T140709Z">
+        <seg>У рэпазыторый запампоўваюцца файлы, даданыя ці лякальна зьмененыя ў каталёгу &lt;f0&gt;source&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uploads to the repository the files that have been created locally in the &lt;f0&gt;target&lt;/f0&gt; directory.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T140748Z" creationid="GABIN" creationdate="20201208T140748Z">
+        <seg>У рэпазыторый запампоўваюцца файлы, створаныя лякальна ў каталёгу &lt;f0&gt;target&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
