@@ -19103,6 +19103,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go To</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T133417Z" creationid="GABIN" creationdate="20201208T133417Z">
+        <seg>Пераход</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go To Next Untranslated Segment stops where there is at least one alternative translation</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150911T132600Z" creationid="GABIN" creationdate="20150911T132600Z">
@@ -20059,6 +20067,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If &lt;l0&gt;automatic searching in dictionaries&lt;/l0&gt; is disabled, this function allows you to search for the selected word in the dictionaries.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T133251Z" creationid="GABIN" creationdate="20201208T133251Z">
+        <seg>Калі адключаны &lt;l0&gt;аўтаматычны пошук у слоўніках&lt;/l0&gt;, гэта функцыя дазваляе рабіць пошук вылучанага слова ў слоўніках.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If &lt;l1&gt;warn&lt;/l1&gt; is specified, the tag validator will process all segments and write warnings about any segments with invalid tags into the file specified.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160802T141311Z" creationid="GABIN" creationdate="20160421T141242Z">
@@ -20441,6 +20457,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160805T134935Z" creationid="gabi" creationdate="20160515T125803Z">
         <seg>Калі тэкст ня вылучаны, &lt;a1&gt;OmegaT&lt;/a1&gt; вылучае слова, якое ўтрымлівае літару непасрэдна справа ад курсора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If no text is selected, &lt;a3&gt;OmegaT&lt;/a3&gt; selects the word that contains the letter immediately to the right of the cursor.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T133335Z" creationid="GABIN" creationdate="20201208T133335Z">
+        <seg>Калі тэкст ня вылучаны, &lt;a3&gt;OmegaT&lt;/a3&gt; вылучае слова, якое ўтрымлівае літару непасрэдна справа ад курсора.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27977,6 +28001,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: &lt;k0&gt;Enter&lt;/k0&gt; is an alternate shortcut if &lt;l1&gt;Use TAB to Advance&lt;/l1&gt; option is not selected.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T133516Z" creationid="GABIN" creationdate="20201208T133516Z">
+        <seg>Заўвага: клявіша &lt;k0&gt;Enter&lt;/k0&gt; зьяўляецца альтэрнатыўным варыянтам, калі ня выбраны варыянт &lt;l1&gt;Выкарыстоўваць TAB для пераходу далей&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T120848Z">
@@ -35320,6 +35352,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Selects the previous, the next or the Nth fuzzy match displayed in the fuzzy match pane to replace or insert it to the segment.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T133352Z" creationid="GABIN" creationdate="20201208T133352Z">
+        <seg>Выбар недакладнага супадзеньня № N на панэлі недакладных супадзеньняў для замены на яго перакладу або ўстаўкі яго ў сэгмэнт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Self-paced online training course in English (for purchase)</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20180613T140642Z" creationid="GABIN" creationdate="20180613T140642Z">
@@ -42021,6 +42061,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can apply also to &lt;g0&gt;Target term&lt;/g0&gt; and &lt;g1&gt;Comment &lt;/g1&gt;fields if new selections are made and &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; pressed again.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T133201Z" creationid="GABIN" creationdate="20201208T133201Z">
+        <seg>Падобнае будзе адбывацца і ў палёх &lt;g0&gt;Пераклад тэрміна&lt;/g0&gt; і &lt;g1&gt;Камэнтар&lt;/g1&gt;, калі зноў вылучыць тэкст і зноў націснуць &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This can be achieved in two ways:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160421T134357Z" creationid="GABIN" creationdate="20160421T134357Z">
@@ -45316,6 +45364,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; to cycle through the four alternatives.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T133326Z" creationid="GABIN" creationdate="20201208T133326Z">
+        <seg>Каб пераключацца паміж гэтымі варыянтамі, націскайце &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt; + &lt;k2&gt;F3&lt;/k2&gt;&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use Shift+F3 &lt;i0/&gt;to cycle through the four alternatives.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20161010T125711Z" creationid="gabi" creationdate="20160515T125703Z">
@@ -45544,6 +45600,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160805T135025Z" creationid="gabi" creationdate="20160515T144425Z">
         <seg>Гэтая каманда ўжываецца ў мэтах рэгістрацыі тэксту перакладу тоесным зыходнаму тэксту, нават калі не пазначана “Дазволіць супадзеньне крыніцы і перакладу” (гл. Налады → Акно рэдагаваньня).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this command to register the translation to be identical to the source, even if &lt;l0&gt;&lt;g1&gt;Allow translation to be equal to source&lt;/g1&gt;&lt;/l0&gt; is not checked.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T133412Z" creationid="GABIN" creationdate="20201208T133412Z">
+        <seg>Гэтая каманда ўжываецца ў мэтах рэгістрацыі тэксту перакладу тоесным зыходнаму тэксту, нават калі не пазначана &lt;l0&gt;&lt;g1&gt;“Дазволіць супадзеньне крыніцы і перакладу”&lt;/g1&gt;&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
