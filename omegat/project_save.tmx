@@ -11157,6 +11157,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, under Windows, &lt;f1&gt;omegat.project&lt;/f1&gt; is locked, and an error message is received when trying to open a project already opened in another instance of OmegaT.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T132358Z" creationid="GABIN" creationdate="20201208T132358Z">
+        <seg>Па змаўчаньні пад Windows файл &lt;f1&gt;omegat.project&lt;/f1&gt; блякуецца, і пры спробе адчыніць праект, ужо адчынены ў іншым асобніку OmegaT, выдаецца паведамленьне пра памылку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, under Windows, &lt;l1&gt;omegat.project&lt;/l1&gt; is locked, and an error message is received when trying to open a project already opened in another instance of OmegaT.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160425T121552Z" creationid="GABIN" creationdate="20160425T121552Z">
@@ -14603,6 +14611,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140721T111254Z" creationid="GABIN" creationdate="20140721T111254Z">
         <seg>З дэталямі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Detailed instructions on building are in the docs_devel &lt;u0&gt;readme&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T132720Z" creationid="GABIN" creationdate="20201208T132720Z">
+        <seg>Падрабязныя інструкцыі аб зборцы — у файле &lt;u0&gt;readme&lt;/u0&gt; docs_devel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27285,6 +27301,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No action is taken, if no Machine Translation service has been activated (in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Machine Translate&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T132956Z" creationid="GABIN" creationdate="20201208T132956Z">
+        <seg>Калі сэрвіс машыннага перакладу не актываваны (мэню &lt;m0&gt; &lt;g1&gt;Налады&lt;/g1&gt; → &lt;g2&gt;Машынны пераклад&lt;/g2&gt; &lt;/m0&gt;), не адбываецца нічога.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No action is taken, if no Machine Translation service has been activated (see Menu &gt; Options below).</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160503T134653Z" creationid="GABIN" creationdate="20160503T134653Z">
@@ -29424,6 +29448,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160314T094335Z" creationid="GABIN" creationdate="20160314T094315Z">
         <seg>Пасьля распакаваньня пакета ствараецца каталёг з наступным зьмесьцівам:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once the code is downloaded, open a command in the source folder and type:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T132559Z" creationid="GABIN" creationdate="20201208T132559Z">
+        <seg>Спампаваўшы код, адкрыйце камандны радок у каталёгу з зыходным кодам і ўвядзеце:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33043,6 +33075,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace with Source</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T133000Z" creationid="GABIN" creationdate="20201208T133000Z">
+        <seg>Аднавіць зыходны тэкст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace with match</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160521T180623Z" creationid="gabi" creationdate="20160521T180623Z">
@@ -34481,6 +34521,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20191001T144610Z" creationid="GABIN" creationdate="20191001T144610Z">
         <seg>Болей па тэме гл. у разьдзеле &lt;l3&gt;“Налады файлавых фільтраў”&lt;/l3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;m1&gt;&lt;g2&gt;Options&lt;/g2&gt;&lt;g3&gt;Preferences...&lt;/g3&gt;&lt;g4&gt;File Filters&lt;/g4&gt;&lt;/m1&gt; for a list of file formats that OmegaT can handle.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T132826Z" creationid="GABIN" creationdate="20201208T132818Z">
+        <seg>Сьпіс фарматаў файлаў, якія OmegaT можа апрацаваць, гл. у мэню &lt;m1&gt;&lt;g2&gt;Налады&lt;/g2&gt; → &lt;g3&gt;Налады…&lt;/g3&gt; → &lt;g4&gt;Файлавыя фільтры&lt;/g4&gt;&lt;/m1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40937,6 +40985,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The sources of the current version can be retrieved with a Git client from the repository &lt;u0/&gt; or directly on &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T132509Z" creationid="GABIN" creationdate="20201208T132509Z">
+        <seg>Зыходныя тэксты для бягучай вэрсіі можна атрымаць з дапамогай Git-кліента з рэпазыторыя &lt;u0/&gt; або непасрэдна з &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The specified dictionary folder cannot be used.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150713T121342Z" creationid="GABIN" creationdate="20150713T121342Z">
@@ -42586,6 +42642,14 @@ this version will not interfere with it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This menu displays entries only when a project is open.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T132908Z" creationid="GABIN" creationdate="20201208T132908Z">
+        <seg>Элемэнты ў гэтым мэню зьяўляюцца толькі, калі адчынены праект.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This method has a particular benefit of being suitable for finding causes of problems: if an error occurs during use of the program, an error message is output in the terminal window which may contain useful information on the cause of the error.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160802T140507Z" creationid="GABIN" creationdate="20160407T140906Z">
@@ -42790,6 +42854,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160425T123026Z" creationid="GABIN" creationdate="20160425T123026Z">
         <seg>Пасьля гэтага ў каталёгу ./dist/ створыцца поўны дыстрыбутыў &lt;a0&gt;OmegaT&lt;/a0&gt; з усімі файламі, неабходнымі для працы &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will create a full distribution of OmegaT in the &lt;f0&gt;./build/distributions&lt;/f0&gt; folder, where you will find a zip containing everything needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T132626Z" creationid="GABIN" creationdate="20201208T132626Z">
+        <seg>Пасьля гэтага ў каталёгу &lt;f0&gt;./build/distributions&lt;/f0&gt; створыцца поўны дыстрыбутыў OmegaT з усімі файламі, неабходнымі для працы &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45128,6 +45200,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160425T122018Z" creationid="GABIN" creationdate="20160425T122018Z">
         <seg>Ужываньне: &lt;l0&gt;java -jar &lt;a1&gt;OmegaT&lt;/a1&gt;.jar /шлях/да/праекта --mode=console-translate --tag-validation=abort&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: &lt;l0&gt;java -jar OmegaT.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T132413Z" creationid="GABIN" creationdate="20201208T132413Z">
+        <seg>Ужываньне: &lt;l0&gt;java -jar OmegaT.jar /шлях/да/праекта --mode=console-translate --quiet&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -47713,6 +47793,14 @@ from there.</seg>
         <seg>Вы таксама можаце ўручную перацягнуць
 файл OmegaT.exe ў мэню пуску, на працоўны стол або панэль хуткага запуску,
 каб зрабіць там адпаведнае лучыва.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also run directly the application with the following command:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T132646Z" creationid="GABIN" creationdate="20201208T132646Z">
+        <seg>Праграму таксама можна будзе запусьціць наступнай камандай:</seg>
       </tuv>
     </tu>
     <tu>
