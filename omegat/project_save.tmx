@@ -5560,6 +5560,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;outputFileName&lt;/p2&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T132325Z" creationid="GABIN" creationdate="20201208T132325Z">
+        <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;назваВыніковагаФайла&lt;/p2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;--tag-validation=[abort|warn] &lt;/l0&gt; On abort, the program is aborted when tag validation finds errors.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160805T141811Z" creationid="gabi" creationdate="20160521T185501Z">
@@ -9030,6 +9038,14 @@ OmegaT запускаецца наступным чынам.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160421T140827Z" creationid="GABIN" creationdate="20160421T140827Z">
         <seg>Будуць перакладзеныя ўсе файлы HTML — заўважце, што кропку, якая звычайна наяўная ў *.html, трэба экранаваць (\.), як гэта патрабуецца правіламі рэгулярных выразаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All HTML files will be translated - note that the period in the usual &lt;l0&gt;*.html&lt;/l0&gt; has to be escaped (&lt;l1&gt;\.&lt;/l1&gt;) as specified by the rules for regular expressions</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T132257Z" creationid="GABIN" creationdate="20201208T132257Z">
+        <seg>Будуць перакладзеныя ўсе файлы HTML — заўважце, што кропку, якая звычайна наяўная ў &lt;l0&gt;*.html&lt;/l0&gt;, трэба экранаваць (&lt;l1&gt;\.&lt;/l1&gt;), як гэта патрабуецца правіламі рэгулярных выразаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -20019,6 +20035,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If &lt;l0&gt;abort&lt;/l0&gt; is selected, the tag validator will stop on the first invalid segment.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T132334Z" creationid="GABIN" creationdate="20201208T132334Z">
+        <seg>Калі выбраць &lt;l0&gt;abort&lt;/l0&gt;, праверка тэгаў спыніцца на першым несапраўдным сэгмэньце.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If &lt;l1&gt;warn&lt;/l1&gt; is specified, the tag validator will process all segments and write warnings about any segments with invalid tags into the file specified.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160802T141311Z" creationid="GABIN" creationdate="20160421T141242Z">
@@ -29544,6 +29568,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150911T122044Z" creationid="GABIN" creationdate="20150911T122044Z">
         <seg>Улічваюцца толькі цэлыя лікі і дзесятковыя дробы (разьдзяляльнікам цэлай і дробнай часткі павінна быць кропка, напрыклад, 5.4, але не 5,4 або 54E-01).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201208T132314Z" creationid="GABIN" creationdate="20201208T132314Z">
+        <seg>Будзе апрацаваны толькі файл &lt;f0&gt;test.html&lt;/f0&gt; у каталёгу &lt;f1&gt;dir-10&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
