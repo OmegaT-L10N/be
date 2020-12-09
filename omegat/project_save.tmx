@@ -30140,6 +30140,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only rows with the &lt;g0&gt;Keep&lt;/g0&gt; box ticked in the first column will be included when the translation memory is created.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T094710Z" creationid="GABIN" creationdate="20201209T094710Z">
+        <seg>У выніковую памяць перакладаў трапяць толькі радкі, для якіх пазначана &lt;g0&gt;Пакінуць&lt;/g0&gt; у першым слупку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20201208T132314Z" creationid="GABIN" creationdate="20201208T132314Z">
@@ -32281,6 +32289,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20121017T062758Z">
         <seg>&amp;Файлы праекта…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project Files</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T094754Z" creationid="GABIN" creationdate="20201209T094754Z">
+        <seg>Файлы праекта</seg>
       </tuv>
     </tu>
     <tu>
@@ -44544,6 +44560,14 @@ as a Source Forge user.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To modify the position of one or more segments individually, select the segment(s) and press &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Move Up&lt;/g1&gt;) or &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Move Down&lt;/g3&gt;).</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T094628Z" creationid="GABIN" creationdate="20201209T094628Z">
+        <seg>Каб зьмяніць пазыцыю аднаго ці некалькіх сэгмэнтаў паасобна, вылучэце іх і націсьнеце &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;уверх&lt;/g1&gt;) або &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;уніз&lt;/g3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To obtain more literal matches closer to 100%, select the &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20191001T133617Z" creationid="GABIN" creationdate="20191001T133515Z">
@@ -47761,6 +47785,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160317T094043Z" creationid="GABIN" creationdate="20160317T094043Z">
         <seg>Пасьля кампіляцыі перакладу напрамак адлюстраваньня тэксту будзе такім самым, як у зыходным дакумэньце.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the two columns are sufficiently aligned, click &lt;g0&gt;Save TMX...&lt;/g0&gt; to create the resulting translation memory.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T094750Z" creationid="GABIN" creationdate="20201209T094750Z">
+        <seg>Калі два слупкі выраўнаваныя належным чынам, націсьнеце &lt;g0&gt;Захаваць TMX…&lt;/g0&gt;, каб стварыць выніковую памяць перакладаў.</seg>
       </tuv>
     </tu>
     <tu>
