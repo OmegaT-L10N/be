@@ -8546,6 +8546,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Activate the "Show hidden files" option to make it visible.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T091714Z" creationid="GABIN" creationdate="20201209T091714Z">
+        <seg>Каб яго пабачыць, трэба ўключыць паказ схаваных файлаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Activating this check box will cause OmegaT to check if simple java MessageFormat tags (like {0}) are processed correctly.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160330T124301Z" creationid="GABIN" creationdate="20160330T124301Z">
@@ -13115,6 +13123,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160805T140438Z" creationid="gabi" creationdate="20160521T173450Z">
         <seg>Утрымлівае парамэтры паказу тэкстаў і зьвестак пра зьмены рознымі спосабамі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contains project parameters as defined in the &lt;l0&gt;Project properties&lt;/l0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T091448Z" creationid="GABIN" creationdate="20201209T091436Z">
+        <seg>Утрымлівае ўласьцівасьці праекта, вызначаныя праз дыялёгавае вакно &lt;l0&gt;Праўка праекта&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22114,6 +22130,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In a team project, this folder contains a versioned copy of the project tree structure linked directly to the remote server.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T091549Z" creationid="GABIN" creationdate="20201209T091549Z">
+        <seg>У выпадку каманднага праекта гэты каталёг утрымлівае копію з пазначэньнем вэрсіі дрэвападобнай структуры праекта, непасрэдна зьвязаную з аддаленым сэрвэрам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In addition to the plain text format, TBX format &lt;i0/&gt; is also supported as a read-only glossary format.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160401T094324Z" creationid="GABIN" creationdate="20160401T094324Z">
@@ -22422,6 +22446,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20130424T185821Z">
         <seg>У &amp;зыходных тэкстах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In some operating systems, this folder is not displayed by default.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T091701Z" creationid="GABIN" creationdate="20201209T091701Z">
+        <seg>У некаторых апэрацыйных сыстэмах гэты каталёг па змаўчаньні не паказваецца.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28833,6 +28865,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT 4.2 - User's Guide</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T091930Z" creationid="GABIN" creationdate="20201209T091930Z">
+        <seg>OmegaT 4.2 — Дапаможнік карыстальніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT Custom Colours</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150305T094856Z" creationid="GABIN" creationdate="20150305T094856Z">
@@ -29418,6 +29458,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20141001T091333Z" creationid="GABIN" creationdate="20141001T091333Z">
         <seg>OmegaT падтрымлівае дзьве папулярныя сыстэмы кіраваньня вэрсіямі (СКВ для сьцісласьці): &lt;u0&gt;Apache Subversion&lt;/u0&gt; (часта скарочана SVN, паводле назвы каманды svn) і &lt;u1&gt; Git&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT team</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T091935Z" creationid="GABIN" creationdate="20201209T091935Z">
+        <seg>Каманда OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -39896,6 +39944,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The difference is thin: we call "Window" a window that can stay open next to the editor and interact with it, and "dialog" a window where you must select parameters before closing it and pursuing your translation activity.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T091922Z" creationid="GABIN" creationdate="20201209T091922Z">
+        <seg>Розьніца мінімальная: мы называем проста вокнамі тыя, якія могуць заставацца адчыненымі побач з акном рэдагаваньня і ўзаемадзейнічаць зь ім, а дыялёгавымі вокнамі — тыя, у які трэба выбраць і задаць пэўныя парамэтры, перш чым зачыніць і працягнуць працу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The display mode of the translated documents must be modified within the application (such as Microsoft Word) commonly used to display or modify them (check the relevant manuals for details).</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160317T081446Z" creationid="GABIN" creationdate="20160317T081446Z">
@@ -45172,6 +45228,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Troubleshooting</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T091722Z" creationid="GABIN" creationdate="20201209T091722Z">
+        <seg>Выпраўленьне непаладак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tsonga</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140725T134632Z" creationid="GABIN" creationdate="20140725T134632Z">
@@ -47999,6 +48063,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Windows and dialogs</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T091742Z" creationid="GABIN" creationdate="20201209T091742Z">
+        <seg>Вокны і дыялёгавыя вокны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Windows other</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160801T081908Z" creationid="GABIN" creationdate="20160314T091328Z">
@@ -48883,6 +48955,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20201202T150357Z" creationid="GABIN" creationdate="20201202T150357Z">
         <seg>OmegaT можна запускаць з каманднага радка з дапамогай сцэнара, які ўключае парамэтры запуску, або клікаючы непасрэдна па файле &lt;f0&gt;OmegaT.jar&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can make changes to remote files (e.g. deleting a file) using this folder and a Git or SVN client.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T091642Z" creationid="GABIN" creationdate="20201209T091642Z">
+        <seg>Можна зьмяняць (напрыклад, выдаляць) аддаленыя файлы праз гэты каталёг з запамогай Git- ці SVN-кліента.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50562,6 +50642,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>if existing, it contains project-specific GUI settings.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T091411Z" creationid="GABIN" creationdate="20201209T091411Z">
+        <seg>калі наяўны, утрымлівае спэцыфічныя для праекта налады графічнага інтэрфэйса карыстальніка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>if existing, it contains project-specific file filters, if requested in &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;See &lt;l1&gt;Chapter Project properties&lt;/l1&gt;</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160930T142936Z" creationid="GABIN" creationdate="20160310T150031Z">
@@ -51256,6 +51344,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="be" changeid="Kos Ivantsov" changedate="20180606T184108Z" creationid="Kos Ivantsov" creationdate="20180606T184108Z">
         <seg>omegat.prefs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>omegat.project (file)</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T091415Z" creationid="GABIN" creationdate="20201209T091415Z">
+        <seg>omegat.project (файл)</seg>
       </tuv>
     </tu>
     <tu>
