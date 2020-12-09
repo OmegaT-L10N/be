@@ -4792,10 +4792,34 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;LanguageTool Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T080847Z" creationid="GABIN" creationdate="20201209T080847Z">
+        <seg>Праверка &lt;g0&gt;памылак граматыкі (LanguageTool)&lt;/g0&gt; (можна адключыць).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20200730T114959Z" creationid="GABIN" creationdate="20200730T114959Z">
         <seg>&lt;g0&gt;Праект&lt;/g0&gt; &lt;g1&gt;Стварыць праект…&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T080746Z" creationid="GABIN" creationdate="20201209T080746Z">
+        <seg>Праверка &lt;g0&gt;памылак правапісу&lt;/g0&gt; (можна адключыць).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T080825Z" creationid="GABIN" creationdate="20201209T080825Z">
+        <seg>Праверка &lt;g0&gt;памылак тэрмінаў&lt;/g0&gt; (можна адключыць).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10047,6 +10071,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As above, but only for the document currently displayed in the Editor pane.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T081318Z" creationid="GABIN" creationdate="20201209T081318Z">
+        <seg>Усё тое самае, што і вышэй, але толькі для бягучага дакумэнта ў вакне рэдагаваньня.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As above.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20200730T122737Z" creationid="GABIN" creationdate="20200730T122737Z">
@@ -11705,6 +11737,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20161018T084850Z" creationid="GABIN" creationdate="20161018T084850Z">
         <seg>Праверка на наяўнасьць праблемаў для &amp;гэтага дакумэнта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check Issues for Current Document</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T081203Z" creationid="GABIN" creationdate="20201209T081203Z">
+        <seg>Праверка на наяўнасьць праблемаў для гэтага дакумэнта</seg>
       </tuv>
     </tu>
     <tu>
@@ -18707,6 +18747,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20131218T073414Z" creationid="GABIN" creationdate="20131218T073414Z">
         <seg>Знойдзена ў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Four types of issues are detected:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T080612Z" creationid="GABIN" creationdate="20201209T080612Z">
+        <seg>Выяўляюцца чатыры тыпы праблемаў:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29824,6 +29872,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only works if a spelling dictionary is installed.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T080810Z" creationid="GABIN" creationdate="20201209T080810Z">
+        <seg>Працуе толькі пры ўмове ўсталяваньня адпаведнага слоўніка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140926T113401Z" creationid="GABIN" creationdate="20140926T113401Z">
@@ -32321,6 +32377,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20141001T094829Z" creationid="GABIN" creationdate="20141001T094829Z">
         <seg>Кантроль якасьці — правілы праверкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Quality assurance tool that carries out all the automatic checks in one go and displays the results in a window.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T080600Z" creationid="GABIN" creationdate="20201209T080600Z">
+        <seg>Інструмэнт, які аўтаматычна выконвае праверку якасьці тэксту за адзін праход з вывадам вынікаў у вакно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38610,6 +38674,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;g1&gt;Tag Issues&lt;/g1&gt; option is always selected.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T080722Z" creationid="GABIN" creationdate="20201209T080722Z">
+        <seg>Праверка &lt;g1&gt;памылак тэгаў&lt;/g1&gt; уключаная заўсёды.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160317T080807Z" creationid="GABIN" creationdate="20160317T080807Z">
@@ -40949,6 +41021,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160401T131825Z" creationid="GABIN" creationdate="20160401T131825Z">
         <seg>Вынікі з прыярытэтнага глясара (па змаўчаньні — glossary/glossary.txt) зьяўляюцца на першых месцаў на панэлі глясароў і ў падказках TransTips.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The results window is laid out in the form of a table in which:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T080920Z" creationid="GABIN" creationdate="20201209T080920Z">
+        <seg>Вынікі паказваюцца ў вакне як табліца, у якой:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49354,6 +49434,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>clicking a column header changes the sort order for the column,</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T081038Z" creationid="GABIN" creationdate="20201209T081038Z">
+        <seg>пры кліку на загалоўку слупка змяняецца парадак сартаваньня ў слупку;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>close the project</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160522T094120Z" creationid="gabi" creationdate="20160522T094120Z">
@@ -49502,6 +49590,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160615T175230Z" creationid="gabi" creationdate="20160615T175230Z">
         <seg>паўтор словаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>double-clicking a row activates the corresponding segment in the Editor pane,</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T080949Z" creationid="GABIN" creationdate="20201209T080949Z">
+        <seg>пры падвойным кліку на радку адбываецца пераход у адпаведны сэгмэнт у вакне рэдагаваньня;</seg>
       </tuv>
     </tu>
     <tu>
@@ -50596,6 +50692,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>missing or displaced tags, including &lt;l0&gt;custom tags&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T080639Z" creationid="GABIN" creationdate="20201209T080639Z">
+        <seg>адсутныя або зрушаныя тэгі, у тым ліку &lt;l0&gt;карыстальніцкія тэгі&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>more than one space</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160615T175438Z" creationid="gabi" creationdate="20160615T175438Z">
@@ -51234,6 +51338,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160522T094223Z" creationid="gabi" creationdate="20160522T094223Z">
         <seg>вылучыць рэзэрвовую копію памяці перакладаў, якая, верагодна, утрымлівае патрэбныя данія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>selecting or moving the mouse over a row displays a pop-up menu icon in the last column containing actions for correcting or ignoring the error.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T081157Z" creationid="GABIN" creationdate="20201209T081157Z">
+        <seg>пры выбары радка або навядзеньні мышкі на яго ў апошнім слупку зьяўляецца выпадное мэню з прапановамі аб выпраўленьні або ігнараваньні памылкі.</seg>
       </tuv>
     </tu>
     <tu>
