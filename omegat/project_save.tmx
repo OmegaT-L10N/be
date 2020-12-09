@@ -9002,6 +9002,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Align Files...</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T081412Z" creationid="GABIN" creationdate="20201209T081412Z">
+        <seg>Выраўнаваць файлы…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Align project against {0}</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T130518Z">
@@ -15215,10 +15223,26 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the Match Statistics for each file of the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T081407Z" creationid="GABIN" creationdate="20201209T081407Z">
+        <seg>Паказ статыстыкі супадзеньняў для кожнага файла праекта: колькасьць паўтораў, дакладных супадзеньняў, недакладных супадзеньняў і адсутнасьці супадзеньняў для сэгмэнтаў, словаў і ў сымбалях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the Match Statistics for each file of the project: the number of repetitions, exact matches, fuzzy matches and no-matches, for segments, words and in characters.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160515T160803Z" creationid="gabi" creationdate="20160515T160803Z">
         <seg>Паказ статыстыкі супадзеньняў для кожнага файла праекта: колькасьць паўтораў, дакладных супадзеньняў, недакладных супадзеньняў і адсутнасьці супадзеньняў для сэгмэнтаў, словаў і ў сымбалях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the Match Statistics for the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T081401Z" creationid="GABIN" creationdate="20201209T081342Z">
+        <seg>Паказ статыстыкі супадзеньняў для праекта: колькасьць паўтораў, дакладных супадзеньняў, недакладных супадзеньняў і адсутнасьці супадзеньняў для сэгмэнтаў, словаў і ў сымбалях.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35616,6 +35640,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the two files to be aligned (the source file and its translation) and click OK to open the &lt;l0&gt;&lt;g1&gt;Align&lt;/g1&gt; window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T081522Z" creationid="GABIN" creationdate="20201209T081522Z">
+        <seg>Выбраць два файлы для выраўноўваньня (арыгінал і пераклад), націснуць “OK”, каб адчыніць акно &lt;l0&gt;&lt;g1&gt;выраўнованьня&lt;/g1&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select this menu item, if the current translation does not apply and enter the alternative translation.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160515T135205Z" creationid="gabi" creationdate="20160515T135205Z">
@@ -41453,6 +41485,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160705T124655Z" creationid="GABIN" creationdate="20160705T124655Z">
         <seg>На панэлі стану ў ніжняй частцы галоўнага вакна паказваюцца паведамленьні, якія тычацца працэсу працы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The supported file formats are those listed in &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;File Filters&lt;/g3&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T081708Z" creationid="GABIN" creationdate="20201209T081658Z">
+        <seg>Падтрымліваюцца файлы ў фарматах, якія можна пабачыць праз мэню &lt;m0&gt; &lt;g1&gt;Праект&lt;/g1&gt; → &lt;g2&gt;Уласьцівасьці…&lt;/g2&gt; → &lt;g3&gt;Файлавыя фільтры&lt;/g3&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
