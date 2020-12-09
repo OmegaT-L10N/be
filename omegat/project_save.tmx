@@ -9484,6 +9484,14 @@ OmegaT.exe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An OmegaT project is a folder containing files and subfolders.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T090724Z" creationid="GABIN" creationdate="20201209T090724Z">
+        <seg>Каталёг праекта OmegaT — гэта каталёг з файламі і падкаталёгамі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An attempt is made to match the capitalization of the source word.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160517T055732Z" creationid="gabi" creationdate="20160517T055732Z">
@@ -19971,6 +19979,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How To...</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T090658Z" creationid="GABIN" creationdate="20201209T090658Z">
+        <seg>Дапаможнікі…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How to create glossaries</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160401T125800Z" creationid="GABIN" creationdate="20160401T125800Z">
@@ -26583,6 +26599,14 @@ The Mac version comes bundled with a JRE.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Menus</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T090700Z" creationid="GABIN" creationdate="20201209T090700Z">
+        <seg>Мэню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Merge</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140721T095402Z" creationid="GABIN" creationdate="20140721T095402Z">
@@ -30552,6 +30576,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Orphan segments (match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T090645Z" creationid="GABIN" creationdate="20201209T090645Z">
+        <seg>Састарэлыя сэгмэнты (супадзеньне № 2) — гэта сэгмэнты ў памяці перакладаў праекта па змаўчаньні, якія ня маюць адпаведнага сэгмэнта-крыніцы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Orphan segments&lt;i2/&gt; (the match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160704T093342Z" creationid="GABIN" creationdate="20160704T093342Z">
@@ -32249,6 +32281,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160521T181641Z" creationid="gabi" creationdate="20160521T181641Z">
         <seg>Паказ сьпіса файлаў праекта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project folder</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T090706Z" creationid="GABIN" creationdate="20201209T090706Z">
+        <seg>Каталёг праекта</seg>
       </tuv>
     </tu>
     <tu>
