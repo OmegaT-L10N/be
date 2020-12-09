@@ -1,41 +1,5 @@
 <div class="container">
 
-  <div class="text-md-center">
-  <h3>Аўтары зьмесьціва вэб-старонкі</h3>
-  <ul class="list-unstyled">
-    
-    {% for author in site.data.credits.website %}
-      
-      <li>{{ author }}</li>
-    
-    {% endfor %}
-  
-  </ul>
-
-  <h3>Дызайн вэб-старонкі</h3>
-  <ul class="list-unstyled">
-    <li>Брыяк Пільпрэ</li>
-  </ul>
-
-  
-
-  {% if site.lang != "en" %}
-  
-  <h3>Перакладчыкі ангельскай вэрсіі</h3>
-  <ul class="list-unstyled">
-    
-    {% for translator in site.data.credits.translators[site.lang] %}
-      
-      <li>{{ translator }}</li>
-    
-    {% endfor %}
-  
-  </ul>
-  
-  {% endif %}
-  
-  </div>
-
   <h2>Праект OmegaT</h2>
   <p>Праект OmegaT падтрымліваецца нефармальный міжнароднай групай самахотнікаў. Яе мэтай зьяўляецца распрацоўка, распаўсюджваньне і падтрымка выкарыстання OmegaT, свабоднай праграмы аўтаматызацыі перакладу.</p>
   <p>Асноўныя ўдзельнікі праекта:</p>
@@ -49,7 +13,7 @@
     <h3>Кіраўнік інтэграцыі</h3>
     <p>Арон Мадлан-Кэй</p>
     <h3>Кіраўнік вэб-сайта</h3>
-    <p>Марк Праяр</p>
+    <p>Брыяк Пільпрэ</p>
     <h3>Кіраўнік дакумэнтацыі</h3>
     <p>Вэнсан Бідо</p>
     <h3>Кіраўнік лякалізацыі, уладальнік групы карыстальнікаў</h3>
@@ -63,6 +27,38 @@
     
     </ul>
   </div>
+
+  <div class="text-md-center">
+    <h3>Аўтары зьмесьціва вэб-старонкі</h3>
+    <ul class="list-unstyled">
+      
+      {% for author in site.data.credits.website %}
+        
+        <li>{{ author }}</li>
+      
+      {% endfor %}
+    
+    </ul>
+
+    
+
+    {% if site.lang != "en" %}
+    
+    <h3>Перакладчыкі ангельскай вэрсіі</h3>
+    <ul class="list-unstyled">
+      
+      {% for translator in site.data.credits.translators[site.lang] %}
+        
+        <li>{{ translator }}</li>
+      
+      {% endfor %}
+    
+    </ul>
+    
+    {% endif %}
+    
+    </div>
+
   <p>Філязофія праекта апісаная <a href="philosophy.html">тут</a>.</p>
   <p>Ад самога пачатку праект атрымаў падтрымку вялікага мноства іншых удзельнікаў, ўсіх якіх на жаль пералічыць тут немагчыма, але мы ўдзячнымі ім за дапамогу.</p>
 </div>

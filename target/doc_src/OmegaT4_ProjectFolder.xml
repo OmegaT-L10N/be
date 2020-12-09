@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
 <chapter id="project.folder">
-  <title>Project folder</title>
+  <title>Каталёг праекта</title>
 
-  <para>An OmegaT project is a folder containing files and subfolders.</para>
+  <para>Каталёг праекта OmegaT — гэта каталёг з файламі і падкаталёгамі.</para>
 
   <section>
     <title>source</title>
@@ -24,7 +24,7 @@
 
     <para>Зьмесьціва файлаў памяці перакладаў у падкаталёгу /tm прызначана для атрыманьня прапановаў тэксту для перакладу. Любы тэкст, ужо перакладзены і захаваны ў гэтых файлах, будзе зьяўляцца сярод недакладных супадзеньняў, калі ён дастаткова падобны на тэкст, які перакладаецца.</para>
 
-    <para>Калі нейкі зыходны сэгмэнт у адным з апорных файлаў памяці перакладаў ідэнтычны перакладанаму тэксту, OmegaT дзейнічае, як вызначана праз <menuchoice><guimenu>Налады</guimenu> <guimenuitem>Акно рэдагаваньня…</guimenuitem></menuchoice>. For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with<emphasis> [fuzzy]</emphasis>, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly<menuchoice> <guimenu>.</guimenu> </menuchoice></para>
+    <para>Калі нейкі зыходны сэгмэнт у адным з апорных файлаў памяці перакладаў ідэнтычны перакладанаму тэксту, OmegaT дзейнічае, як вызначана праз <menuchoice><guimenu>Налады</guimenu> <guimenuitem>Акно рэдагаваньня…</guimenuitem></menuchoice>. Напрыклад (калі ўжываюцца налады па змаўчаньні), пераклад з апорнага файла памяці перакладаў прымаецца з устаўкай прэфікса <emphasis>[недакладнае]</emphasis>, каб перакладчык мог перагледзець пераклад на пазьнейшым этапе, і праверыць, ці правільна перакладзеныя пазначаныя такім чынам сэгмэнты<menuchoice><guimenu>.</guimenu></menuchoice></para>
 
     <para>Можа здарыцца так, што ў файлах памяці перакладаў у каталёгу <filename>/tm</filename> будуць сэгмэнты з аднолькавым зыходным тэкстам, але рознымі перакладамі. Файлы TMX счытваюцца і сартуюцца паводле іхніх назваў, а сэгмэнты ў межах пэўнага файла TMX — радок за радком. Апошні сэгмэнт з ідэнтычным зыходным тэкстам, такім чынам, будзе пераважным (заўвага: вядома, мае сэнс пазьбягаць падобных сытуацыяў).</para>
 
@@ -89,26 +89,26 @@
     <section>
       <title>tm/mt</title>
 
-      <para>In the editor pane, when a match is inserted from a TMX contained in a folder named <filename>mt</filename>, the background of the active segment is changed to red. Колер тла аднаўляецца да звычайнага пры выхадзе з сэгмэнта.</para>
+      <para>У панэлі рэдагаваньня пры ўстаўцы супадзеньня з файла TMX, які знаходзіцца ў каталёгу <filename>mt</filename> тло актыўнага сэгмэнта зьмяняецца на чырвонае. Колер тла аднаўляецца да звычайнага пры выхадзе з сэгмэнта.</para>
     </section>
 
     <section>
       <title>tm/penalty-xxx</title>
 
-      <para>Часам карысна адрозьніваць якасныя файлы перакладаў і меней надзейныя файлы (напрыклад з-за тэмы, кліента, стану разгляду і да г. п.). For translation memories in folders with a name <filename>penalty-xxx</filename> (with xxx between 0 and 100), matches will be degraded according to the name of the folder: a 100% match in any of TMs, residing in a folder called <filename>penalty-30</filename> for instance, will be lowered to a 70% match. Пэнальты ўжываецца да ўсіх трох паказчыкаў падабенства: супадзеньні з падабенствам 75, 80, 90 у падобным выпадку будуць зьніжаныя да 45, 50, 60.</para>
+      <para>Часам карысна адрозьніваць якасныя файлы перакладаў і меней надзейныя файлы (напрыклад з-за тэмы, кліента, стану разгляду і да г. п.). Для файлаў памяці перакладаў у каталёгах з назвай тыпу “<filename>penalty-xxx</filename>” (дзе xxx — лік паміж 0 і 100) з паказчыка падабенства супадзеньняў адымаецца лік, адпаведны назьве каталёга: напрыклад, для 100%-нага супадзеньня ў любым файле памяці перакладаў, які знаходзіцца ў каталёгу з назвай “<filename>penalty-30</filename>”, паказчык падабенства зьніжаецца да 70%. Пэнальты ўжываецца да ўсіх трох паказчыкаў падабенства: супадзеньні з падабенствам 75, 80, 90 у падобным выпадку будуць зьніжаныя да 45, 50, 60.</para>
     </section>
   </section>
 
   <section>
     <title>dictionary</title>
 
-    <para>Гэты каталёг спачатку пусты, у яго можна дадаць слоўнікі для праекта. See <link linkend="appendix.dictionaries">Dictionaries</link> for more on this subject.</para>
+    <para>Гэты каталёг спачатку пусты, у яго можна дадаць слоўнікі для праекта. Дадатковыя зьвесткі гл. у разьдзеле <link linkend="appendix.dictionaries">”Слоўнікі”</link>.</para>
   </section>
 
   <section>
     <title>glossary</title>
 
-    <para>Гэты падкаталёг спачатку пусты. Ён будзе зьмяшчаць глясары, якія будуць ужывацца ў праекце. See <link linkend="appendix.glossaries">Glossaries</link> for more on this subject.</para>
+    <para>Гэты падкаталёг спачатку пусты. Ён будзе зьмяшчаць глясары, якія будуць ужывацца ў праекце. Дадатковыя зьвесткі гл. у разьдзеле <link linkend="appendix.glossaries">“Глясары”</link>.</para>
   </section>
 
   <section id="folder.omegat">
@@ -149,8 +149,7 @@
         <term>segmentation.conf</term>
 
         <listitem>
-          <para>if existing, it contains project-specific segmentation
-          rules.</para>
+          <para>калі наяўны, утрымлівае спэцыфічныя для праекта налады сэгмэнтаваньня.</para>
         </listitem>
       </varlistentry>
 
@@ -158,7 +157,7 @@
         <term>filters.xml</term>
 
         <listitem>
-          <para>if existing, it contains project-specific file filters.</para>
+          <para>калі наяўны, утрымлівае спэцыфічныя для праекта налады файлавых фільтраў.</para>
         </listitem>
       </varlistentry>
 
@@ -166,29 +165,25 @@
         <term>uiLayout.xml</term>
 
         <listitem>
-          <para>if existing, it contains project-specific GUI settings.</para>
+          <para>калі наяўны, утрымлівае спэцыфічныя для праекта налады графічнага інтэрфэйса карыстальніка.</para>
         </listitem>
       </varlistentry>
     </variablelist>
   </section>
 
   <section>
-    <title>omegat.project (file)</title>
+    <title>omegat.project (файл)</title>
 
-    <para>Contains project parameters as defined in the <link linkend="dialogs.projectproperties">Project properties</link>
-    dialog.</para>
+    <para>Утрымлівае ўласьцівасьці праекта, вызначаныя праз дыялёгавае вакно <link linkend="dialogs.projectproperties">Праўка праекта</link>.</para>
   </section>
 
   <section>
     <title>.repositories</title>
 
-    <para>In a team project, this folder contains a versioned copy of the
-    project tree structure linked directly to the remote server.</para>
+    <para>У выпадку каманднага праекта гэты каталёг утрымлівае копію з пазначэньнем вэрсіі дрэвападобнай структуры праекта, непасрэдна зьвязаную з аддаленым сэрвэрам.</para>
 
-    <para>You can make changes to remote files (e.g. deleting a file) using
-    this folder and a Git or SVN client.</para>
+    <para>Можна зьмяняць (напрыклад, выдаляць) аддаленыя файлы праз гэты каталёг з запамогай Git- ці SVN-кліента.</para>
 
-    <para>In some operating systems, this folder is not displayed by default.
-    Activate the &quot;Show hidden files&quot; option to make it visible.</para>
+    <para>У некаторых апэрацыйных сыстэмах гэты каталёг па змаўчаньні не паказваецца. Каб яго пабачыць, трэба ўключыць паказ схаваных файлаў.</para>
   </section>
 </chapter>

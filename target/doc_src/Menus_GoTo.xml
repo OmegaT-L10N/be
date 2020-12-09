@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
 <section id="menus.goto">
-  <title>Go To</title>
+  <title>Пераход</title>
 
-  <para>This menu displays entries only when a project is open.</para>
+  <para>Элемэнты ў гэтым мэню зьяўляюцца толькі, калі адчынены праект.</para>
 
   <variablelist>
     <varlistentry>
@@ -28,8 +28,7 @@
       <listitem>
         <para>Пераход да наступнага сэгмэнта. Калі бягучы сэгмэнт — апошні ў файле, адбываецца пераход да першага сэгмэнта наступнага файла.</para>
 
-        <para>Note: <keycap>Enter</keycap> is an alternate shortcut if <link linkend="dialogs.preferences.general.usetabtoadvance">Use TAB to
-        Advance</link> option is not selected.</para>
+        <para>Заўвага: клявіша <keycap>Enter</keycap> зьяўляецца альтэрнатыўным варыянтам, калі ня выбраны варыянт <link linkend="dialogs.preferences.general.usetabtoadvance">Выкарыстоўваць TAB для пераходу далей</link>.</para>
       </listitem>
     </varlistentry>
 
@@ -39,12 +38,7 @@
       <listitem>
         <para>Пераход да папярэдняга сэгмэнта. Калі бягучы сэгмэнт — першы ў файле, адбываецца пераход да апошняга сэгмэнта папярэдняга файла.</para>
 
-        <para>Note: <keycombo>
-            <keycap>Ctrl</keycap>
-
-            <keycap>Enter</keycap>
-          </keycombo> is an alternate shortcut if <link linkend="dialogs.preferences.general.usetabtoadvance">Use TAB to
-        Advance</link> option is not selected.</para>
+        <para>Заўвага: спалучэньне клявішаў <keycombo><keycap>Ctrl</keycap> + <keycap>Enter</keycap></keycombo> зьяўляецца альтэрнатыўным варыянтам, калі ня выбраны варыянт <link linkend="dialogs.preferences.general.usetabtoadvance">Выкарыстоўваць TAB для пераходу далей</link>.</para>
       </listitem>
     </varlistentry>
 
@@ -84,7 +78,7 @@
       <term>Наперад у гісторыі…</term>
 
       <listitem>
-        <para><application>OmegaT</application> запамінае апрацаваныя сэгмэнты. With this command you can step forward to the segment, you have previously left by the <guimenuitem>Back in history</guimenuitem>... command.</para>
+        <para><application>OmegaT</application> запамінае апрацаваныя сэгмэнты. Гэтая каманда дазваляе вярнуцца да сэгмэнта, як папярэдне быў пакінуты камандай <guimenuitem>Назад у гісторыі…</guimenuitem>.</para>
       </listitem>
     </varlistentry>
 
@@ -92,9 +86,7 @@
       <term>Назад у гісторыі…</term>
 
       <listitem>
-        <para>With this command you can move backward one segment at a time,
-        to return later to the current segment using <guimenuitem>Forward in
-        history...</guimenuitem>command below.</para>
+        <para>Гэтая каманда дазваляе адступіць назад на адзін сэгмэнт назад за раз, каб затым вярнуцца да бягучага сэгмэнта з дапамогай каманды <guimenuitem>Наперад у гісторыі…</guimenuitem>.</para>
       </listitem>
     </varlistentry>
   </variablelist>

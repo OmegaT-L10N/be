@@ -5,11 +5,10 @@
 
   <variablelist>
     <varlistentry>
-      <term>Preferences...</term>
+      <term>Налады…</term>
 
       <listitem>
-        <para>Opens the <link linkend="dialogs.preferences">Preferences</link>
-        dialog.</para>
+        <para>Адчыняецца дыялёг <link linkend="dialogs.preferences">наладаў</link>.</para>
       </listitem>
     </varlistentry>
 
@@ -19,12 +18,7 @@
       <listitem>
         <para>Дазваляе ўключаць/выключаць даступныя інструмэнты машыннага перакладу.</para>
 
-        <para>If several translation engines are selected, then <keycombo>
-            <keycap>Ctrl</keycap>
-
-            <keycap>M</keycap>
-          </keycombo> is also used to switch between them and insert the last
-        one selected.</para>
+        <para>Калі выбраныя некалькі сэрвісаў машыннага перакладу, спалучэньне клявішаў <keycombo> <keycap>Ctrl</keycap> <keycap>M</keycap> </keycombo> таксама ўжываецца для пераключэньня паміж імі і ўстаўкі выніку ад апошняга выбранага сэрвісу.</para>
       </listitem>
     </varlistentry>
 
@@ -32,8 +26,7 @@
       <term>Глясар</term>
 
       <listitem>
-        <para>Select <guimenuitem>Taas Terminology Lookup</guimenuitem> to
-        activate this lookup.</para>
+        <para>Выберыце <guimenuitem>Пошук тэрмінаў у Taas</guimenuitem>, каб уключыць гэты пошук.</para>
       </listitem>
     </varlistentry>
 
@@ -41,7 +34,7 @@
       <term>Слоўнік</term>
 
       <listitem>
-        <para>Check the <guimenuitem>Use Fuzzy Matching for Dictionary Entries</guimenuitem> option if you want dictionaries to display words that have the same root.</para>
+        <para>Уключэце опцыю <guimenuitem>Ужываць падбор недакладных супадзеньняў для пошуку ў слоўніках</guimenuitem>, калі хочаце, каб у вакне слоўнікаў паказваліся аднакарэнныя словы.</para>
       </listitem>
     </varlistentry>
 
@@ -49,14 +42,11 @@
       <term>Аўтазавяршэньне</term>
 
       <listitem>
-        <para>If <guimenuitem>Show Relevant Suggestions
-        Automatically</guimenuitem> option is checked, Auto-completer is
-        launched automatically by typing the first letters of a translated
-        glossary entry, or by typing &quot;&lt;&quot; in case of tags.</para>
+        <para>Калі пазначана <guimenuitem>Аўтаматычна паказваць адпаведныя прапановы</guimenuitem>, мэню аўтазавяршэньня зьяўляецца аўтаматычна пасьля набору першай літары запіса глясара або сымбаля “&lt;” у выпадку тэгаў.</para>
 
-        <para>Check <guimenuitem>History Completion</guimenuitem> to display suggested words as soon as their first letters are entered.</para>
+        <para>Пазначце <guimenuitem>Запамінаць прапановы завяршэньня</guimenuitem>, каб пры ўводзе першых некалькіх літараў паказваліся прапановы завяршэньня словаў.</para>
 
-        <para>Check <guimenuitem>History Prediction</guimenuitem> to display suggested words that commonly follow the word that has just been entered.</para>
+        <para>Пазначце <guimenuitem>Запамінаць прадказаньні словаў</guimenuitem>, каб пасьля ўводу нейкага слова паказваліся словы, якія часта сустракаюцца пасьля яго.</para>
       </listitem>
     </varlistentry>
 
@@ -64,10 +54,9 @@
       <term>Файлавыя фільтры…</term>
 
       <listitem>
-        <para>Opens the <link linkend="dialogs.preferences.filefilters">File
-        Filters</link> options in the Preferences dialog.</para>
+        <para>Адчыняецца дыялёг наладкі <link linkend="dialogs.preferences.filefilters">файлавых фільтраў</link> у дыялёгу наладаў.</para>
 
-        <para>These settings apply to OmegaT level, to all projects.</para>
+        <para>Гэтыя налады ўжываюцца на ўзроўні OmegaT да ўсіх праектаў.</para>
       </listitem>
     </varlistentry>
 
@@ -75,22 +64,20 @@
       <term>Сэгмэнтаваньне…</term>
 
       <listitem>
-        <para>Opens the <link linkend="dialogs.preferences.segmentationsetup">Segmentation
-        Setup</link> options in the Preferences dialog.</para>
+        <para>Адчыняецца дыялёг <link linkend="dialogs.preferences.segmentationsetup">наладкі сэгмэнтаваньня</link> ў дыялёгу наладаў.</para>
 
-        <para>These settings apply to OmegaT level, to all projects.</para>
+        <para>Гэтыя налады ўжываюцца на ўзроўні OmegaT да ўсіх праектаў.</para>
 
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Editor...</term>
+      <term>Акно рэдагаваньня…</term>
 
       <listitem>
-        <para>Opens the <link linkend="dialogs.preferences.editor">Editor</link> options in the
-        Preferences dialog.</para>
+        <para>Адчыняецца дыялёг <link linkend="dialogs.preferences.editor">наладкі акна рэдагаваньня</link> ў дыялёгу наладаў.</para>
 
-        <para>These settings apply to OmegaT level, to all projects.</para>
+        <para>Гэтыя налады ўжываюцца на ўзроўні OmegaT да ўсіх праектаў.</para>
 
       </listitem>
     </varlistentry>
@@ -99,8 +86,7 @@
       <term>Доступ да каталёга канфігурацыі</term>
 
       <listitem>
-        <para>Opens the local directory where OmegaT configuration files are
-        stored (depends on the Operating system).</para>
+        <para>Адчыняецца лякальны каталёг, дзе захоўваюцца канфігурацыйныя файлы OmegaT (залежыць ад апэрацыйнай сыстэмы).</para>
       </listitem>
     </varlistentry>
   </variablelist>

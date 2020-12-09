@@ -16,7 +16,7 @@
       <term><guimenuitem>Спампаваць камандны праект…</guimenuitem></term>
 
       <listitem>
-        <para>Ствараецца лякальная копія аддаленага праекта OmegaT. See <link linkend="howto.useteamproject">How to use a team project</link> for details.</para>
+        <para>Ствараецца лякальная копія аддаленага праекта OmegaT. Падрабязнасьці гл. у разьдзеле <link linkend="howto.useteamproject">“Ужываньне камандных праектаў”</link>.</para>
       </listitem>
     </varlistentry>
 
@@ -32,7 +32,7 @@
       <term>Адчыніць нядаўні праект</term>
 
       <listitem>
-        <para>Give access to the ten last edited projects. Пры націсканьні на адным зь іх бягучы праект будзе захаваны і зачынены, пасьля гэтага адчыніцца іншы праект.</para>
+        <para>Адкрываецца доступ да дзесяці апошніх праектаў. Пры націсканьні на адным зь іх бягучы праект будзе захаваны і зачынены, пасьля гэтага адчыніцца іншы праект.</para>
       </listitem>
     </varlistentry>
 
@@ -48,27 +48,27 @@
       <term>Спампаваць старонку MediaWiki…</term>
 
       <listitem>
-        <para>To translate the contents of a Wikipedia page (for example):</para>
+        <para>Каб перакласьці, напрыклад, зьмесьціва старонкі ў Вікіпэдыі:</para>
 
         <orderedlist>
           <listitem>
-            <para>Click the <guilabel>Edit</guilabel> tab on the Wikipedia page.</para>
+            <para>Націсьнеце на ўкладцы <guilabel>Рэдагаваць</guilabel> на старонцы Вікіпэдыі.</para>
           </listitem>
 
           <listitem>
-            <para>Copy the URL of the page (ending with <guilabel>action=edit</guilabel>) and paste it into <application>OmegaT</application>.</para>
+            <para>Скапіюйце URL-адрас старонкі (з канчаткам <guilabel>action=edit</guilabel>) і ўстаўце яго ў <application>OmegaT</application>.</para>
           </listitem>
         </orderedlist>
 
-        <para>When you have finished your translation, to import it into Wikipedia:</para>
+        <para>Пасьля завяршэньня перакладу, зрабеце наступнае, каб унесьці яго ў Вікіпэдыю:</para>
 
         <orderedlist>
           <listitem>
-            <para>Open the <filename>.UTF8</filename> file generated in the <filename>/target</filename> folder.</para>
+            <para>Адчынеце файл <filename>.UTF8</filename>, які створаны ў каталёгу <filename>/target</filename>.</para>
           </listitem>
 
           <listitem>
-            <para>Copy the text and paste it into the translated version of the Wikipedia page.</para>
+            <para>Скапіюйце тэкст і ўстаўце яго ў перакладзеную вэрсію старонкі Вікіпэдыі.</para>
           </listitem>
         </orderedlist>
       </listitem>
@@ -78,10 +78,9 @@
       <term>Перазагрузіць</term>
 
       <listitem>
-        <para>Reloads the project to take external changes in source files and
-        project settings into account.</para>
+        <para>Праект перагружаецца, каб улічыць зьмены, зробленыя ў зыходных файлах і парамэтрах праекта.</para>
 
-        <para>New translation memories placed in the <filename>/tm</filename> folder while translating are loaded automatically as soon as the cursor moves from one segment to another.</para>
+        <para>Новыя файлы памяці перакладаў, якія зьяўляюцца ў каталёгу <filename>/tm</filename>, падчас перакладаньня падгружаюцца аўтаматычна пры пераходзе курсора з сэгмэнта ў сэгмэнт.</para>
       </listitem>
     </varlistentry>
 
@@ -97,15 +96,9 @@
       <term>Захаваць</term>
 
       <listitem>
-        <para>Унутраная памяць перакладаў захоўваецца на жорсткі дыск. OmegaT automatically saves translations every 3 minutes as well as when you close the project or quit OmegaT.</para>
+        <para>Унутраная памяць перакладаў захоўваецца на жорсткі дыск. OmegaT аўтаматычна захоўвае пераклады кожныя 3 хвіліны, а таксама пры закрыцьці праекта або выхадзе за праграмы.</para>
 
-        <para>The interval of 3 minutes can be changed in <link linkend="dialogs.preferences.savingandoutput"><menuchoice>
-            <guimenuitem>Options</guimenuitem>
-
-            <guimenuitem>Preferences</guimenuitem>
-
-            <guimenuitem>Saving and Output</guimenuitem>
-          </menuchoice></link>.</para>
+        <para>Інтэрвал у 3 хвіліны можна зьмяніць праз <link linkend="dialogs.preferences.savingandoutput"><menuchoice> <guimenuitem>Налады</guimenuitem> <guimenuitem>Налады</guimenuitem> <guimenuitem>Захаваньне і вывад</guimenuitem> </menuchoice></link>.</para>
       </listitem>
     </varlistentry>
 
@@ -113,10 +106,9 @@
       <term>Фіксацыя зыходных файлаў</term>
 
       <listitem>
-        <para>Uploads to the repository the files that have been added or
-        modified locally in the <filename>source</filename> directory.</para>
+        <para>У рэпазыторый запампоўваюцца файлы, даданыя ці лякальна зьмененыя ў каталёгу <filename>source</filename>.</para>
 
-        <para>This function is specific to team projects.</para>
+        <para>Гэтыя функцыя — толькі для камандных праектаў.</para>
       </listitem>
     </varlistentry>
 
@@ -124,10 +116,9 @@
       <term>Фіксацыя файлаў перакладаў</term>
 
       <listitem>
-        <para>Uploads to the repository the files that have been created
-        locally in the <filename>target</filename> directory.</para>
+        <para>У рэпазыторый запампоўваюцца файлы, створаныя лякальна ў каталёгу <filename>target</filename>.</para>
 
-        <para>This function is specific to team projects.</para>
+        <para>Гэтыя функцыя — толькі для камандных праектаў.</para>
       </listitem>
     </varlistentry>
 
@@ -135,7 +126,7 @@
       <term>Адкампіляваць праект</term>
 
       <listitem>
-        <para>Creates the target documents based on your translation. Створаныя дакумэнты перакладаў знаходзяцца ў каталёгу <filename>target</filename>.</para>
+        <para>На аснове зробленага перакладу ствараюцца дакумэнты зь перакладамі. Створаныя дакумэнты перакладаў знаходзяцца ў каталёгу <filename>target</filename>.</para>
       </listitem>
     </varlistentry>
 
@@ -151,15 +142,15 @@
       <term>Адчыніць праект MED…</term>
 
       <listitem>
-        <para>Opens a project package in the MED format defined by the EU Directorate-General for Translation.</para>
+        <para>Адчыняецца пакет праекта ў фармаце MED, вызначаным генэральным дырэктаратам ЕС у перакладзе.</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Create MED Projects...</term>
+      <term>Стварыць праект MED…</term>
 
       <listitem>
-        <para>Converts the current project into a MED package.</para>
+        <para>Бягучы праект пераўтвараецца ў пакет MED.</para>
       </listitem>
     </varlistentry>
 
@@ -175,8 +166,7 @@
       <term>Файлы праекта…</term>
 
       <listitem>
-        <para>Opens the <link linkend="windows.projectfiles">Project files
-        window</link>.</para>
+        <para>Адчыняецца <link linkend="windows.projectfiles">вакно з файламі праекта</link>.</para>
       </listitem>
     </varlistentry>
 

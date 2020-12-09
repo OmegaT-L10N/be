@@ -3,7 +3,7 @@
 <section id="menus.edit">
   <title>Праўка</title>
 
-  <para>This menu displays entries only when a project is open.</para>
+  <para>Элемэнты ў гэтым мэню зьяўляюцца толькі, калі адчынены праект.</para>
 
   <variablelist>
     <varlistentry>
@@ -46,12 +46,12 @@
       <term>Замяніць на машынны пераклад</term>
 
       <listitem>
-        <para>Зьмесьціва сэгмэнта перакладу замяняецца перакладам ад сэрвісу машыннага перакладу. No action is taken, if no Machine Translation service has been activated (in <menuchoice> <guimenu>Options</guimenu> <guimenuitem>Machine Translate</guimenuitem> </menuchoice>).</para>
+        <para>Зьмесьціва сэгмэнта перакладу замяняецца перакладам ад сэрвісу машыннага перакладу. Калі сэрвіс машыннага перакладу не актываваны (мэню <menuchoice> <guimenu>Налады</guimenu> → <guimenuitem>Машынны пераклад</guimenuitem> </menuchoice>), не адбываецца нічога.</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Replace with Source</term>
+      <term>Аднавіць зыходны тэкст</term>
 
       <listitem>
         <para>Увесь сэгмэнт перакладу замяняецца на зыходны тэкст.</para>
@@ -86,7 +86,7 @@
       <term>Экспартаваць вылучанае</term>
 
       <listitem>
-        <para>Бягучае вылучэньне экспартуецца ў тэкставы файл для апрацоўкі. Калі частка тэксту ня вылучаная, у файл выгружаецца ўвесь бягучы сэгмэнт. Калі карыстальнік выходзіць з <application>OmegaT</application>, гэты файл не спусташаецца, каб імітаваць звычайныя паводзіны буфэра абмену. The exported contents are copied to the file <filename>selection.txt</filename> located in the User's preference files folder.</para>
+        <para>Бягучае вылучэньне экспартуецца ў тэкставы файл для апрацоўкі. Калі частка тэксту ня вылучаная, у файл выгружаецца ўвесь бягучы сэгмэнт. Калі карыстальнік выходзіць з <application>OmegaT</application>, гэты файл не спусташаецца, каб імітаваць звычайныя паводзіны буфэра абмену. Экспартаванае зьмесьціва капіюецца ў файл <filename>selection.txt</filename> у каталёгу наладаў карыстальніка.</para>
       </listitem>
     </varlistentry>
 
@@ -98,15 +98,7 @@
 
         <para>Калі вылучыць радок тэксту (у якой заўгодна панэлі) перад націсканьнем <keycombo> <keycap>Ctrl</keycap> <keycap>Shift</keycap> <keycap>G</keycap> </keycombo>, тэкст будзе ўстаўлены па змаўчаньні ў поле <guilabel>Зыходны тэрмін</guilabel>.</para>
 
-        <para>This can apply also to <guimenuitem>Target term</guimenuitem>
-        and <guimenuitem>Comment </guimenuitem>fields if new selections are
-        made and <keycombo>
-            <keycap>Ctrl</keycap>
-
-            <keycap>Shift</keycap>
-
-            <keycap>G</keycap>
-          </keycombo> pressed again.</para>
+        <para>Падобнае будзе адбывацца і ў палёх <guimenuitem>Пераклад тэрміна</guimenuitem> і <guimenuitem>Камэнтар</guimenuitem>, калі зноў вылучыць тэкст і зноў націснуць <keycombo> <keycap>Ctrl</keycap> <keycap>Shift</keycap> <keycap>G</keycap> </keycombo>.</para>
       </listitem>
     </varlistentry>
 
@@ -136,7 +128,7 @@
       <term>Пошук у слоўніках</term>
 
       <listitem>
-        <para>If <link linkend="dialogs.preferences.dictionary">automatic searching in dictionaries</link> is disabled, this function allows you to search for the selected word in the dictionaries.</para>
+        <para>Калі адключаны <link linkend="dialogs.preferences.dictionary">аўтаматычны пошук у слоўніках</link>, гэта функцыя дазваляе рабіць пошук вылучанага слова ў слоўніках.</para>
       </listitem>
     </varlistentry>
 
@@ -144,7 +136,7 @@
       <term>Зьмяніць рэгістар на</term>
 
       <listitem>
-        <para>Рэгістар вылучанага тэксту ў сэгмэньце перакладу зьмяняецца на выбраны варыянт (“Усе малыя”, “Усе вялікія”, “Як у загалоўках”, “Як у сказах”). Use <keycombo> <keycap>Shift</keycap> <keycap>F3</keycap> </keycombo> to cycle through the four alternatives. If no text is selected, <application>OmegaT</application> selects the word that contains the letter immediately to the right of the cursor.</para>
+        <para>Рэгістар вылучанага тэксту ў сэгмэньце перакладу зьмяняецца на выбраны варыянт (“Усе малыя”, “Усе вялікія”, “Як у загалоўках”, “Як у сказах”). Каб пераключацца паміж гэтымі варыянтамі, націскайце <keycombo><keycap>Shift</keycap> + <keycap>F3</keycap></keycombo>. Калі тэкст ня вылучаны, <application>OmegaT</application> вылучае слова, якое ўтрымлівае літару непасрэдна справа ад курсора.</para>
       </listitem>
     </varlistentry>
 
@@ -152,8 +144,7 @@
       <term>Выбраць супадзеньне</term>
 
       <listitem>
-        <para>Selects the previous, the next or the Nth fuzzy match displayed
-        in the fuzzy match pane to replace or insert it to the segment.</para>
+        <para>Выбар недакладнага супадзеньня № N на панэлі недакладных супадзеньняў для замены на яго перакладу або ўстаўкі яго ў сэгмэнт.</para>
       </listitem>
     </varlistentry>
 
@@ -193,10 +184,7 @@
       <term>Зарэгістраваць ідэнтычны пераклад</term>
 
       <listitem>
-        <para>Use this command to register the translation to be identical to
-        the source, even if <link linkend="dialogs.preferences.editor.allowtranslationtobeequaltosource"><guilabel>Allow
-        translation to be equal to source</guilabel></link> is not
-        checked.</para>
+        <para>Гэтая каманда ўжываецца ў мэтах рэгістрацыі тэксту перакладу тоесным зыходнаму тэксту, нават калі не пазначана <link linkend="dialogs.preferences.editor.allowtranslationtobeequaltosource"><guilabel>“Дазволіць супадзеньне крыніцы і перакладу”</guilabel></link>.</para>
       </listitem>
     </varlistentry>
   </variablelist>

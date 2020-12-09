@@ -21,10 +21,10 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Mark Paragraph delimitations</term>
+      <term>Пазначаць межы абзацаў</term>
 
       <listitem>
-        <para>If checked, the separations between paragraphs in the source document are indicated visually.</para>
+        <para>Калі пазначана, на экране будуць бачныя разьдзяляльнікі абзацаў у зыходным дакумэньце.</para>
       </listitem>
     </varlistentry>
 
@@ -48,7 +48,7 @@
       <term>Пазначаць сэгмэнты з зацемкамі</term>
 
       <listitem>
-        <para>Калі пазначана, сэгмэнты з зацемкамі будуць вылучацца блакітным колерам. This marking has priority over <guimenuitem>Mark Translated Segments</guimenuitem> and <guimenuitem>Mark Untranslated Segments</guimenuitem>.</para>
+        <para>Калі пазначана, сэгмэнты з зацемкамі будуць вылучацца блакітным колерам. Гэтая вылучэньне мае прыярытэт над <guimenuitem>вылучэньнем перакладзеных сэгмэнтаў</guimenuitem> і <guimenuitem>вылучэньнем неперакладзеных сэгмэнтаў</guimenuitem>.</para>
       </listitem>
     </varlistentry>
 
@@ -80,7 +80,7 @@
       <term>Пазначаць аўтаматычна запоўненыя сэгмэнты</term>
 
       <listitem>
-        <para>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in <filename>/tm/auto</filename> for example) are displayed in colour. The colours are displayed as long as the <link linkend="dialogs.preferences.editor.saveautopopulatedstatus"><guimenuitem>Save auto-populated status</guimenuitem></link> option is checked. Звычайныя пераклады, устаўленыя з каталёга auto, вылучаюцца памаранчавым колерам. Іншыя пераклады, асабліва ідэнтыфікаваныя ў TMX, могуць вылучацца іншымі колерамі. For technical details, see the <ulink url="http://sourceforge.net/p/omegat/feature-requests/963/">Request For Enhancement</ulink>.</para>
+        <para>Калі пазначана, тло ўсіх сэгмэнтаў, у якіх пераклад быў атрыманы ў выніку аўтаматычнага запаўненьня (напрыклад, з файлаў TMX у каталёгу <filename>/tm/auto</filename>), будзе каляровым. Вылучэньне колерам захоўваецца, пакуль пазначана опцыя <link linkend="dialogs.preferences.editor.saveautopopulatedstatus"><guimenuitem>“Захоўваць стан аўтаматычна запоўненых”</guimenuitem></link> (гл. Налады → Акно рэдагаваньня). Звычайныя пераклады, устаўленыя з каталёга auto, вылучаюцца памаранчавым колерам. Іншыя пераклады, асабліва ідэнтыфікаваныя ў TMX, могуць вылучацца іншымі колерамі. Тэхнічныя дэталі гл. у наступным <ulink url="http://sourceforge.net/p/omegat/feature-requests/963/">запыце ўдасканаленьня</ulink>.</para>
       </listitem>
     </varlistentry>
 
@@ -88,7 +88,7 @@
       <term>Агрэсыўная замена шрыфтоў на альтэрнатыўныя</term>
 
       <listitem>
-        <para>Check this option in case <application>OmegaT</application> does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine). Заўвага: выглядае, што ў Windows падобная ручная падстаноўка шрыфтоў можа ўмешвацца ў стандартную падстаноўку шрыфтоў, і ў выніку адбываецца непажаданая падстаноўка. З гэтай прычыны гэтая опцыя адключаная па змаўчаньні.</para>
+        <para>Пазначце гэтую вопцыю, калі <application>OmegaT</application> не паказвае пэўныя сымбалі належным чынам (нават калі ў сыстэме ўсталяваныя шрыфты, якія ўтрымліваюць патрэбныя сымбалі). Заўвага: выглядае, што ў Windows падобная ручная падстаноўка шрыфтоў можа ўмешвацца ў стандартную падстаноўку шрыфтоў, і ў выніку адбываецца непажаданая падстаноўка. З гэтай прычыны гэтая опцыя адключаная па змаўчаньні.</para>
       </listitem>
     </varlistentry>
 
@@ -96,11 +96,7 @@
       <term>Інфармацыя пра зьмены</term>
 
       <listitem>
-        <para>Setting the Display Modification option to <guimenuitem>Current
-        segment</guimenuitem> will display the time and the author of the last
-        change in the current segment. Setting it to <guimenuitem>All
-        segments</guimenuitem> shows this information for all segments and
-        <guimenuitem>None</guimenuitem> turns this option off.</para>
+        <para>Пасьля ўключэньня вопцыі паказу інфармацыі пра зьмены для <guimenuitem>бягучага сэгмэнта</guimenuitem> будуць бачнымі час і аўтар апошняй зьмены бягучага сэгмэнта. Калі яе ўключыць для <guimenuitem>ўсіх сэгмэнтаў</guimenuitem>, інфармацыя паказваецца для ўсіх сэгмэнтаў, а калі выбраць <guimenuitem>Нічога не паказваць</guimenuitem>, опцыя адключаецца.</para>
       </listitem>
     </varlistentry>
   </variablelist>

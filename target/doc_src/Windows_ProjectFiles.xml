@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
 <section id="windows.projectfiles">
-  <title>Project Files</title>
+  <title>Файлы праекта</title>
 
-  <para>This window is displayed automatically when OmegaT loads a project,
-  and at any time by pressing <menuchoice>
-      <guimenuitem>Project</guimenuitem>
+  <para>Гэтае вакно аўтаматычна выводзіцца на экран пры загрузцы праекта OmegaT, а таксама пры выбары <menuchoice> <guimenuitem>Праект</guimenuitem> → <guimenuitem>Файлы праекта…</guimenuitem></menuchoice> у мэню.</para>
 
-      <guimenuitem>Project Files...</guimenuitem>
-    </menuchoice>.</para>
+  <para><remark>Заўвага:</remark> можна адключыць вывад гэтага вакна на экран пры загрузцы, зьмяніўшы значэньне зьменнай <emphasis>project_files_show_on_load</emphasis> на <emphasis>false</emphasis> у файле <filename>omegat.prefs</filename> (доступ да яго — праз мэню “<menuchoice><guimenuitem>Сэрвіс</guimenuitem> → <guimenuitem>Адчыніць каталёг канфігурацыі</guimenuitem></menuchoice>”).</para>
 
-  <para><remark>Note:</remark> it is possible to inhibit the window displaying
-  at opening, by setting <emphasis>project_files_show_on_load</emphasis> to
-  <emphasis>false</emphasis> in <filename>omegat.prefs</filename> file
-  (accessible by <menuchoice>
-      <guimenuitem>Options</guimenuitem>
-
-      <guimenuitem>Access Configuration Folder</guimenuitem>
-    </menuchoice> menu).</para>
-
-  <para>Use <guimenuitem>Ctrl+L</guimenuitem> to open and <keycap>Esc</keycap>
-  to close it. The <guilabel>Project Files</guilabel> Window displays the
-  following information:</para>
+  <para>Каб адчыніць яго, націскайце <guimenuitem>Ctrl + L</guimenuitem>, а каб зачыніць — <keycap>Esc</keycap>. У вакне <guilabel>файлаў праекта</guilabel> адлюстроўваюцца наступныя зьвесткі:</para>
 
   <itemizedlist>
     <listitem>
@@ -31,10 +17,7 @@
     <listitem>
       <para>сьпіс усіх файлаў да перакладу ў праекце. Пры націску на любы файл ён адчыніцца для перакладу.</para>
 
-      <para>Typing any text will open a <guilabel>Filter</guilabel> field
-      where parts of filenames can be entered. You can select a file with
-      <keycap>Up</keycap> and <keycap>Down</keycap> keys, and open it for
-      translation by pressing <keycap>Enter</keycap></para>
+      <para>Калі пачаць друкаваць нейкі тэкст, адчыніцца поле “<guilabel>Фільтар</guilabel>”, дзе можна ўвесьці часткі назваў файлаў. Файл можна выбраць клявішамі <keycap>”Уверх”</keycap> і <keycap>“Уніз”</keycap> і адкрыць яго для перакладу, націснуўшы <keycap>Enter</keycap>.</para>
 
       <para>Заўвага: назвы файлаў (у першым слупку) можна адсартаваць у альфабэтным парадку, клікнуўшы па загалоўку. Акрамя таго, можна зьмяніць пазыцыю назвы файла, клікнуўшы па ёй і націснуўшы кнопкі <emphasis>”На першую пазыцыю”, “Уверх”, “Уніз”, “На апошнюю пазыцыю”</emphasis>.</para>
 
@@ -56,11 +39,5 @@
 
   <para>Зьмяненьне правілаў сэгмэнтаваньня можа спрычыніцца да зьмяненьня ліку сэгмэнтаў / унікальных сэгмэнтаў. Гэтага, як правіла, варта пазьбягаць, калі праект ужо пачаты. Болей зьвестак гл. у разьдзеле “<emphasis>Правілы сэгмэнтаваньня</emphasis>”.</para>
 
-  <para><emphasis role="bold">Adding files to the project: </emphasis>You can
-  add source files to the project by clicking on the &quot;<guimenuitem>Import
-  Source Files...&quot;</guimenuitem> button. This copies the selected files to the
-  <filename>source</filename> folder and reloads the project to import the new
-  files. You can also add source files from Internet pages, written in
-  MediaWiki, by clicking on<guimenuitem> &quot;Import from MediaWiki&quot;</guimenuitem>
-  button and providing the corresponding URL.</para>
+  <para><emphasis role="bold">Даданьне файлаў у праект:</emphasis> каб дадаць зыходныя файлы ў праект, можна націснуць кнопку “<guimenuitem>Імпартаваць зыходныя файлы</guimenuitem>”. Пры гэтым абраныя файлы капіююцца ў каталёг <filename>source</filename>, праект перагружаецца для загрузкі новых файлаў. Можна таксама дадаць зыходныя файлы з інтэрнэт-старонак, напісаных у MediaWiki, націснуўшы на кнопку “<guimenuitem>Спампаваць старонку MediaWiki</guimenuitem>” і ўвёўшы адпаведны URL.</para>
 </section>

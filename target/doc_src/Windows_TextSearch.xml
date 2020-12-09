@@ -79,7 +79,7 @@
         <term><emphasis role="bold">рэгулярныя выразы</emphasis></term>
 
         <listitem>
-          <para>Радок пошуку будзе апрацоўвацца як рэгулярны выраз. Радок пошуку [a-zA-Z]+[öäüqwß] у прыкладзе вышэй дазволіць знайсьці словы ў перакладзе, якія ўтрымліваюць сумніўныя сымбалі для нямецкай клявіятуры. <link linkend="appendix.regexp">Regular expressions</link> are a powerful way to look for instances of a string.</para>
+          <para>Радок пошуку будзе апрацоўвацца як рэгулярны выраз. Радок пошуку [a-zA-Z]+[öäüqwß] у прыкладзе вышэй дазволіць знайсьці словы ў перакладзе, якія ўтрымліваюць сумніўныя сымбалі для нямецкай клявіятуры. <link linkend="appendix.regexp">Рэгулярныя выразы</link> — гэта магутны сродак для пошуку асобнікаў радкоў.</para>
         </listitem>
       </varlistentry>
     </variablelist>

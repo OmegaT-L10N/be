@@ -3,38 +3,34 @@
 <section id="windows.scripts">
   <title>Сцэнары</title>
 
-  <para>This window is accessible by selecting <menuchoice>
-      <guimenuitem>Tools</guimenuitem>
-
-      <guimenuitem>Scripting...</guimenuitem>
-    </menuchoice></para>
+  <para>Гэты дыялёг выклікаецца праз <menuchoice> <guimenuitem>Сэрвіс</guimenuitem> → <guimenuitem>Сцэнары…</guimenuitem> </menuchoice></para>
 
   <section>
     <title>Ужываньне</title>
 
-    <para>Акно сцэнароў дазваляе загрузіць існы сцэнар у тэкставую вобласьць і выканаць яго для бягучага праекта. To customize the scripting feature, do the following:</para>
+    <para>Акно сцэнароў дазваляе загрузіць існы сцэнар у тэкставую вобласьць і выканаць яго для бягучага праекта. Каб наладзіць выкананьне сцэнара, выканайце наступныя дзеяньні:</para>
 
     <itemizedlist>
       <listitem>
-        <para>Load a script into the editor by clicking its name in the list in the left-hand panel.</para>
+        <para>Загрузеце сцэнар у рэдактар, націснуўшы ягоную назву ў сьпісе на левай панэлі.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>Right-click a button from <guilabel>&lt;1&gt;</guilabel> to <guilabel>&lt;12&gt;</guilabel> in the bottom panel and select <guilabel>Add Script</guilabel>.</para>
+        <para>Правай кнопкай мышы націсьнеце на кнопку “<guilabel>&lt;1&gt;</guilabel>” — “<guilabel>&lt;12&gt;</guilabel>” на ніжняй панэлі і выберыце “<guilabel>Дадаць сцэнар</guilabel>”.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>When you left-click the number, the selected script will run. You can also start the selected macros from the main menu by using their entries in the <guisubmenu>Tools </guisubmenu>menu or by pressing<keycap> Ctrl+Alt+F#</keycap> (# 1 to 12).</para>
+        <para>Калі націснуць нумар левай кнопкай мышы, выканаецца выбраны сцэнар. Выбраныя сцэнары можна запускаць праз адпаведныя падпункты пункта мэню <guisubmenu>Сэрвіс</guisubmenu> або націскаючы <keycap> Ctrl+Alt+F#</keycap> (дзе # — 1 да 12).</para>
       </listitem>
     </itemizedlist>
 
-    <para>By default, scripts are stored in the <filename>scripts</filename> folder located in the OmegaT installation folder (the folder that contains the <filename>OmegaT.jar</filename> file).</para>
+    <para>Па змаўчаньні сцэнары знаходзяцца ў падкаталёгу “<filename>scripts</filename>” у каталёгу ўсталяваньня OmegaT (г. зн., каталёгу, які зьмяшчае файл <filename>OmegaT.jar</filename>).</para>
 
-    <para>If you add new scripts there, they will appear in the list of available scripts in the <guilabel>Scripting</guilabel> window.</para>
+    <para>Туды можна дадаваць новыя сцэнары, якія будуць зьяўляцца ў акне <guilabel>сцэнароў</guilabel>.</para>
 
     <para>Некалькі дадатковых сцэнароў можна знайсьці тут: <ulink url="https://sourceforge.net/projects/omegatscripts/">OmegaT Scripts</ulink></para>
   </section>
@@ -46,13 +42,13 @@
 
     <para><itemizedlist>
         <listitem>
-          <para><emphasis role="bold">Groovy</emphasis> (http://groovy.codehaus.org): a dynamic language for the Java Virtual machine. Ён аб’ядноўвае моц Java і зручныя функцыі, падобныя мовам тыпу Python, Ruby і Smalltalk.</para>
+          <para><emphasis role="bold">Groovy</emphasis> (http://groovy.codehaus.org): дынамічны мова для віртуальнай машыны Java. Ён аб’ядноўвае моц Java і зручныя функцыі, падобныя мовам тыпу Python, Ruby і Smalltalk.</para>
         </listitem>
       </itemizedlist><itemizedlist>
         <listitem>
-          <para><emphasis role="bold">JavaScript</emphasis> (sometimes abbreviated JS, not to be confused with Java): a prototype-based scripting language that is dynamic, weakly typed and has first-class functions. Гэта — шматпарадыгмавая мова, якая падтрымлівае аб’ектна-арыентаваны, імпэратыўны і функцыянальны стылі праграмаваньня. Being the language behind popular software such as Firefox, it is a familiar and preferred programming tool in the open-source domain.</para>
+          <para><emphasis role="bold">JavaScript</emphasis> (часам скарочана JS, не блытаць з Java): прататыпаарыентаваная мова сцэнароў, дынамічная, са слабой тыпізацыяй і першакляснымі функцыямі. Гэта — шматпарадыгмавая мова, якая падтрымлівае аб’ектна-арыентаваны, імпэратыўны і функцыянальны стылі праграмаваньня. Дзякуючы ўжываньню ў папулярных праграмах, такіх як Firefox, гэтую мову добра ведаюць і любяць прыхільнікі свабоднага праграмнага забесьпячэньня.</para>
         </listitem>
-      </itemizedlist>Усе мовы маюць доступ да аб’ектнай мадэлі OmegaT з праектам у якасьці верхняга аб’екта. For example, the following Groovy code snippet scans through all the segments in all the files in the current project and, if a translation exists, prints out the source and the target of the segment:</para>
+      </itemizedlist>Усе мовы маюць доступ да аб’ектнай мадэлі OmegaT з праектам у якасьці верхняга аб’екта. У наступным фрагмэнце коду на Groovy, напрыклад, робіцца прагляд усіх сэгмэнтаў ва ўсіх файлах у бягучым праекце і, калі пераклад існуе, выводзіцца крыніца і пераклад сэгмэнта:</para>
 
     <programlisting>    files = project.projectFiles;
     for (i in 0 ..&lt; files.size())

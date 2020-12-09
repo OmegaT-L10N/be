@@ -5,10 +5,10 @@
 
   <variablelist>
     <varlistentry>
-      <term>User's Manual...</term>
+      <term>Дапаможнік карыстальніка…</term>
 
       <listitem>
-        <para>Opens this manual in the default browser.</para>
+        <para>Адчыняецца гэты дапаможнік у браўзэры па змаўчаньні.</para>
       </listitem>
     </varlistentry>
 
@@ -37,10 +37,10 @@
     </varlistentry>
 
     <varlistentry>
-      <term>Check for Updates...</term>
+      <term>Праверка абнаўленьняў…</term>
 
       <listitem>
-        <para>Checks to see whether a more recent version of <application>OmegaT</application> has been released.</para>
+        <para>Выконваецца праверка наяўнасьці навейшай вэрсіі <application>OmegaT</application>.</para>
       </listitem>
     </varlistentry>
   </variablelist>

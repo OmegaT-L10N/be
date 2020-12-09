@@ -1,35 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
 <section id="howto.useteamproject">
-  <title>Use a Team Project</title>
+  <title>Ужываньне камандных праектаў</title>
 
-  <para>OmegaT team projects must first be <link linkend="howto.setupteamproject">set up</link> on a server.</para>
+  <para>Камандныя праекты OmegaT спачатку трэба <link linkend="howto.setupteamproject">арганізаваць</link> на сэрвэры.</para>
 
-  <para>To use a team project for the first time, follow the procedure
-  provided by the project manager.</para>
+  <para>Пры першым ужываньні каманднага праекта выконвайце інструкцыі ад кіраўніка праекта.</para>
 
-  <para>Once the project has been opened, translation proceeds in the same way
-  as for a non-team project, except the following points.</para>
+  <para>Пасьля таго, як праект адчынены, пераклад робіцца дакладна так, як і для некаманднага праекта, за выключэньнем наступнага.</para>
 
-  <para><emphasis role="bold">Automatic saving</emphasis></para>
+  <para><emphasis role="bold">Аўтаматычнае захаваньне</emphasis></para>
 
-  <para>Every 3 minutes (by default), the local project is synchronised with
-  the remote repository so that the project manager or other translators can
-  see and use translations added during that period.</para>
+  <para>Кожныя 3 хвіліны (па змаўчаньні) лякальны праект сынхранізуецца з аддаленым рэпазыторыем, каб кіраўнік праекта і іншыя перакладчыкі маглі бачыць і выкарыстоўваць зробленыя за гэты час пераклады.</para>
 
-  <para>The interval of 3 minutes can be changed in <link linkend="dialogs.preferences.savingandoutput"><menuchoice>
-      <guimenuitem>Options</guimenuitem>
+  <para>Інтэрвал у 3 хвіліны можна зьмяніць праз <link linkend="dialogs.preferences.savingandoutput"><menuchoice> <guimenuitem>Налады</guimenuitem> <guimenuitem>Налады</guimenuitem> <guimenuitem>Захаваньне і вывад</guimenuitem> </menuchoice></link>.</para>
 
-      <guimenuitem>Preferences</guimenuitem>
+  <para><emphasis role="bold">Файлы, якія сынхранізуюцца</emphasis></para>
 
-      <guimenuitem>Saving and Output</guimenuitem>
-    </menuchoice></link>.</para>
-
-  <para><emphasis role="bold">Synchronised files</emphasis></para>
-
-  <para>Whenever the project is automatically saved, but also when it is
-  opened, closed and reloaded, only two files are actually
-  synchronised:</para>
+  <para>Пры аўтаматычным захаваньні, адкрыцьці, закрыцьці і перазагрузцы праекта фактычна сынхранізуюцца толькі два файлы:</para>
 
   <itemizedlist>
     <listitem>
@@ -41,54 +29,43 @@
     </listitem>
   </itemizedlist>
 
-  <para>All other files will be replaced by the files in the remote
-  repository.</para>
+  <para>Усе астатнія файлы замяняюцца файламі з аддаленага рэпазыторыя.</para>
 
-  <para><emphasis role="bold">Adding new source files</emphasis></para>
+  <para><emphasis role="bold">Даданьне новых зыходных файлаў</emphasis></para>
 
-  <para>To add a new source file:</para>
+  <para>Каб дадаць новы зыходны файл:</para>
 
   <para><orderedlist>
       <listitem>
-        <para>copy the files to the <filename>/source</filename> folder</para>
+        <para>скапіяваць файлы ў каталёг <filename>/source</filename></para>
       </listitem>
 
       <listitem>
-        <para>use <menuchoice>
-            <guimenuitem>Project</guimenuitem>
-
-            <guimenuitem>Commit Source Files</guimenuitem>
-          </menuchoice></para>
+        <para>ужыць каманду мэню <menuchoice> <guimenuitem>Праект</guimenuitem> <guimenuitem>Фіксацыя зыходных файлаў</guimenuitem> </menuchoice></para>
       </listitem>
-    </orderedlist>Existing source files can be modified, but the commit
-  operation must be carried out before an automatic save and before the
-  project is reloaded or closed.</para>
+    </orderedlist>Можна зьмяніць існыя зыходныя файлы, але тады трэба зафіксаваць іх да аўтаматычнага захаваньня і да перазагрузкі або закрыцьця праекта.</para>
 
-  <para><emphasis role="bold">Deleting source files</emphasis></para>
+  <para><emphasis role="bold">Выдаленьне зыходных файлаў</emphasis></para>
 
-  <para>Files must be deleted first by the project manager, and then
-  locally.</para>
+  <para>Файлы спачатку павінны быць выдаленыя кіраўніком праекта.</para>
 
-  <para><emphasis role="bold">Changing segmentation rules or file
-  filters</emphasis></para>
+  <para><emphasis role="bold">Зьмяненьне правілаў сэгмэнтаваньня або файлавых фільтраў</emphasis></para>
 
-  <para>Project parameters must be changed by the project manager.</para>
+  <para>Парамэтры праекта зьмяняе кіраўнік праекта.</para>
 
-  <para><emphasis role="bold">Working offline</emphasis></para>
+  <para><emphasis role="bold">Праца ў аўтаномным рэжыме</emphasis></para>
 
-  <para>A team project can be opened and translated offline. All the changes
-  will be synchronised the next time a connection is available.</para>
+  <para>Камандны праект можна адчыніць для перакладу ў аўтаномным рэжыме. Усе зьмены будуць сынхранізаваныя пры наступным злучэньні.</para>
 
-  <para>To work offline:</para>
+  <para>Для працы ў аўтаномным рэжыме:</para>
 
   <itemizedlist>
     <listitem>
-      <para>Disconnect from the network before opening the project,</para>
+      <para>Адлучэцеся ад сеткі перад адкрыцьцём праекта,</para>
     </listitem>
 
     <listitem>
-      <para>or open the project with the command line using the
-      <command>--no-team</command> option.</para>
+      <para>аб адчынеце праект праз камандны радок з парамэтрам <command>--no-team</command>.</para>
     </listitem>
   </itemizedlist>
 </section>

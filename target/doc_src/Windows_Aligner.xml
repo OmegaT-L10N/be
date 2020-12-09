@@ -1,56 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
 <section id="windows.aligner">
-  <title>Aligner</title>
+  <title>Сродак выраўноўваньня</title>
 
-  <para>Alignment involves creating a bilingual translation memory from monolingual documents that have already been translated.</para>
+  <para>Выраўноўваньне — гэта працэс стварэньня двухмоўнай памяці перакладаў з ужо перакладзеных аднамоўных дакумэнтаў.</para>
 
-  <para>To access this window, select <menuchoice> <guimenuitem>Tools</guimenuitem> <guimenuitem>Align Files...</guimenuitem> </menuchoice>.</para>
+  <para>Каб адчыніць гэтае вакно, выберыце <menuchoice> <guimenuitem>Сэрвіс</guimenuitem> → <guimenuitem>Выраўнаваць файлы...</guimenuitem></menuchoice>.</para>
 
   <section>
-    <title>Step 1: Adjust the alignment parameters</title>
+    <title>Этап 1: Наладзіць парамэтры выраўноўваньня</title>
 
-    <para>If the alignment looks as if it could be improved, try changing the parameters. In most cases, the lower the <guilabel>Average score</guilabel> is, better the alignment will be.</para>
+    <para>Калі выглядае так, што можна атрымаць і лепшыя вынікі выраўноўваньня, паспрабуйце зьмяніць налады выраўноўваньня. У большасьці выпадкаў можна атрымаць лепшыя вынікі выраўноўваньня, панізіўшы <guilabel>сярэдні бал</guilabel>.</para>
 
-    <para>In <guilabel>Heapwise</guilabel> mode, the texts are evaluated globally. In <guilabel>Parsewise</guilabel> mode, they are evaluated segment by segment.</para>
+    <para>У рэжыме <guilabel>“Разам”</guilabel> ацэнка тэкста робіцца глябальна. У рэжыме <guilabel>“Па меры разбору”</guilabel> ацэнка робіцца сэгмэнт за сэгмэнтам.</para>
 
-    <para>Use <guilabel>ID comparison</guilabel> mode to align Key=Value texts. This works even if the keys are not in the same order in the two files, and/or if the two files do not contain the same amount of information. This option only appears if both the selected files are recognised as Key=Value files.</para>
+    <para>Для файлаў тыпу ключ=значэньне варта выбраць рэжым <guilabel>параўнаньня</guilabel>. Гэта дае вынікі нават пры розным парадку ключоў у двух файлах ці пры розным аб’ёме зьвестак у іх. Гэты варыянт даступны толькі ў выпадку, калі абодва выбраныя файлы распазнаныя як ключ=значэньне.</para>
 
-    <para>The <guilabel>Viterbi</guilabel> and <guilabel>Forward-Backward</guilabel> algorithms are two different calculation methods. Choose the one that provides the best results.</para>
+    <para>Альгарытмы <guilabel>Вітэрбі</guilabel> і <guilabel>Упера-назад</guilabel> уключаюць розныя мэтады рахаваньня. Выбірайце той, які забясьпечвае лепшыя вынікі.</para>
 
-    <para>Click <guibutton>Continue</guibutton> to access the next step.</para>
+    <para>Націсьнеце <guibutton>Далей</guibutton> для пераходу да наступнага этапа.</para>
   </section>
 
   <section>
     <title>Этап 2: Зрабіць выпраўленьні ўручную</title>
 
-    <para>After the automatic process, the alignment of two files generally requires manual corrections.</para>
+    <para>Пасьля аўтаматычнай апрацоўкі двух файлаў звычайна патрабуецца карэкцыя выраўноўваньня ўручную.</para>
 
-    <para>Translation units are located in cells in the two last
-    columns.</para>
+    <para>Перакладныя адзінкі зьмяшчаюцца ў ячэйках у двух апошніх слупках.</para>
 
-    <para>To align two segments on the same line:</para>
+    <para>Каб выраўнаваць два сэгмэнты ў адным радку:</para>
 
     <orderedlist>
       <listitem>
-        <para>Select the first segment.</para>
+        <para>Вылучэце першы сэгмэнт.</para>
       </listitem>
 
       <listitem>
-        <para>Press the space bar (shortcut for <menuchoice> <guimenuitem>Edit</guimenuitem> <guimenuitem>Start Pinpoint Align</guimenuitem> </menuchoice>).</para>
+        <para>Націсьнеце клявішу прабелу (клявіша для <menuchoice> <guimenuitem>Рэдагаваць</guimenuitem> → <guimenuitem>Пачаць мэтавае выраўноўваньне</guimenuitem> </menuchoice>).</para>
       </listitem>
 
       <listitem>
-        <para>Click in the other column on the translation corresponding to the first segment.</para>
+        <para>Націсьнеце на другі слупок, на пераклад, адпаведны першаму сэгмэнту.</para>
       </listitem>
     </orderedlist>
 
-    <para>After several of these operations, select <menuchoice> <guimenuitem>Edit</guimenuitem> <guimenuitem>Realign pending</guimenuitem> </menuchoice> to update the alignment of the other segments.</para>
+    <para>Пасьля некалькіх падобных апэрацыяў выберыце <menuchoice> <guimenuitem>Рэдагаваць</guimenuitem> → <guimenuitem>Перавыраўнаваць чаргу</guimenuitem> </menuchoice>, каб абнавіць выраўноўваньне іншых сэгмэнтаў.</para>
 
-    <para>To modify the position of one or more segments individually, select the segment(s) and press <userinput>U</userinput> (<guilabel>Move Up</guilabel>) or <userinput>D</userinput> (<guilabel>Move Down</guilabel>).</para>
+    <para>Каб зьмяніць пазыцыю аднаго ці некалькіх сэгмэнтаў паасобна, вылучэце іх і націсьнеце <userinput>U</userinput> (<guilabel>уверх</guilabel>) або <userinput>D</userinput> (<guilabel>уніз</guilabel>).</para>
 
-    <para>Only rows with the <guilabel>Keep</guilabel> box ticked in the first column will be included when the translation memory is created.</para>
+    <para>У выніковую памяць перакладаў трапяць толькі радкі, для якіх пазначана <guilabel>Пакінуць</guilabel> у першым слупку.</para>
 
-    <para>When the two columns are sufficiently aligned, click <guibutton>Save TMX...</guibutton> to create the resulting translation memory.</para>
+    <para>Калі два слупкі выраўнаваныя належным чынам, націсьнеце <guibutton>Захаваць TMX…</guibutton>, каб стварыць выніковую памяць перакладаў.</para>
   </section>
 </section>
