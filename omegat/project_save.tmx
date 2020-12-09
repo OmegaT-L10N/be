@@ -2279,6 +2279,34 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- Anthony Baldwin (localisation manager)
+- Didier Briel (project manager)
+- Alex Buloichik (lead developer)
+- Sabine Cretella
+- Dmitri Gabinski
+- Jean-Christophe Helary (support group owner, localisation manager)
+- Maxym Mykhalchuk (lead developer)
+- Samuel Murray
+- Henry Pijffers (release manager)
+- Marc Prior (project co-ordinator, webmaster)
+- Vito Smolej (documentation manager)</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T144906Z" creationid="GABIN" creationdate="20201209T144906Z">
+        <seg>- Энтані Болдвін (кіраўнік лякалізацыі)
+- Дзідзье Брыель (кіраўнік праекта)
+- Алесь Булойчык (вядучы распрацоўнік)
+- Сабінэ Крэтэла
+- Дзьмітры Габінскі
+- Жан-Крыстоф Эляры (уладальнік групы падтрымкі, кіраўнік лякалізацыі)
+- Максім Міхальчук (вядучы распрацоўнік)
+- Сэмюэл Мюрэй
+- Генры Пэйфэрс (кіраўнік выпуску)
+- Марк Праяр (каардынатар праекта, вэб-майстар)
+- Віта Смолей (кіраўнік дакумэнтацыі)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- Camtasia for Windows (*.camproj)</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20130514T142059Z">
@@ -2411,6 +2439,26 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T133343Z">
         <seg>- файлы тэксту з тэгамі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- Vincent Bidaux (documentation manager)
+- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsof (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T144605Z" creationid="GABIN" creationdate="20201209T144605Z">
+        <seg>- Вэнсан Бідо (кіраўнік дакумэнтацыі)
+- Марка Чэволі (кіраўнік супольнасьці ў Telegram)
+- Жан-Крыстоф Эляры (кіраўнік лякалізацыі) (кіраўнік супольнасьці ў Twitter)
+- Кос Іванцоў (кіраўнік лякалізацыі)
+- Кансэпсьён Мартын (кіраўнік супольнасьці Facebook)
+- Брыяк Пільпрэ (вэб-майстар)
+- Люсі Вэсэрова (кіраўнік супольнасьці Facebook)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3848,6 +3896,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Adding files to the project: &lt;/e0&gt;You can add source files to the project by clicking on the "&lt;g1&gt;Import Source Files..."&lt;/g1&gt; button.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T143609Z" creationid="GABIN" creationdate="20201209T143609Z">
+        <seg>&lt;e0&gt;Даданьне файлаў у праект:&lt;/e0&gt; каб дадаць зыходныя файлы ў праект, можна націснуць кнопку “&lt;g1&gt;Імпартаваць зыходныя файлы&lt;/g1&gt;”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20191001T125212Z" creationid="GABIN" creationdate="20191001T125212Z">
@@ -4032,6 +4088,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): a dynamic language for the Java Virtual machine.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T143910Z" creationid="GABIN" creationdate="20201209T143910Z">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): дынамічны мова для віртуальнай машыны Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): is a dynamic language for the Java Virtual machine.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140729T122316Z" creationid="GABIN" creationdate="20140729T122316Z">
@@ -4132,6 +4196,14 @@ OmegaT запускаецца наступным чынам.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160712T142351Z" creationid="GABIN" creationdate="20140722T132639Z">
         <seg>&lt;e0&gt;“Усталёўка і запуск OmegaT”: &lt;/e0&gt;гэты разьдзел карысны для тых, хто ўпершыню пачынае карыстацца OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (sometimes abbreviated JS, not to be confused with Java): a prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T143920Z" creationid="GABIN" creationdate="20201209T143920Z">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (часам скарочана JS, не блытаць з Java): прататыпаарыентаваная мова сцэнароў, дынамічная, са слабой тыпізацыяй і першакляснымі функцыямі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5684,6 +5756,14 @@ OmegaT запускаецца наступным чынам.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160421T135212Z" creationid="GABIN" creationdate="20160421T135212Z">
         <seg>&lt;l0&gt;&lt;каталёг-праекта&gt;&lt;/l0&gt; паказвае &lt;a1&gt;OmegaT&lt;/a1&gt;, дзе знаходзіцца праект перакладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;Regular expressions&lt;/l0&gt; are a powerful way to look for instances of a string.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T143944Z" creationid="GABIN" creationdate="20201209T143944Z">
+        <seg>&lt;l0&gt;Рэгулярныя выразы&lt;/l0&gt; — гэта магутны сродак для пошуку асобнікаў радкоў.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10869,6 +10949,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Being the language behind popular software such as Firefox, it is a familiar and preferred programming tool in the open-source domain.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T143925Z" creationid="GABIN" creationdate="20201209T143925Z">
+        <seg>Дзякуючы ўжываньню ў папулярных праграмах, такіх як Firefox, гэтую мову добра ведаюць і любяць прыхільнікі свабоднага праграмнага забесьпячэньня.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Belarusian</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140503T111727Z" creationid="GABIN" creationdate="20140503T111727Z">
@@ -11249,6 +11337,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160729T132449Z" creationid="GABIN" creationdate="20150526T083901Z">
         <seg>Па змаўчаньні сцэнары знаходзяцца ў падкаталёгу “scripts” у каталёгу ўсталёўкі OmegaT (г. зн., каталёгу, які зьмяшчае файл OmegaT.jar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, scripts are stored in the &lt;f0&gt;scripts&lt;/f0&gt; folder located in the OmegaT installation folder (the folder that contains the &lt;f1&gt;OmegaT.jar&lt;/f1&gt; file).</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T143854Z" creationid="GABIN" creationdate="20201209T143854Z">
+        <seg>Па змаўчаньні сцэнары знаходзяцца ў падкаталёгу “&lt;f0&gt;scripts&lt;/f0&gt;” у каталёгу ўсталяваньня OmegaT (г. зн., каталёгу, які зьмяшчае файл &lt;f1&gt;OmegaT.jar&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14424,9 +14520,8 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
         <seg>Current team:
 (alphabetical order)</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20180606T082037Z" creationid="GABIN" creationdate="20180606T082037Z">
-        <seg>Цяперашнія ўдзельнікі:
-(паводле альфабэту)</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T144350Z" creationid="GABIN" creationdate="20180606T082037Z">
+        <seg>Цяперашнія ўдзельнікі:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18330,6 +18425,16 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain script
+provided (omegat.kaptn).</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T144312Z" creationid="GABIN" creationdate="20201209T144312Z">
+        <seg>Для зручнейшага запуску OmegaT можна карыстацца сцэнаром Kaptain
+з архіва (omegat.kaptn).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For a quick-start tutorial, launch OmegaT and read the displayed Instant Start 
 Tutorial.</seg>
       </tuv>
@@ -18552,6 +18657,14 @@ Tutorial.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160619T183051Z" creationid="gabi" creationdate="20160619T183051Z">
         <seg>Напрыклад, тэкставыя файлы могуць быць прасэгмэнтаванымі па разрывах радкоў, пустых радкох, або не прасэгмэнтаванымі ўвогуле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, the following Groovy code snippet scans through all the segments in all the files in the current project and, if a translation exists, prints out the source and the target of the segment:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T143932Z" creationid="GABIN" creationdate="20201209T143932Z">
+        <seg>У наступным фрагмэнце коду на Groovy, напрыклад, робіцца прагляд усіх сэгмэнтаў ва ўсіх файлах у бягучым праекце і, калі пераклад існуе, выводзіцца крыніца і пераклад сэгмэнта:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20363,6 +20476,17 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If
+Java is installed at system level and is in the command path, the full path need
+not be entered.)</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T144333Z" creationid="GABIN" creationdate="20201209T144333Z">
+        <seg>Калі Java ўсталяваная на сыстэмным узроўні і прапісаная ў камандным шляху,
+поўны шлях не патрэбны.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If &lt;e0&gt;Show Relevant Suggestions Automatically&lt;/e0&gt; option is checked, Auto-completer is launched automatically by typing the first letter of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160808T131945Z" creationid="gabi" creationdate="20160521T171715Z">
@@ -21349,6 +21473,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you add new scripts there, they will appear in the list of available scripts in the &lt;g0&gt;Scripting&lt;/g0&gt; window.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T143901Z" creationid="GABIN" creationdate="20201209T143901Z">
+        <seg>Туды можна дадаваць новыя сцэнары, якія будуць зьяўляцца ў акне &lt;g0&gt;сцэнароў&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you already have a version of OmegaT installed on your PC and wish to upgrade to a more recent version, you have two options:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160406T131736Z" creationid="GABIN" creationdate="20160406T131736Z">
@@ -21480,6 +21612,17 @@ extensions are displayed.</seg>
 (Windows Explorer), change the settings so that file extensions are displayed.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20170831T143918Z" creationid="GABIN" creationdate="20170831T143918Z">
+        <seg>Калі вы бачыце файл OmegaT, але не OmegaT.exe праз
+мэнэджар файлаў (Windows Explorer), трэба зьмяніць налады так,
+каб паказваліся пашырэньні назваў файлаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager (Windows
+Explorer), change the settings so that file extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T144255Z" creationid="GABIN" creationdate="20201209T144255Z">
         <seg>Калі вы бачыце файл OmegaT, але не OmegaT.exe праз
 мэнэджар файлаў (Windows Explorer), трэба зьмяніць налады так,
 каб паказваліся пашырэньні назваў файлаў.</seg>
@@ -21626,6 +21769,16 @@ folder, see the manual for its location).</seg>
 is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20170831T143825Z" creationid="GABIN" creationdate="20170831T143825Z">
+        <seg>Калі Java ўжо ўсталяваная, бягучую вэрсію OmegaT
+можна ўсталяваць праз Java Web Start.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have already Java installed on your system, one way to install OmegaT is
+to use Java Web Start.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T144215Z" creationid="GABIN" creationdate="20201209T144215Z">
         <seg>Калі Java ўжо ўсталяваная, бягучую вэрсію OmegaT
 можна ўсталяваць праз Java Web Start.</seg>
       </tuv>
@@ -21964,6 +22117,16 @@ installation program can create shortcuts to launch OmegaT.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20130514T145307Z">
         <seg>Калі зыходны файл утрымлівае тэкст з фарматаваньнем (напрыклад, Microsoft Word, LibreOffice Writer або HTML), OmegaT пераўтворыць фарматаваньне ў тэгі, якія атачаюць перакладаны тэкст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If, during installation, you have created a shortcut on the desktop,
+double-click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T144227Z" creationid="GABIN" creationdate="20201209T144227Z">
+        <seg>Калі ў працэсе ўсталяваньня вы стварылі цэтлік на працоўным стале,
+двойчы клікнеце па ім.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23351,8 +23514,8 @@ click on that shortcut.</seg>
         <seg>Installing OmegaT (Mac)
 =======================</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20170831T143336Z" creationid="GABIN" creationdate="20170831T143336Z">
-        <seg>Усталёўка OmegaT (Mac)
+      <tuv lang="be" changeid="GABIN" changedate="20201209T144037Z" creationid="GABIN" creationdate="20170831T143336Z">
+        <seg>Усталяваньне OmegaT (Mac)
 ===========================</seg>
       </tuv>
     </tu>
@@ -23363,6 +23526,16 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20170831T143747Z" creationid="GABIN" creationdate="20170831T143747Z">
         <seg>Усталёўка OmegaT (Solaris, FreeBSD, ...)
+=========================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
+=========================================</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T144204Z" creationid="GABIN" creationdate="20201209T144204Z">
+        <seg>Усталяваньне OmegaT (Solaris, FreeBSD, ...)
 =========================================</seg>
       </tuv>
     </tu>
@@ -25135,8 +25308,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Launch the installation program.</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20170831T143329Z" creationid="GABIN" creationdate="20170831T143329Z">
-        <seg>Запусьцеце праграму ўсталёўкі</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T144034Z" creationid="GABIN" creationdate="20170831T143329Z">
+        <seg>Запусьцеце праграму ўсталяваньня</seg>
       </tuv>
     </tu>
     <tu>
@@ -25528,6 +25701,14 @@ automatically download and install it.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20161018T085914Z" creationid="GABIN" creationdate="20161018T085914Z">
         <seg>Загрузеце праект, каб сканфігураваць правілы для моваў гэтага праекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Load a script into the editor by clicking its name in the list in the left-hand panel.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T143734Z" creationid="GABIN" creationdate="20201209T143734Z">
+        <seg>Загрузеце сцэнар у рэдактар, націснуўшы ягоную назву ў сьпісе на левай панэлі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27231,6 +27412,16 @@ Lost to paradise</seg>
 appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20170831T143711Z" creationid="GABIN" creationdate="20170831T143501Z">
+        <seg>Перамясьцеце каталёг у адпаведнае месца,
+напрыклад, у каталёг праграмаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move the folder to an appropriate location such
+as the Applications folder.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T144055Z" creationid="GABIN" creationdate="20201209T144055Z">
         <seg>Перамясьцеце каталёг у адпаведнае месца,
 напрыклад, у каталёг праграмаў.</seg>
       </tuv>
@@ -29412,6 +29603,16 @@ to be launched.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20170831T143601Z" creationid="GABIN" creationdate="20170831T143546Z">
         <seg>Пасьля гэтага можна запусьціць OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is then ready to
+be launched.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T144102Z" creationid="GABIN" creationdate="20201209T144102Z">
+        <seg>Пасьля гэтага
+можна запусьціць OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31947,8 +32148,8 @@ language you would like to translate to.</seg>
         <seg>Prerequisites for installing OmegaT
 ===================================</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20170831T143129Z" creationid="GABIN" creationdate="20170831T143129Z">
-        <seg>Умовы для ўсталёўкі OmegaT
+      <tuv lang="be" changeid="GABIN" changedate="20201209T144014Z" creationid="GABIN" creationdate="20170831T143129Z">
+        <seg>Умовы для ўсталяваньня OmegaT
 ===================================</seg>
       </tuv>
     </tu>
@@ -34111,6 +34312,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160317T073622Z" creationid="GABIN" creationdate="20160317T073622Z">
         <seg>Мовы зь пісьмовасьцю справа-налева</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click a button from &lt;g0&gt;&lt;1&gt;&lt;/g0&gt; to &lt;g1&gt;&lt;12&gt;&lt;/g1&gt; in the bottom panel and select &lt;g2&gt;Add Script&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T143804Z" creationid="GABIN" creationdate="20201209T143804Z">
+        <seg>Правай кнопкай мышы націсьнеце на кнопку “&lt;g0&gt;&lt;1&gt;&lt;/g0&gt;” — “&lt;g1&gt;&lt;12&gt;&lt;/g1&gt;” на ніжняй панэлі і выберыце “&lt;g2&gt;Дадаць сцэнар&lt;/g2&gt;”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40622,6 +40831,16 @@ desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The installer can create shortcuts for you in the start menu, on the desktop and
+in the quick launch area.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T144235Z" creationid="GABIN" creationdate="20201209T144235Z">
+        <seg>Праграма ўсталяваньня можа стварыць цэтлікі ў мэню пуску,
+на працоўным стале і на панэлі хуткага выкліку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The interval of 3 minutes can be changed in &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Preferences&lt;/g3&gt; &lt;g4&gt;Saving and Output&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20200730T123838Z" creationid="GABIN" creationdate="20200730T123838Z">
@@ -40691,6 +40910,16 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160808T092229Z" creationid="GABIN" creationdate="20160621T140904Z">
         <seg>Файл level2 утрымлівае спэцыфічныя для &lt;a0&gt;OmegaT&lt;/a0&gt; тэгі, пераўтвораныя ў правільныя тэгі TMX, так каб файл можна было выкарыстоўваць з інфармацыяй аб фарматаваньні ў праграме аўтаматызацыі перакладу, якая падтрымлівае файлы памяці перакладаў у фармаце TMX, узровень 2, або ў самой &lt;a1&gt;OmegaT&lt;/a1&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The license of each library is mentioned in
+/lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T144009Z" creationid="GABIN" creationdate="20201209T144009Z">
+        <seg>Згадка аб ліцэнзіі кожнай бібліятэкі ёсьць
+у файле /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43021,6 +43250,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This copies the selected files to the &lt;f2&gt;source&lt;/f2&gt; folder and reloads the project to import the new files.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T143620Z" creationid="GABIN" creationdate="20201209T143620Z">
+        <seg>Пры гэтым абраныя файлы капіююцца ў каталёг &lt;f2&gt;source&lt;/f2&gt;, праект перагружаецца для загрузкі новых файлаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This copies the selected files to the &lt;f3&gt;source&lt;/f3&gt; folder and reloads the project to import the new files.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160808T134427Z" creationid="GABIN" creationdate="20160705T135556Z">
@@ -43875,6 +44112,14 @@ file type is associated with Java on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This window is accessible by selecting &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Scripting...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T143721Z" creationid="GABIN" creationdate="20201209T143721Z">
+        <seg>Гэты дыялёг выклікаецца праз &lt;m0&gt; &lt;g1&gt;Сэрвіс&lt;/g1&gt; → &lt;g2&gt;Сцэнары…&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This window is displayed automatically when OmegaT loads a project, and at any time by pressing &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Project Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20201209T095046Z" creationid="GABIN" creationdate="20201209T095046Z">
@@ -44265,6 +44510,14 @@ file type is associated with Java on your system.</seg>
         <seg>To customize the script feature, do the following:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140728T084138Z" creationid="GABIN" creationdate="20140728T084138Z">
+        <seg>Каб наладзіць выкананьне сцэнара, выканайце наступныя дзеяньні:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To customize the scripting feature, do the following:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T143728Z" creationid="GABIN" creationdate="20201209T143728Z">
         <seg>Каб наладзіць выкананьне сцэнара, выканайце наступныя дзеяньні:</seg>
       </tuv>
     </tu>
@@ -44844,6 +45097,15 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use this script you must first install Kaptain.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T144322Z" creationid="GABIN" creationdate="20201209T144322Z">
+        <seg>Каб выкарыстаць гэты сцэнар, неабходна найперш
+усталяваць Kaptain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To use this script, open a
 terminal window (console), change folder to the folder containing OmegaT.jar
 and the linux-install.sh script, and execute the script with ./linux-
@@ -44853,6 +45115,19 @@ install.sh.</seg>
         <seg>Для выкарыстаньня
 гэтага сцэнара адчынеце вакно тэрмінала (кансолі), перайдзеце ў каталёг,
 дзе знаходзяцца файлы OmegaT.jar і linux-install.sh (сцэнар усталёўкі),
+і выканайце сцэнар камандай ./linux-install.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use this script, open a terminal
+window (console), change folder to the folder containing OmegaT.jar and the
+linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T144157Z" creationid="GABIN" creationdate="20201209T144157Z">
+        <seg>Для выкарыстаньня гэтага сцэнара
+адчынеце вакно тэрмінала (кансолі), перайдзеце ў каталёг,
+дзе знаходзяцца файлы OmegaT.jar і linux-install.sh (сцэнар усталяваньня),
 і выканайце сцэнар камандай ./linux-install.sh.</seg>
       </tuv>
     </tu>
@@ -45534,6 +45809,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Typing any text will open a &lt;g0&gt;Filter&lt;/g0&gt; field where parts of filenames can be entered.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T095733Z" creationid="GABIN" creationdate="20201209T095733Z">
+        <seg>Калі пачаць друкаваць нейкі тэкст, адчыніцца поле “&lt;g0&gt;Фільтар&lt;/g0&gt;”, дзе можна ўвесьці часткі назваў файлаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Typing any text will open a Filter field where parts of filenames can be entered.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160808T131945Z" creationid="GABIN" creationdate="20160705T125800Z">
@@ -46002,6 +46285,16 @@ Exact searches match the whole search string.</seg>
 documentation file and the OmegaT application.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20170831T143433Z" creationid="GABIN" creationdate="20170831T143433Z">
+        <seg>Распакуйце архіў OmegaT.zip, каб атрымаць каталёг з файлам
+дакумэнтацыі і праграмным файлам OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a documentation
+file and the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T144046Z" creationid="GABIN" creationdate="20201209T144046Z">
         <seg>Распакуйце архіў OmegaT.zip, каб атрымаць каталёг з файлам
 дакумэнтацыі і праграмным файлам OmegaT.</seg>
       </tuv>
@@ -46830,6 +47123,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User support resources:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T144925Z" creationid="GABIN" creationdate="20201209T144925Z">
+        <seg>Рэсурсы падтрымкі карыстальнікаў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User support, at the Yahoo user group (multilingual), where the archives are
 searchable without subscription:</seg>
       </tuv>
@@ -47542,6 +47843,16 @@ trouble of selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the trouble
+of selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T144026Z" creationid="GABIN" creationdate="20201209T144026Z">
+        <seg>Раім карыстацца OmegaT у выглядзе пакетаў з JRE, тады не спатрэбіцца
+яго шукаць, атрымліваць і ўсталёўваць.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We therefore recommend
 that you download and install either the Oracle Java Runtime Environment (JRE) 
 or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked 
@@ -48016,6 +48327,14 @@ you have just discovered.</seg>
         <seg>When you left-click on the number, the selected script will run.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140728T090709Z" creationid="GABIN" creationdate="20140728T090709Z">
+        <seg>Калі націснуць нумар левай кнопкай мышы, выканаецца выбраны сцэнар.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you left-click the number, the selected script will run.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T143817Z" creationid="GABIN" creationdate="20201209T143817Z">
         <seg>Калі націснуць нумар левай кнопкай мышы, выканаецца выбраны сцэнар.</seg>
       </tuv>
     </tu>
@@ -48687,6 +49006,15 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You
+can then launch the Kaptain launch script with:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T144326Z" creationid="GABIN" creationdate="20201209T144326Z">
+        <seg>Пасьля гэтага можна запусьціць сцэнар запуску Kaptain праз</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You achieve the same by clearing the target segment and pressing &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150910T132405Z" creationid="GABIN" creationdate="20150910T132405Z">
@@ -48817,6 +49145,14 @@ you think will help the developers with finding and fixing your bug.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g3&gt; "Import from MediaWiki"&lt;/g3&gt; button and providing the corresponding URL.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T143641Z" creationid="GABIN" creationdate="20201209T143641Z">
+        <seg>Можна таксама дадаць зыходныя файлы з інтэрнэт-старонак, напісаных у MediaWiki, націснуўшы на кнопку “&lt;g3&gt;Спампаваць старонку MediaWiki&lt;/g3&gt;” і ўвёўшы адпаведны URL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g4&gt; "Import from MediaWiki"&lt;/g4&gt; button and providing the corresponding URL.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160808T131945Z" creationid="GABIN" creationdate="20160705T135636Z">
@@ -48901,6 +49237,16 @@ it from the Spotlight search field.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also launch it from
+the Spotlight search field.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T144304Z" creationid="GABIN" creationdate="20201209T144304Z">
+        <seg>Праграму таксама можна будзе запусьціць
+праз пошукавае поле Spotlight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also manually drag 
 the file OmegaT.exe to the start menu, the desktop or the quick launch area
 to link it from there.</seg>
@@ -48925,10 +49271,29 @@ from there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also manually drag the file OmegaT.exe to the
+start menu, the desktop or the quick launch area to link it from there.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T144248Z" creationid="GABIN" creationdate="20201209T144248Z">
+        <seg>Вы таксама можаце ўручную перацягнуць файл OmegaT.exe
+у мэню пуску, на працоўны стол або панэль хуткага запуску,
+каб зрабіць там адпаведнае лучыва.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also run directly the application with the following command:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20201208T132646Z" creationid="GABIN" creationdate="20201208T132646Z">
         <seg>Праграму таксама можна будзе запусьціць наступнай камандай:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also start the selected macros from the main menu by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T143837Z" creationid="GABIN" creationdate="20201209T143837Z">
+        <seg>Выбраныя сцэнары можна запускаць праз адпаведныя падпункты пункта мэню &lt;g0&gt;Сэрвіс&lt;/g0&gt; або націскаючы &lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (дзе # — 1 да 12).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49175,6 +49540,17 @@ the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can however obtain a neater and more user-friendly installation by using the
+installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T144126Z" creationid="GABIN" creationdate="20201209T144126Z">
+        <seg>Аднак вы можаце скарыстацца з акуратнейшага і зручнейшага
+для карыстальніка спосабу ўсталяваньня з дапамогай
+сцэнара ўсталяваньня (linux-install.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can launch OmegaT from the command line with a script that includes start-up options or you can click on &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; to launch it directly.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160407T073252Z" creationid="GABIN" creationdate="20160407T073252Z">
@@ -49267,6 +49643,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160712T142336Z" creationid="GABIN" creationdate="20160705T125909Z">
         <seg>Файл можна выбраць клявішамі &lt;k0&gt;”Уверх”&lt;/k0&gt; і &lt;k1&gt;”Уніз”&lt;/k1&gt; і адкрыць яго для перакладу, націснуўшы &lt;k2&gt;Enter&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select a file with &lt;k1&gt;Up&lt;/k1&gt; and &lt;k2&gt;Down&lt;/k2&gt; keys, and open it for translation by pressing &lt;k3&gt;Enter&lt;/k3&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T095812Z" creationid="GABIN" creationdate="20201209T095812Z">
+        <seg>Файл можна выбраць клявішамі &lt;k1&gt;”Уверх”&lt;/k1&gt; і &lt;k2&gt;“Уніз”&lt;/k2&gt; і адкрыць яго для перакладу, націснуўшы &lt;k3&gt;Enter&lt;/k3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49489,6 +49873,16 @@ SourceForge too.</seg>
 Finder window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20170831T144013Z" creationid="GABIN" creationdate="20170831T144013Z">
+        <seg>Можна перацягнуць праграму OmegaT у свой док або на панэль акна Finder,
+каб атрымаць магчымасьць запуску зь якога заўгодна месца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may drag the OmegaT application to your dock or to the toolbar of a Finder
+window to be able to launch it from any location.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T144302Z" creationid="GABIN" creationdate="20201209T144302Z">
         <seg>Можна перацягнуць праграму OmegaT у свой док або на панэль акна Finder,
 каб атрымаць магчымасьць запуску зь якога заўгодна месца.</seg>
       </tuv>
