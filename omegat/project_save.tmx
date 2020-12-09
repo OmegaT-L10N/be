@@ -7744,6 +7744,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit the window displaying at opening, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Access Configuration Folder&lt;/g6&gt; &lt;/m4&gt; menu).</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T095117Z" creationid="GABIN" creationdate="20201209T095117Z">
+        <seg>&lt;r0&gt;Заўвага:&lt;/r0&gt; можна адключыць вывад гэтага вакна на экран пры загрузцы, зьмяніўшы значэньне зьменнай &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; на &lt;e2&gt;false&lt;/e2&gt; у файле &lt;f3&gt;omegat.prefs&lt;/f3&gt; (доступ да яго — праз мэню “&lt;m4&gt;&lt;g5&gt;Сэрвіс&lt;/g5&gt; → &lt;g6&gt;Адчыніць каталёг канфігурацыі&lt;/g6&gt;&lt;/m4&gt;”).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit this Project Files window displaying, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by Options / Access Configuration Folder menu).</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160808T131945Z" creationid="GABIN" creationdate="20160705T125317Z">
@@ -39138,6 +39146,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;g2&gt;Project Files&lt;/g2&gt; Window displays the following information:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T095151Z" creationid="GABIN" creationdate="20201209T095140Z">
+        <seg>У вакне &lt;g2&gt;файлаў праекта&lt;/g2&gt; адлюстроўваюцца наступныя зьвесткі:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160317T080807Z" creationid="GABIN" creationdate="20160317T080807Z">
@@ -43859,6 +43875,14 @@ file type is associated with Java on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This window is displayed automatically when OmegaT loads a project, and at any time by pressing &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Project Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T095046Z" creationid="GABIN" creationdate="20201209T095046Z">
+        <seg>Гэтае вакно аўтаматычна выводзіцца на экран пры загрузцы праекта OmegaT, а таксама пры выбары &lt;m0&gt; &lt;g1&gt;Праект&lt;/g1&gt; → &lt;g2&gt;Файлы праекта…&lt;/g2&gt;&lt;/m0&gt; у мэню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This works even if the keys are not in the same order in the two files, and/or if the two files do not contain the same amount of information.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20201209T093029Z" creationid="GABIN" creationdate="20201209T093029Z">
@@ -46320,6 +46344,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150526T081720Z" creationid="GABIN" creationdate="20150526T081720Z">
         <seg>З дапамогай &lt;e1&gt;Ctrl+PgUp/PgDn&lt;/e1&gt; (Cmd+PgUp/PgDn на Mac) можна пасьлядоўна пераключацца паміж &lt;e2&gt;запісамі глясароў&lt;/e2&gt;, &lt;e3&gt;элемэнтамі аўтатэкста,&lt;/e3&gt; &lt;e4&gt;адсутнымі тэгамі&lt;/e4&gt; і &lt;e5&gt;табліцай сымбаляў&lt;/e5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;g0&gt;Ctrl+L&lt;/g0&gt; to open and &lt;k1&gt;Esc&lt;/k1&gt; to close it.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T095134Z" creationid="GABIN" creationdate="20201209T095134Z">
+        <seg>Каб адчыніць яго, націскайце &lt;g0&gt;Ctrl + L&lt;/g0&gt;, а каб зачыніць — &lt;k1&gt;Esc&lt;/k1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
