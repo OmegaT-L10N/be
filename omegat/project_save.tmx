@@ -9932,6 +9932,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Appendices</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T085657Z" creationid="GABIN" creationdate="20201209T085657Z">
+        <seg>Дадаткі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Application files</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160314T092131Z" creationid="GABIN" creationdate="20160314T092131Z">
@@ -23703,6 +23711,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is possible to modify the sort order of the three percentages but not which is used to select the fuzzy matches.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T090622Z" creationid="GABIN" creationdate="20201209T090622Z">
+        <seg>Можна зьмяніць парадак сартаваньня трох адсоткавых паказьнікаў, але ня той, які ўжываецца для падбору недакладных супадзеньняў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is possible to move from one pane to another (for instance, from the Editor to the Fuzzy Matches pane) using &lt;k0&gt;Ctrl+Tab&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150526T082012Z" creationid="GABIN" creationdate="20150526T082012Z">
@@ -28689,6 +28705,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Of course, pressing &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; will have no effect, if there is no match #5.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T085905Z" creationid="GABIN" creationdate="20201209T085905Z">
+        <seg>Вядома, &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt;&lt;/k1&gt; ня будзе мець ніякага эфэкту, калі няма супадзеньня № 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Of course, the encoding must be compatible with both the languages contained, so Unicode is recommended.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160401T093930Z" creationid="GABIN" creationdate="20160401T093930Z">
@@ -30850,6 +30874,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160701T094202Z" creationid="GABIN" creationdate="20160701T094202Z">
         <seg>Віджэты панэляў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Panes</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T085705Z" creationid="GABIN" creationdate="20201209T085705Z">
+        <seg>Панэлі</seg>
       </tuv>
     </tu>
     <tu>
@@ -35021,6 +35053,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T090140Z" creationid="GABIN" creationdate="20201209T090140Z">
+        <seg>Гл. &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160224T142936Z" creationid="GABIN" creationdate="20160224T142936Z">
@@ -36148,6 +36188,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160314T090932Z" creationid="GABIN" creationdate="20160314T090932Z">
         <seg>Калі OmegaT вядзе сябе ня так, як мае быць, важна ўключыць гэты файл або адпаведную частку ў паведамленьне пра памылку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Should you lose track of your changes to the user interface, you can use &lt;g0&gt; Options → Restore the main window&lt;/g0&gt; any time to return to the original layout.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T085730Z" creationid="GABIN" creationdate="20201209T085730Z">
+        <seg>Калі вы заблыталіся ў зьменах у інтэрфэйсе карыстальніка, у любы момант можна скарыстацца з мэню &lt;g0&gt;Налады → Аднавіць галоўнае вакно&lt;/g0&gt;, каб вярнуць зыходную кампаноўку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40377,6 +40425,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The line with the matching percentage also includes the name of the translation memory containing the match.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T090632Z" creationid="GABIN" creationdate="20201209T090632Z">
+        <seg>Радок з адсоткам падабенства таксама ўключае назву файла памяці перакладаў, у якім знойдзенае супадзеньне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The local file &lt;f0&gt;/home/me/myfiles/my/file.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/file.txt&lt;/f1&gt; and &lt;f2&gt;/home/me/myfiles/some/file.txt&lt;/f2&gt; is mapped to the local file &lt;f3&gt;source/file2.txt&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20201207T093330Z" creationid="GABIN" creationdate="20201207T093330Z">
@@ -41019,8 +41075,8 @@ an access to the hard drive of the computer.</seg>
       <tuv lang="en">
         <seg>The purpose of the console (i.e. command line) mode is to permit the use &lt;a0&gt;of OmegaT&lt;/a0&gt; as translation tool in a scripting environment.</seg>
       </tuv>
-      <tuv lang="be" changeid="gabi" changedate="20160521T182427Z" creationid="gabi" creationdate="20160521T182427Z">
-        <seg>Кансольны рэжым (камандны радок) прызначаны, каб дазволіць выкарыстаньне &lt;a0&gt;of OmegaT&lt;/a0&gt; у якасьці інструмэнта перакладу ў сцэнарох.</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T085630Z" creationid="gabi" creationdate="20160521T182427Z">
+        <seg>Кансольны рэжым (камандны радок) прызначаны, каб дазволіць выкарыстаньне &lt;a0&gt;OmegaT&lt;/a0&gt; у якасьці інструмэнта перакладу ў сцэнарох.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41769,6 +41825,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The three matching percentages are in the following order:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T090022Z" creationid="GABIN" creationdate="20201209T090022Z">
+        <seg>Тры адсоткавыя паказьнікі падабенства маюць наступны парадак:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The title of the dialog reflects the file actually used (which depends on how many instances of OmegaT are running concurrently).</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160521T174958Z" creationid="gabi" creationdate="20160521T174958Z">
@@ -41869,6 +41933,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160808T094934Z" creationid="GABIN" creationdate="20160701T134051Z">
         <seg>Верхняя частка — арыгінал, вылучаецца паўтлустым шрыфтам зь зялёным колерам тла, ніжняя частка — поле рэдагаваньня, на канцы — маркер: &lt;i0/&gt;маркер у выглядзе &lt;l1&gt;&lt;сэгмэнт №№№№&gt;&lt;/l1&gt;, дзе №№№№ — нумар сэгмэнта ў праекце.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The upper part is in the source language, in bold characters with a green background color, the lower part is the editing field, ended by a marker: the marker is &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt; where nnnn is a number of the segment in the project.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T085809Z" creationid="GABIN" creationdate="20201209T085809Z">
+        <seg>Верхняя частка — арыгінал, вылучаецца паўтлустым шрыфтам зь зялёным колерам тла, ніжняя частка — поле рэдагаваньня, на канцы — маркер, які мае выгляд &lt;l0&gt;&lt;сэгмэнт №№№№&gt;&lt;/l0&gt;, дзе №№№№ — нумар сэгмэнта ў праекце.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44396,6 +44468,14 @@ script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160801T084238Z" creationid="GABIN" creationdate="20160401T091028Z">
         <seg>Каб выкарыстоўваць існуючы глясар, проста зьмясьцеце яго ў каталёгу&lt;i0/&gt; &lt;f1&gt;/glossary&lt;/f1&gt; пасьля стварэньня праекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use the selected match in your translation, use &lt;g4&gt;Ctrl+R&lt;/g4&gt; to replace the target field with the match or use &lt;g5&gt;Ctrl+I &lt;/g5&gt; to insert it at the cursor position.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T085954Z" creationid="GABIN" creationdate="20201209T085954Z">
+        <seg>Каб выкарыстаць вылучанае супадзеньне ў перакладзе, трэба націснуць &lt;g4&gt;Ctrl + R&lt;/g4&gt;, каб замяніць ім тэкст у полі перакладу, або &lt;g5&gt;Ctrl + I&lt;/g5&gt;, каб уставіць яго ў пазыцыю курсора.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49039,6 +49119,14 @@ Finder window to be able to launch it from any location.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You may select a different match by pressing &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T085828Z" creationid="GABIN" creationdate="20201209T085828Z">
+        <seg>Можна выбраць іншае супадзеньне, націснуўшы &lt;g0&gt;Ctrl + 2, 3, 4 ці 5&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You may select a different match by pressing &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt;.&lt;i1/&gt; Of course, pressing &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;5&lt;/k4&gt; &lt;/k2&gt; will have no effect, if there is no match #5.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160704T092432Z" creationid="GABIN" creationdate="20160704T092432Z">
@@ -49454,6 +49542,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20201207T091917Z" creationid="GABIN" creationdate="20201207T091917Z">
         <seg>а ў фільтры файлаў рэсурсаў Java™ ужо ёсьць апрацоўка тэгаў {#}, таму гэтая опцыя патрэбная для іншых тыпаў файлаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>and ignoring tags and numbers (generally the highest)</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T090214Z" creationid="GABIN" creationdate="20201209T090214Z">
+        <seg>і пры ігнараваньні тэгаў і лікаў (звычайна найвышэйшы паказьнік);</seg>
       </tuv>
     </tu>
     <tu>
@@ -51682,6 +51778,30 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150622T125905Z" creationid="GABIN" creationdate="20150622T125905Z">
         <seg>файл праекта OmegaT — &lt;f0&gt;omegat.project&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the percentage calculated with stemming</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T090454Z" creationid="GABIN" creationdate="20201209T090052Z">
+        <seg>адсотак, падрахаваны з улікам марфалёгіі (з вызначэньнем асноваў словаў)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the percentage calculated with the full text, including tags and numbers (generally the lowest)</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T090528Z" creationid="GABIN" creationdate="20201209T090528Z">
+        <seg>адсотак, падрахаваны па поўным тэксьце, уключаючы тэгі і лікі (звычайна найніжэйшы).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the percentage calculated without stemming and still ignoring tags and numbers (generally slightly lower)</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T090429Z" creationid="GABIN" creationdate="20201209T090429Z">
+        <seg>адсотак, падрахаваны без уліку марфалёгіі, але таксама пры ігнараваньні тэгаў і лікаў (звычайна некалькі ніжэйшы)</seg>
       </tuv>
     </tu>
     <tu>
