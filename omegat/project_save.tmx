@@ -18516,6 +18516,14 @@ Tutorial.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T091217Z" creationid="GABIN" creationdate="20201209T091217Z">
+        <seg>Напрыклад (калі ўжываюцца налады па змаўчаньні), пераклад з апорнага файла памяці перакладаў прымаецца з устаўкай прэфікса &lt;e3&gt;[недакладнае]&lt;/e3&gt;, каб перакладчык мог перагледзець пераклад на пазьнейшым этапе, і праверыць, ці правільна перакладзеныя пазначаныя такім чынам сэгмэнты&lt;m4&gt;&lt;g5&gt;.&lt;/g5&gt;&lt;/m4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance, &lt;f0&gt;${JAVA} -Xmx2048m ${MACOS} ${LANGUAGE} ${COUNTRY} ${PROXY_HOST} ${PROXY_PORT} ${GOOGLE_API_KEY} ${MS_CLIENT_ID} ${MS_CLIENT_SECRET} ${MY_MEMORY_EMAIL} ${TAAS_USER_KEY} -jar OmegaT.jar&lt;/f0&gt; will launch OmegaT with 2 gigas of memory.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160407T122606Z" creationid="GABIN" creationdate="20160407T122606Z">
@@ -18739,6 +18747,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160808T093612Z" creationid="gabi" creationdate="20160622T183134Z">
         <seg>Для файлаў памяці перакладаў у каталёгах з назвай тыпу “penalty-xxx” (дзе xxx — лік паміж 0 і 100) з паказчыка падабенства супадзеньняў адымаецца лік, адпаведны назьве каталёга: напрыклад, для 100%-нага супадзеньня ў любым файле памяці перакладаў, які знаходзіцца ў каталёгу з назвай “penalty-30”, паказчык падабенства зьніжаецца да 70%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For translation memories in folders with a name &lt;f0&gt;penalty-xxx&lt;/f0&gt; (with xxx between 0 and 100), matches will be degraded according to the name of the folder: a 100% match in any of TMs, residing in a folder called &lt;f1&gt;penalty-30&lt;/f1&gt; for instance, will be lowered to a 70% match.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T091313Z" creationid="GABIN" creationdate="20201209T091313Z">
+        <seg>Для файлаў памяці перакладаў у каталёгах з назвай тыпу “&lt;f0&gt;penalty-xxx&lt;/f0&gt;” (дзе xxx — лік паміж 0 і 100) з паказчыка падабенства супадзеньняў адымаецца лік, адпаведны назьве каталёга: напрыклад, для 100%-нага супадзеньня ў любым файле памяці перакладаў, які знаходзіцца ў каталёгу з назвай “&lt;f1&gt;penalty-30&lt;/f1&gt;”, паказчык падабенства зьніжаецца да 70%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22534,6 +22550,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160808T093200Z" creationid="gabi" creationdate="20160622T182535Z">
         <seg>У панэлі рэдагаваньня пры ўстаўцы супадзеньня з файла TMX, які знаходзіцца ў каталёгу &lt;e0&gt;mt&lt;/e0&gt; тло актыўнага сэгмэнта зьмяняецца на чырвонае.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the editor pane, when a match is inserted from a TMX contained in a folder named &lt;f0&gt;mt&lt;/f0&gt;, the background of the active segment is changed to red.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T091237Z" creationid="GABIN" creationdate="20201209T091237Z">
+        <seg>У панэлі рэдагаваньня пры ўстаўцы супадзеньня з файла TMX, які знаходзіцца ў каталёгу &lt;f0&gt;mt&lt;/f0&gt; тло актыўнага сэгмэнта зьмяняецца на чырвонае.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34977,6 +35001,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160808T131945Z" creationid="GABIN" creationdate="20140725T094541Z">
         <seg>Гл. &lt;l0&gt;дадатак “Дапасаваньне спалучэньняў клявішаў”&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0&gt;Dictionaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T091324Z" creationid="GABIN" creationdate="20201209T091324Z">
+        <seg>Дадатковыя зьвесткі гл. у разьдзеле &lt;l0&gt;”Слоўнікі”&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0&gt;Glossaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T091328Z" creationid="GABIN" creationdate="20201209T091328Z">
+        <seg>Дадатковыя зьвесткі гл. у разьдзеле &lt;l0&gt;“Глясары”&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
