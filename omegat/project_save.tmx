@@ -3586,7 +3586,7 @@ OmegaT запускаецца наступным чынам.</seg>
       <tuv lang="en">
         <seg>&lt;b0&gt;Formatting &lt;b1&gt;one&lt;/b0&gt; &lt;/b1&gt;is very messed up now.&lt;segment 0001&gt;</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20160425T141536Z" creationid="GABIN" creationdate="20160330T123137Z">
+      <tuv lang="be" changeid="GABIN" changedate="20201209T145716Z" creationid="GABIN" creationdate="20160330T123137Z">
         <seg>&lt;b0&gt;Фарматаваньне &lt;b1&gt;раз&lt;/b0&gt; &lt;/b1&gt;цяпер пашкоджанае.&lt;сэгмэнт 0001&gt;</seg>
       </tuv>
     </tu>
@@ -3858,8 +3858,8 @@ OmegaT запускаецца наступным чынам.</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; The port number your system uses to access the proxy server.</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20201204T144943Z" creationid="GABIN" creationdate="20201204T144943Z">
-        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/e0&gt; Нумар порта, які ўжываецца сыстэмай для доступу да проксі-сэрвэра.</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T145832Z" creationid="GABIN" creationdate="20201204T144943Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Нумар порта, які ўжываецца сыстэмай для доступу да проксі-сэрвэра.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3874,8 +3874,8 @@ OmegaT запускаецца наступным чынам.</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;This command assigns more memory to &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20201204T144827Z" creationid="GABIN" creationdate="20201204T144827Z">
-        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??M&lt;/p2&gt;&lt;/e0&gt; Гэтая каманда выдзяляе больш памяці для &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T145750Z" creationid="GABIN" creationdate="20201204T144827Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??M&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Гэтая каманда выдзяляе больш памяці для &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17775,6 +17775,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Facebook group</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T145257Z" creationid="GABIN" creationdate="20201209T145257Z">
+        <seg>Група Facebook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160808T141244Z" creationid="GABIN" creationdate="20151123T125721Z">
@@ -18832,6 +18840,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For support requests, use the &lt;a1&gt;recommended support channel&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T145338Z" creationid="GABIN" creationdate="20201209T145338Z">
+        <seg>Для запытаў падтрымкі карыстайцеся &lt;a1&gt;рэкамэндаваным каналам падтрымкі&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For technical details, see the &lt;u0&gt;Request For Enhancement&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160515T154830Z" creationid="gabi" creationdate="20160515T154830Z">
@@ -19114,8 +19130,8 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       <tuv lang="en">
         <seg>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20180615T131112Z" creationid="GABIN" creationdate="20180615T131112Z">
-        <seg>З серыі пра OmegaT на YouTube. Аўтар — Мігель Навара (на іспанскай).</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T145421Z" creationid="GABIN" creationdate="20180615T131112Z">
+        <seg>З сэрыі пра OmegaT на YouTube. Аўтар — Мігель Навара (на іспанскай).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20979,8 +20995,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If not given, &lt;a3&gt;OmegaT&lt;/a3&gt; reverts to default values (&lt;a4&gt;OmegaT&lt;/a4&gt; folder under user home or, if unavailable, the current working folder).</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20201208T131728Z" creationid="GABIN" creationdate="20201208T131728Z">
-        <seg>Калі гэты парамэтар ня вызначаны, &lt;a4&gt;OmegaT&lt;/a4&gt; зьвяртаецца да значэньняў па змаўчаньні (каталёг &lt;a3&gt;OmegaT&lt;/a3&gt; у каталёгу карыстальніка або, калі недаступны, бягучы працоўны каталёг).</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T145928Z" creationid="GABIN" creationdate="20201208T131728Z">
+        <seg>Калі гэты парамэтар ня вызначаны, &lt;a3&gt;OmegaT&lt;/a3&gt; зьвяртаецца да значэньняў па змаўчаньні (каталёг &lt;a4&gt;OmegaT&lt;/a4&gt; у каталёгу карыстальніка або, калі недаступны, бягучы працоўны каталёг).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22001,8 +22017,8 @@ OmegaT.</seg>
       <tuv lang="en">
         <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; on OS X) in the current segment.</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20190923T131438Z" creationid="GABIN" creationdate="20190923T131438Z">
-        <seg>Калі гэтая опцыя адключаная, машынныя пераклады будуць накіроўвацца толькі пры націсканьні &lt;k0&gt; &lt;k1&gt;Ctrl&lt;k2&gt; &lt;/k2&gt;M&lt;/k1&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; у OS X) для бягучага сэгмэнта.</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T145615Z" creationid="GABIN" creationdate="20190923T131438Z">
+        <seg>Калі гэтая опцыя адключаная, машынныя пераклады будуць накіроўвацца толькі пры націсканьні &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt;&lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt;&lt;/k3&gt; у OS X) для бягучага сэгмэнта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28658,8 +28674,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note the double &lt;l5&gt;-&lt;/l5&gt; character.</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20201208T131745Z" creationid="GABIN" creationdate="20201208T131745Z">
-        <seg>Памятайце, што трэба ўжываць падвойны дэфіс &lt;l5&gt;--&lt;/l5&gt;.</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T150004Z" creationid="GABIN" creationdate="20201208T131745Z">
+        <seg>Памятайце, што трэба ўжываць падвойны злучок &lt;l5&gt;--&lt;/l5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29400,10 +29416,26 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT has a presence on various social networks.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T145250Z" creationid="GABIN" creationdate="20201209T145250Z">
+        <seg>OmegaT прадстаўленая ў розных сацыяльных сетках.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has a very active, supportive and multilingual user group &lt;a0&gt;here&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20180606T122608Z" creationid="GABIN" creationdate="20180606T122608Z">
         <seg>OmegaT мае вельмі актыўную шматмоўную &lt;a0&gt;групу карыстальнікаў&lt;/a0&gt;, да якой карыстальнікам вельмі пажадана далучыцца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT has a very active, supportive and multilingual user group.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T144947Z" creationid="GABIN" creationdate="20201209T144947Z">
+        <seg>OmegaT мае вельмі актыўную шматмоўную групу карыстальнікаў.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29476,6 +29508,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160623T141416Z" creationid="GABIN" creationdate="20160623T141416Z">
         <seg>OmegaT можа ўзаемадзейнічаць з SVN і Git, дзьвюма сыстэмамі кіраваньня вэрсіямі і перагляду камандных праектаў (RCS), даступнымі на ўмовах ліцэнзіі з адкрытым зыходным кодам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT introduction tutorial</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T145414Z" creationid="GABIN" creationdate="20201209T145414Z">
+        <seg>Уводны дапаможнік OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -31732,6 +31772,14 @@ to determine the source of the error and try again.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T145308Z" creationid="GABIN" creationdate="20201209T145308Z">
+        <seg>Наконт пытаньняў, не ахопленых вышэй, зьвяртайцеся да &lt;a0&gt;кіраўніка праекта OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20180606T123428Z" creationid="GABIN" creationdate="20180606T123428Z">
@@ -31744,6 +31792,14 @@ to determine the source of the error and try again.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20180606T123504Z" creationid="GABIN" creationdate="20180606T123504Z">
         <seg>Наконт пытанняў, датычных канкрэтна вэб-сайта зьвяртайцеся да &lt;a2&gt;вэб-майстра&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please contact the &lt;a3&gt;webmaster&lt;/a3&gt; for any point regarding specifically the website.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T145352Z" creationid="GABIN" creationdate="20201209T145352Z">
+        <seg>Наконт пытаньняў, датычных канкрэтна вэб-сайта зьвяртайцеся да &lt;a3&gt;вэб-майстра&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37045,6 +37101,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20201204T144616Z" creationid="GABIN" creationdate="20201204T144616Z">
         <seg>Г. зн., калі апэрацыйная сыстэма на расейскай і &lt;a5&gt;OmegaT&lt;/a5&gt; лякалізаваная на расейскую, &lt;a6&gt;OmegaT&lt;/a6&gt; будзе паказвацца на расейскай (інтэрфэйс, мэню і да г. п.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Social Networks</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T145236Z" creationid="GABIN" creationdate="20201209T145236Z">
+        <seg>Сацыяльныя сеткі</seg>
       </tuv>
     </tu>
     <tu>
@@ -43659,6 +43723,14 @@ this version will not interfere with it.</seg>
       <tuv lang="be" changeid="GABIN" changedate="20151125T121954Z">
         <seg>Гэта бясьпечна, нават калі JRE ўжо ўсталяваная ў сыстэме,
 бо гэтая вэрсія ёй не перашкодзіць.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the &lt;a0&gt;recommended support channel&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T145021Z" creationid="GABIN" creationdate="20201209T145021Z">
+        <seg>Вельмі пажадана далучыцца да гэтага &lt;a0&gt;канала падтрымкі&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
