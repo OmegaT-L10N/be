@@ -12085,6 +12085,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check this option in case &lt;a0&gt;OmegaT&lt;/a0&gt; does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T085533Z" creationid="GABIN" creationdate="20201209T085533Z">
+        <seg>Пазначце гэтую вопцыю, калі &lt;a0&gt;OmegaT&lt;/a0&gt; не паказвае пэўныя сымбалі належным чынам (нават калі ў сыстэме ўсталяваныя шрыфты, якія ўтрымліваюць патрэбныя сымбалі).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check this option in case OmegaT does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20161010T125820Z" creationid="gabi" creationdate="20160515T154953Z">
@@ -18615,6 +18623,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For technical details, see the &lt;u3&gt;Request For Enhancement&lt;/u3&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T085522Z" creationid="GABIN" creationdate="20201209T085522Z">
+        <seg>Тэхнічныя дэталі гл. у наступным &lt;u3&gt;запыце ўдасканаленьня&lt;/u3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For that reason, it is OFF by default.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160515T155120Z" creationid="gabi" creationdate="20160515T155120Z">
@@ -20463,6 +20479,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in &lt;f0&gt;/tm/auto&lt;/f0&gt; for example) are displayed in colour.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T085326Z" creationid="GABIN" creationdate="20201209T085326Z">
+        <seg>Калі пазначана, тло ўсіх сэгмэнтаў, у якіх пераклад быў атрыманы ў выніку аўтаматычнага запаўненьня (напрыклад, з файлаў TMX у каталёгу &lt;f0&gt;/tm/auto&lt;/f0&gt;), будзе каляровым.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20131218T074143Z" creationid="GABIN" creationdate="20131218T074143Z">
@@ -20475,6 +20499,14 @@ need not be entered.)</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160822T074436Z" creationid="GABIN" creationdate="20131218T074010Z">
         <seg>Калі пазначана, у пачатку сьпіса паказваюцца даўжэйшыя элемэнты глясара.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, the separations between paragraphs in the source document are indicated visually.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T085253Z" creationid="GABIN" creationdate="20201209T085253Z">
+        <seg>Калі пазначана, на экране будуць бачныя разьдзяляльнікі абзацаў у зыходным дакумэньце.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26195,6 +26227,14 @@ The Mac version comes bundled with a JRE.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140929T112424Z" creationid="GABIN" creationdate="20140929T112424Z">
         <seg>Пазначаць неразрыўныя прабелы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Paragraph delimitations</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T085211Z" creationid="GABIN" creationdate="20201209T085211Z">
+        <seg>Пазначаць межы абзацаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -35968,10 +36008,26 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Setting it to &lt;g1&gt;All segments&lt;/g1&gt; shows this information for all segments and &lt;g2&gt;None&lt;/g2&gt; turns this option off.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T085609Z" creationid="GABIN" creationdate="20201209T085609Z">
+        <seg>Калі яе ўключыць для &lt;g1&gt;ўсіх сэгмэнтаў&lt;/g1&gt;, інфармацыя паказваецца для ўсіх сэгмэнтаў, а калі выбраць &lt;g2&gt;Нічога не паказваць&lt;/g2&gt;, опцыя адключаецца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Setting the Display Modification option to &lt;e0&gt;Current segment&lt;/e0&gt; will display the time and the author of the last change in the current segment.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160515T155437Z" creationid="gabi" creationdate="20160515T155212Z">
         <seg>Пасьля ўключэньня опцыі паказу інфармацыі пра зьмены для &lt;e0&gt;бягучага сэгмэнта&lt;/e0&gt; будуць бачнымі час і аўтар апошняй зьмены бягучага сэгмэнта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting the Display Modification option to &lt;g0&gt;Current segment&lt;/g0&gt; will display the time and the author of the last change in the current segment.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T085551Z" creationid="GABIN" creationdate="20201209T085551Z">
+        <seg>Пасьля ўключэньня вопцыі паказу інфармацыі пра зьмены для &lt;g0&gt;бягучага сэгмэнта&lt;/g0&gt; будуць бачнымі час і аўтар апошняй зьмены бягучага сэгмэнта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39416,6 +39472,14 @@ shown below.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160712T142351Z" creationid="gabi" creationdate="20160515T154557Z">
         <seg>Вылучэньне колерам захоўваецца, пакуль пазначана опцыя “Захоўваць стан аўтаматычна запоўненых” (гл. Налады → Акно рэдагаваньня).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The colours are displayed as long as the &lt;l1&gt;&lt;g2&gt;Save auto-populated status&lt;/g2&gt;&lt;/l1&gt; option is checked.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T085404Z" creationid="GABIN" creationdate="20201209T085404Z">
+        <seg>Вылучэньне колерам захоўваецца, пакуль пазначана опцыя &lt;l1&gt;&lt;g2&gt;“Захоўваць стан аўтаматычна запоўненых”&lt;/g2&gt;&lt;/l1&gt; (гл. Налады → Акно рэдагаваньня).</seg>
       </tuv>
     </tu>
     <tu>
@@ -43118,6 +43182,14 @@ this version will not interfere with it.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160712T145954Z" creationid="GABIN" creationdate="20140723T145714Z">
         <seg>Гэты дапаможнік, аднак, ня быў бы магчымым без дапамогі і падтрымкі з боку шэрагу людзей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This marking has priority over &lt;g0&gt;Mark Translated Segments&lt;/g0&gt; and &lt;g1&gt;Mark Untranslated Segments&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T085310Z" creationid="GABIN" creationdate="20201209T085310Z">
+        <seg>Гэтая вылучэньне мае прыярытэт над &lt;g0&gt;вылучэньнем перакладзеных сэгмэнтаў&lt;/g0&gt; і &lt;g1&gt;вылучэньнем неперакладзеных сэгмэнтаў&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
