@@ -8898,6 +8898,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After several of these operations, select &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T093802Z" creationid="GABIN" creationdate="20201209T093802Z">
+        <seg>Пасьля некалькіх падобных апэрацыяў выберыце &lt;m0&gt; &lt;g1&gt;Рэдагаваць&lt;/g1&gt; → &lt;g2&gt;Перавыраўнаваць чаргу&lt;/g2&gt; &lt;/m0&gt;, каб абнавіць выраўноўваньне іншых сэгмэнтаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After the automatic process, the alignment of two files generally requires manual corrections.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20201209T093316Z" creationid="GABIN" creationdate="20201209T093316Z">
@@ -12401,6 +12409,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150526T124704Z" creationid="GABIN" creationdate="20150526T124704Z">
         <seg>Націсьнеце &lt;g0&gt;Стварыць праект&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click in the other column on the translation corresponding to the first segment.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T093600Z" creationid="GABIN" creationdate="20201209T093600Z">
+        <seg>Націсьнеце на другі слупок, на пераклад, адпаведны першаму сэгмэнту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32028,6 +32044,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press the space bar (shortcut for &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T093805Z" creationid="GABIN" creationdate="20201209T093459Z">
+        <seg>Націсьнеце клявішу прабелу (клявіша для &lt;m0&gt; &lt;g1&gt;Рэдагаваць&lt;/g1&gt; → &lt;g2&gt;Пачаць мэтавае выраўноўваньне&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160805T134908Z" creationid="GABIN" creationdate="20160805T134734Z">
@@ -32891,8 +32915,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Realign Pending</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20160708T140147Z" creationid="GABIN" creationdate="20160708T140147Z">
-        <seg>У чарзе на паўторнае выраўноўваньне</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T093654Z" creationid="GABIN" creationdate="20160708T140147Z">
+        <seg>Перавыраўнаваць чаргу</seg>
       </tuv>
     </tu>
     <tu>
@@ -35948,6 +35972,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160622T190240Z" creationid="gabi" creationdate="20160622T190240Z">
         <seg>вылучыць рэзэрвовую копію памяці перакладаў, якая, верагодна, утрымлівае патрэбныя данія — напрыклад, самую апошнюю або апошнюю за папярэдні дзень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the first segment.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T093503Z" creationid="GABIN" creationdate="20201209T093446Z">
+        <seg>Вылучэце першы сэгмэнт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43999,6 +44031,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20200730T115701Z" creationid="GABIN" creationdate="20200730T115701Z">
         <seg>Каб дадаць іншыя рэсурсы (слоўнікі, памяць перакладаў, глясары), карыстайцеся кліентам SVN ці Git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To align two segments on the same line:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T093433Z" creationid="GABIN" creationdate="20201209T093433Z">
+        <seg>Каб выраўнаваць два сэгмэнты ў адным радку:</seg>
       </tuv>
     </tu>
     <tu>
