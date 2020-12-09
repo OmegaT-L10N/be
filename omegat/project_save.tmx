@@ -9034,6 +9034,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligner</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T092412Z" creationid="GABIN" creationdate="20201209T092412Z">
+        <seg>Сродак выраўноўваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aligner "Accepted" Group</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160808T131945Z" creationid="GABIN" creationdate="20160708T135112Z">
@@ -9062,6 +9070,14 @@ OmegaT запускаецца наступным чынам.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160708T135149Z" creationid="GABIN" creationdate="20160708T135149Z">
         <seg>Вылучэньне радка табліцы ў сродку выраўноўваньня файлаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alignment involves creating a bilingual translation memory from monolingual documents that have already been translated.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T092453Z" creationid="GABIN" creationdate="20201209T092453Z">
+        <seg>Выраўноўваньне — гэта працэс стварэньня двухмоўнай памяці перакладаў з ужо перакладзеных аднамоўных дакумэнтаў.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20901,6 +20917,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the alignment looks as if it could be improved, try changing the parameters.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T092627Z" creationid="GABIN" creationdate="20201209T092627Z">
+        <seg>Калі выглядае так, што можна атрымаць і лепшыя вынікі выраўноўваньня, паспрабуйце зьмяніць налады выраўноўваньня.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160302T151622Z" creationid="GABIN" creationdate="20160302T151622Z">
@@ -22050,10 +22074,26 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; mode, the texts are evaluated globally.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T092751Z" creationid="GABIN" creationdate="20201209T092751Z">
+        <seg>У рэжыме &lt;g0&gt;“Разам”&lt;/g0&gt; ацэнка тэкста робіцца глябальна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In &lt;g0&gt;Options &gt; External TMXs&lt;/g0&gt;, a number of variables allow to configure the display of the match pane:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160704T093824Z" creationid="GABIN" creationdate="20160704T093824Z">
         <seg>Праз мэню &lt;g0&gt;Налады → Зьнешнія файлы TMX&lt;/g0&gt; даступныя некалькі зьменных, якія дазваляюць наладзіць паказ супадзеньняў на панэлі:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;g1&gt;Parsewise&lt;/g1&gt; mode, they are evaluated segment by segment.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T092822Z" creationid="GABIN" creationdate="20201209T092822Z">
+        <seg>У рэжыме &lt;g1&gt;“Па меры разбору”&lt;/g1&gt; ацэнка робіцца сэгмэнт за сэгмэнтам.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22294,6 +22334,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160317T082621Z" creationid="GABIN" creationdate="20160317T082621Z">
         <seg>У многіх выпадках, аднак, патрабуецца мець урыўкі тэксту зьлева-направа ў тэксьце справа-налева.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In most cases, the lower the &lt;g0&gt;Average score&lt;/g0&gt; is, better the alignment will be.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T092717Z" creationid="GABIN" creationdate="20201209T092717Z">
+        <seg>У большасьці выпадкаў можна атрымаць лепшыя вынікі выраўноўваньня, панізіўшы &lt;g0&gt;сярэдні бал&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37522,6 +37570,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Step 1: Adjust the alignment parameters</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T092546Z" creationid="GABIN" creationdate="20201209T092546Z">
+        <seg>Этап 1: Наладзіць парамэтры выраўноўваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Step 1: Create an empty project on a server</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20200730T114745Z" creationid="GABIN" creationdate="20200730T114745Z">
@@ -43847,6 +43903,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20130424T184207Z">
         <seg>Каб перайсьці па гэтай спасылцы, трэба або скапіяваць і ўставіць URL у вэб-браўзэр, або адкрыць дапаможнік карыстальніка ў вэб-браўзэры (файл {0}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To access this window, select &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Align Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T092542Z" creationid="GABIN" creationdate="20201209T092542Z">
+        <seg>Каб адчыніць гэтае вакно, выберыце &lt;m0&gt; &lt;g1&gt;Сэрвіс&lt;/g1&gt; → &lt;g2&gt;Выраўнаваць файлы...&lt;/g2&gt;&lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
