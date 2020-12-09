@@ -50570,10 +50570,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>if existing, it contains project-specific file filters.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T091359Z" creationid="GABIN" creationdate="20201209T091359Z">
+        <seg>калі наяўны, утрымлівае спэцыфічныя для праекта налады файлавых фільтраў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>if existing, it contains project-specific segmentation rules, if requested in &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;See &lt;l1&gt;Chapter Project properties&lt;/l1&gt;</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160930T142928Z" creationid="GABIN" creationdate="20160310T145523Z">
         <seg>Ён (калі наяўны) утрымлівае спэцыфічныя для праекта правілы сэгмэнтаваньня, калі гэта пазначана праз &lt;g0&gt;Праект → Уласьцівасьці…&lt;/g0&gt; Гл. разьдзел &lt;l1&gt;“Уласьцівасьці праекта”&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if existing, it contains project-specific segmentation rules.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T091349Z" creationid="GABIN" creationdate="20201209T091349Z">
+        <seg>калі наяўны, утрымлівае спэцыфічныя для праекта налады сэгмэнтаваньня.</seg>
       </tuv>
     </tu>
     <tu>
