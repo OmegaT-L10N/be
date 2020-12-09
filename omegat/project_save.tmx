@@ -8898,6 +8898,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the automatic process, the alignment of two files generally requires manual corrections.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T093316Z" creationid="GABIN" creationdate="20201209T093316Z">
+        <seg>Пасьля аўтаматычнай апрацоўкі двух файлаў звычайна патрабуецца карэкцыя выраўноўваньня ўручную.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After the initial installation you can, of course, also use &lt;e5&gt;&lt;a6&gt;OmegaT&lt;/a6&gt;.jnlp&lt;/e5&gt; also when you are offline.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160407T133449Z" creationid="GABIN" creationdate="20160407T133449Z">
@@ -45312,6 +45320,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T113340Z">
         <seg>Варыянт адзінкі перакладу знойдзены па-за адзінкай перакладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation units are located in cells in the two last columns.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T093340Z" creationid="GABIN" creationdate="20201209T093340Z">
+        <seg>Перакладныя адзінкі зьмяшчаюцца ў ячэйках у двух апошніх слупках.</seg>
       </tuv>
     </tu>
     <tu>
