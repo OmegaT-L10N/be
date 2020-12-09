@@ -2098,6 +2098,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(external search commands)</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T082110Z" creationid="GABIN" creationdate="20201209T082110Z">
+        <seg>(каманды пошуку па-за праектам)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>* From the command line (all systems): 
 The command to launch OmegaT is:</seg>
       </tuv>
@@ -10187,6 +10195,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160401T133827Z" creationid="GABIN" creationdate="20160401T133827Z">
         <seg>На пачатку ўсталяваньня вы зможаце выбраць мову, які будзе выкарыстоўвацца падчас усталяваньня.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At the bottom of the window, right-click on a free number and select &lt;g0&gt;Add Script&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T082103Z" creationid="GABIN" creationdate="20201209T082103Z">
+        <seg>У ніжняй частцы вакна клікнеце па незанятым нумары і выберыце &lt;g0&gt;”Дадаць сцэнар”&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20487,6 +20503,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If commands to perform external searches have been defined in the &lt;l0&gt;Preferences&lt;/l0&gt;, they are listed and accessible here.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T082154Z" creationid="GABIN" creationdate="20201209T082154Z">
+        <seg>Калі ў &lt;l0&gt;наладах&lt;/l0&gt; вызначаныя каманды пошуку па-за праектам, тут іх можна пабачыць і выканаць.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If for a given source segment there is as yet no existing translation in the project translation memory (project_save.tmx), the current translation will be saved in the project_save.tmx as the default translation.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160317T063023Z" creationid="GABIN" creationdate="20160317T063023Z">
@@ -24897,6 +24921,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20170831T143329Z" creationid="GABIN" creationdate="20170831T143329Z">
         <seg>Запусьцеце праграму ўсталёўкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launches scripts that have been associated with a number.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T081926Z" creationid="GABIN" creationdate="20201209T081921Z">
+        <seg>Запуск сцэнароў, прывязаных да нумароў.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30024,6 +30056,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the Scripting window</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T081947Z" creationid="GABIN" creationdate="20201209T081947Z">
+        <seg>адкрыйце вакно сцэнароў;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160618T031949Z" creationid="gabi" creationdate="20160618T031949Z">
@@ -30212,6 +30252,14 @@ happen should you file a bug report.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20201208T140842Z" creationid="GABIN" creationdate="20201208T140842Z">
         <seg>Адчыняецца пакет праекта ў фармаце MED, вызначаным генэральным дырэктаратам ЕС у перакладзе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T081856Z" creationid="GABIN" creationdate="20201209T081856Z">
+        <seg>Вывад &lt;l0&gt;акна &lt;g1&gt;сцэнароў&lt;/g1&gt;&lt;/l0&gt;, дзе можна задаць месцазнаходжаньне сцэнароў, іх запісваць, выконваць і прывязваць да спалучэньняў клявішаў.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35636,6 +35684,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160618T060511Z" creationid="gabi" creationdate="20160618T060511Z">
         <seg>Выберыце мэтад з дапамогай кнопак-пераключальнікаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the script you want from the list on the left</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T082009Z" creationid="GABIN" creationdate="20201209T082009Z">
+        <seg>выберыце патрэбны сцэнар у сьпісе леваруч;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41353,6 +41409,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source and target files can have different formats (for example, a &lt;f0&gt;.docx&lt;/f0&gt; file can be aligned with a &lt;f1&gt;.pdf&lt;/f1&gt; file).</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T081804Z" creationid="GABIN" creationdate="20201209T081804Z">
+        <seg>Файлы арыгінала і перакладу могуць быць у розных фарматах (напрыклад, файл у фармаце &lt;f0&gt;DOCX&lt;/f0&gt; можна выраўнаваць з файлам &lt;f1&gt;PDF&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20130424T185500Z">
@@ -43543,6 +43607,14 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20200730T115701Z" creationid="GABIN" creationdate="20200730T115701Z">
         <seg>Каб дадаць іншыя рэсурсы (слоўнікі, памяць перакладаў, глясары), карыстайцеся кліентам SVN ці Git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To associate a script with a number:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T081935Z" creationid="GABIN" creationdate="20201209T081935Z">
+        <seg>Каб прывязаць сцэнар да нумара:</seg>
       </tuv>
     </tu>
     <tu>
@@ -50832,6 +50904,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160401T091810Z" creationid="GABIN" creationdate="20160401T091807Z">
         <seg>тэрміны зь некалькіх словаў у глясарох — прыклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>n - (script name)</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20201209T081903Z" creationid="GABIN" creationdate="20201209T081903Z">
+        <seg>n — (назва сцэнара)</seg>
       </tuv>
     </tu>
     <tu>
