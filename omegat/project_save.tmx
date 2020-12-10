@@ -17657,8 +17657,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>External TMX Options</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20160707T144410Z">
-        <seg>Парамэтры для зьнешніх файлаў TMX</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20201210T071935Z">
+        <seg>Парамэтры для зьнешніх TMX-файлаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -33114,10 +33114,10 @@ project without team functionality.</seg>
 Or a rude error message
 These words: 'Page not found'</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20190923T130015Z" creationid="GABIN" creationdate="20190923T130015Z">
+      <tuv lang="be" changeid="GABIN" changedate="20201210T071811Z" creationid="GABIN" creationdate="20190923T130015Z">
         <seg>Гукавы сыгнал?
 Паведамленьне пра памылку?
-Ды не, проста “старонка не знойдзеная”</seg>
+Ды не, проста “старонка ня знойдзеная”</seg>
       </tuv>
     </tu>
     <tu>
@@ -45544,8 +45544,8 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20160224T143308Z" creationid="GABIN" creationdate="20160224T143308Z">
-        <seg>Шлях да файла перакладу не можа быць ідэнтычны шляху да зыходнага файла:
+      <tuv lang="be" changeid="GABIN" changedate="20201210T071853Z" creationid="GABIN" creationdate="20160224T143308Z">
+        <seg>Шлях да файла перакладу ня можа быць ідэнтычны шляху да зыходнага файла:
 {0}</seg>
       </tuv>
     </tu>
