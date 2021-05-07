@@ -8074,6 +8074,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A given project can have any number of reference glossaries, but only one glossary, the project default glossary, will be directly writable from the OmegaT user interface.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20210507T143617Z" creationid="GABIN" creationdate="20210507T143617Z">
+        <seg>У праекце можна мець якую заўгодна колькасьць глясароў, але толькі ў адзін зь іх, глясар праекта па змаўчаньні, будзе рабіцца запіс праз інтэрфэйс OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A given source segment may require several different translations, depending on the context.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160808T131637Z" creationid="GABIN" creationdate="20160705T122518Z">
@@ -14782,6 +14790,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Default glossary</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20210507T143715Z" creationid="GABIN" creationdate="20210507T143715Z">
+        <seg>Глясар па змаўчаньні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Default is &lt;l0&gt;${filename}&lt;/l0&gt;– full filename of the source file with extension: in this case the name of the translated file is the same as that of the source file.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160303T093907Z" creationid="GABIN" creationdate="20160303T093907Z">
@@ -21209,6 +21225,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and the file will be saved in UTF-8 encoding.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20210507T144125Z" creationid="GABIN" creationdate="20210507T144125Z">
+        <seg>Для існага файла фармат або кадоўка не правяраюцца: новыя запісы заўсёды дадаюцца з разьдзяленьнем сымбалямі табуляцыі і ў кадоўцы UTF-8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the file does contain mappings, then local changes to mappings are lost.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20201207T095833Z" creationid="GABIN" creationdate="20201207T095833Z">
@@ -24398,6 +24422,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160621T140334Z" creationid="GABIN" creationdate="20160621T140334Z">
         <seg>Ягонае зьмесьціва будзе заўсёды сартавацца паводле альфабэту па зыходных сэгмэнтах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Its name and location can be modified in the project properties dialog but its extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; and its location must be contained in the &lt;f2&gt;/glossary&lt;/f2&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20210507T144025Z" creationid="GABIN" creationdate="20210507T144025Z">
+        <seg>Назву і месцазнаходжаньне можна зьмяніць пры ўмове абавязковага захоўваньня пашырэння назвы &lt;f0&gt;.txt&lt;/f0&gt; або &lt;f1&gt;.utf8&lt;/f1&gt; і месцазнаходжаньня ў каталёгу праекта &lt;f2&gt;/glossary&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33354,6 +33386,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regardless of the number of glossaries in a project, any term in a segment that has a match in a glossary will be displayed in the Glossary pane.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20210507T143813Z" creationid="GABIN" creationdate="20210507T143709Z">
+        <seg>Незалежна ад колькасьці глясароў у праекце любыя тэрміны з любога глясара, знойдзеныя ў бягучым сэгмэньце, будуць аўтаматычна адлюстроўвацца на панэлі глясароў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regex - Boundary matchers</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160615T172210Z" creationid="gabi" creationdate="20160615T172210Z">
@@ -40369,6 +40409,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The default writable glossary is located in the the &lt;f0&gt;/glossary&lt;/f0&gt; project folder and is called &lt;f1&gt;glossary.txt&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20210507T143924Z" creationid="GABIN" creationdate="20210507T143858Z">
+        <seg>Файл глясара па змаўчаньні, у які дазволены запіс, знаходзіцца ў каталёгу глясароў &lt;f0&gt;/glossary&lt;/f0&gt; і мае назву &lt;f1&gt;glossary.txt&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The dialog allows to enable or disable the following options:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20151112T072955Z" creationid="GABIN" creationdate="20151112T072955Z">
@@ -40629,6 +40677,14 @@ instead.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160401T090643Z" creationid="GABIN" creationdate="20160401T090643Z">
         <seg>Наяўнасьць файла не патрабуецца пры яго вызначэньні, ён будзе створаны аўтаматычна (калі неабходна) пры стварэньні першага запісу ў глясары.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The file does not need to exist when setting it, it will be created when adding the first glossary entry.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20210507T144105Z" creationid="GABIN" creationdate="20210507T144105Z">
+        <seg>Наяўнасьць файла не патрабуецца пры яго вызначэньні, ён будзе створаны аўтаматычна пры стварэньні першага запісу ў глясары.</seg>
       </tuv>
     </tu>
     <tu>
