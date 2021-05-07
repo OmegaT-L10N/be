@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_2950a4bc" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -35608,6 +35608,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See Options &gt; File filters for a list of supported file formats.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20210507T142453Z" creationid="GABIN" creationdate="20210507T142453Z">
+        <seg>Сьпіс фарматаў файлаў, якія OmegaT можа апрацаваць, гл. у мэню Налады &gt; Файлавыя фільтры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See above.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160316T131240Z" creationid="GABIN" creationdate="20160316T131240Z">
@@ -44380,6 +44388,22 @@ file type is associated with Java on your system.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160314T072349Z" creationid="GABIN" creationdate="20160314T072349Z">
         <seg>Каб там нешта зьявілася, трэба выбраць з мэню &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Праект&lt;/g5&gt; &lt;g6&gt; Адкампіляваць праект&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add files to the project you can
+- drag and drop files on this Editor pane
+- use Project &gt; Copy Files to Source Folder...
+- click on Copy Files to Source Folder... in the Project Files window
+- copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20210507T142833Z" creationid="GABIN" creationdate="20210507T142517Z">
+        <seg>Каб дадаць файлы да праекта, можна
+- перацягнуць файлы на панэль рэдагаваньня;
+- скарыстацца з мэню Праект &gt; Імпартаваць зыходныя файлы…;
+- у вакне файлаў праекта (Ctrl + L) націснуць на кнопку «Імпартаваць зыходныя файлы»;
+- скапіяваць файлы ў дырэкторыю source праекта з дапамогай мэнэджaра файлаў, затым перагрузіць праект (мэню Праект &gt; Перагрузіць праект або клявіша F5).</seg>
       </tuv>
     </tu>
     <tu>
