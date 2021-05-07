@@ -19432,6 +19432,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries are terminology files.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20210507T143218Z" creationid="GABIN" creationdate="20210507T143218Z">
+        <seg>Глясары — гэта тэрміналягічныя файлы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries, Glossary pane</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160401T091149Z" creationid="GABIN" creationdate="20160401T091149Z">
@@ -19444,6 +19452,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="be">
         <seg>Глясар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary &amp;layout:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20210507T142905Z" creationid="GABIN" creationdate="20210507T142905Z">
+        <seg>&amp;Кампаноўка глясара:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19528,6 +19544,14 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary note</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20210507T143050Z" creationid="GABIN" creationdate="20210507T143050Z">
+        <seg>Заўвага да запісу глясара</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary pane</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160401T091156Z" creationid="GABIN" creationdate="20160401T091156Z">
@@ -19540,6 +19564,22 @@ launch icons on Linux, refer to the OmegaT on Linux HowTo.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160701T095126Z" creationid="GABIN" creationdate="20160701T095126Z">
         <seg>Панэль глясароў: калі перацягнуць сюды файлы з вядомымі пашырэньнямі назваў для глясароў (&lt;f0&gt; .txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt; і г. д.), яны будуць скапіяваныя ў каталёг &lt;f2&gt;glossary&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary source</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20210507T143028Z" creationid="GABIN" creationdate="20210507T143028Z">
+        <seg>Тэрмін глясара</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary translation</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20210507T143036Z" creationid="GABIN" creationdate="20210507T143036Z">
+        <seg>Пераклад тэрміна глясара</seg>
       </tuv>
     </tu>
     <tu>
@@ -24698,6 +24738,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep tags in translated text</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20210507T142951Z" creationid="GABIN" creationdate="20210507T142951Z">
+        <seg>Захоўваць тэгі ў перакладзе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep up your good work!</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140724T120953Z" creationid="GABIN" creationdate="20140724T120953Z">
@@ -26660,6 +26708,14 @@ The Mac version comes bundled with a JRE.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark unknown words</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20210507T142940Z" creationid="GABIN" creationdate="20210507T142940Z">
+        <seg>Пазначаць невядомыя словы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Marshallese</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140725T124515Z" creationid="GABIN" creationdate="20140725T124515Z">
@@ -26960,6 +27016,14 @@ The Mac version comes bundled with a JRE.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140721T095402Z" creationid="GABIN" creationdate="20140721T095402Z">
         <seg>Аб’яднаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge alternate definitions for the same term</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20210507T142932Z" creationid="GABIN" creationdate="20210507T142932Z">
+        <seg>Аб’ядноўваць альтэрнатыўныя пераклады аднаго тэрміна</seg>
       </tuv>
     </tu>
     <tu>
@@ -31874,6 +31938,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T131534Z">
         <seg>Увесьці імя карыстальніка/пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter username/password for {0}</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20210507T142959Z" creationid="GABIN" creationdate="20210507T142959Z">
+        <seg>Увесьці імя карыстальніка/пароль для {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -43038,6 +43110,14 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They can be created and updated manually or imported from other projects.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20210507T143242Z" creationid="GABIN" creationdate="20210507T143242Z">
+        <seg>Яны ствараюцца і зьмяняюцца ўручную або імпартуюцца зь іншых праектаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They can share common material, like project translation memory and its glossary</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20141001T091502Z" creationid="GABIN" creationdate="20141001T091502Z">
@@ -48930,6 +49010,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T131542Z">
         <seg>Несапраўднае імя карыстальніка/пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong username/password for {0}</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20210507T143004Z" creationid="GABIN" creationdate="20210507T143004Z">
+        <seg>Несапраўднае імя карыстальніка/пароль для {0}</seg>
       </tuv>
     </tu>
     <tu>
