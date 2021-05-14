@@ -7947,8 +7947,8 @@ OmegaT запускаецца наступным чынам.</seg>
       <tuv lang="en">
         <seg>===============</seg>
       </tuv>
-      <tuv lang="be" changeid="Kos Ivantsov" changedate="20180606T214050Z" creationid="Kos Ivantsov" creationdate="20180606T214050Z">
-        <seg>===============</seg>
+      <tuv lang="be" changeid="Kos Ivantsov" changedate="20210514T210917Z" creationid="Kos Ivantsov" creationdate="20180606T214050Z">
+        <seg>=================</seg>
       </tuv>
     </tu>
     <tu>
@@ -13379,9 +13379,9 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
         <seg>Contributors
 ============</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20170831T144336Z" creationid="GABIN" creationdate="20170831T144336Z">
+      <tuv lang="be" changeid="Kos Ivantsov" changedate="20210514T210951Z" creationid="GABIN" creationdate="20170831T144336Z">
         <seg>Удзельнікі
-============</seg>
+==========</seg>
       </tuv>
     </tu>
     <tu>
@@ -23593,9 +23593,9 @@ click on that shortcut.</seg>
         <seg>Installing OmegaT (Linux)
 =========================</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20170831T143510Z" creationid="GABIN" creationdate="20170831T143510Z">
+      <tuv lang="be" changeid="Kos Ivantsov" changedate="20210514T210940Z" creationid="GABIN" creationdate="20170831T143510Z">
         <seg>Усталёўка OmegaT (Linux)
-===========================</seg>
+========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -23603,9 +23603,9 @@ click on that shortcut.</seg>
         <seg>Installing OmegaT (Mac)
 =======================</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20201209T144037Z" creationid="GABIN" creationdate="20170831T143336Z">
+      <tuv lang="be" changeid="Kos Ivantsov" changedate="20210514T210939Z" creationid="GABIN" creationdate="20170831T143336Z">
         <seg>Усталяваньне OmegaT (Mac)
-===========================</seg>
+=========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -23623,9 +23623,9 @@ click on that shortcut.</seg>
         <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
 =========================================</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20201209T144204Z" creationid="GABIN" creationdate="20201209T144204Z">
+      <tuv lang="be" changeid="Kos Ivantsov" changedate="20210514T210941Z" creationid="GABIN" creationdate="20201209T144204Z">
         <seg>Усталяваньне OmegaT (Solaris, FreeBSD, ...)
-=========================================</seg>
+===========================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -23633,9 +23633,9 @@ click on that shortcut.</seg>
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20170831T143318Z" creationid="GABIN" creationdate="20170831T143318Z">
+      <tuv lang="be" changeid="Kos Ivantsov" changedate="20210514T210938Z" creationid="GABIN" creationdate="20170831T143318Z">
         <seg>Усталёўка OmegaT (Windows)
-===========================</seg>
+==========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -25430,9 +25430,9 @@ itself on the first run.</seg>
         <seg>Launching OmegaT (Linux)
 ========================</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20170831T144032Z" creationid="GABIN" creationdate="20170831T144032Z">
+      <tuv lang="be" changeid="Kos Ivantsov" changedate="20210514T210945Z" creationid="GABIN" creationdate="20170831T144032Z">
         <seg>Запуск OmegaT (Linux)
-===========================</seg>
+=====================</seg>
       </tuv>
     </tu>
     <tu>
@@ -25440,9 +25440,9 @@ itself on the first run.</seg>
         <seg>Launching OmegaT (Mac)
 ======================</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20170831T143926Z" creationid="GABIN" creationdate="20170831T143926Z">
+      <tuv lang="be" changeid="Kos Ivantsov" changedate="20210514T210944Z" creationid="GABIN" creationdate="20170831T143926Z">
         <seg>Запуск OmegaT (Mac)
-===========================</seg>
+===================</seg>
       </tuv>
     </tu>
     <tu>
@@ -25450,9 +25450,9 @@ itself on the first run.</seg>
         <seg>Launching OmegaT (Windows)
 ==========================</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20170831T143840Z" creationid="GABIN" creationdate="20170831T143840Z">
+      <tuv lang="be" changeid="Kos Ivantsov" changedate="20210514T210943Z" creationid="GABIN" creationdate="20170831T143840Z">
         <seg>Запуск OmegaT (Windows)
-===========================</seg>
+=======================</seg>
       </tuv>
     </tu>
     <tu>
@@ -25460,9 +25460,9 @@ itself on the first run.</seg>
         <seg>Launching OmegaT from the command line (all systems)
 ====================================================</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20170831T144314Z" creationid="GABIN" creationdate="20170831T144314Z">
+      <tuv lang="be" changeid="Kos Ivantsov" changedate="20210514T210947Z" creationid="GABIN" creationdate="20170831T144314Z">
         <seg>Запуск OmegaT з каманднага радка (усі сыстэмы)
-====================================================</seg>
+==============================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -25670,9 +25670,9 @@ itself on the first run.</seg>
         <seg>Licensing information
 =====================</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20170831T142722Z" creationid="GABIN" creationdate="20170831T142722Z">
+      <tuv lang="be" changeid="Kos Ivantsov" changedate="20210514T210936Z" creationid="GABIN" creationdate="20170831T142722Z">
         <seg>Зьвесткі аб ліцэнзіі
-=====================</seg>
+====================</seg>
       </tuv>
     </tu>
     <tu>
@@ -32317,9 +32317,9 @@ language you would like to translate to.</seg>
         <seg>Prerequisites for installing OmegaT
 ===================================</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20201209T144014Z" creationid="GABIN" creationdate="20170831T143129Z">
+      <tuv lang="be" changeid="Kos Ivantsov" changedate="20210514T210937Z" creationid="GABIN" creationdate="20170831T143129Z">
         <seg>Умовы для ўсталяваньня OmegaT
-===================================</seg>
+=============================</seg>
       </tuv>
     </tu>
     <tu>
@@ -47253,9 +47253,9 @@ on line {1}, column {2}.</seg>
         <seg>Useful links
 ============</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20170831T144435Z" creationid="GABIN" creationdate="20170831T144435Z">
+      <tuv lang="be" changeid="Kos Ivantsov" changedate="20210514T210952Z" creationid="GABIN" creationdate="20170831T144435Z">
         <seg>Карысныя спасылкі
-============</seg>
+=================</seg>
       </tuv>
     </tu>
     <tu>
@@ -47473,9 +47473,9 @@ searchable without subscription:</seg>
         <seg>Using Java Web Start for installing OmegaT (all platforms)
 ===========================================================</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20170831T143805Z" creationid="GABIN" creationdate="20170831T143805Z">
+      <tuv lang="be" changeid="Kos Ivantsov" changedate="20210514T210942Z" creationid="GABIN" creationdate="20170831T143805Z">
         <seg>Выкарыстаньне Java Web Start для ўсталёўкі OmegaT (усе плятформы)
-===========================================================</seg>
+=================================================================</seg>
       </tuv>
     </tu>
     <tu>
