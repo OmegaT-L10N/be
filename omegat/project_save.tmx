@@ -32317,6 +32317,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT for Beginners tutorial (2014 edition)</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T094404Z" creationid="GABIN" creationdate="20221230T094350Z">
+        <seg>OmegaT for CAT beginners (на ангельскай, выданьне 2014 г.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT for CAT beginners (2020, in Japanese)</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20221230T094241Z" creationid="GABIN" creationdate="20221230T094241Z">
@@ -32327,8 +32335,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>OmegaT for CAT beginners tutorial (2020 edition)</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20221230T094210Z" creationid="GABIN" creationdate="20221230T094210Z">
-        <seg>OmegaT for CAT beginners (выданьне 2020 г.)</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T094410Z" creationid="GABIN" creationdate="20221230T094210Z">
+        <seg>OmegaT for CAT beginners (на ангельскай, выданьне 2020 г.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32808,6 +32816,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20221230T094258Z" creationid="GABIN" creationdate="20221230T094258Z">
         <seg>OmegaT the CAT power tools (на ангельскай)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT the CAT power tools(in Japanese)</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T094343Z" creationid="GABIN" creationdate="20221230T094343Z">
+        <seg>OmegaT the CAT power tools (на японскай)</seg>
       </tuv>
     </tu>
     <tu>
