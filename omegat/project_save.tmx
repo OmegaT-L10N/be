@@ -1382,6 +1382,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Next Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T132401Z" creationid="GABIN" creationdate="20221230T132401Z">
+        <seg>&amp;Наступны сэгмэнт з tm/auto/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;None</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20221221T131906Z" creationid="GABIN" creationdate="20221221T131906Z">
@@ -1474,6 +1482,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20121017T063153Z">
         <seg>Папярэдні &amp;сэгмэнт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Previous Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T132411Z" creationid="GABIN" creationdate="20221230T132411Z">
+        <seg>&amp;Папярэдні сэгмэнт з tm/auto/</seg>
       </tuv>
     </tu>
     <tu>
@@ -11458,6 +11474,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-Popu&amp;lated Segments</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T132354Z" creationid="GABIN" creationdate="20221230T132354Z">
+        <seg>&amp;Аўтаматычна запоўненыя сэгмэнты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-completer Glossary View configuration</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150515T091444Z" creationid="GABIN" creationdate="20131218T075546Z">
@@ -18039,6 +18063,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20170206T082554Z" creationid="GABIN" creationdate="20170206T082554Z">
         <seg>Налады вакна рэдагаваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editor Pane</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T132446Z" creationid="GABIN" creationdate="20221230T132446Z">
+        <seg>Панэль рэдагаваньня</seg>
       </tuv>
     </tu>
     <tu>
@@ -30385,6 +30417,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>N&amp;ext Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T132424Z" creationid="GABIN" creationdate="20221230T132424Z">
+        <seg>Н&amp;аступны сэгмэнт з tm/enforce/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>NB:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160618T095028Z" creationid="GABIN" creationdate="20160618T095028Z">
@@ -31693,6 +31733,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notes Pane</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T132445Z" creationid="GABIN" creationdate="20221230T132445Z">
+        <seg>Панэль зацемак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notes pane</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160627T143445Z" creationid="GABIN" creationdate="20160627T143445Z">
@@ -31745,6 +31793,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160708T135039Z" creationid="GABIN" creationdate="20160708T135039Z">
         <seg>Апавяшчэньне (сталы колер)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me Even If There Are No Search Results</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T132528Z" creationid="GABIN" creationdate="20221230T132528Z">
+        <seg>Паведамляць, нават калі пошук ня даў вынікаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -34256,6 +34312,14 @@ install the Oracle JRE on your own.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160622T181428Z" creationid="gabi" creationdate="20160622T181428Z">
         <seg>Перапісваньне зьдзяйсьняецца, пакуль файл TMX ня будзе выдалены з каталёга /tm/enforce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&amp;revious Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T132443Z" creationid="GABIN" creationdate="20221230T132443Z">
+        <seg>Папяр&amp;эдні сэгмэнт з tm/enforce/</seg>
       </tuv>
     </tu>
     <tu>
@@ -48415,6 +48479,14 @@ file type is associated with Java on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tick or untick the appropriate boxes to change these settings.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T132501Z" creationid="GABIN" creationdate="20221230T132457Z">
+        <seg>Каб зьмяніць парамэтры, пастаўце або здымеце адпаведныя пазнакі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tick or untick the approrpiate boxes to change these settings.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20221125T120415Z" creationid="GABIN" creationdate="20221125T120415Z">
@@ -54850,6 +54922,14 @@ create the configuration folder.</seg>
         <seg>Your project does not contain any files in a supported file format.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20121016T092119Z">
+        <seg>Праект ня ўтрымлівае файлаў у фарматах, якія падтрымліваюцца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your project does not seem to contain translatable files.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T132330Z" creationid="GABIN" creationdate="20221230T132330Z">
         <seg>Праект ня ўтрымлівае файлаў у фарматах, якія падтрымліваюцца.</seg>
       </tuv>
     </tu>
