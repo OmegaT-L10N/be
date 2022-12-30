@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <section id="menus.help">
-  <title>Даведка</title>
+  <title id="menus.help.title"><guimenu>Даведка</guimenu></title>
+
+  <para>This menu gives you access to information that will help you make the
+  best of OmegaT.</para>
 
   <variablelist>
-    <varlistentry>
-      <term>Дапаможнік карыстальніка…</term>
-
+    <varlistentry id="menus.help.user.manual">
+      <term id="menus.help.user.manual.title"><guimenuitem>User
+      Manual...</guimenuitem> <keycombo><keycap>F1</keycap></keycombo></term>
       <listitem>
         <para>Адчыняецца гэты дапаможнік у браўзэры па змаўчаньні.</para>
-      </listitem>
+    </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Пра праграму…</term>
-
+    <varlistentry id="menus.help.about">
+      <term id="menus.help.about.title"><guimenuitem>Пра праграму…</guimenuitem></term>
       <listitem>
         <para>Паказ зьвестак пра аўтарскае права, падзякі і ліцэнзію.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Апошнія зьмены…</term>
-
+    <varlistentry id="menus.help.last.changes">
+      <term id="menus.help.last.changes.title"><guimenuitem>Апошнія зьмены…</guimenuitem></term>
       <listitem>
-        <para>Паказваецца пералік новых функцыяў, удасканаленьняў і выпраўленьняў памылак для апошняга выпуску.</para>
+        <para>Displays the list of new functionality, enhancements and bug fixes
+        for each new release.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Часопіс…</term>
-
+    <varlistentry id="menus.help.log">
+      <term id="menus.help.log.title"><guimenuitem>Часопіс…</guimenuitem></term>
       <listitem>
-        <para>Паказваецца бягучы файл часопіса. Загаловак акна адлюстроўвае файл, які фактычна выкарыстоўваецца (гэта залежыць ад таго, колькі асобнікаў OmegaT працуюць адначасова).</para>
+        <para>Паказваецца бягучы файл часопіса. The title of the dialog reflects the file currently in use (which depends on the number of concurrently running OmegaT instances).</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Праверка абнаўленьняў…</term>
-
+    <varlistentry id="menus.help.check.for.updates">
+      <term id="menus.help.check.for.updates.title"><guimenuitem>Праверка абнаўленьняў…</guimenuitem></term>
       <listitem>
-        <para>Выконваецца праверка наяўнасьці навейшай вэрсіі <application>OmegaT</application>.</para>
+        <para>Checks to see if a newer version of OmegaT is available.</para>
       </listitem>
     </varlistentry>
   </variablelist>

@@ -1,92 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <section id="menus.options">
-  <title>Налады</title>
+  <title id="menus.options.title"><guimenu>Налады</guimenu></title>
 
+  <para>This menu gives quick access to a few frequently used
+  preferences.</para>
+  
   <variablelist>
-    <varlistentry>
-      <term>Налады…</term>
-
+    <varlistentry id="menus.options.preferences">
+      <term id="menus.options.preferences.title"><guimenuitem>Налады…</guimenuitem></term>
       <listitem>
-        <para>Адчыняецца дыялёг <link linkend="dialogs.preferences">наладаў</link>.</para>
+        <para>Opens the <link linkend="chapter.dialogs.preferences" endterm="chapter.dialogs.preferences.title"/> dialog.</para>
+
+		<note>
+		  <para>In macOS, this menu item is found under the
+		  <guimenu>OmegaT</guimenu> menu.</para>
+		</note>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Машынны пераклад</term>
-
+    <varlistentry id="menus.options.mt">
+      <term id="menus.options.mt.title"><guisubmenu>Машынны пераклад</guisubmenu></term>
       <listitem>
-        <para>Дазваляе ўключаць/выключаць даступныя інструмэнты машыннага перакладу.</para>
+		<itemizedlist>
+		  <listitem>
+			<para><link linkend="dialogs.preferences.mt.automatically.fetch.translations" endterm="dialogs.preferences.mt.automatically.fetch.translations.title"/></para>
+		  </listitem>
+		</itemizedlist>
 
-        <para>Калі выбраныя некалькі сэрвісаў машыннага перакладу, спалучэньне клявішаў <keycombo> <keycap>Ctrl</keycap> <keycap>M</keycap> </keycombo> таксама ўжываецца для пераключэньня паміж імі і ўстаўкі выніку ад апошняга выбранага сэрвісу.</para>
+		<para>Allows you to activate/deactivate the available machine
+		translation engines.</para>
+
+        <para>If several translation engines are selected, you can also use
+        <keycombo><keycap>C</keycap><keycap>M</keycap></keycombo> to switch
+        between them and insert the last one selected. See the <link linkend="dialogs.preferences.mt" endterm="dialogs.preferences.mt.title"/> preferences for details.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Глясар</term>
-
+    <varlistentry id="menus.options.glossary">
+      <term id="menus.options.glossary.title"><guisubmenu>Глясар</guisubmenu></term>
       <listitem>
-        <para>Выберыце <guimenuitem>Пошук тэрмінаў у Taas</guimenuitem>, каб уключыць гэты пошук.</para>
+		<itemizedlist>
+		  <listitem>
+			<para><link linkend="dialogs.preferences.dictionary.use.fuzzy.matching.for.dictionary.entries" endterm="dialogs.preferences.dictionary.use.fuzzy.matching.for.dictionary.entries.title"/></para>
+		  </listitem>
+		</itemizedlist>
+
+        <para>Allows you to activate/deactivate fuzzy matching for glossary
+        maches.</para>
+
+		<para>See the <link linkend="dialogs.preferences.glossary" endterm="dialogs.preferences.glossary.title"/> preferences for
+		details.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Слоўнік</term>
-
+    <varlistentry id="menus.options.dictionary">
+      <term id="menus.options.dictionary.title"><guisubmenu>Слоўнік</guisubmenu></term>
       <listitem>
-        <para>Уключэце опцыю <guimenuitem>Ужываць падбор недакладных супадзеньняў для пошуку ў слоўніках</guimenuitem>, калі хочаце, каб у вакне слоўнікаў паказваліся аднакарэнныя словы.</para>
+		<itemizedlist>
+		  <listitem>
+			<para><link linkend="dialogs.preferences.dictionary.use.fuzzy.matching.for.dictionary.entries" endterm="dialogs.preferences.dictionary.use.fuzzy.matching.for.dictionary.entries.title"/></para>
+		  </listitem>
+		</itemizedlist>
+
+        <para>Allows you to activate/deactivate fuzzy matching for dictionary
+        maches.</para>
+
+		<para>See the <link linkend="dialogs.preferences.dictionary" endterm="dialogs.preferences.dictionary.title"/> preferences for
+		details.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Аўтазавяршэньне</term>
-
+    <varlistentry id="menus.options.autocompletion">
+      <term id="menus.options.autocompletion.title"><guisubmenu>Аўтазавяршэньне</guisubmenu></term>
       <listitem>
-        <para>Калі пазначана <guimenuitem>Аўтаматычна паказваць адпаведныя прапановы</guimenuitem>, мэню аўтазавяршэньня зьяўляецца аўтаматычна пасьля набору першай літары запіса глясара або сымбаля “&lt;” у выпадку тэгаў.</para>
+		<para>Select the various options to activate/deactivate them. See the
+		<link linkend="dialog.preferences.auto.completion" endterm="dialog.preferences.auto.completion.title"/> preferences for
+		details.</para>
+	  </listitem>
+    </varlistentry>
 
-        <para>Пазначце <guimenuitem>Запамінаць прапановы завяршэньня</guimenuitem>, каб пры ўводзе першых некалькіх літараў паказваліся прапановы завяршэньня словаў.</para>
+    <varlistentry id="menus.options.file.filters">
+      <term id="menus.options.file.filters.title"><guimenuitem>Global File
+      Filters...</guimenuitem></term>
+      <listitem>
+        <para>Opens the <link linkend="dialogs.preferences.file.filters" endterm="dialogs.preferences.file.filters.title"/> preferences.</para>
 
-        <para>Пазначце <guimenuitem>Запамінаць прадказаньні словаў</guimenuitem>, каб пасьля ўводу нейкага слова паказваліся словы, якія часта сустракаюцца пасьля яго.</para>
+        <para>Use <link linkend="menus.project" endterm="menus.project.title"/><link linkend="menus.project.properties" endterm="menus.project.properties.title"/> to access the local file
+        filter preferences.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Файлавыя фільтры…</term>
-
+    <varlistentry id="menus.options.segmentation">
+      <term id="menus.options.segmentation.title"><guimenuitem>Global
+      Segmentation Rules...</guimenuitem></term>
       <listitem>
-        <para>Адчыняецца дыялёг наладкі <link linkend="dialogs.preferences.filefilters">файлавых фільтраў</link> у дыялёгу наладаў.</para>
+        <para>Opens the <link linkend="dialogs.preferences.segmentation.setup" endterm="dialogs.preferences.segmentation.setup.title"/>
+        preferences.</para>
 
-        <para>Гэтыя налады ўжываюцца на ўзроўні OmegaT да ўсіх праектаў.</para>
+        <para>Use <link linkend="menus.project" endterm="menus.project.title"/><link linkend="menus.project.properties" endterm="menus.project.properties.title"/> to access the local
+        segmentation rules preferences.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Сэгмэнтаваньне…</term>
-
+    <varlistentry id="menus.options.editor">
+      <term id="menus.options.editor.title"><guimenuitem>Акно рэдагаваньня…</guimenuitem></term>
       <listitem>
-        <para>Адчыняецца дыялёг <link linkend="dialogs.preferences.segmentationsetup">наладкі сэгмэнтаваньня</link> ў дыялёгу наладаў.</para>
-
-        <para>Гэтыя налады ўжываюцца на ўзроўні OmegaT да ўсіх праектаў.</para>
-
+        <para>Opens the <link linkend="dialogs.preferences.editor" endterm="dialogs.preferences.editor.title"/> preferences.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Акно рэдагаваньня…</term>
-
+    <varlistentry id="menus.options.access.configuration.folder">
+      <term id="menus.options.access.configuration.folder.title"><guimenuitem>Доступ да каталёга канфігурацыі</guimenuitem></term>
       <listitem>
-        <para>Адчыняецца дыялёг <link linkend="dialogs.preferences.editor">наладкі акна рэдагаваньня</link> ў дыялёгу наладаў.</para>
+        <para>Opens the local folder where OmegaT configuration files are
+        stored.</para>
 
-        <para>Гэтыя налады ўжываюцца на ўзроўні OmegaT да ўсіх праектаў.</para>
-
-      </listitem>
-    </varlistentry>
-
-    <varlistentry>
-      <term>Доступ да каталёга канфігурацыі</term>
-
-      <listitem>
-        <para>Адчыняецца лякальны каталёг, дзе захоўваюцца канфігурацыйныя файлы OmegaT (залежыць ад апэрацыйнай сыстэмы).</para>
+		<note>
+		  <para>The location depends on the operating system and launch
+		  options. See the <link linkend="configuration.folder" endterm="configuration.folder.title"/> appendix for details.</para>
+		</note>
       </listitem>
     </varlistentry>
   </variablelist>

@@ -1,191 +1,421 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <section id="menus.edit">
-  <title>Праўка</title>
+  <title id="menus.edit.title"><guimenu>Праўка</guimenu></title>
 
-  <para>Элемэнты ў гэтым мэню зьяўляюцца толькі, калі адчынены праект.</para>
+  <para>This menu gives you access to segment edition commands.</para>
+
+  <example id="example.undo.last.action">
+	<title id="example.undo.last.action.title">Shortcut description example</title>
+	<para>On Windows and Linux:
+	<keycombo><keycap>Control</keycap><keycap>Z</keycap></keycombo></para>
+
+	<para>On macOS:
+	<keycombo><keycap>Command</keycap><keycap>Z</keycap></keycombo></para>
+
+	<para><emphasis role="bold">In this manual:</emphasis>
+	<keycombo><keycap>C</keycap><keycap>Z</keycap></keycombo></para>
+  </example>
 
   <variablelist>
-    <varlistentry>
-      <term><guimenuitem>Адмяніць</guimenuitem></term>
-
+    <varlistentry id="menus.edit.undo.last.action">
+      <term id="menus.edit.undo.last.action.title"><guimenuitem>Undo Last
+      Action</guimenuitem>
+      <keycombo><keycap>C</keycap><keycap>Z</keycap></keycombo></term>
       <listitem>
-        <para>Аднаўляецца стан перад апошнім выкананым дзеяньнем. Каманда не працуе, калі зьменены сэгмэнт быў пацьверджаны.</para>
+        <para>Cancels the modifications made to the segment while the segment is
+        current. Once the segment is left, the modification history is
+        lost.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Вярнуць</term>
-
+    <varlistentry id="menus.edit.redo.last.action">
+      <term id="menus.edit.redo.last.action.title"><guimenuitem>Redo Last Action</guimenuitem>
+	  <keycombo><keycap>C</keycap><keycap>Y</keycap></keycombo>
+	  </term>
       <listitem>
-        <para>Аднаўляецца стан перад касаваньнем апошняга дзеяньня праўкі. Каманда не працуе, калі зьменены сэгмэнт быў пацьверджаны.</para>
+        <para>Reapplies the modifications that were cancelled while the segment
+        is current. Once the segment is left, the modification history is
+        lost.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Замяніць пераклад на супадзеньне або вылучэньне</term>
-
+    <varlistentry id="menus.edit.replace.with.match.or.selection">
+      <term id="menus.edit.replace.with.match.or.selection.title"><guimenuitem>Replace With Match or Selection</guimenuitem>
+	  <keycombo><keycap>C</keycap><keycap>R</keycap></keycombo>
+	  </term>
       <listitem>
-        <para>Увесь сэгмэнт перакладу замяняецца на выбранае недакладнае супадзеньне (па змаўчаньні выбіраецца першае супадзеньне).</para>
+        <para>Replaces the target segment with the currently selected fuzzy
+        match (by default the first match is selected) or with the text selected
+        in the <link linkend="panes.fuzzy.matches" endterm="panes.fuzzy.matches.title"/> pane.</para>
 
-        <para>Калі ў недакладным супадзеньні вылучана пэўная частка тэксту, толькі гэтае вылучэньне замяняе ўвесь сэгмэнт перакладу.</para>
+        <para>The selected text has priority over the selected match.</para>
+
+		<para>See the <link linkend="panes.fuzzy.matches" endterm="panes.fuzzy.matches.title"/> pane description for
+		details..</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Уставіць супадзеньне або вылучэньне</term>
-
+    <varlistentry id="menus.edit.insert.match.or.selection">
+      <term id="menus.edit.insert.match.or.selection.title"><guimenuitem>Insert
+      Match or Selection</guimenuitem>
+      <keycombo><keycap>C</keycap><keycap>I</keycap></keycombo></term>
       <listitem>
-        <para>Вылучанае недакладнае супадзеньне ўстаўляецца ў пазыцыю курсора. Калі ў сэгмэньце перакладу вылучаная частка, пры гэтым замяняецца вылучэньне.</para>
+        <para>Inserts the currently selected fuzzy match or the text selected in
+        the <link linkend="panes.fuzzy.matches" endterm="panes.fuzzy.matches.title"/> pane at the cursor position. If a
+        part of the target segment has been selected, that part will be
+        overwriten.</para>
 
-        <para>Калі пэўная частка тэксту вылучаная ў недакладным супадзеньні, толькі гэтае вылучэньне ўстаўляецца ў пазыцыю курсора.</para>
+        <para>The selected text has priority over the selected match.</para>
+
+		<para>See the <link linkend="panes.fuzzy.matches" endterm="panes.fuzzy.matches.title"/> pane description for
+		details..</para>
+	  </listitem>
+    </varlistentry>
+
+    <varlistentry id="menus.edit.replace.with.source">
+      <term id="menus.edit.replace.with.source.title"><guimenuitem>Replace with Source</guimenuitem>
+	  <keycombo><keycap>C</keycap><keycap>S</keycap><keycap>R</keycap></keycombo>
+	  </term>
+      <listitem>
+        <para>Replaces the entire target segment with the segment source.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Замяніць на машынны пераклад</term>
-
+    <varlistentry id="menus.edit.insert.source">
+      <term id="menus.edit.insert.source.title"><guimenuitem>Insert Source</guimenuitem>
+	  <keycombo><keycap>C</keycap><keycap>S</keycap><keycap>I</keycap></keycombo>
+	  </term>
       <listitem>
-        <para>Зьмесьціва сэгмэнта перакладу замяняецца перакладам ад сэрвісу машыннага перакладу. Калі сэрвіс машыннага перакладу не актываваны (мэню <menuchoice> <guimenu>Налады</guimenu> → <guimenuitem>Машынны пераклад</guimenuitem> </menuchoice>), не адбываецца нічога.</para>
+        <para>Inserts the segment source at the cursor position. If a part of
+        the target segment has been selected, that part will be
+        overwriten.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Аднавіць зыходны тэкст</term>
-
+    <varlistentry id="menus.edit.select.source.text">
+      <term id="menus.edit.select.source.text.title"><guimenuitem>Select Source Text</guimenuitem>
+	  <keycombo><keycap>C</keycap><keycap>S</keycap><keycap>A</keycap></keycombo>
+	  </term>
       <listitem>
-        <para>Увесь сэгмэнт перакладу замяняецца на зыходны тэкст.</para>
+        <para>Selects the source text.</para>
+
+		<para>The selection can be directly used in OmegaT for <link linkend="windows.text.search">internal searches</link>, <link linkend="windows.text.replace">replacements</link>, <link linkend="menus.edit.create.glossary.entry">glossary term entry</link>,
+		<link linkend="dialogs.preferences.external.searches">external
+		searches</link>, etc. Once copied to the OS clipboard, it can also be
+		used in web searches and otherwise.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Уставіць зыходны тэкст</term>
-
+    <varlistentry id="menus.edit.replace.with.mt">
+      <term id="menus.edit.replace.with.mt.title"><guimenuitem>Replace with Machine Translation</guimenuitem>
+	  <keycombo><keycap>C</keycap><keycap>M</keycap></keycombo>
+	  </term>
       <listitem>
-        <para>Зыходны тэкст устаўляецца ў пазыцыю курсор.</para>
+        <para>Зьмесьціва сэгмэнта перакладу замяняецца перакладам ад сэрвісу машыннага перакладу.</para>
+		<para>If the <link linkend="dialogs.preferences.mt.automatically.fetch.translations" endterm="dialogs.preferences.mt.automatically.fetch.translations.title"/>
+		preference is disabled, use this action a first time to fetch the
+		translation and a second time to insert it.</para>
+		
+		<para>No action is taken if no machine translation service has been
+		activated in the <link linkend="menus.options" endterm="menus.options.title"/><link linkend="menus.options.mt" endterm="menus.options.mt.title"/> menu. See the <link linkend="dialogs.preferences.mt" endterm="dialogs.preferences.mt.title"/> preferences for details.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Уставіць адсутныя тэгі зыходнага тэксту</term>
-
+    <varlistentry id="menus.edit.insert.missing.source.tag">
+      <term id="menus.edit.insert.missing.source.tag.title"><guimenuitem>Insert Missing Source Tags</guimenuitem>
+	  <keycombo><keycap>C</keycap><keycap>S</keycap><keycap>T</keycap></keycombo>
+	  </term>
       <listitem>
-        <para>Тэгі з зыходнага тэксту (калі іх няма ў перакладзе) устаўляюцца ў пазыцыю курсора.</para>
+        <para>Inserts the remaining missing source tags at the cursor
+        position.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Уставіць наступны адсутны тэг</term>
-
+    <varlistentry id="menus.edit.insert.next.missing.tag">
+      <term id="menus.edit.insert.next.missing.tag.title"><guimenuitem>Insert Next Missing Tag</guimenuitem>
+	  <keycombo><keycap>C</keycap><keycap>T</keycap></keycombo>
+	  </term>
       <listitem>
-        <para>У пазыцыю курсора ўстаўляецца толькі адзін тэг (з адсутных).</para>
+        <para>Inserts the next missing tag at the cursor position.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Экспартаваць вылучанае</term>
-
+    <varlistentry id="menus.edit.export.selection">
+      <term id="menus.edit.export.selection.title"><guimenuitem>Export Selection</guimenuitem>
+	  <keycombo><keycap>C</keycap><keycap>C</keycap><keycap>S</keycap></keycombo>
+	  </term>
       <listitem>
-        <para>Бягучае вылучэньне экспартуецца ў тэкставы файл для апрацоўкі. Калі частка тэксту ня вылучаная, у файл выгружаецца ўвесь бягучы сэгмэнт. Калі карыстальнік выходзіць з <application>OmegaT</application>, гэты файл не спусташаецца, каб імітаваць звычайныя паводзіны буфэра абмену. Экспартаванае зьмесьціва капіюецца ў файл <filename>selection.txt</filename> у каталёгу наладаў карыстальніка.</para>
+        <para>Бягучае вылучэньне экспартуецца ў тэкставы файл для апрацоўкі. Калі частка тэксту ня вылучаная, у файл выгружаецца ўвесь бягучы сэгмэнт. To remain consistent with usual clipboard behavior this file is not emptied when the user exits OmegaT. The exported contents are copied to the <link linkend="configuration.folder.default.contents.script.selection.title" endterm="configuration.folder.default.contents.script.selection.title"/> file located in the <link linkend="configuration.folder">configuration</link> folder.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Стварыць запіс глясара</term>
-
+    <varlistentry id="menus.edit.create.glossary.entry">
+      <term id="menus.edit.create.glossary.entry.title"><guimenuitem>Create Glossary Entry...</guimenuitem>
+	  <keycombo><keycap>C</keycap><keycap>S</keycap><keycap>G</keycap></keycombo>
+	  </term>
       <listitem>
-        <para>Дазваляе карыстальніку стварыць запіс у файле глясара, ужываным па змаўчаньні.</para>
+        <para>Allows the user to create an entry in the project writable
+        glossary (<link linkend="project.folder.glossary.txt" endterm="project.folder.glossary.txt.title"/>).</para>
 
-        <para>Калі вылучыць радок тэксту (у якой заўгодна панэлі) перад націсканьнем <keycombo> <keycap>Ctrl</keycap> <keycap>Shift</keycap> <keycap>G</keycap> </keycombo>, тэкст будзе ўстаўлены па змаўчаньні ў поле <guilabel>Зыходны тэрмін</guilabel>.</para>
+		<para>There are two ways to use this function.</para>
 
-        <para>Падобнае будзе адбывацца і ў палёх <guimenuitem>Пераклад тэрміна</guimenuitem> і <guimenuitem>Камэнтар</guimenuitem>, калі зноў вылучыць тэкст і зноў націснуць <keycombo> <keycap>Ctrl</keycap> <keycap>Shift</keycap> <keycap>G</keycap> </keycombo>.</para>
+		<itemizedlist>
+		  <listitem>
+			<para>The first is to call the dialog and then manually fill
+			in the various fields.</para>
+		  </listitem>
+
+		  <listitem>
+			<para>The second is to select items in one of the OmegaT panes and
+			sequentially call the dialog after each selection to have OmegaT
+			enter it automatically in the various fields:</para>
+			
+			<orderedlist>
+			  <listitem>
+				<para>Select a text string in any pane</para>
+			  </listitem>
+
+			  <listitem>
+				<para>Press
+				<keycombo><keycap>C</keycap><keycap>S</keycap><keycap>G</keycap></keycombo></para>
+				
+				<para>The selection will be entered in the <guilabel>Source
+				term</guilabel> field.</para>
+			  </listitem>
+
+			  <listitem>
+				<para>Select a text string in any pane</para>
+			  </listitem>
+
+			  <listitem>
+				<para>Press
+				<keycombo><keycap>C</keycap><keycap>S</keycap><keycap>G</keycap></keycombo></para>
+
+				<para>The selection will be entered in the <guilabel>Target
+				term</guilabel> field.</para>
+			  </listitem>
+
+			  <listitem>
+				<para>[Optional] Select a text string in any pane</para>
+			  </listitem>
+
+			  <listitem>
+				<para>[Optional] Press
+				<keycombo><keycap>C</keycap><keycap>S</keycap><keycap>G</keycap></keycombo></para>
+
+				<para>The selection will be entered in the
+				<guilabel>Comment</guilabel> field.</para>
+			  </listitem>
+
+			  <listitem>
+				<para>Hit <keycap>Enter</keycap> or click on
+				<guibutton>OK</guibutton></para>
+			  </listitem>
+			</orderedlist>
+		  </listitem>
+		</itemizedlist>
+	  </listitem>
+    </varlistentry>
+
+    <varlistentry id="menus.edit.search.project">
+      <term id="menus.edit.search.project.title"><guimenuitem>Search...</guimenuitem>
+	  <keycombo><keycap>C</keycap><keycap>F</keycap></keycombo>
+	  </term>
+      <listitem>
+        <para>Opens a new <link linkend="windows.text.search" endterm="windows.text.search.title"/> window.</para>
+
+        <para>If you select a text string (in any pane) before calling the
+        function, the text will be pasted by default in the <guilabel>Search
+        for:</guilabel> field.</para>
+
+		<para><keycombo><keycap>C</keycap><keycap>S</keycap><keycap>F</keycap></keycombo>
+		reuses the most recent still open Search window (instead of opening a
+		new one).</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Пошук у праекце…</term>
-
+    <varlistentry id="menus.edit.search.and.replace">
+      <term id="menus.edit.search.and.replace.title"><guimenuitem>Replace...</guimenuitem>
+	  <keycombo><keycap>C</keycap><keycap>K</keycap></keycombo>
+	  </term>
       <listitem>
-        <para>Адчыняецца новае <link linkend="windows.textsearch">вакно пошуку</link>.</para>
+        <para>Opens a new <link linkend="windows.text.replace" endterm="windows.text.replace.title"/> window.</para>
 
-        <para>Калі вылучыць радок тэксту (у якой заўгодна панэлі) перад націсканьнем <keycombo> <keycap>Ctrl</keycap> <keycap>F</keycap> </keycombo>, тэкст будзе ўстаўлены па змаўчаньні ў поле <guilabel>Знайсьці</guilabel>.</para>
-
-        <para>Пры націсканьні <keycombo> <keycap>Ctrl</keycap> <keycap>Shift</keycap> <keycap>F</keycap> </keycombo> зьяўляецца апошняе раней адчыненае вакно пошуку (а ня новае).</para>
+        <para>If you select a text string (in any pane) before calling the
+        function, the text will be pasted by default in the <guilabel>Search
+        for:</guilabel> field.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Пошук і замена…</term>
-
+    <varlistentry id="menus.edit.search.dictionaries">
+      <term id="menus.edit.search.dictionaries.title"><guimenuitem>Пошук у слоўніках</guimenuitem></term>
       <listitem>
-        <para>Адчыняецца новае <link linkend="windows.textreplace">вакно пошуку і замены</link>.</para>
-
-        <para>Калі вылучыць радок тэксту (у якой заўгодна панэлі) перад націсканьнем <keycombo> <keycap>Ctrl</keycap> <keycap>K</keycap> </keycombo>, тэкст будзе ўстаўлены па змаўчаньні ў поле <guilabel>Знайсьці</guilabel>.</para>
+        <para>If the <link linkend="dialogs.preferences.dictionary.automatically.search.segment" endterm="dialogs.preferences.dictionary.automatically.search.segment.title"/>
+        preference is disabled, this function allows you to search for the
+        selected word in the dictionaries.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Пошук у слоўніках</term>
-
+    <varlistentry id="menus.edit.switch.case">
+      <term id="menus.edit.switch.case.title"><guisubmenu>Зьмяніць рэгістар на</guisubmenu></term>
       <listitem>
-        <para>Калі адключаны <link linkend="dialogs.preferences.dictionary">аўтаматычны пошук у слоўніках</link>, гэта функцыя дазваляе рабіць пошук вылучанага слова ў слоўніках.</para>
-      </listitem>
-    </varlistentry>
+        <para>Changes the case of the selected text in the target segment to the
+        selected option, or cycles through the options. If no text is selected,
+        OmegaT selects the word starting with the character immediately to the
+        right of the cursor.</para>
 
-    <varlistentry>
-      <term>Зьмяніць рэгістар на</term>
+		<itemizedlist>
+		  <listitem>
+			<para><guimenuitem>lower case</guimenuitem></para>
 
+			<para>all letters in lower case</para>
+		  </listitem>
+
+		  <listitem>
+			<para><guimenuitem>UPPER CASE</guimenuitem></para>
+
+			<para>ALL LETTERS IN UPPER CASE</para>
+		  </listitem>
+
+		  <listitem>
+			<para><guimenuitem>Title Case</guimenuitem></para>
+
+			<para>Almost all Letters in Lower Case</para>
+		  </listitem>
+
+		  <listitem>
+			<para><guimenuitem>Sentence case</guimenuitem></para>
+			<para>Only the first letter in upper case.</para>
+		  </listitem>
+
+		  <listitem>
+			<para><guimenuitem>Cycle</guimenuitem>
+			<keycombo><keycap>S</keycap><keycap>F3</keycap></keycombo></para>
+		  </listitem>
+		</itemizedlist>
+	  </listitem>
+	</varlistentry>
+
+	<varlistentry id="menus.edit.select.match">
+      <term id="menus.edit.select.match.title"><guisubmenu>Выбраць супадзеньне</guisubmenu></term>
       <listitem>
-        <para>Рэгістар вылучанага тэксту ў сэгмэньце перакладу зьмяняецца на выбраны варыянт (“Усе малыя”, “Усе вялікія”, “Як у загалоўках”, “Як у сказах”). Каб пераключацца паміж гэтымі варыянтамі, націскайце <keycombo><keycap>Shift</keycap> + <keycap>F3</keycap></keycombo>. Калі тэкст ня вылучаны, <application>OmegaT</application> вылучае слова, якое ўтрымлівае літару непасрэдна справа ад курсора.</para>
+		<para>Selects the previous, next or <varname>n</varname>th fuzzy match
+		displayed in the fuzzy match pane to replace or insert it to the
+		segment.</para>
+		
+		<itemizedlist>
+		  <listitem>
+			<para><guimenuitem>Select Previous Match</guimenuitem>
+			<keycombo><keycap>A</keycap><keycap>↑</keycap></keycombo></para>
+		  </listitem>
+
+		  <listitem>
+			<para><guimenuitem>Select Next Match</guimenuitem>
+			<keycombo><keycap>A</keycap><keycap>↓</keycap></keycombo></para>
+		  </listitem>
+
+		  <listitem>
+			<para><guimenuitem>Select Match #1</guimenuitem>
+			<keycombo><keycap>C</keycap><keycap>1</keycap></keycombo></para>
+		  </listitem>
+		  
+		  <listitem>
+			<para><guimenuitem>Select Match #2</guimenuitem>
+			<keycombo><keycap>C</keycap><keycap>2</keycap></keycombo></para>
+		  </listitem>
+		  <listitem>
+			<para><guimenuitem>Select Match #3</guimenuitem>
+			<keycombo><keycap>C</keycap><keycap>3</keycap></keycombo></para>
+		  </listitem>
+
+		  <listitem>
+			<para><guimenuitem>Select Match #4</guimenuitem>
+			<keycombo><keycap>C</keycap><keycap>4</keycap></keycombo></para>
+		  </listitem>
+
+		  <listitem>
+			<para><guimenuitem>Select Match #5</guimenuitem>
+			<keycombo><keycap>C</keycap><keycap>5</keycap></keycombo></para>
+		  </listitem>
+		</itemizedlist>
       </listitem>
-    </varlistentry>
+	</varlistentry>
 
-    <varlistentry>
-      <term>Выбраць супадзеньне</term>
+	<varlistentry id="menus.edit.insert.unicode.control.character">
+      <term id="menus.edit.insert.unicode.control.character.title"><guisubmenu>Уставіць кіроўны сымбаль Юнікода</guisubmenu></term>
+	  <listitem>
+		<para>Inserts the selected Unicode control character. See <ulink url="https://www.unicode.org/reports/tr9/">Unicode Bidirectional
+		Algorithm</ulink> for details.</para>
 
+		<itemizedlist>
+		  <listitem>
+			<para><guimenuitem>Пазнака зьлева-направа (LRM U+200E)</guimenuitem></para>
+		  </listitem>
+		
+		  <listitem>
+			<para><guimenuitem>Пазнака справа-налева (RLM U+200F)</guimenuitem></para>
+		  </listitem>
+		  
+		  <listitem>
+			<para><guimenuitem>Устаўка зьлева-направа (LRE U+202A)</guimenuitem></para>
+		  </listitem>
+		  
+		  <listitem>
+			<para><guimenuitem>Устаўка справа-налева (RLE U+202B)</guimenuitem></para>
+		  </listitem>
+		  
+		  <listitem>
+			<para><guimenuitem>Папулярны кірунак фарматаваньня (PDF U+202C)</guimenuitem></para>
+		  </listitem>
+		</itemizedlist>
+      </listitem>
+	</varlistentry>
+
+	<varlistentry id="menus.edit.use.as.default.translation">
+      <term id="menus.edit.use.as.default.translation.title"><guimenuitem>Выкарыстоўваць як пераклад па змаўчаньні</guimenuitem></term>
       <listitem>
-        <para>Выбар недакладнага супадзеньня № N на панэлі недакладных супадзеньняў для замены на яго перакладу або ўстаўкі яго ў сэгмэнт.</para>
+		<para>If several alternative translations are available for the active
+		segment, you can label the alternative selected as the default
+		translation. The entry will be greyed if only one translation is
+		available.</para>
       </listitem>
-    </varlistentry>
+	</varlistentry>
 
-    <varlistentry>
-      <term>Выкарыстоўваць як пераклад па змаўчаньні</term>
-
+	<varlistentry id="menus.edit.create.alternative.translation">
+      <term id="menus.edit.create.alternative.translation.title"><guimenuitem>Стварыць альтэрнатыўны пераклад</guimenuitem></term>
       <listitem>
-        <para>Калі для актыўнага сэгмэнта ёсьць альтэрнатыўныя пераклады, можна пазначыць вылучаны варыянт як пераклад па змаўчаньні. Калі ёсьць толькі адзін пераклад, гэты пункт мэню будзе шэрым.</para>
+		<para>Segments that are one and the same segment may, depending on the
+		context, require different translations. If the current translation does
+		not apply, select this menu item and enter the alternative
+		translation.</para>
       </listitem>
-    </varlistentry>
+	</varlistentry>
 
-    <varlistentry>
-      <term>Стварыць альтэрнатыўны пераклад</term>
-
+	<varlistentry id="menus.edit.remove.translation">
+      <term id="menus.edit.remove.translation.title"><guimenuitem>Выдаліць пераклад</guimenuitem></term>
       <listitem>
-        <para>Аднолькавыя сэгмэнты ў залежнасьці ад кантэксту могуць мець розныя пераклады. Вылучыць гэты пункт мэню, калі бягучы пераклад не пасуе, і стварыць альтэрнатыўны пераклад.</para>
+		<para>Deletes the current translation and sets the segment as
+		untranslated.</para>
       </listitem>
-    </varlistentry>
+	</varlistentry>
 
-    <varlistentry>
-      <term>Выдаліць пераклад</term>
-
+	<varlistentry id="menus.edit.set.empty.translation">
+      <term id="menus.edit.set.empty.translation.title"><guimenuitem>Задаць пусты пераклад</guimenuitem></term>
       <listitem>
-        <para>Пераклад выдаляецца, а сэгмэнт становіцца неперакладзеным.</para>
+		<para>Define the translation as empty. У дакумэньце перакладу на месцы гэтага сэгмэнта не зьявіцца нічога. In the Editor, the translation is displayed as <literal>&lt;EMPTY&gt;</literal>.</para>
       </listitem>
-    </varlistentry>
+	</varlistentry>
 
-    <varlistentry>
-      <term>Задаць пусты пераклад</term>
-
+	<varlistentry id="menus.edit.register.identical.translation">
+      <term id="menus.edit.register.identical.translation.title"><guimenuitem>Register Identical Translation</guimenuitem>
+	  <keycombo><keycap>C</keycap><keycap>S</keycap><keycap>S</keycap></keycombo>
+	  </term>
       <listitem>
-        <para>Пераклад вызначаецца як пусты. У дакумэньце перакладу на месцы гэтага сэгмэнта не зьявіцца нічога. У вакне рэдагаваньня пераклад паказваецца як &lt;ПУСТЫ&gt;</para>
+		<para>Use this command to register a translation as identical to the
+		source, even if the <link linkend="dialogs.preferences.editor.allow.translation.to.be.equal.to.source" endterm="dialogs.preferences.editor.allow.translation.to.be.equal.to.source.title"/>
+		preference is not enabled.</para>
       </listitem>
-    </varlistentry>
-
-    <varlistentry>
-      <term>Зарэгістраваць ідэнтычны пераклад</term>
-
-      <listitem>
-        <para>Гэтая каманда ўжываецца ў мэтах рэгістрацыі тэксту перакладу тоесным зыходнаму тэксту, нават калі не пазначана <link linkend="dialogs.preferences.editor.allowtranslationtobeequaltosource"><guilabel>“Дазволіць супадзеньне крыніцы і перакладу”</guilabel></link>.</para>
-      </listitem>
-    </varlistentry>
+	</varlistentry>
   </variablelist>
 </section>

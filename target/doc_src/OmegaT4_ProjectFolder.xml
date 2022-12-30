@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <chapter id="project.folder">
   <title>Каталёг праекта</title>
 
@@ -24,7 +24,7 @@
 
     <para>Зьмесьціва файлаў памяці перакладаў у падкаталёгу /tm прызначана для атрыманьня прапановаў тэксту для перакладу. Любы тэкст, ужо перакладзены і захаваны ў гэтых файлах, будзе зьяўляцца сярод недакладных супадзеньняў, калі ён дастаткова падобны на тэкст, які перакладаецца.</para>
 
-    <para>Калі нейкі зыходны сэгмэнт у адным з апорных файлаў памяці перакладаў ідэнтычны перакладанаму тэксту, OmegaT дзейнічае, як вызначана праз <menuchoice><guimenu>Налады</guimenu> <guimenuitem>Акно рэдагаваньня…</guimenuitem></menuchoice>. Напрыклад (калі ўжываюцца налады па змаўчаньні), пераклад з апорнага файла памяці перакладаў прымаецца з устаўкай прэфікса <emphasis>[недакладнае]</emphasis>, каб перакладчык мог перагледзець пераклад на пазьнейшым этапе, і праверыць, ці правільна перакладзеныя пазначаныя такім чынам сэгмэнты<menuchoice><guimenu>.</guimenu></menuchoice></para>
+    <para>Калі нейкі зыходны сэгмэнт у адным з апорных файлаў памяці перакладаў ідэнтычны перакладанаму тэксту, OmegaT дзейнічае, як вызначана праз <menuchoice><guimenu>Налады</guimenu> <guimenuitem>Акно рэдагаваньня…</guimenuitem></menuchoice>. For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with<emphasis> [fuzzy]</emphasis>, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly.</para>
 
     <para>Можа здарыцца так, што ў файлах памяці перакладаў у каталёгу <filename>/tm</filename> будуць сэгмэнты з аднолькавым зыходным тэкстам, але рознымі перакладамі. Файлы TMX счытваюцца і сартуюцца паводле іхніх назваў, а сэгмэнты ў межах пэўнага файла TMX — радок за радком. Апошні сэгмэнт з ідэнтычным зыходным тэкстам, такім чынам, будзе пераважным (заўвага: вядома, мае сэнс пазьбягаць падобных сытуацыяў).</para>
 

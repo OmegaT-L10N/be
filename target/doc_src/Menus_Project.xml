@@ -1,190 +1,313 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <section id="menus.project">
-  <title>Праект</title>
+  <title id="menus.project.title"><guimenu>Праект</guimenu></title>
+  <para>This menu gives you access to project management commands.</para>
 
+  <example id="example.new.project.shortcut">
+	<title id="example.new.project.shortcut.title">Shortcut description
+	example</title>
+	<para>On Windows and Linux:
+	<keycombo><keycap>Control</keycap><keycap>Shift</keycap><keycap>N</keycap></keycombo>
+	</para>
+
+	<para>On macOS:
+	<keycombo><keycap>Shift</keycap><keycap>Command</keycap><keycap>N</keycap></keycombo>
+	</para>
+
+	<para><emphasis role="bold">In this manual:</emphasis>
+	<keycombo><keycap>C</keycap><keycap>S</keycap><keycap>N</keycap></keycombo>
+	</para>
+  </example>
+  
   <variablelist>
-    <varlistentry>
-      <term><guimenuitem>Стварыць праект…</guimenuitem></term>
-
+    <varlistentry id="menus.project.new">
+      <term id="menus.project.new.title"><guimenuitem>New...</guimenuitem>
+	  <keycombo><keycap>C</keycap><keycap>S</keycap><keycap>N</keycap></keycombo>
+	  </term>
       <listitem>
-        <para>Ствараецца і адчыняецца новы праект.</para>
+        <para>Ствараецца і адчыняецца новы праект. See the <link linkend="introduction.create.and.open.new.project" endterm="introduction.create.and.open.new.project.title"/> section for details.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term><guimenuitem>Спампаваць камандны праект…</guimenuitem></term>
-
+    <varlistentry id="menus.project.download.team.project">
+      <term id="menus.project.download.team.project.title"><guimenuitem>Спампаваць камандны праект…</guimenuitem></term>
       <listitem>
-        <para>Ствараецца лякальная копія аддаленага праекта OmegaT. Падрабязнасьці гл. у разьдзеле <link linkend="howto.useteamproject">“Ужываньне камандных праектаў”</link>.</para>
+        <para>Ствараецца лякальная копія аддаленага праекта OmegaT. See the <link linkend="how.to.use.team.project" endterm="how.to.use.team.project.title"/> how-to for details.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Адчыніць праект…</term>
-
+    <varlistentry id="menus.project.open">
+      <term id="menus.project.open.title"><guimenuitem>Open...</guimenuitem>
+	  <keycombo><keycap>C</keycap><keycap>O</keycap></keycombo></term>
       <listitem>
         <para>Адчыняецца раней створаны праект.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Адчыніць нядаўні праект</term>
-
+    <varlistentry id="menus.project.open.recent">
+      <term id="menus.project.open.recent.title"><guimenuitem>Open
+      Recent...</guimenuitem></term>
       <listitem>
-        <para>Адкрываецца доступ да дзесяці апошніх праектаў. Пры націсканьні на адным зь іх бягучы праект будзе захаваны і зачынены, пасьля гэтага адчыніцца іншы праект.</para>
+        <para>Gives access to the last ten edited projects. Clicking one will
+        save the current project, close it and open the selected project.</para>
+        <para>Use <guimenuitem>Clear Menu</guimenuitem> function to delete
+        the list of recent projects.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Імпартаваць зыходныя файлы…</term>
-
-      <listitem>
-        <para>Зыходныя файлы капіююцца ў каталёг <filename>source</filename>, праект перагружаецца для загрузкі новых файлаў.</para>
-      </listitem>
-    </varlistentry>
-
-    <varlistentry>
-      <term>Спампаваць старонку MediaWiki…</term>
-
-      <listitem>
-        <para>Каб перакласьці, напрыклад, зьмесьціва старонкі ў Вікіпэдыі:</para>
-
-        <orderedlist>
-          <listitem>
-            <para>Націсьнеце на ўкладцы <guilabel>Рэдагаваць</guilabel> на старонцы Вікіпэдыі.</para>
-          </listitem>
-
-          <listitem>
-            <para>Скапіюйце URL-адрас старонкі (з канчаткам <guilabel>action=edit</guilabel>) і ўстаўце яго ў <application>OmegaT</application>.</para>
-          </listitem>
-        </orderedlist>
-
-        <para>Пасьля завяршэньня перакладу, зрабеце наступнае, каб унесьці яго ў Вікіпэдыю:</para>
-
-        <orderedlist>
-          <listitem>
-            <para>Адчынеце файл <filename>.UTF8</filename>, які створаны ў каталёгу <filename>/target</filename>.</para>
-          </listitem>
-
-          <listitem>
-            <para>Скапіюйце тэкст і ўстаўце яго ў перакладзеную вэрсію старонкі Вікіпэдыі.</para>
-          </listitem>
-        </orderedlist>
-      </listitem>
-    </varlistentry>
-
-    <varlistentry>
-      <term>Перазагрузіць</term>
-
+    <varlistentry id="menus.project.reload">
+      <term id="menus.project.reload.title"><guimenuitem>Reload</guimenuitem>
+	  <keycombo><keycap>F5</keycap></keycombo></term>
       <listitem>
         <para>Праект перагружаецца, каб улічыць зьмены, зробленыя ў зыходных файлах і парамэтрах праекта.</para>
-
-        <para>Новыя файлы памяці перакладаў, якія зьяўляюцца ў каталёгу <filename>/tm</filename>, падчас перакладаньня падгружаюцца аўтаматычна пры пераходзе курсора з сэгмэнта ў сэгмэнт.</para>
+        <note>
+		  <para>New translation memories placed in the <link linkend="project.folder.tm" endterm="project.folder.tm.title"/> folder
+		  while translating are automatically taken into account as soon as the
+		  cursor moves from one segment to another. Similarly, the contents of
+		  the <link linkend="project.folder.glossary" endterm="project.folder.glossary.title"/> folder are automatically
+		  recognized and do not require reloading the project.</para>
+		</note>
+		<para>When reloading a team project, OmegaT reloads the remote
+		properties, not the local properties.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Зачыніць</term>
-
+    <varlistentry id="menus.project.close">
+      <term id="menus.project.close.title"><guimenuitem>Close</guimenuitem>
+	  <keycombo><keycap>C</keycap><keycap>S</keycap><keycap>W</keycap></keycombo></term>
       <listitem>
-        <para>Пераклад захоўваецца, праект зачыняецца.</para>
+        <para>Saves the project translation memory (<link linkend="project.folder.project.save.tmx" endterm="project.folder.project.save.tmx.title"/>) and closes the
+        project.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Захаваць</term>
-
+    <varlistentry id="menus.project.save">
+      <term id="menus.project.save.title"><guimenuitem>Save</guimenuitem>
+	  <keycombo><keycap>C</keycap><keycap>S</keycap></keycombo></term>
       <listitem>
-        <para>Унутраная памяць перакладаў захоўваецца на жорсткі дыск. OmegaT аўтаматычна захоўвае пераклады кожныя 3 хвіліны, а таксама пры закрыцьці праекта або выхадзе за праграмы.</para>
-
-        <para>Інтэрвал у 3 хвіліны можна зьмяніць праз <link linkend="dialogs.preferences.savingandoutput"><menuchoice> <guimenuitem>Налады</guimenuitem> <guimenuitem>Налады</guimenuitem> <guimenuitem>Захаваньне і вывад</guimenuitem> </menuchoice></link>.</para>
+        <para>Saves the project translation memory (<link linkend="project.folder.project.save.tmx" endterm="project.folder.project.save.tmx.title"/>).</para>
+		<para>OmegaT аўтаматычна захоўвае пераклады кожныя 3 хвіліны, а таксама пры закрыцьці праекта або выхадзе за праграмы. See the <link linkend="dialog.preferences.saving.and.output.interval" endterm="dialog.preferences.saving.and.output.interval.title"/> preference for details.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Фіксацыя зыходных файлаў</term>
-
+    <varlistentry id="menus.project.copy.files.to.source.folder">
+      <term id="menus.project.copy.files.to.source.folder.title"><guimenuitem>Add
+      Files...</guimenuitem></term>
       <listitem>
-        <para>У рэпазыторый запампоўваюцца файлы, даданыя ці лякальна зьмененыя ў каталёгу <filename>source</filename>.</para>
-
-        <para>Гэтыя функцыя — толькі для камандных праектаў.</para>
+        <para>Copies the selected files to the <link linkend="project.folder.source" endterm="project.folder.source.title"/>
+        folder and reloads the project to take the new files into
+        account.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Фіксацыя файлаў перакладаў</term>
-
+    <varlistentry id="menus.project.download.mediawiki.page">
+      <term id="menus.project.download.mediawiki.page.title"><guimenuitem>Add
+      Online MediaWiki Page...</guimenuitem></term>
       <listitem>
-        <para>У рэпазыторый запампоўваюцца файлы, створаныя лякальна ў каталёгу <filename>target</filename>.</para>
-
-        <para>Гэтыя функцыя — толькі для камандных праектаў.</para>
+		<para>Opens a dialog where you can paste the URL of the Mediawiki page
+		you want to translate. The source data of the page will be copied into
+		the <link linkend="project.folder.source" endterm="project.folder.source.title"/> folder, as a text file, with the
+		<filename>.utf8</filename> extension.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Адкампіляваць праект</term>
-
+    <varlistentry id="menus.project.commit.source.files">
+      <term id="menus.project.commit.source.files.title"><guimenuitem>Фіксацыя зыходных файлаў</guimenuitem></term>
       <listitem>
-        <para>На аснове зробленага перакладу ствараюцца дакумэнты зь перакладамі. Створаныя дакумэнты перакладаў знаходзяцца ў каталёгу <filename>target</filename>.</para>
+        <warning><para>Гэтыя функцыя — толькі для камандных праектаў. <emphasis>Only the team project manager should use this function</emphasis>. See the <link linkend="how.to.use.team.project" endterm="how.to.use.team.project.title"/> how-to for details.</para></warning>
+        <para>Uploads locally added or modified files from the <filename class="directory">source</filename> folder to the team project
+        repository.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Скампіляваць пераклад для гэтага дакумэнта</term>
-
+    <varlistentry id="menus.project.commit.target.files">
+      <term id="menus.project.commit.target.files.title"><guimenuitem>Фіксацыя файлаў перакладаў</guimenuitem></term>
       <listitem>
-        <para>Ствараецца файл зь перакладам для бягучага перакладанага дакумэнта.</para>
+        <warning><para>Гэтыя функцыя — толькі для камандных праектаў. <emphasis>Use this function only if the team project manager requested so</emphasis>. See the <link linkend="how.to.use.team.project" endterm="how.to.use.team.project.title"/> how-to for details.</para></warning>
+        <para>Uploads locally created from the <link linkend="project.folder.target" endterm="project.folder.target.title"/>
+        folder to the team project repository.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Адчыніць праект MED…</term>
+    <varlistentry id="menus.project.create.translated.documents">
+      <term id="menus.project.create.translated.documents.title"><guimenuitem>Create
+      Translated Files</guimenuitem>
+      <keycombo><keycap>C</keycap><keycap>D</keycap></keycombo></term>
+      <listitem>
+        <para>Creates the target files based on your translation. The created
+        target files are located in the <link linkend="project.folder.target" endterm="project.folder.target.title"/> folder.</para>
+		<note><para>You can block target file creation if tag issues are
+		found. See the <link linkend="dialogs.preferences.tag.processing.do.not.allow.creating.translated.documents.with.tag.issues" endterm="dialogs.preferences.tag.processing.do.not.allow.creating.translated.documents.with.tag.issues.title"/>
+		preference for details.</para></note>
+      </listitem>
+    </varlistentry>
 
+    <varlistentry id="menus.project.create.current.translated.document">
+      <term id="menus.project.create.current.translated.document.title"><guimenuitem>Create
+      Current Translated File</guimenuitem>
+      <keycombo><keycap>C</keycap><keycap>S</keycap><keycap>D</keycap></keycombo></term>
+      <listitem>
+        <para>Creates the target file corresponding to source file currently
+        being translated. The resulting file is located in the <link linkend="project.folder.target" endterm="project.folder.target.title"/>
+        folder.</para>
+		<para>
+		</para>				
+      </listitem>
+    </varlistentry>
+
+    <varlistentry id="menus.project.open.med.project">
+      <term id="menus.project.open.med.project.title"><guimenuitem>Адчыніць праект MED…</guimenuitem></term>
+	  <!-- TODO add link to a format description -->
       <listitem>
         <para>Адчыняецца пакет праекта ў фармаце MED, вызначаным генэральным дырэктаратам ЕС у перакладзе.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Стварыць праект MED…</term>
-
+    <varlistentry id="menus.project.create.med.project">
+      <term id="menus.project.create.med.project.title"><guimenuitem>Стварыць праект MED…</guimenuitem></term>
+	  <!-- TODO add link to a format description -->
       <listitem>
         <para>Бягучы праект пераўтвараецца ў пакет MED.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Уласьцівасьці…</term>
-
+    <varlistentry id="menus.project.properties">
+      <term id="menus.project.properties.title"><guimenuitem>Properties...</guimenuitem>
+      <keycombo><keycap>C</keycap><keycap>E</keycap></keycombo></term>
       <listitem>
-        <para>Паказваецца дыялёг <link linkend="dialogs.projectproperties">уласьцівасьцяў праекта</link>, празь які можна зьмяніць мовы праекта і месцазнаходжаньні каталёгаў.</para>
+        <para>Displays the <link linkend="dialogs.project.properties" endterm="dialogs.project.properties.title"/> dialog to edit the project
+        languages and folder locations.</para>
+		<para>
+		</para>		
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Файлы праекта…</term>
-
+    <varlistentry id="menus.project.source.files.list">
+      <term id="menus.project.source.files.list.title"><guimenuitem>Source
+      Files...</guimenuitem>
+      <keycombo><keycap>C</keycap><keycap>L</keycap></keycombo></term>
       <listitem>
-        <para>Адчыняецца <link linkend="windows.projectfiles">вакно з файламі праекта</link>.</para>
+        <para>Opens the <link linkend="windows.source.files.list" endterm="windows.source.files.list.title"/> window.</para>
+		<para>
+		</para>				
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Доступ да зьмесьціва праекта</term>
-
+    <varlistentry id="menus.project.access.project.contents">
+      <term id="menus.project.access.project.contents.title"><guisubmenu>Доступ да зьмесьціва праекта</guisubmenu></term>
       <listitem>
-        <para>Адкрываецца доступ да каталёгаў праекта.</para>
+        <para>Gives access to the various project folders. See the <link linkend="chapter.project.folder" endterm="chapter.project.folder.title"/> chapter for more
+        details.</para>
+        <para>In addition, there are three menu entries that directly open the
+        current source or target files, or the writable glossary. The files are
+        opened in the default application set by the operating system. The
+        options are grayed out if the files do not exist.</para>
 
-        <para>У дадатак да гэтага два пункты мэню дазваляюць непасрэдна адчыняць бягучыя дакумэнты арыгінала і перакладу і глясар, у які робіцца запіс. Дакумэнты адчыняюцца ў праграме, якую выбірае апэрацыйная сыстэма. Калі дакумэнтаў няма, адпаведны пункт паказваецца шэрым колерам.</para>
+		<variablelist>
+		  <varlistentry>
+			<term><link linkend="chapter.project.folder"><guimenuitem>Project
+			Folder</guimenuitem></link></term>
+			<listitem>
+			  <para>Opens the folder in your file management application</para>
+			</listitem>
+		  </varlistentry>
+
+		  <varlistentry>
+			<term><link linkend="project.folder.dictionary"><guimenuitem>Слоўнікі</guimenuitem></link></term>
+			<listitem>
+			  <para>Opens the folder in your file management application</para>
+			</listitem>
+		  </varlistentry>
+
+		  <varlistentry>
+			<term><link linkend="project.folder.glossary"><guimenuitem>Глясары</guimenuitem></link></term>
+			<listitem>
+			  <para>Opens the folder in your file management application</para>
+			</listitem>
+		  </varlistentry>
+
+		  <varlistentry>
+			<term><link linkend="project.folder.source"><guimenuitem>Source
+			Files</guimenuitem></link></term>
+			<listitem>
+			  <para>Opens the folder in your file management application</para>
+			</listitem>
+		  </varlistentry>
+
+		  <varlistentry>
+			<term><link linkend="project.folder.target"><guimenuitem>Target
+			Files</guimenuitem></link></term>
+			<listitem>
+			  <para>Opens the folder in your file management application</para>
+			</listitem>
+		  </varlistentry>
+
+		  <varlistentry>
+			<term><link linkend="project.folder.tm"><guimenuitem>Файлах памяці перакладаў</guimenuitem></link></term>
+			<listitem>
+			  <para>Opens the folder in your file management application</para>
+			</listitem>
+		  </varlistentry>
+		  
+		  <varlistentry>
+			<term><link linkend="project.folder.exported.tm"><guimenuitem>Exported
+			TMs</guimenuitem></link></term>
+			<listitem>
+			  <para>Opens the folder in your file management application</para>
+			</listitem>
+		  </varlistentry>
+
+		  <varlistentry>
+			<term><guimenuitem>Current Source File</guimenuitem></term>
+			<listitem>
+			  <para>The current source file is located in the <link linkend="project.folder.source" endterm="project.folder.source.title"/> folder.</para>
+
+			  <para>Opens the file in its associated application.</para>
+			</listitem>
+		  </varlistentry>
+
+		  <varlistentry>
+			<term><guimenuitem>Current Target File</guimenuitem></term>
+			<listitem>
+			  <para>The current target file is located in the <link linkend="project.folder.target" endterm="project.folder.target.title"/> folder.</para>
+
+			  <para>Opens the file in its associated application if it exists.</para>
+			</listitem>
+		  </varlistentry>
+
+		  <varlistentry>
+			<term><guimenuitem>Writable Glossary</guimenuitem></term>
+			<listitem>
+			  <para>The writable glossary is located in the <link linkend="project.folder.glossary" endterm="project.folder.glossary.title"/> folder.</para>
+
+			  <para>Opens the file in its associated application, if it exists.</para>
+			</listitem>
+		  </varlistentry>
+		</variablelist>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Выхад</term>
-
+    <varlistentry id="menus.project.restart">
+      <term id="menus.project.restart.title"><guimenuitem>Restart</guimenuitem></term>
       <listitem>
-        <para>Захаваньне праекта і выхад з <application>OmegaT</application>. Калі праект яшчэ не захаваны, зьяўляецца запыт на пацьвярджэньне выхаду.</para>
+        <para>Saves the project and restarts OmegaT. You are asked to confirm
+        that you really want to quit if you have not yet saved the
+        project.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry id="menus.project.quit">
+      <term id="menus.project.quit.title"><guimenuitem>Quit</guimenuitem>
+      <keycombo><keycap>C</keycap><keycap>Q</keycap></keycombo></term>
+      <listitem>
+        <para>Saves the project and quits OmegaT. You are asked to confirm that
+        you really want to quit if you have not yet saved the project.</para>
+
+		<note>
+		  <para>In macOS, this menu item is found under the
+		  <guimenu>OmegaT</guimenu> menu.</para>
+		</note>
       </listitem>
     </varlistentry>
   </variablelist>

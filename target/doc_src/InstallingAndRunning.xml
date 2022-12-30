@@ -176,7 +176,7 @@
     <section id="running.OmegaT.Linux">
       <title>Запуск <application>OmegaT</application></title>
 
-      <para>OmegaT можна запускаць з каманднага радка з дапамогай сцэнара, які ўключае парамэтры запуску, або клікаючы непасрэдна па файле <filename>OmegaT.jar</filename>. Мэтады адрозьніваюцца ў залежнасьці ад дыстрыбутыва. Пераканайцеся ў правільнасьці парамэтра <varname>PATH</varname> і ў тым, што файлы <filename>.jar</filename> належным чынам асацыяваныя з запускальнікам Java. Азнаёмцеся з дадатковымі зьвесткамі ў падразьдзеле “Запуск з каманднага радка” ніжэй.</para>
+      <para>OmegaT можна запускаць з каманднага радка з дапамогай сцэнара, які ўключае парамэтры запуску, або клікаючы непасрэдна па файле <filename>OmegaT.jar</filename>. Мэтады адрозьніваюцца ў залежнасьці ад дыстрыбутыва. Пераканайцеся ў правільнасьці парамэтра <varname>PATH</varname> і ў тым, што файлы <filename>.jar</filename> належным чынам асацыяваныя з запускальнікам Java. Check &quot;<link linkend="commandline.launching" endterm="commandline.launching.title"/>&quot; below for more information.</para>
     </section>
   </section>
 
@@ -218,7 +218,7 @@
 
       <para>Для запуску некалькіх асобнікаў <filename>OmegaT.app</filename> клікнеце двойчы па файле <emphasis>OmegaT</emphasis> у <filename>OmegaT.app/Contents/MacOS/</filename>.</para>
 
-      <para>Ужывайце файл <filename>OmegaT.jar</filename> у <filename>OmegaT.app/Contents/MacOS/Java/</filename> для запуску <application>OmegaT</application> з каманднага радка. Азнаёмцеся з дадатковымі зьвесткамі ў падразьдзеле “Запуск з каманднага радка” ніжэй.</para>
+      <para>Ужывайце файл <filename>OmegaT.jar</filename> у <filename>OmegaT.app/Contents/MacOS/Java/</filename> для запуску <application>OmegaT</application> з каманднага радка. Check &quot;<link linkend="commandline.launching" endterm="commandline.launching.title"/>&quot; below for more information.</para>
     </section>
 
     <section id="Mac.OSX.goodies">
@@ -276,7 +276,7 @@
     <section id="running.OmegaT.other">
       <title>Запуск <application>OmegaT</application></title>
 
-      <para>Пасьля ўсталяваньня <application>OmegaT</application> праграму можна запускаць з каманднага радка з дапамогай сцэнара, які ўключае парамэтры запуску, або клікаючы непасрэдна па файле <filename>OmegaT.jar</filename>. Мэтады адрозьніваюцца ў залежнасьці ад дыстрыбутыва. Пераканайцеся ў правільнасьці парамэтра <varname>PATH</varname> і ў тым, што файлы <filename>.jar</filename> належным чынам асацыяваныя з запускальнікам Java. Азнаёмцеся з дадатковымі зьвесткамі ў падразьдзеле “Запуск з каманднага радка” ніжэй.</para>
+      <para>Пасьля ўсталяваньня <application>OmegaT</application> праграму можна запускаць з каманднага радка з дапамогай сцэнара, які ўключае парамэтры запуску, або клікаючы непасрэдна па файле <filename>OmegaT.jar</filename>. Мэтады адрозьніваюцца ў залежнасьці ад дыстрыбутыва. Пераканайцеся ў правільнасьці парамэтра <varname>PATH</varname> і ў тым, што файлы <filename>.jar</filename> належным чынам асацыяваныя з запускальнікам Java. Check &quot;<link linkend="commandline.launching" endterm="commandline.launching.title"/>&quot; below for more information.</para>
     </section>
   </section>
 
@@ -300,8 +300,8 @@
     <para>Зьвярнеце ўвагу на тое, што, калі вам трэба ўжываць адмысловыя парамэтры запуску (гл. вышэй), неабходна скарыстацца са звычайнага мэтаду ўсталёўкі.</para>
   </section>
 
-  <section>
-    <title>Запуск OmegaT з каманднага радка</title>
+  <section id="commandline.launching">
+    <title id="commandline.launching.title">Запуск OmegaT з каманднага радка</title>
 
     <para>Запуск <application>OmegaT</application> з каманднага радка звычайна не патрабуецца. Аднак праз запуск з каманднага радка карыстальнік мае магчымасьць кантраляваць і зьмяняць паводзіны праграмы. Запускаць <application>OmegaT</application> з каманднага радка можна праз два шляхі.</para>
 

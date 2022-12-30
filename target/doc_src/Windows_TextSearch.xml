@@ -1,181 +1,395 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
-<section id="windows.textsearch">
-  <title>Пошук тэксту</title>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<section id="windows.text.search">
+  <title id="windows.text.search.title"><guilabel>Пошук тэксту</guilabel></title>
 
-  <para>Адчынеце вакно пошуку і замены, націснуўшы <keycombo> <keycap>Ctrl</keycap> <keycap>F</keycap> </keycombo>, і ўвядзеце слова або выраз, які трэба замяніць, у полі <emphasis>Знайсьці</emphasis>.</para>
+  <para>Use <link linkend="menus.edit" endterm="menus.edit.title"/><link linkend="menus.edit.search.project" endterm="menus.edit.search.project.title"/> to open a new search window and
+  enter the word or phrase you wish to search for in the search field.</para>
+  
+  <para>You can have several search windows opened at the same time. Use
+  <keycombo><keycap>C</keycap><keycap>S</keycap><keycap>F</keycap></keycombo> to
+  call the last search window.</para>
 
-  <para>Можна таксама вылучыць слова або фразу ў панэлі рэдагаваньня, панэлі недакладных супадзеньняў або панэлі глясароў і націснуць <keycombo> <keycap>Ctrl</keycap> <keycap>F</keycap> </keycombo>. Слова або фраза аўтаматычна зьявіцца ў полі <emphasis>“Знайсьці”</emphasis>. Можна адначасова трымаць некалькі адчыненых вокнаў пошуку, але іх варта зачыняць, калі ў іх больш няма патрэбы, каб яны не заміналі на працоўным стале.</para>
+  <para>Alternatively, select a word or phrase in the <link linkend="panes.editor" endterm="panes.editor.title"/>, <link linkend="panes.fuzzy.matches" endterm="panes.fuzzy.matches.title"/>, or <link linkend="panes.glossary" endterm="panes.glossary.title"/> pane and use <link linkend="menus.edit" endterm="menus.edit.title"/><link linkend="menus.edit.search.project" endterm="menus.edit.search.project.title"/>. The selection is automatically
+  entered in the search field.</para>
 
-  <para>Клікнеце па стрэлцы ў полі <emphasis>“Знайсьці”</emphasis>, каб пабачыць апошнія 10 словаў/фразаў, якія шукаліся.</para>
 
-  <para>Акно пошуку мае свае мэню:</para>
+  <para>Click the drop-down arrow of the <guilabel>Search for:</guilabel> field
+  to access the last ten searches.</para>
+
+  <para>Click on <guibutton>Search</guibutton> or hit <keycap>Enter</keycap>
+  when the search field is selected to start the search.</para>
+  
+  <para>Matches will be displayed in bold blue characters.</para>
+
+  <example id="search.for.doitsu">
+	<title id="search.for.doitsu.title">Search for ドイツ</title>
+	<para>
+	  <programlisting>-- 148&gt; | language = [[日本語]]・[[<token>ドイツ</token>語]]
+---------
+-- 177&gt; [[2001年]]、<token>ドイツ</token>の永住権を取得。
+---------</programlisting>
+	</para>
+  </example>
+
+  <para>The search window has its own menus:</para>
 
   <itemizedlist>
     <listitem>
-      <para>Файл → Пошук вылучанага (<keycombo> <keycap>Ctrl</keycap> <keycap>F</keycap> </keycombo>): вярнуць фокус у поле пошуку і вылучыць усё ягонае зьмесьціва.</para>
+      <para><guimenu>File</guimenu> &gt; <guimenuitem>Search for
+      Selection</guimenuitem>
+      (<keycombo><keycap>C</keycap><keycap>F</keycap></keycombo>): the current
+      selection is inserted in the search field.</para>
     </listitem>
 
     <listitem>
-      <para>Файл → Зачыніць (<keycombo> <keycap>Ctrl</keycap> <keycap>W</keycap> </keycombo>): зачыніць акно пошуку (дзейнічае як <keycap>Esc</keycap>)</para>
+      <para><guimenu>File</guimenu> &gt; <guimenuitem>Close</guimenuitem>
+      (<keycombo><keycap>C</keycap><keycap>W</keycap></keycombo>): close the
+      search window.</para>
     </listitem>
 
     <listitem>
-      <para>Праўка → Уставіць зыходны тэкст (<keycombo> <keycap>Ctrl</keycap> <keycap>Shift</keycap> <keycap>I</keycap> </keycombo>): уставіць зыходны тэкст бягучага сэгмэнта.</para>
+      <para><guimenu>Edit</guimenu> &gt; <guimenuitem>Insert
+      Source</guimenuitem>
+      (<keycombo><keycap>C</keycap><keycap>S</keycap><keycap>I</keycap></keycombo>):
+      insert the content of the current source segment.</para>
     </listitem>
 
     <listitem>
-      <para>Праўка → Аднавіць зыходны тэкст (<keycombo> <keycap>Ctrl</keycap> <keycap>Shift</keycap> <keycap>R</keycap> </keycombo>): замяніць тэкст на зыходны тэкст бягучага сэгмэнта.</para>
+      <para><guimenu>Edit</guimenu> &gt; <guimenuitem>Replace with
+      Source</guimenuitem>
+      (<keycombo><keycap>C</keycap><keycap>S</keycap><keycap>R</keycap></keycombo>):
+      replace the contents of the search field with those of the current source
+      segment.</para>
     </listitem>
 
     <listitem>
-      <para>Праўка → Стварыць новы запіс глясара (<keycombo> <keycap>Ctrl</keycap> <keycap>Shift</keycap> <keycap>G</keycap> </keycombo>): дадаць новы запіс глясара.</para>
+      <para><guimenu>Edit</guimenu> &gt; <guimenuitem>Create Glossary
+      Entry</guimenuitem>
+      (<keycombo><keycap>C</keycap><keycap>S</keycap><keycap>G</keycap></keycombo>):
+      add a new glossary item. See <link linkend="menus.edit" endterm="menus.edit.title"/><link linkend="menus.edit.create.glossary.entry" endterm="menus.edit.create.glossary.entry.title"/> for details.</para>
+    </listitem>
+
+    <listitem>
+      <para><guimenu>Edit</guimenu> &gt; <guimenuitem>Reset
+      Options</guimenuitem>: reset the search window options.</para>
     </listitem>
   </itemizedlist>
 
-  <section id="using.wild.cards">
-    <title>Ужываньне знакаў падстаноўкі</title>
+  <section id="windows.text.search.methods">
+    <title id="windows.text.search.methods.title">Search type</title>
 
-    <para>Для дакладных пошукаў і пошукаў паводле ключавых слоў падтрымліваюцца знакі падстаноўкі “*” і “?”. Яны ўжываюцца падобным чынам як і ў праграме Word:</para>
+    <para>Use the radio buttons to select the type of search.</para>
 
-    <itemizedlist>
-      <listitem>
-        <para>Сымбаль “*” азначае 0 або больш сымбаляў ад бягучай пазыцыі ў пэўным слове да ягонага канца. Напрыклад, фраза <literal>“бел*”</literal> супадзе са словамі <literal>“белы”</literal>, <literal>“белай”</literal> і <literal>“беларус”</literal>.</para>
-      </listitem>
-    </itemizedlist>
-
-    <itemizedlist>
-      <listitem>
-        <para>Сымбаль “?” прадстаўляе роўна адзін сымбаль. Напрыклад, фраза <literal>“бел?”</literal> супадзе са словам <literal>“белы”</literal>, а таксама з часткай <literal>“бела”</literal> ў слове <literal>“белай”</literal>.</para>
-      </listitem>
-    </itemizedlist>
-
-    <para>Супадзеньні пры паказе будуць вылучацца паўтлустым сінім шрыфтам. Памятайце, што знакі “*” і “?” маюць адмысловае значэньне для рэгулярных выразаў, і таму са знакамі падстаноўкі, апісанымі вышэй, можна зьдзяйсьняць толькі дакладны пошук або пошук паводле ключавых словаў (гл. ніжэй).</para>
-  </section>
-
-  <section id="search.methoids">
-    <title>Мэтады і парамэтры пошуку</title>
-
-    <para>Выберыце мэтад з дапамогай кнопак-пераключальнікаў. Ёсьць наступныя варыянты пошуку:</para>
+	<para>The following search types are available:</para>
 
     <variablelist>
-      <varlistentry>
-        <term>дакладны пошук</term>
-
+      <varlistentry id="windows.text.search.methods.exact">
+        <term id="windows.text.search.methods.exact.title">Exact search</term>
         <listitem>
-          <para>Пошук сэгмэнтаў, у якіх дакладна ўтрымліваецца паданы радок. Дакладны пошук фразы, г. зн. калі ўведзена некалькі слоў, дасьць вынік, толькі калі яны сустракаюцца менавіта ў паданай пасьлядоўнасьці. Пошук фразы <literal>“open file”</literal> дасьць вынікі для ўсіх выпадкаў, калі сустракаецца радок <emphasis><literal>“open file”</literal></emphasis>, але не <emphasis><literal>“file opened”</literal></emphasis> або <emphasis><literal>“open input file”</literal></emphasis>.</para>
+          <para>Search for the string exactly as it was entered in the search
+          field.</para>
+
+		  <para>It is equivalent to a web search enclosed in quotation marks.</para>
         </listitem>
       </varlistentry>
 
-      <varlistentry>
-        <term>пошук паводле ключавых слоў</term>
-
+      <varlistentry id="windows.text.search.methods.keyword">
+        <term id="windows.text.search.methods.keyword.title">Keyword
+        search</term>
         <listitem>
-          <para>Пошук сэгмэнтаў, у якіх утрымліваюцца ўсе паданыя ключавыя словы ў якой заўгодна пасьлядоўнасьці. Выбірайце пошук паводле ключавых словаў для якой заўгодна колькасьці асобных поўных словаў у якім заўгодна парадку. OmegaT паказвае сьпіс сэгмэнтаў, у якіх утрымліваюцца ўсе паданыя словы. Пошук паводле ключавых словаў падобны варыянту “шукаць усе словы” ў Інтэрнэце, напрыклад, праз Google (апэратар AND). Такім чынам, пошук паводле ключавых словаў для <emphasis><literal>“open file”</literal></emphasis> выдасьць усе выпадкі радкоў <emphasis><literal>“open file”</literal>,</emphasis> а таксама <emphasis><literal>“file opened”</literal>, <literal>“open input file”</literal>, <literal>“file may not be safe to open”</literal></emphasis> і да г. п.</para>
+          <para>Search for segments containing each of the search terms
+          separated by a space.</para>
+
+		  <para>It is equivalent to a web search without quotation marks.</para>
+
+		  <note>
+			<para>The <code>*</code> and <code>?</code> characters can be used
+			in both exact and keyword searches:</para>
+
+			<itemizedlist>
+			  <listitem>
+				<para><code>*</code> matches zero or more characters, from the
+				current position up to the end of a word.</para>
+
+				<para>The search term <literal>run*</literal>, for example,
+				matches <literal>run</literal>, <literal>runs</literal> and
+				<literal>running</literal>.</para>
+			  </listitem>
+			</itemizedlist>
+
+			<itemizedlist>
+			  <listitem>
+				<para><code>?</code> matches any single character.</para>
+
+				<para>For instance, <literal>run?</literal> matches
+				<literal>runs</literal>, as well as the <literal>runn</literal>
+				portion of <literal>running</literal> or
+				<literal>runner</literal>.</para>
+			  </listitem>
+			</itemizedlist>
+		  </note>
         </listitem>
       </varlistentry>
+	</variablelist>
 
-      <varlistentry>
-        <term><emphasis role="bold">рэгулярныя выразы</emphasis></term>
-
+	<variablelist>
+      <varlistentry id="windows.text.search.methods.regex">
+        <term id="windows.text.search.methods.regex.title">Рэгулярныя выразы</term>
         <listitem>
-          <para>Радок пошуку будзе апрацоўвацца як рэгулярны выраз. Радок пошуку [a-zA-Z]+[öäüqwß] у прыкладзе вышэй дазволіць знайсьці словы ў перакладзе, якія ўтрымліваюць сумніўныя сымбалі для нямецкай клявіятуры. <link linkend="appendix.regexp">Рэгулярныя выразы</link> — гэта магутны сродак для пошуку асобнікаў радкоў.</para>
+          <para>Treat the search string as a regular expression.</para>
+		  <para>Regular expressions are a very powerful way to search for
+		  general or complex patterns rather than exact strings. See the <link linkend="app.regex" endterm="app.regex.title"/> appendix for
+		  details.</para>
+
+		  <warning>
+			<para>The <code>*</code> and <code>?</code> characters have a special
+			meaning in regular expressions. Therefore, the wild card searches described
+			above only apply to exact and keyword searches.</para>
+		  </warning>
         </listitem>
       </varlistentry>
     </variablelist>
-
-    <para>Дадаткова да пазначаных варыянтаў можна выбраць наступнае:</para>
-
-    <itemizedlist>
-      <listitem>
-        <para><emphasis role="bold">улічваць рэгістар</emphasis>: робіцца пошук дакладна пазначанага радка, г. з. адрозьніваюцца малыя і вялікія літары.</para>
-      </listitem>
-
-      <listitem>
-        <para><emphasis role="bold">Прабел тоесны неразрыўнаму прабелу</emphasis>: калі пазначана, за прабельны сымбаль у шуканым тэксьце ўважаецца або звычайны прабел, або неразрыўны прабел (\u00A).</para>
-      </listitem>
-
-      <listitem>
-        <para><emphasis role="bold">у зыходным тэксьце: </emphasis> пошук у зыходных сэгмэнтах</para>
-      </listitem>
-
-      <listitem>
-        <para><emphasis role="bold">у перакладах: </emphasis> пошук у сэгмэнтах перакладаў</para>
-      </listitem>
-
-      <listitem>
-        <para><emphasis role="bold">у зацемках:</emphasis> пошук у зацемках да сэгмэнтаў</para>
-      </listitem>
-
-      <listitem>
-        <para><emphasis role="bold">у камэнтарох:</emphasis> пошук у камэнтарох да сэгмэнтаў</para>
-      </listitem>
-
-      <listitem>
-        <para><emphasis role="bold">Перакладзеныя або неперакладзеныя:</emphasis> пошук і ў перакладзеных, і ў неперакладзеных сэгмэнтах.</para>
-      </listitem>
-
-      <listitem>
-        <para><emphasis role="bold">Перакладзеныя: </emphasis> пошук толькі ў перакладзеных сэгмэнтах.</para>
-      </listitem>
-
-      <listitem>
-        <para><emphasis role="bold">Неперакладзеныя:</emphasis> пошук толькі ў неперакладзеных сэгмэнтах.</para>
-      </listitem>
-
-      <listitem>
-        <para><emphasis role="bold">Паказ: усе адпаведныя сэгмэнты:</emphasis> калі пазначана, усе сэгмэнты будуць паказаныя адзін за адным, нават калі яны паўтараюцца некалькі разоў у дакумэньце або ў розных дакумэнтах.</para>
-      </listitem>
-
-      <listitem>
-        <para><emphasis role="bold">Паказ: назвы файлаў:</emphasis> калі пазначана, назва файла, у якім знойдзены сэгмэнт, паказваецца над кожным вынікам.</para>
-      </listitem>
-
-      <listitem>
-        <para><emphasis role="bold">Дзе шукаць: Праект</emphasis>: пазначце <emphasis>Памяць</emphasis>, каб у пошук была ўключаная памяць праекта (project_save.tmx file). Пазначце <emphasis>Файлы памяці перакладаў</emphasis>, каб у пошук былі ўключаныя файлы памяці перакладаў, якія знаходзяцца ў каталёгу <filename>tm</filename>. Пазначце <emphasis>Глясары</emphasis>, каб у пошук былі ўключаныя глясары, якія знаходзяцца ў каталёгу <filename>glossary</filename>.</para>
-      </listitem>
-
-      <listitem>
-        <para><emphasis role="bold">Пошук у: Файлы:</emphasis> пошук у адзіным файле або ў каталёгу, які ўтрымлівае шэраг файлаў. Пры пошуках у файлах (у адрозьненьне ад памяці перакладаў) OmegaT абмяжоўвае пошук файламі фарматаў, якія падтрымліваюцца ў якасьці зыходных. Адпаведна, хаця OmegaT можа апрацоўваць файлы <filename>tmx</filename>, яны ня будуць уключаныя ў пошук (калі ён робіцца ў файлах).</para>
-      </listitem>
-    </itemizedlist>
-
-    <para>Калі націснуць кнопку <guibutton>“Паказаць дадатковыя парамэтры”</guibutton>, можна выбраць дадатковыя парамэтры (аўтар сэгмэнта або зьменаў у перакладзе, дата перакладу, выключэньне састарэлых сэгмэнтаў і інш.). Калі пазначана <emphasis>“Не адрозьніваць поўна- і паўшырынныя сымбалі”</emphasis>, пры пошуку поўнашырынных формаў (для сымбаляў ККЯ) будуць знойдзеныя і паўшырынныя формы і наадварот.</para>
   </section>
 
-  <section id="search.result.display">
-    <title>Паказ вынікаў пошуку</title>
+  <section id="windows.text.search.options">
+	<title id="windows.text.search.options.title">Налады</title>
+	
+	<variablelist>
+	  <varlistentry>
+		<term>Case sensitive</term>
+		<listitem>
+		  <para>Only returns results with the same letter case as the search
+		  terms.</para>
+		</listitem>
+	  </varlistentry>
+	  
+	  <varlistentry>
+		<term>Space matches nbsp</term>
+		<listitem>
+		  <para>Space characters in search terms will match both a normal space
+		  and a non-breaking space (\u00A)
+		  character.</para>
+		</listitem>
+	  </varlistentry>
 
-    <para>Пасьля націсканьня кнопкі пошуку на экране ў полі пошуку зьявяцца ўсе сэгмэнты праекта, якія ўтрымліваюць уведзены радок. Паколькі <application>OmegaT</application> разглядае ідэнтычныя сэгмэнты як адзін, будзе бачны толькі першы ўнікальны сэгмэнт. Сэгмэнты паказваюцца ў тым парадку, у якім яны зьяўляюцца ў праекце. Перакладзеныя сэгмэнты паказваюцца з зыходным тэксьце ўверсе і перакладам унізе, неперакладзеныя сэгмэнты — толькі з зыходным тэкстам.</para>
+	  <varlistentry>
+		<term>In source</term>
+		<listitem>
+		  <para>Search in the source segments.</para>
+		</listitem>
+	  </varlistentry>
 
-    <para>Па падвойным кліку на сэгмэньце ён адчыняецца ў акне рэдагаваньня, дзе яго можна зьмяніць (гэта можна рабіць і адзіным клікам, калі пазначана <emphasis role="bold">Аўтасынхранізацыя з акном рэдагаваньня</emphasis>). Затым можна вярнуцца да вакна пошуку, перайсьці да наступнага знойдзенага сэгмэнта, праверыць яго, напрыклад, на тэрміналёгію і выправіць.</para>
+	  <varlistentry>
+		<term>In translation</term>
+		<listitem>
+		  <para>Search in the target segments.</para>
+		</listitem>
+	  </varlistentry>
 
-    <para>У вакне пошуку для пераходу паміж сэгмэнтамі можна ўжываць звычайныя спалучэньні клявішаў (<keycombo> <keycap>Ctrl</keycap> <keycap>N</keycap> </keycombo>, <keycombo> <keycap>Ctrl</keycap> <keycap>P</keycap> </keycombo>).</para>
+	  <varlistentry>
+		<term>У зацемках</term>
+		<listitem>
+		  <para>Search in notes attached to segments.</para>
+		</listitem>
+	  </varlistentry>
 
-    <para>Адначасова можна мець некалькі адкрытых вокнаў пошуку. Каб хутка зразумець, якое там зьмесьціва, дастаткова прачытаць загаловак акна, у якім утрымліваецца шуканы тэрмін.</para>
+	  <varlistentry>
+		<term>У камэнтарох</term>
+		<listitem>
+		  <para>Search in comments attached to segments.</para>
+		</listitem>
+	  </varlistentry>
+
+	  <varlistentry>
+		<term>Translated or untranslated</term>
+		<listitem>
+		  <para>Search in both translated and untranslated segments.</para>
+		</listitem>
+	  </varlistentry>
+
+	  <varlistentry>
+		<term>Перакладах</term>
+		<listitem>
+		  <para>Search only in translated segments.</para>
+		</listitem>
+	  </varlistentry>
+
+	  <varlistentry>
+		<term>Untranslated</term>
+		<listitem>
+		  <para>Search only in untranslated segments.</para>
+		</listitem>
+	  </varlistentry>
+
+	  <varlistentry>
+		<term>Display: all matching segments</term>
+		<listitem>
+		  <para>Every segment is displayed individually, even if it is a
+		  duplicate found in either the same document or a different document in
+		  the project.</para>
+		</listitem>
+	  </varlistentry>
+
+	  <varlistentry>
+		<term>Display: file names</term>
+		<listitem>
+		  <para>The name of the file containing the segment is found is
+		  displayed above each result.</para>
+		</listitem>
+	  </varlistentry>
+
+	  <varlistentry>
+		<term>Search in: Project</term>
+		<listitem>
+		  <para>Search in the various bilingual resources of the project.</para>
+
+		  <para>Select the scope of the search:</para>
+		  
+		  <variablelist>
+			<varlistentry>
+			  <term>Памяці</term>
+			  <listitem>
+				<para>include the project memory (<link linkend="project.folder.project.save.tmx" endterm="project.folder.project.save.tmx.title"/>)</para>
+			  </listitem>
+			</varlistentry>
+
+			<varlistentry>
+			  <term>Файлах памяці перакладаў</term>
+			  <listitem>
+				<para>include the translation memories located in the <link linkend="project.folder.tm" endterm="project.folder.tm.title"/>
+				folder</para>
+			  </listitem>
+			</varlistentry>
+
+			<varlistentry>
+			  <term>Глясары</term>
+			  <listitem>
+				<para>include the glossaries located in the <link linkend="project.folder.glossary" endterm="project.folder.glossary.title"/> folder</para>
+			  </listitem>
+			</varlistentry>
+		  </variablelist>
+		</listitem>
+	  </varlistentry>
+	  
+	  <varlistentry>
+		<term>Search in: Files</term>
+		<listitem>
+		  <para>Search in reference files not included in the project
+		  resources.</para>
+
+		  <para>OmegaT can conduct searches in any file that it can read as
+		  source file. See the <link linkend="file.filters" endterm="file.filters.title"/> chapter for details.</para>
+
+		  <para>TMX files are excluded from file searches since OmegaT does not
+		  recognize them as a source file format despite supporting them as
+		  translation memories.</para>
+		</listitem>
+	  </varlistentry>
+
+	  <varlistentry>
+		<term><guibutton>Show Advanced Options</guibutton></term>
+		<listitem>
+		  <para>Select additional criteria such as the person who authored or
+		  changed the translation, the date and time of translation
+		  (modification), or whether to exclude orphan segments.</para>
+
+		  <variablelist>
+			<varlistentry>
+			  <term>Full/Half-width char insensitive</term>
+			  <listitem>
+				<para>returns results that match both the full- and half-width
+				forms (CJK characters) of the characters in the search
+				terms.</para>
+			  </listitem>
+			</varlistentry>
+
+			<varlistentry>
+			  <term>Number of matching segments</term>
+			  <listitem>
+				<para>sets the maximum number of matches displayed in the search
+				result area.</para>
+			  </listitem>
+			</varlistentry>
+		  </variablelist>
+
+		  <para>Hide the advanced options with <guibutton>Hide Advanced Options</guibutton></para>
+		</listitem>
+	  </varlistentry>
+	</variablelist>
   </section>
 
-  <section id="search.filter">
-    <title>Фільтрацыя вынікаў пошуку ў акне рэдагаваньня</title>
+  <section id="windows.text.search.result.display">
+    <title id="windows.text.search.result.display.title">Results display</title>
 
-    <para>Каб палегчыць навігацыю паміж вынікамі пошуку, можна ўжыць фільтр у акне рэдагаваньня. Націсьнеце кнопку <emphasis role="bold">“Фільтар”</emphasis> унізе, каб у вакне рэдагаваньня паказваліся толькі сэгмэнты, адпаведныя бягучаму пошуку. Паміж імі можна пераходзіць звычайным чынам, напрыклад, да наступнага (неперакладзенага) сэгмэнта, які адпавядае крытэрыям пошуку.</para>
+    <para>Matches are displayed in their order of appearance in the project. For
+    translated segments, the original text is displayed above the translated
+    text. Only the source text is displayed for untranslated segments.</para>
 
-    <para>Заўвага:</para>
+    <para>Double-click on a segment to open it in the <link linkend="panes.editor" endterm="panes.editor.title"/> pane.</para>
 
-    <itemizedlist>
-      <listitem>
-        <para>Колькасьць вынікаў пошуку абмяжоўваецца 1000, і калі вы шукаеце нейкую вельмі простую фразу, то будуць паказаныя толькі 1000 вынікаў, а ня ўсе сэгмэнты, якія адпавядаюць крытэрыям пошуку.</para>
-      </listitem>
+    <para>You can also use the following shortcuts in the search results:</para>
+	
+	<variablelist>
+	  <varlistentry>
+		<term><keycombo><keycap>C</keycap><keycap>N</keycap></keycombo></term>
+		<listitem>
+		  <para>Move to the next segment</para>
+		</listitem>
+	  </varlistentry>
+	  
+	  <varlistentry>
+		<term><keycombo><keycap>C</keycap><keycap>P</keycap></keycombo></term>
+		<listitem>
+		  <para>Move to the preceding segment</para>
+		</listitem>
+	  </varlistentry>
+	  <varlistentry>
+		<term><keycombo><keycap>C</keycap><keycap>J</keycap></keycombo></term>
+		<listitem>
+		  <para>Jump to the current segment in the editor.</para>
+		</listitem>
+	  </varlistentry>
+	</variablelist>
+	
+	<para>The selected segment is highlighted in green:</para>
 
-      <listitem>
-        <para>У файле можа ня быць адпаведных сэгмэнтаў, і ён будзе паказаны пустым.</para>
-      </listitem>
+  	<example id="select.second.match">
+	  <title id="select.second.match.title">Select the second match</title>
+	  <para>
+		<programlisting>-- 148&gt; | language = [[日本語]]・[[<token>ドイツ</token>語]]
+---------
+<action>-- 177&gt; [[2001年]]、<token>ドイツ</token>の永住権を取得。</action>
+---------</programlisting>
+	  </para>
+	</example>
 
-      <listitem>
-        <para>Калі пры пошуку выдаляюцца дублікаты, гэтых дублікатаў ня будзе ў вакне рэдагаваньня.</para>
-      </listitem>
-    </itemizedlist>
+	<variablelist>
+	  <varlistentry>
+		<term>Аўтасынхранізацыя з акном рэдагаваньня</term>
+		<listitem>
+		  <para>The <link linkend="panes.editor" endterm="panes.editor.title"/>
+		  pane synchronizes its display with the selection in the search
+		  results</para>
+		</listitem>
+	  </varlistentry>
+	  <varlistentry>
+		<term>Вяртацца да пачатковага сэгмэнта па закрыцьці</term>
+		<listitem>
+		  <para>When you close the search windows, the <link linkend="panes.editor" endterm="panes.editor.title"/> pane
+		  automatically goes back to the segment that it displayed before the
+		  search was started</para>
+		</listitem>
+	  </varlistentry>
+	</variablelist>
+  </section>
+  
+  <section id="windows.text.search.filter">
+    <title id="windows.text.search.filter.title">Фільтар</title>
 
-    <para>Каб зьняць фільтар, націсьнеце кнопку <emphasis role="bold">“Выдаліць фільтар”</emphasis> або перагрузеце праект.</para>
+	<para>Click on <guibutton>Filter</guibutton> to show only the matching
+	search result segments in the <link linkend="panes.editor" endterm="panes.editor.title"/> pane. To remove the filter, click on
+	<guibutton>Remove Filter</guibutton> at the top of the <link linkend="panes.editor" endterm="panes.editor.title"/> pane or reload the
+	project.</para>
   </section>
 </section>
