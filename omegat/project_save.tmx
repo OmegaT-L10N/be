@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_1dc7a476" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_427d619b" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2606,6 +2606,36 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- Anthony Baldwin (localisation manager)
+- Vincent Bidaux (documentation manager)
+- Didier Briel (project manager)
+- Alex Buloichik (lead developer)
+- Sabine Cretella
+- Dmitri Gabinski
+- Aaron Madlon-Kay (project manager)
+- Maxym Mykhalchuk (lead developer)
+- Samuel Murray
+- Henry Pijffers (release manager)
+- Marc Prior (project co-ordinator, webmaster)
+- Vito Smolej (documentation manager)</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T094039Z" creationid="GABIN" creationdate="20221230T093915Z">
+        <seg>- Энтані Болдвін (кіраўнік лякалізацыі);
+- Вэнсан Бідо (кіраўнік дакумэнтацыі);
+- Дзідзье Брыель (кіраўнік праекта);
+- Алесь Булойчык (вядучы распрацоўнік);
+- Сабінэ Крэтэла;
+- Дзьмітры Габінскі;
+- Ааран Мадлан-Кей (кіраўнік праекта);
+- Максім Міхальчук (вядучы распрацоўнік);
+- Сэмюэл Мюрэй;
+- Генры Пэйфэрс (кіраўнік выпуску);
+- Марк Праяр (каардынатар праекта, вэб-майстар);
+- Віта Смолей (кіраўнік дакумэнтацыі).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- Camtasia for Windows (*.camproj)</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20130514T142059Z">
@@ -2682,6 +2712,26 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T133333Z">
         <seg>- файлы CVS Magento CE Locale (*.csv)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsov (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Hiroshi Miura (lead developer)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T093904Z" creationid="GABIN" creationdate="20221230T093904Z">
+        <seg>- Марка Чэволі (кіраўнік супольнасьці ў Telegram);
+- Жан-Крыстоф Эляры (кіраўнік супольнасьці ў Twitter);
+- Кос Іванцоў (кіраўнік лякалізацыі);
+- Кансэпсьён Мартын (кіраўнік супольнасьці Facebook);
+- Хіросі Міюра (кіраўнік распрацоўкі);
+- Брыяк Пільпрэ (вэб-майстар);
+- Люсі Вэсэрова (кіраўнік супольнасьці Facebook).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8637,8 +8687,8 @@ OmegaT запускаецца наступным чынам.</seg>
       <tuv lang="en">
         <seg>@TRANSLATION_NOTICE@</seg>
       </tuv>
-      <tuv lang="be" changeid="Kos Ivantsov" changedate="20180606T214618Z" creationid="Kos Ivantsov" creationdate="20180606T214618Z">
-        <seg>Гэты пераклад зрабіў Дзьмітры Габінскі, © 2015–2018 гг.</seg>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T093746Z" creationid="Kos Ivantsov" creationdate="20180606T214618Z">
+        <seg>Гэты пераклад зрабіў Дзьмітры Габінскі, © 2015–2022 гг.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12154,6 +12204,14 @@ documentation.</seg>
       </tuv>
       <tuv lang="be">
         <seg>Паведамленьні пра памылкі (па-ангельску) на сайце SourceForge:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bugs, feature requests and documentation issues are handled on SourceForge by the following tracking systems.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T094108Z" creationid="GABIN" creationdate="20221230T094108Z">
+        <seg>Памылкі, запыты функцый, пытанні дакумэнтацыі — для ўсяго гэтага прызначаныя наступныя трэкеры на Sourceforge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32075,6 +32133,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT also has the following mailing lists and trackers, which are hosted on SourceForge:</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T094100Z" creationid="GABIN" creationdate="20221230T094100Z">
+        <seg>OmegaT таксама мае наступныя сьпісы рассылкі і трэкеры на Sourceforge:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20180606T122744Z" creationid="GABIN" creationdate="20180606T122744Z">
@@ -32247,6 +32313,22 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20180613T125648Z" creationid="GABIN" creationdate="20180613T125648Z">
         <seg>OmegaT for Beginners (на ангельскай)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT for CAT beginners (2020, in Japanese)</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T094241Z" creationid="GABIN" creationdate="20221230T094241Z">
+        <seg>OmegaT for CAT beginners (выданьне 2020 г. на японскай)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT for CAT beginners tutorial (2020 edition)</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T094210Z" creationid="GABIN" creationdate="20221230T094210Z">
+        <seg>OmegaT for CAT beginners (выданьне 2020 г.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32718,6 +32800,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20180613T141518Z" creationid="GABIN" creationdate="20180613T141518Z">
         <seg>OmegaT text export function (на ангельскай)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT the CAT power tools</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T094258Z" creationid="GABIN" creationdate="20221230T094258Z">
+        <seg>OmegaT the CAT power tools (на ангельскай)</seg>
       </tuv>
     </tu>
     <tu>
@@ -55089,6 +55179,22 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="be" changeid="Kos Ivantsov" changedate="20180606T183618Z" creationid="Kos Ivantsov" creationdate="20180606T183618Z">
         <seg>ava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>by Hiroshi Miura</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T094252Z" creationid="GABIN" creationdate="20221230T094252Z">
+        <seg>аўтар Хіросі Міюра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>by Susan Welsh, Marc Prior and Hiroshi Miura</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T094228Z" creationid="GABIN" creationdate="20221230T094228Z">
+        <seg>аўтары Сьюзэн Уэлш, Марк Праяр і Хіросі Міюра</seg>
       </tuv>
     </tu>
     <tu>
