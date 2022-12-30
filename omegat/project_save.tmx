@@ -1190,6 +1190,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Install plugin from disk</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T132751Z" creationid="GABIN" creationdate="20221230T132751Z">
+        <seg>Усталяваць плагіны з &amp;дыска</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Jump To Segment</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20161018T085946Z" creationid="GABIN" creationdate="20161018T085946Z">
@@ -11003,6 +11011,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20201209T085657Z" creationid="GABIN" creationdate="20201209T085657Z">
         <seg>Дадаткі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Application Folder</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T132911Z" creationid="GABIN" creationdate="20221230T132911Z">
+        <seg>Каталёг праграмы</seg>
       </tuv>
     </tu>
     <tu>
@@ -25754,6 +25770,22 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install plugin file</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T132801Z" creationid="GABIN" creationdate="20221230T132801Z">
+        <seg>Усталяваць файл плагіна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Install plugin {0} {1}</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T132847Z" creationid="GABIN" creationdate="20221230T132819Z">
+        <seg>Усталяваць плагін {0} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installation Type</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20180621T132049Z" creationid="GABIN" creationdate="20180621T132049Z">
@@ -33626,6 +33658,14 @@ happen should you file a bug report.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open it in the OmegaT GUI to convert it to the new format.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T132704Z" creationid="GABIN" creationdate="20221230T132704Z">
+        <seg>Адкрыйце яго праз графічны інтэрфэйс OmegaT для пераўтварэньня ў новы фармат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open project</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160521T175752Z" creationid="gabi" creationdate="20160521T175752Z">
@@ -35226,6 +35266,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160224T144021Z" creationid="GABIN" creationdate="20160224T144021Z">
         <seg>Націсьнеце “OK”, каб захаваць вашы зьмены ("{2}"), або “Скасаваць”, каб захаваць дыстанцыйныя/аўтаматычныя зьмены ("{1}"). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugin Installer</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T132648Z" creationid="GABIN" creationdate="20221230T132648Z">
+        <seg>Сродак усталяваньня плагінаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugin installation failed.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T132853Z" creationid="GABIN" creationdate="20221230T132853Z">
+        <seg>Не атрымалася ўсталяваць плагін.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39844,6 +39900,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20221125T122700Z" creationid="GABIN" creationdate="20221125T122700Z">
         <seg>Каб задаць парамэтры фільтра, выберыце яго і націсьнеце «Зьмяніць…» або «Налады…».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a plugin file (*.jar, *.zip)</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T132657Z" creationid="GABIN" creationdate="20221230T132657Z">
+        <seg>Выбар файла плагіна (*.jar, *.zip)</seg>
       </tuv>
     </tu>
     <tu>
@@ -47669,6 +47733,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file is not a plugin archive.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T132903Z" creationid="GABIN" creationdate="20221230T132903Z">
+        <seg>Гэта не архіў з плагінам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file is very important and you should make sure you read it before launching OmegaT.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160316T131309Z" creationid="GABIN" creationdate="20160316T131309Z">
@@ -48378,6 +48450,16 @@ the server.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20201204T143056Z" creationid="GABIN" creationdate="20201204T142833Z">
         <seg>Пасьля гэтага пры запуску OmegaT будзе выдзяляцца 6 Гб памяць. Можна зьмяніць &lt;l4&gt;6g&lt;/l4&gt; на патрэбны аб’ём.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will reset all
+settings to their defaults.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T132640Z" creationid="GABIN" creationdate="20221230T132614Z">
+        <seg>У гэтым выпадку ўсе
+наладкі вернуцца да змаўчаньняў.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49998,6 +50080,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation is</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T132732Z" creationid="GABIN" creationdate="20221230T132713Z">
+        <seg>Пераклад — гэта супадзеньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation is fuzzy</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160708T135610Z" creationid="GABIN" creationdate="20160708T135610Z">
@@ -50988,6 +51078,18 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160401T130351Z" creationid="GABIN" creationdate="20160401T130351Z">
         <seg>Абнаўленьне файла глясара, такім чынам, даволі простае: націсьнеце &lt;k0&gt;Ctrl + Shift + G&lt;/k0&gt; і ўвядзеце новы тэрмін, ягоны пераклад і камэнтар, калі трэба (для пераходу паміж палямі націскайце Tab), і захавайце файл.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upgrade/override plugin {0}
+current: {1}
+new version: {2}</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T132832Z" creationid="GABIN" creationdate="20221230T132818Z">
+        <seg>Абнавіць/перапісаць плагін {0}
+ёсьць: {1}
+новая вэрсія: {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -54722,6 +54824,16 @@ window to be able to launch it from any location.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You may therefore experience
+unexpected, but correct behaviour.</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T132636Z" creationid="GABIN" creationdate="20221230T132628Z">
+        <seg>Могуць назірацца нечаканыя,
+хаця і правільныя паводзіны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You may try to solve this problem in one of the following ways:</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20121016T091312Z">
@@ -55651,6 +55763,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20161010T144006Z" creationid="gabi" creationdate="20160615T125231Z">
         <seg>напрыклад, з &lt;f0&gt;.txt&lt;/f0&gt; на &lt;f1&gt;.jp&lt;/f1&gt; для файлаў нефарматаванага тэксту на японскай мове: у элемэньце &lt;e2&gt;Тэкст&lt;/e2&gt; дыялёгу файлавых фільтраў дадайце новы &lt;e3&gt;шаблён назваў зыходных файлаў&lt;/e3&gt; (&lt;f4&gt;*.jp&lt;/f4&gt; для гэтага прыклада) і выберыце адпаведныя парамэтры кадоўкі зыходных файлаў і файлаў перакладаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>fuzzy</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T132721Z" creationid="GABIN" creationdate="20221230T132721Z">
+        <seg>дакладнае</seg>
       </tuv>
     </tu>
     <tu>
@@ -56793,10 +56913,26 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>no</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T132709Z" creationid="GABIN" creationdate="20221230T132709Z">
+        <seg>не</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>non-greedy quantifiers will match as little as they can.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160615T172648Z" creationid="gabi" creationdate="20160615T172648Z">
         <seg>няпрагныя квантары адпавядаюць як мага меншай пасьлядоўнасьці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>not fuzzy</seg>
+      </tuv>
+      <tuv lang="be" changeid="GABIN" changedate="20221230T132725Z" creationid="GABIN" creationdate="20221230T132725Z">
+        <seg>недакладнае</seg>
       </tuv>
     </tu>
     <tu>
