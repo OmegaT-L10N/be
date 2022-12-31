@@ -56167,6 +56167,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://omegat.org/support</seg>
+      </tuv>
+      <tuv lang="be" changeid="Kos Ivantsov" changedate="20221231T154320Z" creationid="Kos Ivantsov" creationdate="20221231T154320Z">
+        <seg>https://omegat.org/support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://omegat.sourceforge.io/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp</seg>
       </tuv>
       <tuv lang="be" changeid="Kos Ivantsov" changedate="20180606T213752Z" creationid="Kos Ivantsov" creationdate="20180606T213752Z">
