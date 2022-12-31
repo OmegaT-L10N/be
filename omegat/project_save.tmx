@@ -42441,6 +42441,22 @@ and then start OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TMX Level 1</seg>
+      </tuv>
+      <tuv lang="be" changeid="Kos Ivantsov" changedate="20221231T154134Z" creationid="Kos Ivantsov" creationdate="20221231T154134Z">
+        <seg>TMX Level 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TMX Level 2</seg>
+      </tuv>
+      <tuv lang="be" changeid="Kos Ivantsov" changedate="20221231T154136Z" creationid="Kos Ivantsov" creationdate="20221231T154136Z">
+        <seg>TMX Level 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T113401Z">
