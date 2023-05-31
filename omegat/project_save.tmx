@@ -26761,6 +26761,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is stored in the TMX file.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150226Z" creationid="gabi" creationdate="20230531T150226Z">
+        <seg>Яна захоўваецца ў файле TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is the segment that is displayed in two parts.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160701T133947Z" creationid="GABIN" creationdate="20160701T133947Z">
@@ -28981,6 +28989,14 @@ The Mac version comes bundled with a JRE.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160705T123808Z" creationid="GABIN" creationdate="20160705T123808Z">
         <seg>Панэль машыннага перакладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Machine Translations</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150207Z" creationid="gabi" creationdate="20230531T150207Z">
+        <seg>Машынны пераклад</seg>
       </tuv>
     </tu>
     <tu>
