@@ -814,6 +814,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Do not insert the source text</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150028Z" creationid="gabi" creationdate="20230531T150028Z">
+        <seg>&amp;Не ўстаўляць зыходны тэкст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20151123T130442Z" creationid="GABIN" creationdate="20151123T130442Z">
@@ -11478,6 +11486,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150910T133115Z" creationid="GABIN" creationdate="20150910T133115Z">
         <seg>Спрабаваць пераўтварыць лікі пры ўстаўцы недакладнага супадзеньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Attempt to replace fuzzy match &amp;numbers</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150105Z" creationid="gabi" creationdate="20230531T150105Z">
+        <seg>Спрабаваць пераўтварыць &amp;лікі пры ўстаўцы недакладнага супадзеньня</seg>
       </tuv>
     </tu>
     <tu>
@@ -29577,6 +29593,14 @@ The Mac version comes bundled with a JRE.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark all repeated segments</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150132Z" creationid="gabi" creationdate="20230531T150132Z">
+        <seg>Пазначаць усе паўторныя сэгмэнты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark unknown words</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20210507T142940Z" creationid="GABIN" creationdate="20210507T142940Z">
@@ -29789,6 +29813,14 @@ The Mac version comes bundled with a JRE.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20221221T132147Z" creationid="GABIN" creationdate="20221221T132147Z">
         <seg>Пошук робіцца ў бягучым перакладзе альбо ў файлах TMX у падкаталёгу /tm праекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches come from your current translation or the reference files placed in the /tm/ folder.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150149Z" creationid="gabi" creationdate="20230531T150149Z">
+        <seg>Пошук робіцца ў бягучым перакладзе альбо ў апорных файлах у падкаталёгу /tm праекта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32225,6 +32257,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160707T144311Z" creationid="GABIN" creationdate="20160707T144311Z">
         <seg>Паведамляць, калі сэгмэнт мае зацемкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me When the Segment Has Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150153Z" creationid="gabi" creationdate="20230531T150153Z">
+        <seg>Паведамляць, калі сэгмэнт мае недакладныя супадзеньні</seg>
       </tuv>
     </tu>
     <tu>
@@ -37471,6 +37511,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove HTML comments</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T145940Z" creationid="gabi" creationdate="20230531T145940Z">
+        <seg>Выдаляць камэнтары HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove HTML comments in translated document</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T120552Z">
@@ -42260,6 +42308,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start a new segment on:</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T145949Z" creationid="gabi" creationdate="20230531T145949Z">
+        <seg>Пачынаць новы сэгмэнт з:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start new project.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20221123T144135Z" creationid="GABIN" creationdate="20221123T144135Z">
@@ -44062,6 +44118,14 @@ Okapi (http://okapi.sourceforge.net) (ліцэнзія LGPL)</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160705T121601Z" creationid="GABIN" creationdate="20160705T121601Z">
         <seg>Панэль глясароў дазваляе атрымаць доступ да вашага ўласнага збору выразаў і спэцыяльнай тэрміналёгіі, сабраных разам у файлах глясароў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The HTML parser encountered an error during file processing:</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150018Z" creationid="gabi" creationdate="20230531T150018Z">
+        <seg>Сынтаксычны аналізатар HTML зазнаў памылку пры апрацоўцы файла:</seg>
       </tuv>
     </tu>
     <tu>
