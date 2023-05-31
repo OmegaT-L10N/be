@@ -3348,6 +3348,16 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=[console mode name] &lt;project path&gt; &lt;mode options&gt;
+	  Specify a mode other than the GUI default.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150800Z" creationid="gabi" creationdate="20230531T150800Z">
+        <seg>--mode=[назва кансольнага рэжыму] &lt;шлях да праекта&gt; &lt;парамэтры рэжыму&gt;
+	  Задаць іншы рэжым, чым па змаўчаньні (графічны інтэрфэйс).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
@@ -3391,6 +3401,18 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    The folder containing the translated files.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150822Z" creationid="gabi" creationdate="20230531T150822Z">
+        <seg>--mode=console-align (кансольны рэжым раўнаваньня)
+	  --alignDir=&lt;шлях&gt;
+	    Каталёг зь перакладзенымі файламі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-createpseudotranslatetmx</seg>
       </tuv>
       <tuv lang="be" changeid="Kos Ivantsov" changedate="20180606T214132Z" creationid="Kos Ivantsov" creationdate="20180606T214132Z">
@@ -3407,6 +3429,20 @@ menu, on the desktop and in the quick launch area.</seg>
         <seg>--mode=console-createpseudotranslatetmx (кансольны рэжым псэўдаперакладу)
 	  --pseudotranslatetmx=&lt;шлях&gt;
 	    Атрымаць TMX файл у выніку псэўдаперакладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-stats
+	  --output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150852Z" creationid="gabi" creationdate="20230531T150852Z">
+        <seg>--mode=console-stats (кансольны вывад статыстыкі)
+	  --output-file=[назва-файла-вываду]
+	    Вывад у пазначаны файл або ў стандартны шлях вываду,
+	    калі файл не пазначаны або парамэтар адсутнічае.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13504,6 +13540,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check the omegat directory of the project.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T151003Z" creationid="gabi" creationdate="20230531T151003Z">
+        <seg>Праверце каталёг /omegat праекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check the tag issues again.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20221221T134411Z" creationid="GABIN" creationdate="20221221T134411Z">
@@ -17567,6 +17611,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-click characters, or select them and press the Insert key, to add them to the custom table.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150650Z" creationid="gabi" creationdate="20230531T150640Z">
+        <seg>Ужывайце падвойны клік, або вылучайце сымбалі і затым націскайце Insert, каб дадаваць іх да сваёй табліцы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-click on &lt;f0&gt;OmegaT.app&lt;/f0&gt; or click on its location in the Dock.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20201204T142402Z" creationid="GABIN" creationdate="20201204T142402Z">
@@ -18675,6 +18727,14 @@ is the language code and YY is the region or country code (optional).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter your master password</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150725Z" creationid="gabi" creationdate="20230531T150725Z">
+        <seg>Увядзеце галоўны пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter your master password.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20170206T124546Z" creationid="GABIN" creationdate="20170206T083727Z">
@@ -19304,6 +19364,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exception while parsing "project_save.tmx":</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T151106Z" creationid="gabi" creationdate="20230531T151106Z">
+        <seg>Выключэньне падчас сынтаксычнага аналізу файла project_save.tmx:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exception while parsing:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T113256Z">
@@ -19868,6 +19936,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project by a file access problem.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T151012Z" creationid="gabi" creationdate="20230531T151012Z">
+        <seg>Не атрымалася загрузіць праект з-за праблемы з доступам да файлаў!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load the project due to a file access issue.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20230531T144929Z" creationid="gabi" creationdate="20230531T144929Z">
@@ -19876,10 +19952,26 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project due to file corruption.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150944Z" creationid="gabi" creationdate="20230531T150944Z">
+        <seg>Не атрымалася загрузіць праект з-за пашкоджаньня файлаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load the specified project!</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20230531T144901Z" creationid="gabi" creationdate="20230531T144901Z">
         <seg>Не атрымалася загрузіць пазначаны праект!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load the specified project.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150932Z" creationid="gabi" creationdate="20230531T150932Z">
+        <seg>Не атрымалася загрузіць пазначаны праект.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19896,6 +19988,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20230531T144858Z" creationid="gabi" creationdate="20230531T144858Z">
         <seg>Не атрымалася загрузіць памяць перакладаў {0} для праекта!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load translation memory {0} for the project.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150928Z" creationid="gabi" creationdate="20230531T150928Z">
+        <seg>Не атрымалася загрузіць памяць перакладаў {0} для праекта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19992,6 +20092,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20221228T145534Z" creationid="GABIN" creationdate="20221228T145534Z">
         <seg>Фармат &amp;файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File (segs):</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150918Z" creationid="gabi" creationdate="20230531T150918Z">
+        <seg>Файл (сэгмэнты):</seg>
       </tuv>
     </tu>
     <tu>
@@ -20304,6 +20412,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T120626Z">
         <seg>Фінская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>First Steps</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150238Z" creationid="gabi" creationdate="20230531T150238Z">
+        <seg>Першыя крокі</seg>
       </tuv>
     </tu>
     <tu>
@@ -25646,6 +25762,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20141029T140926Z" creationid="GABIN" creationdate="20141029T140926Z">
         <seg>Несупадзеньне лікаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Incorrect password</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150728Z" creationid="gabi" creationdate="20230531T150728Z">
+        <seg>Няслушны пароль</seg>
       </tuv>
     </tu>
     <tu>
@@ -32741,6 +32865,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not have access to the remote repository: verify your connection or your credentials.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150445Z" creationid="gabi" creationdate="20230531T150445Z">
+        <seg>OmegaT ня мае доступу да аддаленага рэпазыторыя: спраўдзеце наяўнасьць злучэньня і належных уліковых зьвестак.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not have read and write permissions for this folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20221125T120253Z" creationid="GABIN" creationdate="20221125T120253Z">
@@ -35337,6 +35469,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please check you have permissions, or you can access files if there are files in cloud storage.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T151032Z" creationid="gabi" creationdate="20230531T151032Z">
+        <seg>Спраўдзеце наяўнасьць належных дазволаў або магчымасьці доступу да файлаў, калі яны захоўваюцца ў воблаку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please close search window.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T113117Z">
@@ -36643,6 +36783,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project:</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150905Z" creationid="gabi" creationdate="20230531T150905Z">
+        <seg>Праект:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Projects can be managed according to your development style and needs.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150526T125325Z" creationid="GABIN" creationdate="20150526T125325Z">
@@ -37487,6 +37635,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote repository git+ssh credential error: {0}</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150535Z" creationid="gabi" creationdate="20230531T150535Z">
+        <seg>Памылка з уліковымі зьвесткамі git+ssh аддаленага рэпазыторыя: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20190418T092726Z" creationid="GABIN" creationdate="20190418T092726Z">
@@ -37795,6 +37951,30 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160330T125545Z" creationid="GABIN" creationdate="20160330T125545Z">
         <seg>Функцыя праверкі тэгаў дазваляе лёгка рапараваць тэгі і аднаўляць дакумэнты перакладаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150710Z" creationid="gabi" creationdate="20230531T150710Z">
+        <seg>Паўторныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated segments</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150657Z" creationid="gabi" creationdate="20230531T150657Z">
+        <seg>Паўторныя сэгмэнты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated segments background</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150705Z" creationid="gabi" creationdate="20230531T150705Z">
+        <seg>Тло паўторных сэгмэнтаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -39923,6 +40103,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20221221T133344Z" creationid="GABIN" creationdate="20221221T133344Z">
         <seg>Падрабязнасьці гл. у дапаможніку карыстальніка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the user manual for instructions.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150247Z" creationid="gabi" creationdate="20230531T150247Z">
+        <seg>Указаньні гл. у дапаможніку карыстальніка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42861,6 +43049,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T132018Z">
         <seg>Памылка сынхранізацыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Synchronization of repositories</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150543Z" creationid="gabi" creationdate="20230531T150543Z">
+        <seg>Сынхранізацыя рэпазыторыяў</seg>
       </tuv>
     </tu>
     <tu>
@@ -46345,6 +46541,14 @@ an access to the hard drive of the computer.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project is in offline mode.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150451Z" creationid="gabi" creationdate="20230531T150451Z">
+        <seg>Праект у аўтаномным рэжыме.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project setting allows one to enter a name for a writable glossary file (see beginning of this chapter).</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160401T130002Z" creationid="GABIN" creationdate="20160401T130002Z">
@@ -46917,6 +47121,14 @@ an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20170206T083502Z" creationid="GABIN" creationdate="20170206T083502Z">
         <seg>Пазначаныя файлы не падтрымліваюцца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The specified folder is not an OmegaT project, or the project file is broken, or there is no valid backup.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T150352Z" creationid="gabi" creationdate="20230531T150352Z">
+        <seg>Пазначаны каталёг ня ўтрымлівае праект OmegaT, файл праекта пашкоджаны, або няма прыдатнай рэзэрвовай копіі.</seg>
       </tuv>
     </tu>
     <tu>
