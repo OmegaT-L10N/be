@@ -22385,6 +22385,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hide &amp;leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T145926Z" creationid="gabi" creationdate="20230531T145926Z">
+        <seg>Хаваць &amp;пачатковыя і канечная тэгі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hide '{0}'</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20101124T102231Z">
@@ -27011,6 +27019,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160707T143750Z" creationid="GABIN" creationdate="20160707T143750Z">
         <seg>уласьцівасьці Java у XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Java Resource Bundles</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T145811Z" creationid="gabi" creationdate="20230531T145811Z">
+        <seg>Рэсурсы Java</seg>
       </tuv>
     </tu>
     <tu>
@@ -38617,6 +38633,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SVG / Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T145915Z" creationid="gabi" creationdate="20230531T145915Z">
+        <seg>Файлы выяваў SVG і экспарту Adobe Illustrator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SVG Image</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20131218T072826Z" creationid="GABIN" creationdate="20131218T072826Z">
@@ -44050,6 +44074,14 @@ Okapi (http://okapi.sourceforge.net) (ліцэнзія LGPL)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Java Resource Bundles filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T145830Z" creationid="gabi" creationdate="20230531T145830Z">
+        <seg>Фільтар файлаў рэсурсаў Java зазнаў памылку:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140721T092217Z" creationid="GABIN" creationdate="20140721T092217Z">
@@ -44106,6 +44138,14 @@ Okapi (http://okapi.sourceforge.net) (ліцэнзія LGPL)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Moodle PHP filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T145844Z" creationid="gabi" creationdate="20230531T145844Z">
+        <seg>Фільтар Moodle PHP зазнаў памылку:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Moodle PHP filter threw an exception:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20190418T092508Z" creationid="GABIN" creationdate="20190418T092508Z">
@@ -44122,10 +44162,26 @@ Okapi (http://okapi.sourceforge.net) (ліцэнзія LGPL)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Mozilla DTD filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T145858Z" creationid="gabi" creationdate="20230531T145858Z">
+        <seg>Фільтар Mozilla DTD зазнаў памылку:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Mozilla DTD filter threw an exception:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140721T092019Z" creationid="GABIN" creationdate="20140721T092019Z">
         <seg>Фільтрам Mozilla DTD выкінутае выключэньне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Mozilla FTL filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T145907Z" creationid="gabi" creationdate="20230531T145907Z">
+        <seg>Фільтар Mozilla FTL зазнаў памылку:</seg>
       </tuv>
     </tu>
     <tu>
@@ -54209,6 +54265,14 @@ without the JRE (this is indicated in the name of the version,"Without_JRE").</s
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160317T063901Z" creationid="GABIN" creationdate="20160317T063901Z">
         <seg>XLIFF (*.xlf, *.xliff, *.sdlxliff) — тыпу крыніца = пераклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF (legacy filter)</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T145804Z" creationid="gabi" creationdate="20230531T145804Z">
+        <seg>XLIFF (стары фільтар)</seg>
       </tuv>
     </tu>
     <tu>
