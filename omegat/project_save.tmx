@@ -966,6 +966,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Find Next</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144003Z" creationid="gabi" creationdate="20230531T144003Z">
+        <seg>Замяніць &amp;наступнае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Find...</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20221221T133009Z" creationid="GABIN" creationdate="20160707T144556Z">
@@ -1534,6 +1542,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Redo</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144307Z" creationid="gabi" creationdate="20230531T144307Z">
+        <seg>&amp;Вярнуць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Redo Last Action</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20121017T062810Z">
@@ -1614,6 +1630,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Replace and Find Next</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144039Z" creationid="gabi" creationdate="20230531T144039Z">
+        <seg>Замяніць і знайсьці насту&amp;пнае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Replace...</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160707T144603Z" creationid="GABIN" creationdate="20160707T144603Z">
@@ -1674,6 +1698,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20121017T065814Z">
         <seg>&amp;Аднавіць галоўнае вакно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Restore OmegaT Window</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144734Z" creationid="gabi" creationdate="20230531T144734Z">
+        <seg>Аднаві&amp;ць вакно OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -1834,6 +1866,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150713T121237Z" creationid="GABIN" creationdate="20150713T121237Z">
         <seg>Аўтаматычна &amp;паказваць адпаведныя прапановы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Show Replacements</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T143955Z" creationid="gabi" creationdate="20230531T143955Z">
+        <seg>&amp;Паказаць замены</seg>
       </tuv>
     </tu>
     <tu>
@@ -2034,6 +2074,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20221123T143444Z" creationid="GABIN" creationdate="20221123T143444Z">
         <seg>УСЕ &amp;ВЯЛІКІЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Undo</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144301Z" creationid="gabi" creationdate="20230531T144301Z">
+        <seg>&amp;Адмяніць</seg>
       </tuv>
     </tu>
     <tu>
@@ -3026,6 +3074,22 @@ menu, on the desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="be">
         <seg>- выкарыстаньне любога сапраўднага файла TMX у якасьці апорнай памяці перакладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- verify that their format is supported by OmegaT:
+	  if local filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144134Z" creationid="gabi" creationdate="20230531T144134Z">
+        <seg>- праверце, ці падтрымліваюцца адпаведныя фарматы ў OmegaT:
+	  калі ўжываюцца лякальныя налады файлавых фільтраў для праекта,
+	  выберыце Праек &gt; Уласьцівасьці… &gt; Лякальныя файлавыя фільтры…,
+	  у адваротным выпадку — Сэрвіс &gt; Глябальныя файлавыя фільтры;
+	- адкрыйце іх у адпаведнай праграме, каб пераканацца, што яны не пустыя.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9245,6 +9309,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Abort: Exit with an error if tags are invalid.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T143942Z" creationid="gabi" creationdate="20230531T143942Z">
+        <seg>Abort: пры наяўнасьці памылак у тэгах — выхад.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160224T142532Z" creationid="GABIN" creationdate="20160224T142532Z">
@@ -9513,6 +9585,22 @@ OmegaT запускаецца наступным чынам.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160707T144206Z" creationid="GABIN" creationdate="20160707T144206Z">
         <seg>Стварыць запіс глясара</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add MediaWiki Pa&amp;ge...</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144215Z" creationid="gabi" creationdate="20230531T144215Z">
+        <seg>Да&amp;даць старонку MediaWiki…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144234Z" creationid="gabi" creationdate="20230531T144220Z">
+        <seg>Дадаць старонку MediaWiki</seg>
       </tuv>
     </tu>
     <tu>
@@ -14764,6 +14852,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy error to clipboard</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144157Z" creationid="gabi" creationdate="20230531T144157Z">
+        <seg>Скапіяваць памылку ў буфэр абмену</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy it to &lt;f0&gt;project_save.tmx&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160622T190253Z" creationid="gabi" creationdate="20160622T190253Z">
@@ -16695,6 +16791,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displa&amp;y Whitespace</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144542Z" creationid="gabi" creationdate="20230531T144542Z">
+        <seg>Пазначаць прабельныя с&amp;ымбалі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displa&amp;y source terms</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20170206T083148Z" creationid="GABIN" creationdate="20170206T083148Z">
@@ -16711,10 +16815,42 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display &amp;Bidi Control Characters</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144608Z" creationid="gabi" creationdate="20230531T144608Z">
+        <seg>Паказ&amp;ваць сымбалі кіраваньня напрамкам тэксту&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Modification Info</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144701Z" creationid="gabi" creationdate="20230531T144701Z">
+        <seg>Паказваць інфармацы&amp;ю пра зьмены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Non-Breakable Spaces</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144532Z" creationid="gabi" creationdate="20230531T144532Z">
+        <seg>Пазначаць &amp;неразрыўныя прабелы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display &amp;None</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20101124T102158Z">
         <seg>&amp;Нічога не паказваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144452Z" creationid="gabi" creationdate="20230531T144452Z">
+        <seg>Пазначаць межы а&amp;бзацаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -19668,6 +19804,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to download page</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144247Z" creationid="gabi" creationdate="20230531T144247Z">
+        <seg>Не атрымалася спампаваць старонку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to fetch latest version info: {0}</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20190418T092843Z" creationid="GABIN" creationdate="20190418T092843Z">
@@ -22209,10 +22353,50 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlight &amp;Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144616Z" creationid="gabi" creationdate="20230531T144616Z">
+        <seg>Пазначаць аўтаматычна запоўн&amp;еныя сэгмэнты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight &amp;Translated Segments</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144442Z" creationid="gabi" creationdate="20230531T144442Z">
+        <seg>&amp;Пазначаць перакладзеныя сэгмэнты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight &amp;Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144459Z" creationid="gabi" creationdate="20230531T144444Z">
+        <seg>Па&amp;значаць перакладзеныя сэгмэнты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight Pattern...</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160708T140257Z" creationid="GABIN" creationdate="20160708T140257Z">
         <seg>Шаблён вылучэньня…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Repeated Se&amp;gments</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144519Z" creationid="gabi" creationdate="20230531T144519Z">
+        <seg>Пазначаць паўт&amp;орныя сэгмэнты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Segments &amp;with Notes</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144528Z" creationid="gabi" creationdate="20230531T144528Z">
+        <seg>Пазначаць сэгмэнты з &amp;зацемкамі</seg>
       </tuv>
     </tu>
     <tu>
@@ -25522,6 +25706,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Bidi Control C&amp;haracter</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144417Z" creationid="gabi" creationdate="20230531T144403Z">
+        <seg>Уставіць сымбаль кіраваньня напра&amp;мкам тэксту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Match</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140926T113635Z" creationid="GABIN" creationdate="20140926T113635Z">
@@ -25558,6 +25750,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20221221T133246Z" creationid="GABIN" creationdate="20221221T133246Z">
         <seg>Уставіць супадзеньне або вылучэньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Missing &amp;Tags</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144319Z" creationid="gabi" creationdate="20230531T144319Z">
+        <seg>Уставіць адсутныя &amp;тэгі</seg>
       </tuv>
     </tu>
     <tu>
@@ -29097,6 +29297,14 @@ The Mac version comes bundled with a JRE.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark &amp;Language Checker Issues</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144641Z" creationid="gabi" creationdate="20230531T144641Z">
+        <seg>Пазначаць памылкі гра&amp;матыкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark &amp;Non-Breakable Spaces</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20221123T143522Z" creationid="GABIN" creationdate="20221123T143522Z">
@@ -31753,6 +31961,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20191001T133226Z" creationid="GABIN" creationdate="20191001T133226Z">
         <seg>Заўвага: гэтыя дзьве каманды можна аб’яднаць наступным чынам: &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notepad</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144423Z" creationid="gabi" creationdate="20230531T144423Z">
+        <seg>Нататнік</seg>
       </tuv>
     </tu>
     <tu>
@@ -38105,6 +38321,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run OmegaT" in the user manual.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144045Z" creationid="gabi" creationdate="20230531T144045Z">
+        <seg>Усталяваньне і запуск Omegat” у дапаможніку карыстальніка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run script in slot #{0}.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20221221T133427Z" creationid="GABIN" creationdate="20221221T133427Z">
@@ -39095,8 +39319,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>See "How To...</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20221109T150135Z" creationid="GABIN" creationdate="20221109T150135Z">
-        <seg>Гл. «Як </seg>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144113Z" creationid="GABIN" creationdate="20221109T150135Z">
+        <seg>Гл. “</seg>
       </tuv>
     </tu>
     <tu>
@@ -39272,6 +39496,14 @@ The scope of a search is by default the project and can be set to be any files l
         <seg>See Help &gt; User Guide for details, including available Java options.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20221109T141521Z" creationid="GABIN" creationdate="20221109T141442Z">
+        <seg>Дадатковыя зьвесткі, у тым ліку аб парамэтрах Java, гл. праз мэню Даведка → Дапаможнік карыстальніка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Help &gt; User Manual for details, including available Java options.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T143933Z" creationid="gabi" creationdate="20230531T143933Z">
         <seg>Дадатковыя зьвесткі, у тым ліку аб парамэтрах Java, гл. праз мэню Даведка → Дапаможнік карыстальніка.</seg>
       </tuv>
     </tu>
@@ -51430,6 +51662,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use Aggressive &amp;Font Fallback</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144649Z" creationid="gabi" creationdate="20230531T144649Z">
+        <seg>Агрэсыўная замена &amp;шрыфтоў на альтэрнатыўныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use Create Glossary Entry in the Edit menu to add new entries.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20221221T132229Z" creationid="GABIN" creationdate="20221221T132229Z">
@@ -55767,6 +56007,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>for &amp;All Segments</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144719Z" creationid="gabi" creationdate="20230531T144719Z">
+        <seg>&amp;для ўсіх &amp;сэгмэнтаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>for (i in 0 ..&lt; files.size())</seg>
       </tuv>
       <tuv lang="be" changeid="Kos Ivantsov" changedate="20180606T183641Z" creationid="Kos Ivantsov" creationdate="20180606T183641Z">
@@ -55779,6 +56027,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="be" changeid="Kos Ivantsov" changedate="20180606T183643Z" creationid="Kos Ivantsov" creationdate="20180606T183643Z">
         <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>for Current &amp;Segment</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144710Z" creationid="gabi" creationdate="20230531T144710Z">
+        <seg>для &amp;бягучага сэгмэнта</seg>
       </tuv>
     </tu>
     <tu>
