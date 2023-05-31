@@ -2166,6 +2166,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;User Manual...</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144807Z" creationid="gabi" creationdate="20230531T144755Z">
+        <seg>&amp;Дапаможнік карыстальніка…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;User's Manual...</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20121017T065835Z">
@@ -18831,6 +18839,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error loading : {0}</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T145556Z" creationid="gabi" creationdate="20230531T145556Z">
+        <seg>Памылак загрузкі: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error loading plugin from class '{0}': {1}: {2}</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20221228T145429Z" creationid="GABIN" creationdate="20221228T145429Z">
@@ -19828,9 +19844,41 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project because the specified source folder contains a symbolic or hard link that points back to itself or one of its subfolders.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T145142Z" creationid="gabi" creationdate="20230531T145142Z">
+        <seg>Не атрымалася загрузіць праект з-за таго, што каталёг зыходных файлаў утрымлівае сымбалічную або жорсткую спасылку, якая паказвае на яго самога або ягоны падкаталёг.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load the project due to a file access issue.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144929Z" creationid="gabi" creationdate="20230531T144929Z">
+        <seg>Не атрымалася загрузіць праект з-за праблемы з доступам да файлаў!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load the specified project!</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144901Z" creationid="gabi" creationdate="20230531T144901Z">
+        <seg>Не атрымалася загрузіць пазначаны праект!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20121017T065900Z">
+        <seg>Не атрымалася загрузіць памяць перакладаў {0} для праекта!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load translation memory {0} for the project!</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144858Z" creationid="gabi" creationdate="20230531T144858Z">
         <seg>Не атрымалася загрузіць памяць перакладаў {0} для праекта!</seg>
       </tuv>
     </tu>
@@ -22325,6 +22373,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140725T103909Z" creationid="GABIN" creationdate="20140725T103909Z">
         <seg>Герэра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hide &amp;Options</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T145434Z" creationid="gabi" creationdate="20230531T145434Z">
+        <seg>С&amp;хаваць парамэтры</seg>
       </tuv>
     </tu>
     <tu>
@@ -28953,6 +29009,14 @@ The Mac version comes bundled with a JRE.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Main Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T145520Z" creationid="gabi" creationdate="20230531T145449Z">
+        <seg>Галоўны файл памя&amp;ці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Main Menu</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150916T145901Z" creationid="GABIN" creationdate="20150916T145901Z">
@@ -29033,6 +29097,14 @@ The Mac version comes bundled with a JRE.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure all links are outside the source folder and subfolders.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T145250Z" creationid="gabi" creationdate="20230531T145250Z">
+        <seg>Забясьпечце, каб усі спасылкі вялі за межы каталёга і ягоных падкаталёгаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure that you have a free Microsoft account.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160418T090743Z" creationid="GABIN" creationdate="20160418T090743Z">
@@ -29093,6 +29165,14 @@ The Mac version comes bundled with a JRE.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150527T145554Z" creationid="GABIN" creationdate="20150527T145554Z">
         <seg>Пераканайцеся, што файл існуе і карыстальнік мае права яго выдаліць.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure you have the correct permissions or that you can access the files if they are stored in the cloud.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T145026Z" creationid="gabi" creationdate="20230531T145026Z">
+        <seg>Спраўдзеце наяўнасьць належных дазволаў або магчымасьці доступу да файлаў, калі яны захоўваюцца ў воблаку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29913,6 +29993,22 @@ The Mac version comes bundled with a JRE.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Microsoft Office Open XML</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T145621Z" creationid="gabi" creationdate="20230531T145621Z">
+        <seg>Файлы Microsoft Office Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Microsoft Office Open XML (legacy filter)</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T145633Z" creationid="gabi" creationdate="20230531T145633Z">
+        <seg>Файлы Microsoft Office Open XML (стары фільтар)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Microsoft Office Open XML files</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140307T102140Z" creationid="GABIN" creationdate="20140307T102140Z">
@@ -30005,6 +30101,14 @@ The Mac version comes bundled with a JRE.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T141236Z">
         <seg>Адсутнічае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Missing attribute '{0}' in &lt;{1}&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T145732Z" creationid="gabi" creationdate="20230531T145732Z">
+        <seg>Адсутны атрыбут '{0}' у &lt;{1}&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36847,6 +36951,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reference T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T145509Z" creationid="gabi" creationdate="20230531T145509Z">
+        <seg>Апорныя &amp;файлы памяці перакладаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reference windows</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160521T175718Z" creationid="gabi" creationdate="20160521T175718Z">
@@ -37603,6 +37715,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160330T125545Z" creationid="GABIN" creationdate="20160330T125545Z">
         <seg>Функцыя праверкі тэгаў дазваляе лёгка рапараваць тэгі і аднаўляць дакумэнты перакладаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated segments: {0}</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T145300Z" creationid="gabi" creationdate="20230531T145300Z">
+        <seg>Паўторныя сэгмэнты: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -38437,6 +38557,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20221221T142800Z" creationid="GABIN" creationdate="20221221T142800Z">
         <seg>&amp;Зьмяніць рэгістар на</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SDL project (beta)</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T145753Z" creationid="gabi" creationdate="20230531T145753Z">
+        <seg>Праект SDL (бэта)</seg>
       </tuv>
     </tu>
     <tu>
@@ -41048,6 +41176,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipped source file {0} because it could not be loaded.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T144853Z" creationid="gabi" creationdate="20230531T144853Z">
+        <seg>Прамінуты зыходны файл {0} з-за няўдачы загрузкі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipped translation unites for which no source  segment was found.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20221125T121521Z" creationid="GABIN" creationdate="20221125T121521Z">
@@ -41628,6 +41764,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20221228T144958Z" creationid="GABIN" creationdate="20221228T144958Z">
         <seg>Мова зыходных файлаў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source files loaded but skipping files(s) by filter error(s)</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T145343Z" creationid="gabi" creationdate="20230531T145343Z">
+        <seg>Зыходныя файлы загружаныя, але частка зь іх прамінутая з-за памылак фільтраў.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42669,6 +42813,14 @@ and then start OmegaT.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20170206T082947Z" creationid="GABIN" creationdate="20170206T082916Z">
         <seg>Парамэтры супадзеньняў з памяці перакладаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TM Search &amp;Options</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T145421Z" creationid="gabi" creationdate="20230531T145421Z">
+        <seg>Парамэтры по&amp;шуку ў памяці перакладаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -44014,6 +44166,14 @@ Okapi (http://okapi.sourceforge.net) (ліцэнзія LGPL)</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20201207T091830Z" creationid="GABIN" creationdate="20201207T091830Z">
         <seg>У фільтры PO ужо ёсьць апрацоўка %..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The PO filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T145653Z" creationid="gabi" creationdate="20230531T145653Z">
+        <seg>Фільтар PO зазнаў памылку:</seg>
       </tuv>
     </tu>
     <tu>
@@ -50766,6 +50926,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160707T143533Z" creationid="GABIN" creationdate="20160707T143533Z">
         <seg>Немагчыма пераўтварыць праект!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to create a backup file of {0}</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T145405Z" creationid="gabi" creationdate="20230531T145405Z">
+        <seg>Немагчыма стварыць рэзэрвовую копію для {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -58425,6 +58593,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="be" changeid="Kos Ivantsov" changedate="20180606T183359Z" creationid="Kos Ivantsov" creationdate="20180606T183359Z">
         <seg>{0}_{1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} matches</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230531T145545Z" creationid="gabi" creationdate="20230531T145545Z">
+        <seg>Супадзеньняў: {0}</seg>
       </tuv>
     </tu>
     <tu>
