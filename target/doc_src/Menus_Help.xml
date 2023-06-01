@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<section id="menus.help">
+  <title id="menus.help.title"><guimenu>Даведка</guimenu></title>
+
+  <para>This menu gives you access to information that will help you make the
+  best of OmegaT.</para>
+
+  <variablelist>
+    <varlistentry id="menus.help.user.manual">
+      <term id="menus.help.user.manual.title"><guimenuitem>User
+      Manual...</guimenuitem> <keycombo><keycap>F1</keycap></keycombo></term>
+      <listitem>
+        <para>Адчыняецца гэты дапаможнік у браўзэры па змаўчаньні.</para>
+    </listitem>
+    </varlistentry>
+
+    <varlistentry id="menus.help.about">
+      <term id="menus.help.about.title"><guimenuitem>Пра праграму…</guimenuitem></term>
+      <listitem>
+        <para>Паказ зьвестак пра аўтарскае права, падзякі і ліцэнзію.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry id="menus.help.last.changes">
+      <term id="menus.help.last.changes.title"><guimenuitem>Апошнія зьмены…</guimenuitem></term>
+      <listitem>
+        <para>Displays the list of new functionality, enhancements and bug fixes
+        for each new release.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry id="menus.help.log">
+      <term id="menus.help.log.title"><guimenuitem>Часопіс…</guimenuitem></term>
+      <listitem>
+        <para>Паказваецца бягучы файл часопіса. The title of the dialog reflects the file currently in use (which depends on the number of concurrently running OmegaT instances).</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry id="menus.help.check.for.updates">
+      <term id="menus.help.check.for.updates.title"><guimenuitem>Праверка абнаўленьняў…</guimenuitem></term>
+      <listitem>
+        <para>Checks to see if a newer version of OmegaT is available.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+</section>

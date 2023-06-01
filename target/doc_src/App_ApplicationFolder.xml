@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<section id="application.folder">
+  <title id="application.folder.title">Каталёг праграмы</title>
+
+  <para>Каталёг праграмы ўтрымлівае праграмны файл <filename>OmegaT.jar</filename> і шэраг іншых важных файлаў.</para>
+
+  <note>
+	<para>Месцазнаходжаньне каталёга праграмы ад плятформы і спосабу ўсталяваньня OmegaT. Рэкамэндаваныя або звычайныя месцы такія:</para>
+
+	<variablelist>
+	  <varlistentry>
+		<term>Windows</term>
+		<listitem>
+		  <para><filename>C:\Program Files\OmegaT\</filename></para>
+		</listitem>
+	  </varlistentry>
+	  
+	  <varlistentry>
+		<term>Linux</term>
+		<listitem>
+		  <para><filename>/opt/omegat/</filename></para>
+		</listitem>
+	  </varlistentry>
+	  
+	  <varlistentry>
+		<term>macOS</term>
+		<listitem>
+		  <para><filename>/Applications/OmegaT.app/Contents/Java/</filename></para>
+		</listitem>
+	  </varlistentry>
+	  
+	  <varlistentry>
+		<term>іншыя плятформы</term>
+		<listitem>
+		  <para><filename>/opt/omegat/</filename></para>
+		</listitem>
+	  </varlistentry>
+	</variablelist>
+  </note>
+  
+  <variablelist>
+	<varlistentry id="application.folder.omegat.license">
+	  <term id="application.folder.omegat.license.title">OmegaT-license.txt</term>
+	  <listitem>
+		<para>Ліцэнзія распаўсюджваньня OmegaT GPL вэрсіі 3.</para>
+	  </listitem>
+	</varlistentry>
+
+	<varlistentry id="application.folder.omegat.jar">
+	  <term id="application.folder.omegat.jar.title">OmegaT.jar</term>
+	  <listitem>
+		<para>Выканальны файл OmegaT. Ужываецца пры запуску OmegaT з каманднага радка. Падрабязнасьці гл. у разьдзеле <link linkend="launch.with.command.line" endterm="launch.with.command.line.title"/>.</para>
+	  </listitem>
+	</varlistentry>
+
+	<varlistentry id="application.folder.changes">
+	  <term id="application.folder.changes.title">changes.txt</term>
+	  <listitem>
+		<para>Пералік удасканаленьняў і выпраўленьняў памылак. Зьвяртайцеся да яго, калі патрэбныя зьвесткі аб разьвіцьці OmegaT.</para>
+	  </listitem>
+	</varlistentry>
+
+	<varlistentry id="application.folder.doc.license">
+	  <term id="application.folder.doc.license.title">doc-license.txt</term>
+	  <listitem>
+		<para>Ліцэнзія распаўсюджваньня дакумэнтацыі. GPL вэрсіі 3.</para>
+	  </listitem>
+	</varlistentry>
+
+	<varlistentry id="application.folder.index.html">
+	  <term id="application.folder.index.html.title">index.html</term>
+	  <listitem>
+		<para>Зьмест шматмоўнага дапаможніка карыстальніка.</para>
+	  </listitem>
+	</varlistentry>
+
+	<varlistentry id="application.folder.join.html">
+	  <term id="application.folder.join.html.title">join.html</term>
+	  <listitem>
+		<para>Спасылка на старонку падтрымкі.</para>
+	  </listitem>
+	</varlistentry>
+
+	<varlistentry id="application.folder.readme.txt">
+	  <term id="application.folder.readme.txt.title">readme.txt (redme_be.txt)</term>
+	  <listitem>
+		<para>Простыя інструкцыі наконт усталяваньня і запуску.</para>
+	  </listitem>
+	</varlistentry>
+
+
+	<varlistentry id="application.folder.docs">
+	  <term id="application.folder.docs.title">docs/</term>
+	  <listitem>
+		<para>Каталёг дакумэнтацыі.<variablelist>
+		  <varlistentry id="application.folder.docs.contributors">
+			<term id="application.folder.docs.contributors.title">contributors.txt</term>
+			<listitem>
+			  <para>Пералік асобных удзельнікаў.</para>
+			</listitem>
+		  </varlistentry>
+
+		  <varlistentry id="application.folder.docs.en">
+			<term id="application.folder.docs.en.title">en/</term>
+			<listitem>
+			  <para>Для кожнага перакладу дапаможніка карыстальніка — асобны каталёг.</para>
+			</listitem>
+		  </varlistentry>
+
+		  <varlistentry id="application.folder.docs.index.html">
+			<term id="application.folder.docs.index.html.title">index.html</term>
+			<listitem>
+			  <para>Зьмест шматмоўнага дапаможніка карыстальніка.</para>
+			</listitem>
+		  </varlistentry>
+
+		  <varlistentry id="application.folder.docs.librairies.txt">
+			<term id="application.folder.docs.librairies.txt.title">libraries.txt</term>
+			<listitem>
+			  <para>Пералік бібліятэк, ужываных у OmegaT.</para>
+			</listitem>
+		  </varlistentry>
+		</variablelist>
+		</para>
+	  </listitem>
+	</varlistentry>
+
+	<varlistentry id="application.folder.images">
+	  <term id="application.folder.images.title">images/</term>
+	  <listitem>
+		<para>Каталёг з выявамі, ужыванымі ў OmegaT.</para>
+	  </listitem>
+	</varlistentry>
+
+	<varlistentry id="application.folder.lib">
+	  <term id="application.folder.lib.title">lib/</term>
+	  <listitem>
+		<para>Каталёг зь бібліятэкамі, ужыванымі ў OmegaT.</para>
+	  </listitem>
+	</varlistentry>
+
+	<varlistentry id="application.folder.plugins">
+	  <term id="application.folder.plugins.title">plugins/</term>
+	  <listitem>
+		<para>Каталёг для ўсталяваньня зьнешніх плагінаў. Для ўсталяваньня плагінаў уручную пажадана ўжываць падкаталёг <link linkend="configuration.folder.extra.contents.plugin" endterm="configuration.folder.extra.contents.plugin.title"/> у каталёгу <link linkend="configuration.folder">канфігурацыі</link>. Падрабязнасьці гл. у наладах <link linkend="dialogs.preferences.plugins" endterm="dialogs.preferences.plugins.title"/>.</para>
+	  </listitem>
+	</varlistentry>
+
+	<varlistentry id="application.folder.scripts">
+	  <term id="application.folder.scripts.title">scripts/</term>
+	  <listitem>
+		<para>Каталёг з распаўсюджванымі сцэнарамі. Падрабязнасьці гл. у вакне <link linkend="windows.scripts" endterm="windows.scripts.title"/>.</para>
+	  </listitem>
+	</varlistentry>
+  </variablelist>
+</section>
