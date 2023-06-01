@@ -13170,6 +13170,14 @@ documentation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check "&lt;l4/&gt;" below for more information.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230601T105458Z" creationid="gabi" creationdate="20230601T105458Z">
+        <seg>Дадатковыя зьвесткі гл. у “&lt;l4/&gt;” ніжэй.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check "Command line launching" below for more information.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160802T140236Z" creationid="GABIN" creationdate="20160407T075202Z">
@@ -45197,8 +45205,8 @@ shown below.</seg>
       <tuv lang="en">
         <seg>The command to launch &lt;a5&gt;OmegaT&lt;/a5&gt; with assignment of 2048 MB (2 GB) of memory is therefore:</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20201204T144905Z" creationid="GABIN" creationdate="20201204T144905Z">
-        <seg>Каманда для запуску &lt;a5&gt;OmegaT&lt;/a5&gt; з выдзяленьнем 2024 Мб (2 гігабайтаў) памяці выглядае наступным чынам:</seg>
+      <tuv lang="be" changeid="gabi" changedate="20230601T105716Z" creationid="GABIN" creationdate="20201204T144905Z">
+        <seg>Каманда для запуску &lt;a5&gt;OmegaT&lt;/a5&gt; з выдзяленьнем 2048 Мб (2 Гб) памяці выглядае наступным чынам:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49383,8 +49391,8 @@ this version will not interfere with it.</seg>
       <tuv lang="en">
         <seg>This package can be used on any platform where a Java 8 compatible JRE is installed.</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20201204T143356Z" creationid="GABIN" creationdate="20201204T143356Z">
-        <seg>Гэты пакет можа быць выкарыстаны на любой плятформе, дзе ўсталяваны асяродак выкананьня, сумяшчальны з Java 1.6 JRE.</seg>
+      <tuv lang="be" changeid="gabi" changedate="20230601T105403Z" creationid="GABIN" creationdate="20201204T143356Z">
+        <seg>Гэты пакет можа быць выкарыстаны на любой плятформе, дзе ўсталяваны асяродак выкананьня, сумяшчальны з Java 8 JRE.</seg>
       </tuv>
     </tu>
     <tu>
