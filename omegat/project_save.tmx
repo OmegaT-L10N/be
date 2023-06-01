@@ -2824,6 +2824,27 @@ menu, on the desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsov (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Hiroshi Miura (lead developer)
+- Briac Pilpré (webmaster)
+- Philippe Tourigny (documentation manager)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230601T092040Z" creationid="gabi" creationdate="20230601T092040Z">
+        <seg>- Марка Чэволі (кіраўнік супольнасьці ў Telegram);
+- Жан-Крыстоф Эляры (кіраўнік супольнасьці ў Twitter);
+- Кос Іванцоў (кіраўнік лякалізацыі);
+- Кансэпсьён Мартын (кіраўнік супольнасьці Facebook);
+- Хіросі Міюра (кіраўнік распрацоўкі);
+- Брыяк Пільпрэ (вэб-майстар);
+- Люсі Вэсэрова (кіраўнік супольнасьці Facebook).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- Microsoft Open XML (*.docx, *.xlsx, *.pptx)</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150305T095616Z" creationid="GABIN" creationdate="20150305T095606Z">
