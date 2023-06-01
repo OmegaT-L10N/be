@@ -10071,6 +10071,14 @@ OmegaT запускаецца наступным чынам.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After you have translated each segment, press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt; to move to the next untranslated segment (or &lt;k3&gt;&lt;k4&gt;Ctrl&lt;/k4&gt;&lt;k5&gt;Shift&lt;/k5&gt;&lt;k6&gt;U&lt;/k6&gt;&lt;/k3&gt; to move to the next translated segment).</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230601T114632Z" creationid="gabi" creationdate="20230601T114632Z">
+        <seg>Пераклаўшы сэгмэнт, націскайце &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;+&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt;, каб перайсьці да наступнага неперакладзенага сэгмэнта (або &lt;k3&gt;&lt;k4&gt;Ctrl&lt;/k4&gt;+&lt;k5&gt;Shift&lt;/k5&gt;+&lt;k6&gt;U&lt;/k6&gt;&lt;/k3&gt;, каб перайсьці да наступнага перакладзенага сэгмэнта).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20161010T123501Z">
@@ -18041,6 +18049,14 @@ several security warnings.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160310T144135Z" creationid="GABIN" creationdate="20160310T144135Z">
         <seg>У працэсе перакладу ў гэтым каталёгу могуць ствараюцца і іншыя файлы, у тым ліку:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>During translation, use the &lt;g11&gt;Edit&lt;/g11&gt; and &lt;g12&gt;Go To&lt;/g12&gt; menus to perform various useful functions.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230601T114723Z" creationid="gabi" creationdate="20230601T114723Z">
+        <seg>У працэсе перакладу карыстайцеся функцыямі з мэню &lt;g11&gt;Праўка&lt;/g11&gt; і &lt;g12&gt;Пераход&lt;/g12&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33792,6 +33808,14 @@ with exactly the same structure, including copies of any non-supported files.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will then copy the selected files to the &lt;f2&gt;source&lt;/f2&gt; subfolder of your newly created project.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230601T114455Z" creationid="gabi" creationdate="20230601T114455Z">
+        <seg>OmegaT затым скапіюе выбраныя файлы ў падкаталёг &lt;f2&gt;/source&lt;/f2&gt; новага праекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will then omit the appropriate files while loading projects, and will copy them unmodified when creating target documents.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20150924T135506Z" creationid="GABIN" creationdate="20150924T135506Z">
@@ -34100,6 +34124,14 @@ with exactly the same structure, including copies of any non-supported files.</s
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20201204T142329Z" creationid="GABIN" creationdate="20201204T142329Z">
         <seg>Зрабіўшы гэта, можна выдаліць файл &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt;, бо ён больш не патрэбны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;D&lt;/k2&gt;&lt;/k0&gt; to generate the target files, which will be created in the &lt;f3&gt;target&lt;/f3&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230601T114834Z" creationid="gabi" creationdate="20230601T114834Z">
+        <seg>Пераканаўшыся ў адсутнасьці памылак тэгаў у перакладзе, націскайце &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;+&lt;k2&gt;D&lt;/k2&gt;&lt;/k0&gt; для кампіляцыі файлаў перакладу, якія будуць створаныя ў падкаталёгу &lt;f3&gt;/target/&lt;/f3&gt; вашага праекта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48246,6 +48278,14 @@ the [Help] menu after starting OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Therefore, press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230601T114804Z" creationid="gabi" creationdate="20230601T114804Z">
+        <seg>Таму перад кампіляцыяй дакумэнтаў перакладаў націскайце &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;+&lt;k2&gt;Shift&lt;/k2&gt;+&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt; для праверкі правільнасьці тэгаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20141001T094118Z" creationid="GABIN" creationdate="20131218T071816Z">
@@ -50393,6 +50433,14 @@ as a Source Forge user.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230601T114853Z" creationid="gabi" creationdate="20230601T114853Z">
+        <seg>Каб удакладніць налады праекта, адчынеце дыялёгавае вакно праўкі праекта, націснуўшы &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;+&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160802T141647Z" creationid="GABIN" creationdate="20150305T082831Z">
@@ -50445,6 +50493,14 @@ as a Source Forge user.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20151123T114729Z">
         <seg>Каб праглядзець сьпіс файлаў у праекце, адчынеце дыялёгавае вакно &lt;g1&gt;файлаў праекта&lt;/g1&gt;, націснуўшы &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To see a list of files in the project, open the &lt;g3&gt;Project Files&lt;/g3&gt; dialog by pressing &lt;k4&gt;&lt;k5&gt;Ctrl&lt;/k5&gt;&lt;k6&gt;L&lt;/k6&gt;&lt;/k4&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230601T114916Z" creationid="gabi" creationdate="20230601T114916Z">
+        <seg>Каб праглядзець сьпіс файлаў у праекце, адчынеце дыялёгавае вакно &lt;g3&gt;файлаў праекта&lt;/g3&gt;, націснуўшы &lt;k4&gt;&lt;k5&gt;Ctrl&lt;/k5&gt;+&lt;k6&gt;L&lt;/k6&gt;&lt;/k4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54416,6 +54472,14 @@ you have just discovered.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20161010T123515Z">
         <seg>Каб пабачыць, як будзе выглядаць пераклад у канчатковым фармаце, трэба націснуць &lt;k2&gt;Ctrl + D&lt;/k2&gt; для кампіляцыі дакумэнта перакладу, які будзе створаны ў падкаталёгу праекта &lt;f3&gt;/target/&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k7&gt;&lt;k8&gt;Ctrl&lt;/k8&gt;&lt;k9&gt;D&lt;/k9&gt;&lt;/k7&gt; to generate the translated documents, which will be created in the &lt;f10&gt;target&lt;/f10&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230601T114704Z" creationid="gabi" creationdate="20230601T114704Z">
+        <seg>Каб пабачыць, як будзе выглядаць пераклад у канчатковым фармаце, трэба націснуць &lt;k7&gt;&lt;k8&gt;Ctrl&lt;/k8&gt;+&lt;k9&gt;D&lt;/k9&gt;&lt;/k7&gt; для кампіляцыі дакумэнта перакладу, які будзе створаны ў падкаталёгу праекта &lt;f10&gt;/target/&lt;/f10&gt;.</seg>
       </tuv>
     </tu>
     <tu>
