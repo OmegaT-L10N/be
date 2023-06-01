@@ -19083,6 +19083,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error while reading a TMX file in the project: {0}</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230601T084955Z" creationid="gabi" creationdate="20230601T084955Z">
+        <seg>Памылка чытаньня файла TMX у праекце {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error while trying to edit the project!</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20121017T072204Z">
@@ -20028,6 +20036,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20130425T113321Z">
         <seg>Фатальная памылка ў радку {0}, слупку {1} падчас сынтаксычнага аналізу:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fatal error while parsing "project_save.tmx" file(line {0}, column {1}):</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230601T084906Z" creationid="gabi" creationdate="20230601T084906Z">
+        <seg>Непапраўная памылка падчас сынтаксычнага аналізу файла "project_save.tmx" у радку {0}, слупку {1}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50958,8 +50974,8 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>Translation unit encountered before TMX header.</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20130425T113337Z">
-        <seg>Адзінка перакладу знойдзеная да загалоўка TMX.</seg>
+      <tuv lang="be" changeid="gabi" changedate="20230601T084925Z">
+        <seg>Знойдзеная адзінка перакладу да загалоўка TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51346,6 +51362,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20200730T113056Z" creationid="GABIN" creationdate="20200730T113056Z">
         <seg>Немагчыма зрабіць сынтаксычны аналіз паведамленьня аб памылцы ад сэрвісу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse source XML file</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230601T085009Z" creationid="gabi" creationdate="20230601T085009Z">
+        <seg>Немагчыма зрабіць сынтаксычны аналіз XML</seg>
       </tuv>
     </tu>
     <tu>
