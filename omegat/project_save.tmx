@@ -24249,6 +24249,14 @@ JRE.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230601T114426Z" creationid="gabi" creationdate="20230601T114426Z">
+        <seg>Зьмяніць іншыя парамэтры ў гэтым дыялёгу можна ў які заўгодна час, дастаткова выклікаць яго, націснуўшы &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;+&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20141030T121724Z">
