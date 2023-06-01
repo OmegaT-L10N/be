@@ -16897,6 +16897,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Directional Formatting Characters</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230601T094100Z" creationid="gabi" creationdate="20230601T094100Z">
+        <seg>Сымбалі кіраваньня напрамкам тэксту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dis&amp;play all results</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20130424T185946Z">
