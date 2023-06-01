@@ -17545,6 +17545,14 @@ OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Documentation for developers</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230601T093626Z" creationid="gabi" creationdate="20230601T093626Z">
+        <seg>Дакумэнтацыя для распрацоўнікаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Documentation manager</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20180606T090826Z" creationid="GABIN" creationdate="20180606T090826Z">
@@ -33352,6 +33360,14 @@ be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230601T093701Z" creationid="gabi" creationdate="20230601T093701Z">
+        <seg>OmegaT — ня проста прадукт, але выдатны праект, у якім і вы можаце ўдзельнічаць.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT leaves the editing field blank.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160618T032410Z" creationid="GABIN" creationdate="20150901T141911Z">
@@ -35502,6 +35518,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140821T130123Z" creationid="GABIN" creationdate="20140821T130120Z">
         <seg>PgUp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Philippe Tourigny</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230601T093553Z" creationid="gabi" creationdate="20230601T093553Z">
+        <seg>Філіп Турыньі</seg>
       </tuv>
     </tu>
     <tu>
@@ -53749,6 +53773,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140728T081537Z" creationid="GABIN" creationdate="20140728T081537Z">
         <seg>Гарантыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We always welcome new contributors!</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230601T093719Z" creationid="gabi" creationdate="20230601T093719Z">
+        <seg>Мы заўсёды вітаем новых удзельнікаў!</seg>
       </tuv>
     </tu>
     <tu>
