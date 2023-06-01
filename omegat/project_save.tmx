@@ -2833,13 +2833,14 @@ menu, on the desktop and in the quick launch area.</seg>
 - Philippe Tourigny (documentation manager)
 - Lucie Vecerova (Facebook community manager)</seg>
       </tuv>
-      <tuv lang="be" changeid="gabi" changedate="20230601T092040Z" creationid="gabi" creationdate="20230601T092040Z">
+      <tuv lang="be" changeid="gabi" changedate="20230601T092113Z" creationid="gabi" creationdate="20230601T092040Z">
         <seg>- Марка Чэволі (кіраўнік супольнасьці ў Telegram);
 - Жан-Крыстоф Эляры (кіраўнік супольнасьці ў Twitter);
 - Кос Іванцоў (кіраўнік лякалізацыі);
 - Кансэпсьён Мартын (кіраўнік супольнасьці Facebook);
 - Хіросі Міюра (кіраўнік распрацоўкі);
 - Брыяк Пільпрэ (вэб-майстар);
+- Філіп Турыньі (кіраўнік дакумэнтацыі):
 - Люсі Вэсэрова (кіраўнік супольнасьці Facebook).</seg>
       </tuv>
     </tu>
@@ -44427,6 +44428,15 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="be" changeid="gabi" changedate="20160515T134935Z" creationid="gabi" creationdate="20160515T134935Z">
         <seg>Значэньні колераў патлумачаныя ў &lt;x0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The @language@ version of OmegaT has been translated by:
+@TRANSLATION_NOTICE@</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230601T092156Z" creationid="gabi" creationdate="20230601T092156Z">
+        <seg>На беларускую пераклаў Дзьмітры Габінскі</seg>
       </tuv>
     </tu>
     <tu>
