@@ -23169,9 +23169,9 @@ not be entered.)</seg>
         <seg>If --stats-type is not specified, the format is
 	    detected from the file extension.</seg>
       </tuv>
-      <tuv lang="be" changeid="GABIN" changedate="20221109T144241Z" creationid="GABIN" creationdate="20221109T144241Z">
+      <tuv lang="be" changeid="gabi" changedate="20230601T115242Z" creationid="GABIN" creationdate="20221109T144241Z">
         <seg>Калі парамэтар --stats-type адсутнічае, фармат
-	    вызначаецца паводле пашырэння назвы файла.</seg>
+	    вызначаецца паводле пашырэньня назвы файла.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26570,6 +26570,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20140723T094137Z" creationid="GABIN" creationdate="20140723T094137Z">
         <seg>Уводзіны ў плагіны генэратараў метак і сцэнароў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Introduction to OmegaT</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230601T115110Z" creationid="gabi" creationdate="20230601T115110Z">
+        <seg>Уводзіны ў OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -36537,6 +36545,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="be" changeid="GABIN" changedate="20160502T124844Z" creationid="GABIN" creationdate="20160502T124844Z">
         <seg>Primary Account Key (адпавядае парамэтру каманднага радка &lt;c0&gt;microsoft.api.client_secret&lt;/c0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Principles</seg>
+      </tuv>
+      <tuv lang="be" changeid="gabi" changedate="20230601T115117Z" creationid="gabi" creationdate="20230601T115117Z">
+        <seg>Прынцыпы</seg>
       </tuv>
     </tu>
     <tu>
